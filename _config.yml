@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Insulaires 
+description:      "Une île sur le net"
 disqus_shortname: 
 reading_time:     true
-words_per_minute: 200
+words_per_minute: 150 
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Dre Papillon et Hoedic 
+  avatar:         
+  bio:            "Équipe du tonnerre!"
+  email:          hoedic@mon-ile.net 
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -49,7 +49,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 
 # Amount of post to show on home page
 paginate: 5
