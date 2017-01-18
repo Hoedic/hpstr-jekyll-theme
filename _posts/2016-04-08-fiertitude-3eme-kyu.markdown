@@ -11,17 +11,17 @@ J'ai beau vouloir me le cacher, je ne peux que constater qu'une indéniable fier
 
 Dans mon [dojo](http://mcgillaikido.com/) (pas nécessairement partout), le 3ème kyu est un premier rite de passage donnant droit de porter l'hakama, ce pantalon large noir ou bleu marine qui fait la spécificité de certains arts martiaux comme l'aikido. Cet attribut représente le fait d'être "avancé" (bien que dans les faits le 3/4 du dojo est plus avancé que moi) et donc de guider, d'aider les débutants.
 
-![Hakama]({{ root_url }}/images/2016-04-09-hakama.jpg)
+![Hakama]({{ site.url }}/images/2016-04-09-hakama.jpg)
 <div class="photoattrib">McGill Aikido, le 7 avril 2016 </div>
 
 Mais à bien y réfléchir, cette étape veut dire plus pour moi. J'ai mis les pieds sur un tatami pour la première fois en 2005, je crois, pendant 6 mois, au mieux. Puis un autre 6 mois avant la naissance d'Arthur avec une pause d'un an. Puis encore une pause d'un an après la naissance d'Axel. Si j'avais agi de même pour la naissance de Florent, je serais encore en pause pour un bon 7 mois...
 
 Pendant toutes ces périodes faites d'arrêt et de reprises, j'avais pourtant la certitude qu'il s'agissait d'une activité importante pour moi. Un acte régulier qui me confrontait à mes limitations, m'aidait ou probablement m'aiderait à faire face à une irascilibité omniprésente dans ma vie. Mais le processus était loin d'être évident.
 
-![Examen d'aikido]({{ root_url }}/images/2016-04-09-exam1.jpg)
+![Examen d'aikido]({{ site.url }}/images/2016-04-09-exam1.jpg)
 <div class="photoattrib">Techniques suwari waza (à genou) et freestyle - McGill Aikido, le 7 avril 2016 </div>
 
-![Examen d'aikido]({{ root_url }}/images/2016-04-09-exam2.jpg)
+![Examen d'aikido]({{ site.url }}/images/2016-04-09-exam2.jpg)
 <div class="photoattrib">Techniques de désarmement et de jo (bâton) - McGill Aikido, le 7 avril 2016 </div>
 
 ⁂
