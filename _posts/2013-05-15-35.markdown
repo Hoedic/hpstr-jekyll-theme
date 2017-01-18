@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Urgence - appeler la police]({{ root_url }}/images/2013-05-15_urgence-police.jpg)
+![Urgence - appeler la police]({{ site.url }}/images/2013-05-15_urgence-police.jpg)
 
 C'est un des secrets les mieux garder des Internets: aujourd'hui est mon anniversaire. J'ai 35 ans. Je ne vais pas disserter sur mon âge ou sur l'âge que j'aimerais avoir.
 

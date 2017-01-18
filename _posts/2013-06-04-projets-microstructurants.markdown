@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Bout]({{ root_url }}/images/2013-06-04_parc_laurier.jpg)
+![Bout]({{ site.url }}/images/2013-06-04_parc_laurier.jpg)
 <div class="photoattrib">Parc Laurier, Montréal - 1<sup>er</sup> juin 2013</div>
 
 Pour qui s'intéresse en amateur à l'urbanisme et à l'aménagement des villes, la tendance est clairement au renouveau: rendre les villes plus agréables, plus humaines, moins bétonnées, moins laissées aux voitures. Il suffit de voir le sort réservé aux [voies sur berges](http://www.lepoint.fr/auto-addict/securite/video-fermeture-des-voies-sur-berges-et-maintenant-06-02-2013-1624291_657.php) à Paris.

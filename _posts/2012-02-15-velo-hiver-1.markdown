@@ -26,7 +26,7 @@ Bon niveau de satisfaction au niveau du changement de vitesse. Sur mes précéde
 
 Le cadre est en alu et plusieurs pièces en inox sauf les rayons et les jantes qui devront surement se faire changer assez rapidement.
 
-![Vélo]({{ root_url }}/images/2012-02-15_velo.jpg)
+![Vélo]({{ site.url }}/images/2012-02-15_velo.jpg)
 
 #### Préparation et entretien
 

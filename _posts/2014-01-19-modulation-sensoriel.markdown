@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Arthur dort]({{ root_url }}/images/2014-01-19-arthur-dort.jpg)
+![Arthur dort]({{ site.url }}/images/2014-01-19-arthur-dort.jpg)
 <div class="photoattrib">30 juin 2008</div>
 
 Le diagnostic est tombé à l'automne après une évaluation en ergothérapie: notre plus grand est sujet à des troubles de [modulation sensorielle](http://fr.wikipedia.org/wiki/Modulation_sensorielle) légers. Rien de grave, d'ailleurs le concept même de trouble de modulation sensorielle est à peine sur le radar des médecins. À toutes fins pratiques, cela veut dire que son système nerveux a des difficultés à s'adapter au niveau de stimulation et à y répondre par un niveau d'attention et des actions appropriés.

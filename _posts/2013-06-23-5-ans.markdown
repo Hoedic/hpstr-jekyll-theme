@@ -11,7 +11,7 @@ C'était il y a précisément 5 ans, minute pour minute: nous accueillions un no
 
 --
 
-![Les yeux d'arthur]({{ root_url }}/images/2013-06-23_yeux_arthur.jpg)
+![Les yeux d'arthur]({{ site.url }}/images/2013-06-23_yeux_arthur.jpg)
 <div class="photoattrib">Orford - 23 juin 2013</div>
 
 

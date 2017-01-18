@@ -7,7 +7,7 @@ author: Hoedic
 categories: 
 ---
 
-![Constrast]({{ root_url }}/images/2013-10-29_chez-moi.jpg)
+![Constrast]({{ site.url }}/images/2013-10-29_chez-moi.jpg)
 <div class="photoattrib">Paris, chez moi, circa 2002</div>
 
 La semaine dernière, je "fêtais" mes 11 ans sur le territoire québécois. Fêter est un bien grand mot, je viens à peine de m'apercevoir que j'ai raté la date. Pour mes 10 ans, je me suis aperçu que j'avais manqué la date plusieurs mois après.

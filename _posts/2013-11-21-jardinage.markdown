@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![3 saisons]({{ root_url }}/images/2013-11-21-saison-jardin.jpg)
+![3 saisons]({{ site.url }}/images/2013-11-21-saison-jardin.jpg)
 <div class="photoattrib">Montréal, 2011</div>
 
 La saison de jardinage s'est évanouie il y a un mois de ça. La terre est désormais froide et sans vie. Alors que je fermais le jardin, une interrogation m'a frappé: pourquoi jardiner?

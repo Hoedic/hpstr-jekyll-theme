@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Plongeon]({{ root_url }}/images/2013-08-13_venus.jpg)
+![Plongeon]({{ site.url }}/images/2013-08-13_venus.jpg)
 <div class="photoattrib">Montréal, 10 juillet 2013</div>
 
 > Tôt le matin, après le petit-déjeuner, les parents de Schmélele partent travailler.<br/>

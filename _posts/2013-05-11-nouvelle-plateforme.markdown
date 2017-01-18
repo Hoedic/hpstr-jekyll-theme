@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Panneau de soleil]({{ root_url }}/images/2013-05-11_panneau-soleil.jpg)
+![Panneau de soleil]({{ site.url }}/images/2013-05-11_panneau-soleil.jpg)
 
 Mes aventures blogosphériques ont démarré en 2003. N'eut été de mes nombreuses interruptions et déménagements, cela ferait donc dix ans que je blogue. Je peux au moins dire que j'ai commencé à bloguer il y a dix ans.
 

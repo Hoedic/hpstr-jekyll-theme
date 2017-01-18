@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Camelia]({{ root_url }}/images/2012-11-05_stained_glass.jpg)
+![Camelia]({{ site.url }}/images/2012-11-05_stained_glass.jpg)
 <div class="photoattrib">Photo: <a href="http://www.jacquespharand.com/">Stained glass</a> de Ken Douglas (CC-BY-NC-ND).</div>
 
 Par le fait d’incompatibilités d’agenda de certains de mes collègues du monde Open data, j’ai eu le plaisir d’être invité à échanger avec [Lionel Maurel](http://scinfolex.wordpress.com/) sur les données ouvertes dans le cadre d’une réflexion initiée par [Communautique](http://www.communautique.qc.ca/) sur le thème “[À l’école des communs](http://www.communautique.qc.ca/nouvelles/nouvelles-communautique/lcole-des-communs-du-2-au-3-novembre-2012.html)“. J’ai sacrifié ma pratique d’aikido du samedi matin, mais autant dire ce qui est, ça en valait la peine.

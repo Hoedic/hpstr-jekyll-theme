@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Ciel et Terre]({{ root_url }}/images/2013-06-09_ciel_et_terre.jpg)
+![Ciel et Terre]({{ site.url }}/images/2013-06-09_ciel_et_terre.jpg)
 <div class="photoattrib">Quelque part entre Chicago et San Francisco - 26 mars 2013</div>
 
 Certains iront croire que c'est un moyen de remplir des lignes; peut-être est-ce le cas. Toujours est-il que mes rêves prennent beaucoup de place ces temps-ci. Mes cauchemars me réveillent en pleine nuit et nuisent à notre sommeil.

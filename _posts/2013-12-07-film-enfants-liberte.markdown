@@ -10,7 +10,7 @@ image:
 ---
 
 
-Comme je l'ai déjà [expliqué]({{ root_url }}/2013/06/18/robots/), j'aime à étudier la symbolique dans les films d'enfants. Certains d'entre eux jouent en boucle à la maison, et il faut bien dire que certains ne sont pas dénués d'intérêt.
+Comme je l'ai déjà [expliqué]({{ site.url }}/2013/06/18/robots/), j'aime à étudier la symbolique dans les films d'enfants. Certains d'entre eux jouent en boucle à la maison, et il faut bien dire que certains ne sont pas dénués d'intérêt.
 
 ⁂
 
@@ -18,7 +18,7 @@ Le gros hit du moment est <a href="http://fr.wikipedia.org/wiki/Madagascar_(film
 
 D'un coté, le lion vivant béatement sa captivité de zoo, acheté qu'il l'est par l'adulation de son public et des steaks fournis en grands nombres. De l'autre coté, le zèbre, rêvant d'une liberté absolue qu'il obtiendra en aboutissant, par hasard sur l'île de Madagascar. Toutefois cette liberté se traduira par l'effondrement des constructions sociales vers la bestialité primitive amenant ainsi le zèbre à devenir la proie du lion.
 
-On y retrouve des analogies très modernes, entre ceux qui acceptent leur cage dorée contre un peu de vin et de jeux et les libertaires qui refusent de comprendre que leur vision appliquée à la lettre ne serait qu'une régression de la société. Le tout pourrait évidemment largement être appuyé par les [écrits]({{ root_url }}/2013/11/25/diderot/) de philosophes divers et variés ayant traités de la liberté.
+On y retrouve des analogies très modernes, entre ceux qui acceptent leur cage dorée contre un peu de vin et de jeux et les libertaires qui refusent de comprendre que leur vision appliquée à la lettre ne serait qu'une régression de la société. Le tout pourrait évidemment largement être appuyé par les [écrits]({{ site.url }}/2013/11/25/diderot/) de philosophes divers et variés ayant traités de la liberté.
 
 La morale de cette fable est un peu facile: les animaux décident de retourner dans la société (New York) tout en laissant entendre qu'ils ne délaisseront plus leur liberté pour autant en s'autorisant de passer par Paris, l'Espagne ou la Chine.
 

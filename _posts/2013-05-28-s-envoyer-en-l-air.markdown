@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Retour au jardin]({{ root_url }}/images/2013-05-28_approche-sf.jpg)
+![Retour au jardin]({{ site.url }}/images/2013-05-28_approche-sf.jpg)
 <div class="photoattrib">En approche de San Francisco - 26 mars 2013</div>
 
 Un sentiment mitigé m'accompagne dans mon année la plus riche en trajets en avion et en découvertes de nouvelles villes.

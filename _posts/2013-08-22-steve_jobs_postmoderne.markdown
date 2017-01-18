@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Couloir]({{ root_url }}/images/2013-08-22_couloir.jpg)
+![Couloir]({{ site.url }}/images/2013-08-22_couloir.jpg)
 <div class="photoattrib">10 juillet 2013</div>
 
 Les frasques de Steve Jobs et plus encore le traitement qu'on lui réserve en font un véritable héros postmoderne (ou hypermoderne?) dont la trajectoire remplacerait presque les grands récits, autant réligieux que ceux des Lumières.

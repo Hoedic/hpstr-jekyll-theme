@@ -59,7 +59,7 @@ author: Hoedic
 - 9h55: Arrivée au parc Delorimier pour le plus grand plaisir de tous.
 - 9h56: Axel se jette sur le petites autos assignées à résidence au parc.
 
-![Parc Delorimier]({{ root_url }}/images/2013-06-30_delorimier.jpg)
+![Parc Delorimier]({{ site.url }}/images/2013-06-30_delorimier.jpg)
 <div class="photoattrib">Montréal, le 30 juin 2013.</div>
 
 - 10h01: Culs posés sur un banc, les parents attendent les invités. Axel descent une butte avec sa voiturette pendant qu'Arthur menace de se casser la gueule du haut d'un module.
@@ -132,7 +132,7 @@ sa mère essaie de lui expliquer le contenu du livre (des nouvelles).
 - 17h20: Axel ne veut plus ouvrir de cadeaux, il veut seulement jouer avec un camion en bois qu'il vient d'avoir.
 - 17h23: Axel pousse un cri de joie -rien de moins- en voyant se vider devant lui un sac plein d'engins de construction (tractopelles, camions, etc)
 
-![Cadeaux!]({{ root_url }}/images/2013-06-30_cadeaux.jpg)
+![Cadeaux!]({{ site.url }}/images/2013-06-30_cadeaux.jpg)
 <div class="photoattrib">Montréal, le 30 juin 2013.</div>
 
 - 17h24: Fin du rendu d'animation de Blender. Quasiment 30 minutes pour 140 images. J'aurais pensé que la vitesse de rendue se serait améliorée plus que ça. Faudrait que je trouve comment exporter le résultat.

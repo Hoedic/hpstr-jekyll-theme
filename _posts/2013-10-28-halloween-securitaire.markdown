@@ -10,7 +10,7 @@ image:
 ---
 
 
-Dans le billet [précédent]({{ root_url }}/2013/10/24/securite-routiere/), j'évoquais les communications de notre école où l'on trouve du bon et du moins bon. Cette fois-ci, l'école nous entretient d'Halloween:
+Dans le billet [précédent]({{ site.url }}/2013/10/24/securite-routiere/), j'évoquais les communications de notre école où l'on trouve du bon et du moins bon. Cette fois-ci, l'école nous entretient d'Halloween:
 
 > Chers parents,<br/>
 > Sorcières, vampires et fantômes étant à nos portes, il nous fait horriblement plaisir de vous informer que le jeudi 31 octobre 2013, les enfants fêteront l'Halloween. Pour cette effrayante occasion, il sera possible pour votre enfant d'arriver le matin même déguisé.<br/>

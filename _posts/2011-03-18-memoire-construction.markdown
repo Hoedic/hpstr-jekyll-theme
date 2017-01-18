@@ -8,7 +8,7 @@ categories:
 
 
 
-![Sauter sur le lit]({{ root_url }}/images/2011-03-18_sautage-de-lit.jpg)
+![Sauter sur le lit]({{ site.url }}/images/2011-03-18_sautage-de-lit.jpg)
 
 > Quand on aime la vie, on aime le passé, parce que c’est le présent tel qu’il a survécu dans la mémoire humaine.
 > <div class="attrib">Marguerite Yourcenar, Les Yeux Ouverts</div>

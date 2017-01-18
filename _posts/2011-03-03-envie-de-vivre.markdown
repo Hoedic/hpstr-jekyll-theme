@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Sauter sur le lit]({{ root_url }}/images/2011-03-03_vie.jpg)
+![Sauter sur le lit]({{ site.url }}/images/2011-03-03_vie.jpg)
 
 Soudainement, une envie de vivre se faire jour dans le cœur de celui qui ne voulait pas vivre.
 

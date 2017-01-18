@@ -10,7 +10,7 @@ author: Hoedic
 Continuons dans les films pour enfant: <a href="http://en.wikipedia.org/wiki/Robots_(film)">Robots</a>. Production Blue Sky de 2005 correspondant parfaitement aux goûts robotiques de notre plus grand. Film en image de synthèse très classique dans sa trame: un jeune et gentil robot, de basse classe mais inventif, débarque dans une grande ville, se fait des amis tout aussi abandonnés et, grâce à son talent et sa persévérance, renverse le méchant oligarche qui voulait contrôler le Monde en privant les robots des pièces de rechange dont il a le monopole pour les forcer à acheter à la place de coûteux accessoires de luxe.
 
 
-![Spiderman, spiderman & batman]({{ root_url }}/images/2013-06-18_spiderman.jpg)
+![Spiderman, spiderman & batman]({{ site.url }}/images/2013-06-18_spiderman.jpg)
 <div class="photoattrib">Montréal, le 16 juin 2013.</div>
 
 La cupidité aura donc été vaincue par l'ingéniosité naïve du héros qui devient ainsi le bras droit d'un nouvel oligarche, certes plus magnanime et le Monde est sauvé. Derrière une impression de critique de l'impitoyable capitalisme, le système reste en place alors que le héros a démontré au cours de ses pérégrinations qu'il était possible de se passer des pièces de rechange officielles au profit d'une démarche <acronym title="Do It Youself">DIY</acronym> ne coutant quasiment rien mais qui aurait mis à sac l'économie robotique.

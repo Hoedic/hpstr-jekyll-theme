@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Arbre des hasards]({{ root_url }}/images/2013-08-20_Arbre-des-hasards.jpg)
+![Arbre des hasards]({{ site.url }}/images/2013-08-20_Arbre-des-hasards.jpg)
 <div class="photoattrib">20 août 2013</div>
 
 Parler de nos [14 ans ensemble](/2013/08/15/14/), en plus d'une discussion avec ma mère, m'a amené à réfléchir aux hasards et aux choix qui m'ont amené où je suis en ce moment. J'ai donc décidé de retracer les événements majeurs qui ont permis à ce couple que nous sommes d'exister.

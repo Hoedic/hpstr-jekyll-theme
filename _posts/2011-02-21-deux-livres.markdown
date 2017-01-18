@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-![Traces dans la neige]({{ root_url }}/images/2011-02-21_traces-neige.jpg)
+![Traces dans la neige]({{ site.url }}/images/2011-02-21_traces-neige.jpg)
 
 Mise en contexte: Me voici quelques jours après Noël avec une pile impressionnante de livres, plusieurs que j’ai demandé et une surprise, La carte et le territoire de [Michel Houellebecq](http://www.houellebecq.info/).
 

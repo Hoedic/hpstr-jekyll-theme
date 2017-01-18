@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Terres inconnues]({{ root_url }}/images/2013-11-08-terres-inconnues.jpg)
+![Terres inconnues]({{ site.url }}/images/2013-11-08-terres-inconnues.jpg)
 <div class="photoattrib">Terres inconnues, États-Unis d'Amérique, 26 mars 2013</div>
 
 L'actuel débat sur la charte des valeurs (de la laïcité?) démontre surtout qu'il y a un immense malentendu au Québec au sujet de l'immigration. À défaut de prendre position sur la charte, je souhaite partager mon expérience et ma vision sur l'immigration dans la Belle Province.

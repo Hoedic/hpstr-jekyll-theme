@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Camelia]({{ root_url }}/images/2013-05-18_camelia.jpg)
+![Camelia]({{ site.url }}/images/2013-05-18_camelia.jpg)
 
 Réveil d'une longue hibernation. 
 

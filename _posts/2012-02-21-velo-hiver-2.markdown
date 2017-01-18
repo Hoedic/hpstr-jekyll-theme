@@ -7,7 +7,7 @@ author: Hoedic
 ---
 
 
-Après avoir traité des aspects techniques du vélo d’hiver en [1ère partie]({{ root_url }}/2012/02/15/velo-hiver-1/
+Après avoir traité des aspects techniques du vélo d’hiver en [1ère partie]({{ site.url }}/2012/02/15/velo-hiver-1/
 ), voici quelques considérations sur la raison d’être de ce mouvement en pleine croissance. Étant donné que ce texte m’est venu en entendant toutes sortes d’âneries à propos du vélo d’hiver, je vais également répondre aux détracteurs… quand bien même je sais que c’est vain. Le lecteur attentif remarquera que de nombreux arguments s’appliquent au vélo en général.
 
 –
@@ -25,7 +25,7 @@ Enfin, et c’est important à noter: c’est agréable! Alors que l’on a faci
 Quelque soit le sens dans lequel on prend ses données, on parle d’une pratique avant tout… pratique! C’est rapide, agréable,  simple et efficace, voilà tout.
 
 
-![Tweed run @ Helsinki]({{ root_url }}/images/2012-02-21-tweed-run.jpg)
+![Tweed run @ Helsinki]({{ site.url }}/images/2012-02-21-tweed-run.jpg)
 <div class="photoattrib">Source: <a href="http://www.flickr.com/photos/cycleinhel/5479072728/">Martti Tulenheimo/CycleInHel</a>.</div>
 
 
@@ -77,7 +77,7 @@ En condition hivernales, les cyclistes empruntent effectivement plus les routes 
 
 Ce qui crée de la congestion routière, ce ne sont pas les cyclistes, ou si peu, ce sont les autos! Alors c’est plus facile de pointer un élément particulier et de se venger dessus que de réfléchir à un problème systémique… pourtant c’est bel et bien un problème systémique. Les problèmes de trafic, tout comme les décès par accidents, sont un corollaire de l’automobile, volontairement ignorés au profit de causes qui semblent plus facile à contrôler… comme le vélo d’hiver.
 
-![Stuck in traffic]({{ root_url }}/images/2012-02-21-stuck-in-traffic.jpg)
+![Stuck in traffic]({{ site.url }}/images/2012-02-21-stuck-in-traffic.jpg)
 
 
 ### Mais au fait, pourquoi tant de haine ?

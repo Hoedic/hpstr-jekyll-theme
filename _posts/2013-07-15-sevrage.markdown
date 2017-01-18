@@ -6,7 +6,7 @@ comments: true
 author: Hoedic
 ---
 
-![Yeux]({{ root_url }}/images/2013-07-15_yeux_steph.jpg)
+![Yeux]({{ site.url }}/images/2013-07-15_yeux_steph.jpg)
 <div class="photoattrib">Eastman, le 23 juin 2013.</div>
 
 Habituellement, je ne m'appesantis pas sur le développement de nos enfants. Certains voient avec tristesse arrivée la "fin" de leur bébé. Au contraire, chaque étape de développement m'apparait comme positive. Chaque année, chaque mois, amène un enfant avec qui il est possible de faire plus, qui comprend plus, bref rien à regretter.

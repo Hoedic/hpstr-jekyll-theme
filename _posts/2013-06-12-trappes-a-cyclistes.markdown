@@ -11,7 +11,7 @@ Depuis le début du mois le SPVM multiplie les actions à l'égards des cycliste
 
 Sauf qu'il y a la manière et l'intention. Lorsqu'un ami me dit avoir reçu deux contraventions pour réflecteur manquant (une pour chaque roue), lorsque j'en vois un autre se faire arrêter devant moi parce qu'il avait fait son stop, mais visiblement pas assez, je me demande quelle est l'intention.
 
-![Une trappe à cycliste]({{ root_url }}/images/2013-06-12_trappe_cycliste.jpg)
+![Une trappe à cycliste]({{ site.url }}/images/2013-06-12_trappe_cycliste.jpg)
 <div class="photoattrib">Coin Rachel et Chambord, Montréal - 5 juin 2013<br>Photo de François Démontagne</div>
 
 Alors depuis le début du mois, comme plusieurs autres cyclistes, j'évite les pistes cyclables car c'est là que se trouvent les trappes à cycliste. En effet, il me manque un reflecteur de roue et bien que mes pneus aient une bande réfléchissante, bien que j'utilise des attaches des bas de pantalon également réfléchissantes, mon vélo n'est pas conforme. Je roule donc à des endroits où j'ai moins ma place pour éviter une amende de 47$, jusqu'au jour où j'aurai une raison d'amener mon vélo au réparateur pour poser le réflecteur manquant... ou que les infractions sur concentreront sur les comportements réellement dangereux.

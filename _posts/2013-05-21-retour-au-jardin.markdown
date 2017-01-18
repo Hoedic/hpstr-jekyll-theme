@@ -14,7 +14,7 @@ Après le retour des rencontres de voisinage, c'est le retour des rencontres de 
 > -- Si tu veux j'ai quelques plants de tomates et de salades"<br/>
 > -- etc...
 
-![Retour au jardin]({{ root_url }}/images/2013-05-21_plan-jardin.jpg)
+![Retour au jardin]({{ site.url }}/images/2013-05-21_plan-jardin.jpg)
 <div class="photoattrib">Plan de jardin - 2013</div>
 
 Retrouver ce rapport à la terre. Mon naturel me pousse à rester faussement concentré sur mes sillons dans le sol, étonnament sec, à essayer de me faire l'oeil sur la couleur de la terre et à décider des mariages à faire dans mes six sections. Approche très méthodique s'il en est.

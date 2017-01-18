@@ -7,7 +7,7 @@ author: Hoedic
 ---
 
 
-![Bill Collins / Photo: Jacques Pharand]({{ root_url }}/images/2012-11-16-bill_collins_sensei.jpg)
+![Bill Collins / Photo: Jacques Pharand]({{ site.url }}/images/2012-11-16-bill_collins_sensei.jpg)
 <div class="photoattrib">Bill Collins, première ceinture noire d'aikido au Canada<br/>Source: <a href="http://www.jacquespharand.com/">Jacques Pharand</a>.</div>
 
 Comme chacun, je m’interroge sur mon rôle dans le grand Tout qui m’entoure. Il n’y a pas si longtemps, la Terre et les humains étaient le centre de l’univers. Cette belle vision qui nous rendait si sûrs de notre raison d’être au monde a été joyeusement piétinée par Copernic, Galilée, Newton et tous leurs descendants. Un beau feu dans la nuit. Je regarde avec intérêt l’évolution des théories physiques qui chaque fois semblent relayer l’homme un peu plus dans la périphérie universelle.
