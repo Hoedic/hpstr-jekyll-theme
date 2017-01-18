@@ -1,0 +1,214 @@
+---
+layout: post
+title: "Rapport de gendarmerie - 30 juin 2013"
+date: 2013-06-30 22:20
+comments: true
+author: Hoedic
+---
+- 1h30: Réveil nocturne d'Axel. Caro va lui donner du lait. (Ceci fut relaté a posteriori par Caroline. En bon mari, je ne m'en suis pas rendu compte.)
+- 5h15: Premier réveil d'Axel. Caro arrive à le recoucher. Fiou...
+- 6h55: Axel s'exprime dans son lit. Caro essaie de m'envoyer le chercher, en vain.
+- 6h58: Arthur débarque en se plaignant qu'on ne lui a pas mis assez mis de pansements sur une de ses blessures de guerre.
+- 7h00: Je vais finalement chercher Axel et le lache sur le lit.
+- 7h03: Arthur veut se lever avec sa maman. Axel reste au lit quelques instants avec moi et le chat.
+- 7h06: Finalement Axel se lève aussi non sans avoir hardiment fait du trampoline sur le lit, faisant ainsi fuir sa principale source d'intérêt, le chat. Je me retrouve seul au lit. Le bonheur!
+- 7h08: Arthur demande à regarder Il était une fois la vie, épisode sur la cellule. Accordé par Caroline.
+- 7h18: Je finis par m'extirper du lit et vais m'affaler dans le salon.
+- 7h23: Bagarre entre Axel et Arthur pour savoir qui pourra grimper sur Maman -avec un concours de "Maman maman maman" de part et d'autres.
+- 7h25: Caroline finit par se lever faute de pouvoir contenter toutes les demandes. Elle ouvre les rideaux, il fait beau. Difficile à croire.
+- 7h35: Fin de l'épisode de Il était une fois la vie.
+- 7h43: Arthur veut jouer, nous voulons manger.
+- 7h45: Mettage de table. Axel a trouvé un balais avec lequel jouer. Il menace tout le monde avec.
+- 7h48: À table.
+- 7h50: Je prépare mon chocolat chaud avec de l'eau. Vraiment pas réveillé. Je vais le lourder dans l'évier et réessaie, avec du lait cette fois-ci.
+- 7h53: Chocolat au micro-onde. Axel veut bien manger, ça se fête.
+- 7h55: Petit dej' classique. Caro: bagel nature + beurre d'arachide et confiotte, Arthur bagel graines de sésame au fromage à la crème, moi bagel aux pépites de chocolat + fromage à la crème + confiotte puis céréales muesli dans le chocolat. Axel tape d'abord le bagel de Caro puis mes céréales.
+- 7h58: Arthur sort de table.
+- 8h02: Arthur se déguise en momie pendant que nous mangeons.
+- 8h12: Sortie générale de table.
+- 8h13: Arthur s'enfarge dans le Faucon Millenium et se blesse au genou. Ça lui apprendra à laisser trainer ses jouets.
+- 8h20: Rangeage d'appartement pendant que les enfants jouent (autant dire que c'est inutile.)
+- 8h28: Conflit entre Axel et moi sur le maintien ou non d'une porte ouverte.
+- 8h30: Arthur éprouve des problèmes avec son déguisement de momie pendant qu'Axel menace tout le monde avec une serpillère, tout en chantonnant.
+- 8h31: Je suis légèrement désoeuvré, assis devant l'ordinateur. Je souffre de contrariété à cause d'une connerie conne.
+- 8h34: Brossage de dents.
+- 8h35: Arthur annnonce à la maisonnet qu'il va faire caca... pendant que je me brosse les dents dans la salle de bain commune.
+- 8h36: Finalement il ne veut pas faire ce qu'il a annoncé, mais juste jouer tranquillos dans la salle de bain. Je l'y laisse donc en priant pour ne pas découvrir un dégat majeur dans quelques minutes.
+- 8h40: Axel fait du vélo-bleu sur le balcon tout en chantonnant.
+- 8h41: Je m'habille et range une partie de mon bordel.
+- 8h46: Je lance une tournée de lessive pour me donner l'impression d'être utile.
+- 8h47: Axel broute la ciboulette du balcon.
+- 8h48: Arthur copie son frère. Axel le copie de nouveau. Bref, orgie de ciboulette.
+- 8h50: Je coupe une échalote pour la salade que Caro prépare pour l'anniversaire au parc d'Axel.
+- 8h51: Musique! Jean Ferrat. Ça fait du bien.
+- 8h53: Dispute d'enfants sur le balcon au sujet de l'accès à la luge qui gît là. Le conflit s'est réglé tout seul avant que je me rende sur-place.
+- 8h59: Femme essaie de ranger les jouets au sol. Je l'en dissuade.
+- 9h01: Axel me demande de lui lire un Caillou.
+- 9h02: Alors que je m'asseois pour lui faire la lecture, Axel me déclare qu'il a fait caca... puis se ravise. Peu importe, il serait effectivement avisé de lui changer sa couche et de l'habiller.
+- 9h04: Changement de couche et habillage.
+- 9h12: Fin de l'habillage. Arthur s'habille aussi.
+- 9h15: Axel revient à l'attaque avec son Caillou tandis que je suis à l'ordinateur, refusant l'entrée d'un forum facebook à des spammeurs.
+- 9h17: Lecture de Caillou en série.
+- 9h25: Arthur mange une collation.
+- 9h28: Axel fait manger à l'ensemble de la famille des pommes imaginaires tirées de son livre.
+- 9h36: Les enfants font semblant d'avoir du "lait" en se mettant des jouets orange coupés en deux sur leur poitrine.
+- 9h40: C'est l'heure de partir au parc pour l'anniversaire. Évidemment personne ne veut partir. Axel se laisse persuader par l'idée de prendre la voiture. Arthur insiste pour rester.
+- 9h42: Arthur se laisse convaincre pour partir dans 2 minutes. Axel me dit "à tantôt". Il n'a pas compris que je viens aussi.
+- 9h48: Je quitte la musique à regret. Paraît-il que ca adoucit les moeurs.
+- 9h50: Départ, en voiture pour traîner tout le bahut jusqu'au parc.
+- 9h55: Arrivée au parc Delorimier pour le plus grand plaisir de tous.
+- 9h56: Axel se jette sur le petites autos assignées à résidence au parc.
+
+![Parc Delorimier]({{ root_url }}/images/2013-06-30_delorimier.jpg)
+<div class="photoattrib">Montréal, le 30 juin 2013.</div>
+
+- 10h01: Culs posés sur un banc, les parents attendent les invités. Axel descent une butte avec sa voiturette pendant qu'Arthur menace de se casser la gueule du haut d'un module.
+- 10h04: Un papa accompagné de sa petite fille arrivent dans le parc un plateau à la main. Ils viennent prendre leur petit-déj' ici; concept intéressant.
+- 10h07: Une jeune fille va chercher un livre à une "[libreary](http://liberezleslivres.com/?p=548)" juste en dehors du parc. Après quoi
+sa mère essaie de lui expliquer le contenu du livre (des nouvelles).
+- 10h13: Axel entreprend, avec succès, de grimper le muret d'escalade incliné d'un module de jeu puis glisse dans un tobogan.
+- 10h21: Retour d'Axel sur les petites voitures. J'ai mal à la tête et je voudrais dormir.
+- 10h30: Personne n'arrive. Tout le monde doit faire la grasse mat'.
+- 10h34: Ah ben, suffisait d'en parler. Les premiers invités arrivent.
+- 10h52: Discussions d'adultes pendant que les enfants jouent.
+- 11h07: Les parents cherchent à se réveiller. L'alcool semble une solution. Il est toutefois un peu tôt.
+- 11h14: À Défaut d'alcool, nous commençons à manger.
+- 11h16: La jeune fille qui avait pris un livre à la Libreary va le remettre à sa place à la demande de sa maman, puis quitte le parc.
+- 11h23: Arrivée des derniers invités attendus. Repas type potluck. Plat notable: guacamole avocat/mangue. Ça se laisse manger, et même plus.
+- 11h32: Les enfants auront tenu un gros dix minutes à table. Ils retournent jouer. On pouvait difficilement en espérer plus en mangeant dans un parc pour enfants.
+- 11h42: Fin du repas pour les adultes. Les enfants jouent bien, agrémenté de quelques disputes au sujet des petites voiturettes, toujours insuffisantes en nombres.
+- 12h10: Discussion de vélo.
+- 12h13: Je sors le gâteau d'anniversaire, thème Bagnoles, pour Axel. Ça n'intéresse pas le principal intéressé, de même pour son frère.
+- 12h15: La petite fille d'amis se ramasse en bas d'un tobogan. Plus de peur que de mal.
+- 12h18: Tout le monde est à table, sauf le principal intéressé et son frère qui jouent sur leurs voiturettes.
+- 12h20: Je fâche un ami d'Arthur en lui disant à la blague qu'il n'aura pas de gâteau. Il s'en va en pleurant. Son père essaie vainement de le consoler.
+- 12h24: À la réflexion Arthur veut bien du gâteau, il vient à table. Axel continue de jouer.
+- 12h26: Caroline utilise la méthode dite de l'appât qui consiste à aller enfourner une cuillère de gâteau dans la bouche d'Axel pendant qu'il joue. Il constate qu'il aime et qu'il en veut encore. Il vient à table.
+- 12h28: Chanson d'occassion: Bonne fête Axel. L'intéressé est à la fois très fier et gêné.
+- 12h34: Tout le monde a fini sa part de gâteau. Les enfants retournent jouer.
+- 12h45: Discussion sur les triathlons. Je partage le fait que les nageurs me semblent défavorisés par l'ordre des disciplines et les distances relatives à parcourir. On me confirme effectivement que la natation est plus ou moins l'échauffement.
+- 12h57: Les parents constatent unanimement que les enfants les plus jeunes approchent de leur heure de péremption. On envisage de partir.
+- 13h03: Début d'une discussion avec un prof de littérature au Cegep. 
+- 13h13: Les jeux sont de plus en plus agrémentés de pleurs. Il est vraiment temps de plier bagages.
+- 13h16: Rangements à la va-vite.
+- 13h19: Bises générales.
+- 13h22: Axel ne veut pas partir tandis que son frère n'en peut plus d'être là.
+- 13h23: Caro, Arthur et moi portons notre bazard à la voiture. Axel s'offusque de nous voir partir ainsi.
+- 13h25: Arthur va gentiment ouvrir la porte du parc pour permettre à son frère de nous rejoindre.
+- 13h26: Le mécanisme hautement sophistiqué de fermeture de la porte du parc m'oblige à me déplacer jusqu'aux enfants.
+- 13h28: Départ en voiture.
+- 13h34: Arrivée à la maison.
+- 13H35: Axel ne veut pas se faire changer de couche. Il proteste de manière véhémente... mais inutile. S'en suivra une tentative de coucher.
+- 13h36: Arthur veut aller aux toilettes. Moi aussi. Je suis magnanime, je le laisse y aller en premier.
+- 13h39: À mon tour!
+- 13h44: Retour à l'ordinateur. Arthur retourne aux toilettes.
+- 13h47: Caroline ressort de la chambre d'Axel. Ce dernier dort.
+- 13h55: Arthur sort des toilettes. Il est près pour son repos, Caro s'en va le "coucher".
+- 14h03: Je rédige un petit courriel pour Maman.
+- 14h07: Courriel envoyé. J'ai envie de lire. Mais si je m'y mets, c'est certain que je vais m'endormir aussi...
+- 14h08: Twitter, facebook, courriels,... Femme est toujours en train de s'occuper d'Arthur.
+- 14h15: Courage: se trainer jusqu'au futon pour lire Peregrination.
+- 14h20: Femme sort de la chambre d'Arthur en pariant sur une vraie sieste de fiston.
+- 15h54: Je me réveille. J'ai eu le temps de lire une cinquantaine de pages avant de m'endormir. Caro travaille tandis que les enfants dorment encore.
+- 15h58: Force est de constater que la sieste m'a donné un petit début de migraine dans l'oeil gauche.
+- 15h59: Vaseux. J'ai failli avoir une idée de quelque chose de constructif à faire... mais l'idée m'a échappé avant que je puisse la fixer dans mon esprit.
+- 16h04: Deux advils.
+- 16h08: JE télécharge [Blender](http://www.blender.org/). Ça me tente de me remettre à jouer un peu avec. Ça fait bien... 15 ans que je n'y ai pas touché. Curieux de voir comment ça a évolué.
+- 16h12: Lancement de Blender.
+- 16h18: Bordel, ça a changé. J'arrive quand même à ouvrir une représentation du Faucon Millenium et à faire un rendu.
+- 16h20: Caroline vient s'enquérir de mes activités et je lui montre quelques animations 3D que j'ai fait de désoeuvrement à la fin des années 90.
+- 16h25: Caroline se propose d'aller réveiller le grand pendant que j'essaie de trouver comment on joue avec la caméra dans Blender.
+- 16h33: Finalement Caroline est allé réveiller Axel.
+- 16h49: Notre Belle au bois dormant de 5 ans se réveille... presque de bonne humeur. Son estomac est un peu vide. Axel maltraite le chat. 
+- 16h51: Tout en mangeant, Arthur m'explique que Wall-E est une histoire qui dit qu'il ne faut pas trop salir la Terre. On progresse. Dans le même temps, j'ai trouvé comment mettre des markers de temps dans Blender, on progresse vraiment!
+- 16h54: Je lance le rendu d'une séquence de déplacement de camera. Axel dessine à la craie... à l'envers du tableau.
+- 16h57: Axel veut de l'eau.
+- 17h02: Arthur est attiré par l'image du Faucon Millenium sur mon écran. Lorsque je lui propose de regarder plus tard le résultat de l'animation, il me dit que ça ne l'intéresse pas (nous parlons d'un fan de Star Wars même s'il n'a pas vu les films).
+- 17h03: Définitivement l'heure de commencer le barbecue.
+- 17h06: Belle-maman et Beau-frère arrivent.
+- 17h09: Barbecue démarré.
+- 17h13: Déballage de cadeaux pour Axel
+- 17h17: Axel ne cache pas sa joie. Arthur contient difficilement son envie d'ouvrir les cadeaux tout en disant être triste que ça ne soit pas son anniversaire (qui était il y a une semaine quand même).
+- 17h20: Axel ne veut plus ouvrir de cadeaux, il veut seulement jouer avec un camion en bois qu'il vient d'avoir.
+- 17h23: Axel pousse un cri de joie -rien de moins- en voyant se vider devant lui un sac plein d'engins de construction (tractopelles, camions, etc)
+
+![Cadeaux!]({{ root_url }}/images/2013-06-30_cadeaux.jpg)
+<div class="photoattrib">Montréal, le 30 juin 2013.</div>
+
+- 17h24: Fin du rendu d'animation de Blender. Quasiment 30 minutes pour 140 images. J'aurais pensé que la vitesse de rendue se serait améliorée plus que ça. Faudrait que je trouve comment exporter le résultat.
+- 17h34: Le barbecue va un peu trop fort. Je le calme et pose les pommes de terre dans l'âtre.
+- 17h35: Axel nage dans un bonheur de jouets jaunes et noirs sur roues.
+- 17h54: Toujours en train de jouer avec Blender. Le rendu de l'animation m'a pondu 140 images PNG. Comment en faire une vidéo?
+- 18h05: Retournage de pommes de terre.
+- 18h17: Je lance un second rendu sur Blender.
+- 18h27: Discussion avec beau-frère sur sa nouvelle vie dans le coin Chicoutimi.
+- 18h29: Bavette sur le barbecue.
+- 18h33: Séance de jeu de fantome avec Arthur pendant qu'Axel, sur le balcon, fait une démonstration de vélo-bleu au reste de la famille.
+- 18h43: Je sors les pommes de terre et la bavette du barbecue.
+- 18h44: On passe à table.
+- 18h45: On ouvre le rosé.
+- 18h55: Tout le monde apprécie les pommes de terre et la bavette cuits au charbon de bois. 
+- 18h57: Arthur commence à fortiller pour sortir de table et descendre dans la cour tout seul.
+- 19h01: On arrive à garder Arthur avec nous en lui parlant de gâteau et de crème glacée.
+- 19h04: Gâteau + chanson d'anniversaire. Axel est toujours très fier d'être chanté... et moins gêné cette fois.
+- 19h06: Axel souffle ses deux bougies comme un chef!
+- 19h13: Arthur a englouti sa part de gâteau et veut désormais descendre. On l'autorise à y aller.
+- 19h15: Axel pleure pour rejoindre son frère, seul aussi, évidemment (c'est beau de rêver).
+- 19h19: Je me sacrifie pour descendre avec Axel, tout en descendant le fusil à bulle pour Arthur.
+- 19h20: Le fusil à bulle ne fonctionne pas. Tristesse d'Arthur et d'Axel.
+- 19h21: J'enleve quelques mauvaises herbes dans le mini-potager que j'ai fait dans les aires communes de la cour. Une saloperie de chat a chié dans mes carottes qui du coup n'ont pas survécu.
+- 19h23: le fusil à bulles accepte finalement de marcher.
+- 19h26: Arthur s'ennuie et devient désagréable. Accessoirement il dérange des voisins qui mangent sur leur terrasse (il voudrait que les filles viennent jouer avec lui).
+- 19h29: J'intercède en faveur d'Axel pour qu'Arthur lui prète son fusil à bulles pour 2 minutes.
+- 19h32: Axel refuse de rendre les bulles mais finit par accepter.
+- 19h33: Arthur ne veut plus du fusil à bulle et le rend à Axel. Il veut remonter à la maison parce qu'il s'ennuie.
+- 19h35: Le reste de la famille descend dans la cour, ce qui donne un regain d'intérêt à Arthur.
+- 19h39: Les invités s'en vont.
+- 19h40: On décrete un tour en vélo pour les enfants. Caroline monte chercher les vélos.
+- 19h41: Axel me met à la porte de l'immeuble en fermant la porte... et je n'ai pas les clés.
+- 19h43: Entendant parler de vélo, les petites voisines demandent à nous accompagner, ce que j'accepte en l'absence du reste de la famille.
+- 19h45: Caroline me fait croire qu'elle n'a pas retrouvé Axel après qu'il m'eut enfermé. C'est une blague.
+- 19h47: Arthur ne veut pas faire de vélo avec les filles mais accepte tout de même de les suivre. Axel ne dit rien mais part dans la direction opposée au reste du monde. Après de multiples pleurs, il accepte de suivre le reste du groupe.
+- 19h49: L'armada fantastique à vélo se met en branle sur le trottoir.
+- 19h51: Du haut de son vélo-bleu, Axel dit "allô" aux gens qu'il croise sur le trottoir.
+- 19h57: Arrivés au bout de la rue. Nous faisons quelques tours dans le stationnement d'un groupe d'habitations où habite un ami d'Arthur (qui n'est pas là ce soir).
+- 20h: L'armada repart.
+- 20h03: À mi-chemin du retour, Axel en a fini du vélo. Il termine a pied... ce qui est bien plus lent.
+- 20h06: Axel s'impatiente, je lui propose de continuer à vélo mais il refuse.
+- 20h09: Arrivée près de la maison. Axel veut rentrer et suit Caroline. Je reste avec Arthur et les filles.
+- 20h12: Les enfants vont hurler dans le hall d'entrée d'un autre immeuble. En parents responsables, nous les laissons faire.
+- 20h13: Arthur s'amuse comme un fou avec Charlotte. Ils jouent à être des petits vieux qui s'effondrent de fatigue (drôle de jeu tout de même). C'est beau à voir, ils sont écroulés de rire non-stop. 
+- 20h15: Arthur manque de s'écraser au sol du haut de son vélo tellement il rit.
+- 20h17: Difficile de les arrêter de jouer mais il se fait tard et les filles n'ont toujours pas pris leur dessert!
+- 20h18: On remonte à la maison. Personne ne veut prendre son bain. Caro commence avec Axel.
+- 20h38: Arthur me demande où est son agent secret. Il faut en ressortir à la déesse du rangement qui nous dira simplement qu'il est dans le panier en osier des playmobils.
+- 20h40: J'avertis Arthur qu'on prend la douche après ma pause toilette.
+- 20h45: Évidemment Arthur ne veut pas venir alors qu'il joue avec ses Playmobils. On s'entend pour 2 "bonnes" minutes.
+- 20h52: Deux très bonnes minutes plus tard, j'ai réussi à exporter mon animation Blender au format vidéo. Arthur accepte de venir sur-le-champ.
+
+<div style="margin: 10px 13%;"><iframe style="margin: 10px auto;" width="420" height="315" src="//www.youtube.com/embed/x9L04jyhHBg" frameborder="0" allowfullscreen></iframe></div>
+<div class="photoattrib">Animation Blender. Source <a href="http://www.freegraf.com/orion/swmod/ass_ep3.php">Faucon Millenium</a>.</div>
+
+- 20h54: Douche d'Arthur.
+- 20h56: Arthur me questionne sur les poumons (sont-ils dans le coeur?) et les globules rouges (vont-ils dans les poumons? pourquoi?).
+- 20h58: Fin de la douche.
+- 20h59: Arthur veut un pansement sur une micro égratignure. Je ne veux pas. Il y va seul.
+- 21h: Arthur s'habille et argumentant que le petit bobo faisait très mal et qu'il fallait un pansement.
+- 21h01: Brossage de dents d'Arthur.
+- 21h03: Histoire du soir: Le [Roi Chamboule-tout](http://www.livre-enfant.com/illustres/auteurs/babette_cole/ppr_roi_chamboule-tout.html) et deux histoire de [Sardine de l'espace](http://www.dargaud.com/blog/sardinedelespace/).
+- 21h18: Fin des histoires. Arthur essaie d'en grappiller une de plus. Non.
+- 21h24: Arthur me coupe à répétition durant les chansons pour me demander si l'histoire de [V'la le bon vent](http://www.dinosoria.com/chanson_059.htm) est vraie et s'il y a des barrières pour empêcher les chasseurs des chasser à Montréal. Et aussi, pourquoi ne peut-on pas remplacer les histoires du soir par une période de jeu.
+- 21h27: Fin des chansons. Caro est sous la douche.
+- 21h29: Malgré la sieste, je ne vais pas faire long feu...
+- 21h35: Encore un peu joujou avec blender.
+- 21h42: Glandouillage internetophile. 
+- 22h01: Caroline lit le présent compte rendu par-dessus mon épaule.
+- 22h08: N'ayant pas siesté, Caroline propose d'aller se coucher. Mon manque d'énergie général m'incline à la suivre...
+- 22h10: Je vais prendre une douche étant donné que j'ai fait le barbecue. Courage...
+- 22h12: Caroline essaie de pénétrer dans la chambre d'Arthur pour éteindre la petite loupiote qu'on lui laisse pour s'endormir. Manque de bol, il ne dort pas et se met à lui tenir la discussion.
+- 22h14: Brossage de dents.
+- 22h17: Douche.
+- 22h22: Fin de douche.
+- 22h23: Séchage.
+- 22h24: Arthur, vêtu de sa cap de pirate, demande de l'eau. Caroline lui en sert.
+- 22h26: Extinction des feux façon poules.

@@ -2,6 +2,43 @@
    DL Menu
    ========================================================================== */
 
+#top-menu {
+
+	@media #{$antimedium } {
+		display: none;
+	}
+		position: absolute;
+		right: 5%;
+		z-index: 2000;
+
+		ul {
+			li {
+				
+				display: inline;
+    			margin: 5px 10px;
+    			text-shadow: 1px 1px 4px rgba(34,34,34,0.6);
+    			font-weight: 400;
+    			font-size: 1.2em;
+    			letter-spacing: 0.1em;
+
+    			a {
+    				color: #fff;
+    			}
+
+    			a:visited {
+    				color: #fff;
+    			}
+
+    			a:hover {
+    				color: #ccc;
+    			}
+			}
+		}
+
+}
+
+
+
 .dl-menuwrapper {
 	position: absolute;
 	top: 0;
@@ -15,6 +52,7 @@
 	perspective-origin: 50% 200%;
 
 	@media #{$medium} {
+		display: none;
 		position: fixed;
 		max-width: 175px;
 		top: 25px;

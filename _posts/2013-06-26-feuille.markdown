@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Feuille"
+date: 2013-06-26 17:38
+comments: true
+author: Hoedic
+image:
+  feature: 2013-06-26_feuille.jpg
+  credit: "Eastman, le 26 juin 2013"
+---
+
+
+Pause. Hier fut une journée productive, aujourd'hui non. Je sors sur le balcon du chalet que nous louons pour la semaine. Travailler pendant que les autres sont au cinéma.
+
+Sous mon regard, du vert à perte de vue. J'essaie de me sortir de l'esprit les problèmes techniques qui me bloquent: variables, configuration, templates. Combien? Des milliers? Des millions? Peut-être des milliards de feuilles que je peux toucher du regard: pissenlits, fougères, arbustes, arbres, dans l'étang, sur le sol, à flanc de montagne; autant d'usines perfectionnées répliquant toutes le même modèle de production. Sans variable ni configuration.
+
+La pause est terminée.

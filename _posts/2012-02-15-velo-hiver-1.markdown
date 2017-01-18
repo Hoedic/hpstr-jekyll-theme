@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Vélo d’hiver, 1ère partie – la technique"
+date: 2012-02-15 00:00
+comments: true
+author: Hoedic
+---
+
+Je me lance dans la rédaction de deux billets sur le vélo d’hiver que j’ai pratiqué à trois reprises au cours des 5 dernières années. L’objectif est double: permettre à ceux qui sont curieux de comprendre ce que cette pratique implique et répondre aux tristes sires qui nous traitent de suicidaires en puissance.
+
+Le premier billet couvre les questions d’ordre techniques tandis que le second s’intéressera plus à la philosophie qui s’y rattache.
+
+—
+
+Plusieurs questions techniques, spécifiques à la pratique hivernale, doivent être abordées. Nous procéderons à l’analyse coût-bénéfice de cette pratique en trois parties: la monture, le monteur et enfin l’absence de mutation génétique d’équilibriste pour faire du vélo d’hiver.
+
+### Ze vélo
+
+L’hiver québécois et surtout les produits utilisés pour lutter contre la glaciation terrestre sont particulièrement éprouvant pour le véhicule musculo-motorisé qu’est le bicycle. Les voitures bénéficient de traitements anti-rouille extensifs (et coûteux) mais ceci n’est pas applicable au vélo, du moins pas à ma connaissance. Deux catégories de tactiques ont été développées contre cet état de fait: choisir une vieille picouille qui vivra un voire 2 hivers ou prendre un vélo acceptable et le préparer pour une lutte sans merci avec son pire ennemi, la rouille.
+
+Jusqu’ici, j’avais opté pour la première technique, mais ça me semblait particulièrement peu durable. Donc pour la première année, j’utilise un vélo acceptable (et même bon) que j’ai spécifiquement choisi en vue de  faire du vélo d’hiver, que j’ai préparé et que j’entretiens en fonction.
+
+Mon vélo de base est un Giant Seek 1 avec freins à disque hydrauliques et vitesses intégrées au moyeu Alfine. Ce choix est lié à la pratique hivernal et plus généralement au conditions difficiles. Les freins à disque offrent une capacité de freinage douce mais constante. Jusqu’ici c’est à la hauteur de mes attentes, ils ne m’ont jamais pris en défaut. La transmission hydraulique  me faisait un peu peur dans les froids extrêmes. La gâchette se fait plus ferme vers -15, mais ça demeure pleinement fonctionnel.
+
+Bon niveau de satisfaction au niveau du changement de vitesse. Sur mes précédentes montures, le changement de vitesse devenait inutilisable assez rapidement à cause de l’exposition du mécanisme à toutes les saloperies de la Terre. Le système intégré au moyeu reste à peu près efficace  en tous temps. Seul bémol: la transmission par câble reste le point faible. En cas d’accumulation de sloche séchée en sortie de la gaine, il devient plus difficile de descendre les vitesses  (aller vers des plus petits développements). Ceci dit je ne me suis jamais retrouvé bloqué dans une vitesse non plus, parfois il faut descendre des 2 ou 3 vitesses (au lieu d’une) pour débloquer le mécanisme.
+
+Le cadre est en alu et plusieurs pièces en inox sauf les rayons et les jantes qui devront surement se faire changer assez rapidement.
+
+![Vélo]({{ root_url }}/images/2012-02-15_velo.jpg)
+
+#### Préparation et entretien
+
+Les années précédentes, j’avais conserver mes pneus réguliers. Ce n’était pas une bonne idée. J’ai donc suivi les conseils des habitués sur forum facebook de vélo d’hiver et j’ai opté pour des Schwalbe CX Pro 700×30, des pneus sans clou mais adapté à la neige. Avec les épisodes de pluie verglaçante tôt dans l’année, j’ai voulu essayer des pneus à clou mais la plupart des endroits proches de chez moi étaient en rupture de stock pour le modèle que je cherchais (preuve de l’engouement du vélo d’hiver) . Je suis resté avec les CX pro.
+
+En matière de préparation, j’ai mis de la graisse blanche sur la majorité des pièces susceptibles de corroder ou de serrer. Ça inclue tous les systèmes mobiles (assez peu nombreux sur ce vélo) comme le câble de changement de vitesse. La lubrification habituelle de la chaine est insuffisante (lubrifiant sec), il faut passer à quelque chose de plus sérieux (lubrifiant all-weather cross-country).
+
+Enfin, pour ce qui est de l’entretien régulier, chacun y va de sa méthode, le tout dépendant des conditions de stockage du destrier. Habituellement il est conseillé d’éviter les changements de température, notamment lorsqu’il y a de la sloche salée sur le vélo qui va fondre et propager des agents corrosifs dans les moindres recoins. Chez moi j’ai un stationnement couvert mais à température ambiante. Lorsqu’il fait froid, je me contente de brosser le pelage de mon destrier pour retirer le gros de la neige/sloche qui s’est accumulé. Si la température le permet, je remplis un seau d’eau chaude et le rince abondamment puis le sèche avec un chiffon pour éviter que l’eau ne gèle. Au travail, j’ai un stationnement souterrain chauffé. Là aussi, en cas de sloche, je brosse l’ensemble du vélo et essaie d’enlever autant de liquide que possible à l’aide d’un torchon.
+
+L’hiver est encore jeune, mais jusqu’à présent mon vélo semble mieux résister que les autres années aux agressions corrosives. La fin de l’hiver, c’est-à-dire lorsque les rues auront perdu une large partie de leur calcium/sel/gravier, sera l’occasion d’un grand nettoyage de printemps pour retirer graisses et lubrifiants.
+
+### Les fringues
+
+Chacun sa méthode pour les stratégies vestimentaires. Cela se décline différemment selon l’usage que l’on en fait. Le cycliste d’hiver touristique qui grosso modo fait deux trajets par jour en se changeant entre les deux a moins de paramètres à prendre en compte que les cyclistes d’hiver professionnels (principalement les coursiers) qui doivent passer leurs journées sur leur destrier avec des alternances d’effort et de repos/refroidissement. Je ne couvrirais que l’aspect de l’hiverno-cyclo-touriste. Dans ce cas-ci, on peut séparer  la problématique vestimentaire en trois partie: Le corps, la tête et les extrémités des membres.
+
+#### Le corps
+
+Assez simple en fait: l’activation physique provoquant un dégagement de chaleur assez rapide, il ne faut pas trop s’inquiéter d’avoir froid. Le but consiste donc à empiler les pelures d’oignon, avec une des pelures qui bloque le vent. Lorsque le temps est sec, mes épaisseurs classiques pour le haut du corps sont un T-shirt, un col-roulé léger, un vêtement coupe-vent assez ajusté et un pull en laine ou en polaire. Notez qu’il serait préférable d’inverser les deux dernières couches, mais mon coupe-vent est trop ajusté. Il est utile de prévoir  des vêtements qui s’ouvrent, on se retrouve facilement trop habillé après 10 minutes d’effort soutenu.
+
+Pour le bas du corps c’est encore plus simple: des collants de vélo Sugoi avec par-dessus un pantacourt qui n’ira pas se mettre dans la chaine très huileuse en cette période de l’année. Il est assez facile de garder un simple pantalon ou même les mollets nus par -5 et même -10 sans vraiment en souffrir.
+
+Si le temps est d’humeur humide (neige ou pluie), j’utilise mes vêtements de ski. Notez bien que ce n’est pas optimal car trop épais et trop chaud, surtout en haut, mais ça fait l’affaire dans mon cas.
+
+Dans tous les cas, les vêtements complètements étanches (tissus qui ne respirent pas) sont à proscrire: la transpiration ne s’évacue pas, on finit mouillé mais de l’intérieur!
+
+#### La tête
+
+En fonction de la température, un bandeau pour protéger les oreilles ou un bonnet fin en spandex se glissant sous le casque font l’affaire. Pour les froids intenses (inférieur à -15), il peut être plus confortable de protéger le bas du visage aussi avec un grand cache-coup que l’on remonte jusqu’au nez, un protège-visage ou une cagoule. Pour les hommes, le système pileux facial peut offrir une protection d’appoint non négligeable. Je parle en connaissance de cause.
+
+Enfin concernant les yeux, ça dépend de la sensibilité de chacun. Personnellement j’ai les yeux qui pleurent facilement. Donc selon la température et la couleur du ciel, j’opte pour des lunettes de soleil, des lunettes de vélo ou carrément un masque de ski lorsqu’il fait -10 ou moins. Comme pour le corps, le froid au niveau de la tête ne m’a jamais paru problématique.
+
+#### Les extrémités
+
+C’est le nerf de la guerre. Lors de ma première saison de vélo d’hiver, je me suis fait des engelures assez sévères aux mains par négligence et maintenant ces dernières reviennent très rapidement. Outre les engelures, avoir froid aux mains ou aux pieds peut simplement rendre l’aventure désagréable! Là encore, je ne prétend pas avoir la solution magique, mais c’est suffisant dans mon cas.
+
+Les pieds: Des chaussettes régulières et des demi-bottes d’hiver Rime Ridge (waterproof jusque sur le dessus du pied) de marque Timberland. Très confortable et suffisamment chaud. À noter qu’en cas d’épisode ultra-slocheux, ces bottes ne sont pas assez étanche car le jus de sloche arrive de partout. Il faut donc que j’opte pour mes protège-chaussures MEC qui sont trop petits pour aller avec les bottes. Mais habituellement “super sloche” signifie températures pas trop froides, donc je peux alors troquer mes chaudes bottes pour des chaussures.
+
+Les mains: Ça demeure mon principal problème en vélo d’hiver. J’ai opté pour des gants à trois doigts que je double avec de fins gants en soie au besoin. Ça fait l’affaire même par froid très intense, mais il ne faudrait pas que mon trajet dure une quinzaine de minutes de plus.
+
+Quoiqu’il en soit, il est utile d’avoir plusieurs paires de gants, idéalement plus ou moins chauds et de choisir en fonction de la météo. En effet, des gants trop chauds font transpirer… et donc avoir froid après. Lors d’épisode pluvieux (ça arrive), les gants seront mouillées et donc inutilisable le lendemain. Bref, plusieurs paires de gants.
+
+### Hit the road jack
+
+Tout ça pour donner quoi? Eh bien ça donne une expérience assez agréable. La principale question soulevée par la pratique du vélo d’hiver est celle de la sécurité. Voici quelques commentaires sur le sujet.
+
+Premièrement, il est important d’être équipé. En l’occurrence, même si je n’ai pas de pneus à clous, mes CX pro m’offrent une adhérence impressionnante. Pour avoir faire l’essai, j’ai roulé sur des plaques de glace sans difficulté. Il m’est arrivé certains jours de voir des voitures patiner au démarrage (en montée) alors que de mon coté, je démarrais sans difficulté. Évidemment, le fait de contrôler directement le couple transmis à la roue plutôt que de passer par une pédale d’accélérateur permet de beaucoup mieux sentir la limite d’adhérence au sol. Pareillement pour le freinage où on sent nettement plus vite les conditions à risque.
+
+Ensuite, dans le cas des pneus assez fins, la pression infligée par la roue sur la neige tend à creuser un sillon, ce qui évite les glissades de coté en situation neigeuse. Contrairement aux pneus larges des voitures qui restent sur la neige et donc glissent plus volontiers, les pneus de vélo vont chercher le plus possible un bon contact avec le sol, le vrai.
+
+Enfin nous pouvons remercier notre ami l’effet gyroscopique sans qui le vélo serait à peu près impossible. Cet effet se fait sentir d’autant plus en situation précaire. Là où un piéton, à chaque pas, créer une poussée déséquilibrante vers l’avant (et donc risque à chaque pas de glisser), le cycliste lui bénéficie de l’effet stabilisateur de ses roues en rotation dont la poussée est à peu près constante. Bref, le fait d’être en mouvement est gage de stabilité. Là encore pour m’amuser je suis passé sur des plaques de verglas dans un parc. Tant que le sol n’est pas en devers et qu’on ne cherche pas à changer de direction trop brusquement, l’équilibre se maintient assez bien, même là où il serait difficile de marcher.
+
+L’idée n’est pas de dire que les risques de chute n’existent pas; plusieurs cyclistes d’hiver tombent et cela m’est arrivé la première année (avec des pneus inadéquates). Cependant, il est important de souligner que l’entreprise est moins périlleuse qu’elle peut en avoir l’air. Rouler sur des surfaces légèrement enneigées  n’est pas beaucoup plus difficile que sur route sèche. Avec un peu d’entrainement cela devient agréable et suffisamment sécuritaire. Par ailleurs, les routes sont dégagées 90% du temps. Ensuite, il faut adapter sa conduite, comme les voitures d’ailleurs: ralentir, être vigilant à l’état de la chaussée et choisir sa route en fonction des conditions (personnellement je n’opte pas pour les mêmes trajets selon qu’il neige activement ou que les routes sont dégagées).
+
+Avec tout ça en main, il est possible de profiter de l’hiver sur 2 roues.
+
+—
+
+Enfin il existe d’autres sources d’informations, par exemple :
+
+- [MEC](http://www.mec.ca/AST/ContentPrimary/Learn/Cycling/IntroToCycling/WinterCycling.jsp?bmLocale=fr_CA)
+- [Des conseils de pro](http://www.thecyclebird.com/2012/01/wintercyclingtips/) (surtout pertinent en matière de vêtements pour ceux qui ont des trajets plus long ou des alternances effort/repos)
+- Le [forum](http://www.facebook.com/groups/velodhiver/) facebook dédié au vélo d’hiver à Montréal est très utile (et sympa)

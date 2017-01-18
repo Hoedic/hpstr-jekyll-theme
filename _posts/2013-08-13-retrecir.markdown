@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Rétrécir"
+date: 2013-08-13 21:32
+comments: true
+author: Hoedic
+---
+
+![Plongeon]({{ root_url }}/images/2013-08-13_venus.jpg)
+<div class="photoattrib">Montréal, 10 juillet 2013</div>
+
+> Tôt le matin, après le petit-déjeuner, les parents de Schmélele partent travailler.<br/>
+> Leurs journées sont longues et fatigantes.<br/>
+> À cause de leur travail qui est de plus en plus difficile.<br/>
+> Plus leur travail est difficile, plus ils rétrécissent.<br/>
+> Chaque jour, ils deviennent plus petits.<br/>
+> Et leurs journées deviennent encore plus longues et fatigantes.<br/>
+> Et ils rétrécissent encore plus.<br/>
+> Ils rétrécissent tellement qu'un soir Schmélele ne les voit plus.<br/>
+> Ils ont disparu.<br/>
+> <div class="attrib"><a href="http://www.ecoledesloisirs.fr/php-edl/catalogues/fiche-livre.php?reference=356467">Schmélele et l'eugénie des larmes</a>, Claude Ponti.</div>

@@ -25,6 +25,11 @@ body {
 .entry-content {
 	@include font-size(16);
 
+	img {
+		display: block;
+		margin: 0px auto;
+	}
+
 	// Dotted line underlines for links
 	p > a,
 	li > a {
@@ -122,7 +127,9 @@ body {
 	h2 {
 		margin: 0;
 		color: #fff;
-		text-transform: uppercase;
+		text-transform: none;
+		font-weight: 400;
+		letter-spacing: 0.05em;
 
 		@media #{$medium} {
 			a {
@@ -228,7 +235,7 @@ body {
 	.vcard {
 
 		&:before {
-			content: " by ";
+			content: " - par ";
 		}
 	}
 
@@ -277,6 +284,7 @@ header .entry-meta {
 		box-shadow: 0 0 0 0, 0 6px 12px rgba(#000,0.1);
 		border-radius: 3px;
 
+
 		@media #{$medium} {
 			margin-left: 10px;
 			margin-right: 10px;
@@ -289,7 +297,7 @@ header .entry-meta {
 			padding: 50px 80px;
 
 			> p:first-child {
-				@include font-size(20);
+				@include font-size(18);
 			}
 		}
 	}

@@ -1,0 +1,181 @@
+---
+layout: post
+title: "Rapport de gendarmerie - 6 janvier 2012"
+date: 2012-01-06 00:00
+comments: true
+categories: 
+---
+
+Le rapport de gendarmerie est un exercice de style visant à noter consciencieusement tous les événements d’une journée dans le but de donner une idée fidèle de la vie quotidienne à une époque donnée. Le premier date d’il y a 3 ans (je l’aurais bien lié, mais je découvre que mon ancien blogue a visiblement été hacké…). L’inspiration vient de [Laurent](http://embruns.net/) (qui d’ailleurs n’en a pas fait depuis bien longtemps). Bonne plongée dans notre quotidien.
+
+—
+
+- 5h55: Réveil d’Axel. Stress, va-t-il prendre du lait? Va-t-il accepter de se recoucher? Femme se lève et amène Axel dans le salon, première bonne nouvelle pour mon sommeil.
+- 6h10: Femme revient au lit après avoir posé Axel dans son lit. Yes! me dis-je. Pourtant on l’entend encore faire du bruit dans sa chambre… tout n’est pas gagné. Par ailleurs Femme me glisse que la nuit a été assez pénible, 5 ou 6 réveils d’Axel (je n’ai rien entendu évidemment).
+- 6h12: Axel fait encore du bruit et Arthur commence à chantonner dans son lit. C’est là que tout peut déconner. Ils peuvent se maintenir éveiller l’un l’autre et là c’est le lever assuré.
+- 6h15: Silence radio, on peut espérer dormir 3/4 d’heure de plus (la durée d’un cycle d’Axel qui tomberait également sur l’heure de réveil d’Arthur)
+- 6h56: Arthur rapplique dans notre lit pour son calin matinal. Il a 4 minutes de retard sur son heure habituelle, celle de son lapin-réveil. Il devait être vraiment distrait pour être aussi en retard.
+- 7h00: Réveil en trombe d’Axel. J’avais quand même l’espoir qu’il fasse deux cycles de sommeil car il est assez fatigué ces temps-ci.
+- 7h01: Je m’extirpe du lit pour aller chercher Axel.
+- 7h02: Je pose Axel dans son petit transat. Pipi. Mouchage.
+- 7h04: Je regarde mes courriels car j’attends quelques nouvelles, notamment de France… mais rien.
+- 7h07: Femme se lève avec Arthur, ils nous rejoignent dans le salon, lugubre avec un éclairage minimum.
+- 7h08: Femme prend Axel dans ses bras. À l’image des deux derniers jours, il ne tient pas plus de 5 minutes seul sans me mettre à crier. Rapidement, Femme se retrouve avec Axel et Arthur sur les genoux, dans la chaise berceuse.
+- 7h09: Je vais prendre Axel et marche avec, c’est ce qu’il y a de mieux pour le calmer. Arthur me demande d’aller faire de l’ordi. Évidemment c’est un piege pour me faire asseoir et pouvoir jouer avec Axel.
+- 7h10: Arthur veut faire du iPad, Axel pousse ses fameux cris stridents.
+- 7h12: Changement de couche d’Axel. Il joue avec ses pieds puis crie de nouveau. Il a décidément la mèche courte ce matin.
+- 7h19: J’ai de nouveau Axel dans les bras. Sur l’ipad, Arthur regarde les aventures d’Oso Berni, son nouveau meilleur ami d’iPad.
+- 7h25: Axel ne manque pas de régurgiter, je le refile à Femme. J’ai déjà le système nerveux en surchauffe.
+- 7h26: Je nourris le chat et lui file de l’eau.
+- 7h28: J’appelle ma Môman car elle a laissé des messages vocaux hier. Elle n’a pas reçu ce que je lui ai envoyé qu’elle ne sait pas que je lui ai envoyé (bref, une surprise). Femme s’assoie avec Axel, ce qui a pour effet de le faire crier.
+- 7h30: Fin de la séance d’ipad pour Arthur
+- 7h35: Pendant l’appel téléphonique, Arthur me demande le miroir. Je l’aide à le trouver.
+- 7h40: Axel crie… Ça n’aide pas les conversations téléphonique.
+- 7h43: Fin de l’appel téléphonique
+- 7h44: Femme met Axel en écharpe pour essayer de préserver nos oreilles, c’est là qu’il est le moins malheureux par les temps qui courent.
+- 7h48: Mollement, nous mettons la table.
+- 7h50: Arthur s’allonge sur le futon en disant qu’il est fatigué.
+- 7h51: Soudainement, Arthur n’est plus fatigué. Il se raconte des histoires de méchant coquillage géant qui est ami avec Gargamel, tout en se promenant dans l’appartement avec son miroir.
+- 7h55: Après 10 minutes de négociations intermittentes, Arthur accepte qu’on lui mette des chaussettes.
+- 7h57: Nous sommes sur le point de petit-déjeuner et Arthur demande à regarder les Schtroumpfs.
+- 8h00: Arthur fait une crise de Schtroumpf puis de lait après que nous lui ayons intimé de passer à table.
+- 8h03: Il finit par se mettre à table, à reculons. Axel est déposé dans son transat et se voit proposer des céréales en purée.
+- 8h04: Question arthurienne du jour: pourquoi les rois mages sont morts? Réponse: parce qu’ils sont nés il y a très très très longtemps. Par chance pour nos neurones embrumés, il ne renchérit pas sur une autre question.
+- 8h09: Femme est tanné d’entendre le crieux crier, il est en train de s’énerver sur ses céréales. Elle décide de l’allaiter… et se fait mordre. Probablement parce qu’Arthur dérangeait tout ce beau monde.
+- 8h17: Axel mange un peu plus calmement, le lait maternel a des vertus apaisantes évidentes. Arthur se papillonne dans l’appartement avec un truc en plastique sur la tête en disant qu’il est un fantôme.
+- 8h28: Axel mange en me souriant, non sans crier par intervalle.
+- 8h31: Fin du petit dej’. Fiston s’invente des histoires de déguisement. Axel dans son transat, joue en criant.
+- 8h34: Arthur s’essaie à écrire sur mon clavier d’ordinateur, j’essaie de mon coté de lui faire comprendre que ce n’est pas une bonne idée. Axel s’énerve sur son champignon en plastique qu’il mâchouille frénétiquement.
+- 8h35: Femme évalue les gencives d’Axel. Verdict: horrible. Il a la mèche vraiment courte, inhabituel pour lui qui est assez tolérant habituellement.
+- 8h36: Arthur a lâché mon laptop et s’est rabattu sur son petit ordi d’enfant. Femme donne du tempra à Axel, espérant ainsi rallonger sa mèche courte.
+- 8h37: Je charge Axel à dos d’homme. Voilà 1h30 qu’il est réveillé, il est temps qu’il dorme et pour ça rien ne vaut un tour en écharpe.
+- 8h44: Pendant que je déambule dans l’appart avec Axel sur le dos, Arthur joue en s’imaginant des histoires et Femme dessert la table.
+- 8h50: Axel s’endort sur mon dos après s’être quelque peu débattu.
+- 8h52: Femme m’aide à transférer Axel de mon dos au lit. Mission réussie.
+- 8h54: Arthur demande une collation alors qu’il n’a pas voulu manger voilà quelques instants de ça.
+- 8h57: Brossage de dent. Je ramasse quelques unes de mes loques qui trainent au sol. Arthur propose d’empiler les deux télés l’une sur l’autre pour pouvoir regarder deux choses en même temps et ne pas jeter l’ancienne. Bonne idée mais plutôt instable lui dis-je.
+- 9h02: Grosse affaire aux toilettes
+- 9h12: Habillage. Femme et Arthur peignent des globules rouges.
+- 9h15: Ordinateur. Je ferme des onglets firefox et je regarde compulsivement mes courriels. Toujours rien. Et je déteste Colissimo.
+- 9h22: Pendant qu’il peint, Arthur nous fait un petit coup de “je ne veux plus voire unetelle, ce n’est plus mon amie”, alors qu’il demandait à la revoir hier. Une façon de gérer ses déceptions.
+- 9h28: Réveil d’Axel… plus court que sa normale de quelques minutes, dommage.
+- 9h29: Calin de tous les garcons de la maison sur le futon pendant que Femme est au téléphone
+- 9h35: Je promene Axel “à bras” dans la maison.
+- 9h40: Ses cris me tapent sur le système. Femme prend Axel. Je m’occupe de la litière du chat. Arthur nous dit qu’il a rêvé qu’il dormait dans un Babibel… alors qu’il mange un Babibel.
+- 9h48: Femme se lève de sa chaise, Axel la gratifie d’un immense régurgis nécessitant un changement de vêtement.
+- 9h50: Axel est posé sur son tapis d’éveil, Arthur s’occupe de l’occuper jusqu’à ce qu’il (Arthur) se rappelle qu’il veut encore faire du iPad.
+- 9h52: Arthur a oublié qu’il voulait l’iPad, tant mieux car on aurait refusé. Séance de cache-cache familial dans l’appart.
+- 10h03: Arthur et Femme font une partie de bisous-dodo. Axel mange frénétiquement son champignon en plastique tout en criant par intermittence.
+- 10h04: Verre d’eau. Arthur refuse de jouer à bisous-dodo selon les règles.
+- 10h07: Compulsion de courriels. Toujours rien.
+- 10h10: Axel ne tolère plus son transat au bout de 10 minutes. Je le prends et me fais gratifier à mon tour d’un regurgis. Plus petit cependant.
+- 10h15: Finalement Femme prend Axel.
+- 10h21: Après une n-ième tentative, j’arrive à imprimer un cadeau pour l’anniversaire de Femme (qui est aujourd’hui).
+- 10h22: Arthur découvre un pot magique avec plein d’objets pour faire des bricolages, ça semble faire son affaire.
+- 10h28: On se prépare pour aller à un brunch familial pour l’anniversaire de Femme. J’habille le crieux.
+- 10h35: Arthur sert de passe-temps à un Axel gisant au sol saucissonné dans son habit d’hiver.
+- 10h38: Départ général.
+- 10h58: Arrivée à Grand-mère poule sur Masson, non sans s’être perdu dans de nombreux culs-de-sac. Axel avait son bonnet sur la face, il pouvait bien être frustré mais n’a quasiment pas crié pourtant.
+- 11h02: Dans la panique de la sortie de voiture, nous avons oublié de payer le parcomètre. Je ressors tandis que Femme essaie d’endormir Axel en écharpe en plus de surveiller Arthur.
+- 11h07: De retour du dehors.
+- 11h12: Réception d’un courriel que j’attendais mais pas parmi les plus importants… Intéressant quand même. Ça calme un peu ma compulsion de courriel.
+- 11h16: Arrivée de la mère et du frère de Femme. On peut commander!
+- 11h27: Axel dort sur femme, condamnée à rester debout. On commande, des oeufs benedictines pour moi. Grilled cheese en haute priorité pour Arthur qui meurt de faim.
+- 11h29: Déballage des cadeaux de Femme.
+- 11h31: Finalement femme s’assoit bien qu’ayant Axel en portage ventral. Ça ne va surement pas durer longtemps.
+- 11h47: Arrivée des assiettes. Fiston veut un  bagel au beurre d’arachide après son grilled cheese.
+- 11h50: Axel est réveillé. Ce fut effectivement court mais comme à son habitude, il se réveille tout sourire.
+- 11h57: Axel est mis dans une chaise haute. Un peu de criage pour rappeler qu’il existe.
+- 11h59: Femme sort son attirail de jouets pour Axel. Il s’entiche d’une sorte de suce semi-rigide pour se faire les dents, pas surprenant.
+- 12h02: J’ai pris un petit-dej léger en vue du brunch; moralité j’ai encore très faim et je commande une assiette de pain doré.
+- 12h11: Je suis servi! Arthur menace de tout détruire dans le restaurant.
+- 12h20: Je finis de manger, ça fait du bien! Arthur déambule dans le restaurant. Grand-maman s’occupe d’Axel.
+- 12h25: Axel décolle les tympans de sa grand-maman, surement parce qu’elle est trop assise, crime inacceptable quand on s’appelle Axel. On se prépare à partir.
+- 12h35: Départ général après avoir habillé le petit et le grand monde.
+- 12h37: Sur le chemin de la voiture, dans le froid mordant, Arthur fait une crise de “je veux la main de Maman” alors que Maman porte Axel dans ses bras. Il se résigne à prendre ma main, que la vie d’un petit garçon est remplie de frustation… la main de papa, pouah.
+- 12h45: Nous sommes saisis par le froid, Femme se sent mal, et tout le monde étant fatigués, nous décidons de rentrer à la maison plutôt que d’enchainer avec la bibliothèque comme prévu.
+- 13h00: Arrivée à la maison, nous sommes frigorifiés. Femme met le foyer.
+- 13h03: Femme allaite Axel. Arthur fait pipi. Moi aussi.
+- 13h04: Arthur veut faire de l’iPad.
+- 13h06: Mes engelures aux mains provoquées par le vélo me font un peu mal, j’essaie d’améliorer leur sort à grand coups de Nivéa.
+- 13h10: Femme chante des chansons à Axel qui est allongé sur ses cuisses. L’allaitement fut difficile mais il semble heureux.
+- 13h16: Je me décide à mettre un peu de musique, il parait que ça adoucit les mœurs.
+- 13h17: Fiston profite de sa séance d’iPad. Il jongle entre Youtube, photo booth et des jeux pour enfants.
+- 13h20: Fin de la séance d’iPad. Femme prend des Tylenol, elle se sent fébrile et avec des courbatures. Ça augure mal.
+- 13h26: Femme va aider Arthur à faire dodo… et essayer de faire dodo avec lui. Moi je prends Axel en écharpe en ventral pour le faire dormir aussi.
+- 13h32: Axel se débat dans l’écharpe et crie à l’occasion. Ça promet pour espérer qu’il dorme, en plus d’également empêcher Arthur et Femme de dormir.
+- 13h35: Axel se calme. Je peux prendre mon Petit cours d’autodéfense en économique et le lire par-dessus son épaule.
+- 13h42: Axel dort finalement.
+- 13h45: Je dépose Axel dans son lit: success (ce qui n’est pas gagné)
+- 13h48: Je me mets un petit Through the wormhole à propos des trous noirs avec le casque d’écoute.
+- 14h10: Ma mère appelle, je sors de l’appart et m’assois dans le couloir pour lui parler. Elle a enfin reçu sa surprise: un nouveau laptop. C’est pas trop tôt! Je déteste moins Colissimo.
+- 14h26: Fin de l’appel maternel, je retourne dans l’appartement.
+- 14h29: Bon timing, Axel se réveille, je vais le chercher. Femme sort de la chambre en même temps. Elle a un peu dormi.
+- 14h31: Je continue à écouter mon émission en déambulant avec Axel dans les bras, il se décroche le cou pour regarder la télé.
+- 14h39: Réveil d’Arthur. Surprenant, vraiment court pour lui. J’arrête mon émission.
+- 14h43: Arthur demande de l’eau.
+- 14h45: Arthur demande à voir Oso Berni (Youtube) sur la télé. On accepte.
+- 14h46: Femme arrive à allaiter (difficilement) Axel, qui semble vraiment inconfortable de la bouche.
+- 14h52: Je prends Axel et le promène.
+- 14h58: J’ai un rendez-vous à 15h30 au centre-ville. J’annonce à Femme que je vais bientôt me préparer.
+- 15h01: Je reçois un courriel, la réunion est reportée de 15 minutes. Ça m’arrange, j’étais déjà en retard.
+- 15h14: Je me prépare pour faire du vélo.
+- 15h20: J’enfourche mon blanc destrier et file sur la neige fraiche. Malgré le -11 au thermomètre, les conditions sont très agréables.
+- 15h29: Je descends Hotel-de-ville puis Roy, Des Pins, Milton pour arriver sur University, mon point de rendez-vous.
+- 15h46: Arrivée à ma rencontre, en retard d’une petite minute.
+- 16h30: Je prends congé de mes interlocuteurs après une bonne réunion, il faut que je sois de retour vers 17h.
+- 16h57: Je m’arrête chez Fou Dessert pour acheter un gateau d’anniversaire (qui n’est autre qu’une galette des rois). En bonus j’achète des sablés nappés au chocolat.
+- 17h12: Arrivée à la maison. Femme regarde les Schtroumpfs à la télé avec Arthur. Axel est dans son transat. Il a aussi fait une sieste en mon absence, ce qui est bon. Femme se sent toujours coussi-coussa.
+- 17h13: Je demande un sceau d’eau chaude à Femme pour aller rincer mon vélo.
+- 17h15: Rinçage et séchage en bonne et due forme pour éviter que le sel n’attaque le vélo.
+- 17h28: Tant qu’à être habillé, je sors les poubelles.
+- 17h38: Je m’attaque au repas (un pad thai) pendant que Femme s’occupe des enfants.
+- 17h46: Finalement je prends Axel sur le dos pour permettre à Arthur de jouer avec sa Môman.
+- 17h47: Je mets les nouilles de riz au bain-marie, j’ai un peu de temps avant de faire le reste.
+- 17h48: Je décide de finir mon épisode de Through the wormhole.
+- 17h59: Fin de mon émission. Je commence à découper et faire cuire la viande.
+- 18h04: Merde j’ai oublié les oignons. Go go go, coupage d’oignons.
+- 18h11: Femme commence à être tannée de jouer avec Arthur (même jeu à répétition je suppose), elle vient s’enquérir de l’avancement du repas.
+- 18h16: Encore une mauvaise surprise: le sachet de sauce Pad thai sert à cuisiner un demi sachet de nouilles… sauf que j’ai mis toutes les nouilles. Oops. Je vais rallonger la sauce comme je peux.
+- 18h28: Fiou, c’est prêt. Arthur ne veut pas arrêter de jouer avec Femme. Axel a incroyablement bien fait ça sur mon dos en restant éveillé et calme tout le long.
+- 18h29: On passe à table. Arthur refuse de manger, évidemment il n’aime pas le Pad thai qu’il n’a jamais gouté. Il gêne Axel qui essaie de manger de la clémentine dans son filet à bébé.
+- 18h31: Arthur demande un bagel avec du beurre d’arachide, genre. Tout ça parce que pour le convaincre que c’était bon, j’ai dit que j’ai mis du beurre d’arachide dans le pad thai.
+- 18h35: Monseigneur accepte de passer à table. Nous profitons de notre bon repas, la sauce Pad thai rallongée est pas mal bonne.
+- 18h41: Après plusieurs tentatives variées, Arthur accepte du yahourt.
+- 18h42: Finalement il goute le Pad thai et en mange quelques bouchées tout en maintenant qu’il n’aime pas ça. Devant cette position intenable, il passe au yahourt pour ne pas perdre la face.
+- 18h43: On passe au dessert. Deuxième galette des rois en autant de jours. Bonne mais celle de de Gascogne est meilleure. Cette dernière est plus radine en frangipane, mais la frangipane est meilleure. On déguste avec les sablés nappés au chocolat.
+- 18h50: Arthur essaie un jeu de domination sur Femme en posant son pied sur elle, pour jouer. À chaque fois qu’elle l’enlève, il revient à l’assaut.
+- 18h51: Après s’être fait menacer de voir sa chaise déménager à l’autre bout de la table, il finit par arrêter son jeu de pied, non sans grogner.
+- 18h53: Axel s’énerve sur son filet de clémentines.
+- 18h55: Sortie de table. Femme allaite le petit. Arthur annonce qu’il va faire caca.
+- 19h00: Enclenchement de la procédure de fin de journée. Je vais m’occuper du bain d’Axel pendant que Femme donne son lait de fin de journée à Arthur.
+- 19h10: Axel est déshabillé et prêt à mettre au bain. Il semble de meilleur humeur depuis mon retour.
+- 19h12: Bonne séance de jeu dans le bain. Je lui présente Monsieur cochon-sale-qui-devient-propre-dans-l’eau-chaude en l’absence de Bébé grenouille, son ami de bain préféré qui doit être égaré quelque part.
+- 19h15: Axel était très content de rencontrer Monsieur Cochon et de le machouiller, mais cela ne remplacera pas Bébé Grenouille qu’il faudra bien retrouver.
+- 19h20: Femme débarque avec Arthur qui saute dans le bain avec Axel.
+- 19h23: Je sors Axel du bain et le donne à Femme qui va s’occuper de le coucher.
+- 19h26: J’accède à la demande d’Arthur d’aller dans le bain avec lui. On est en vacances, on a le temps.
+- 19h29: Séance de jeu avec les doigts dans le bain. Et vas-y que mes doigts sont Gargamel et les Schtroumpfs.
+- 19h45: J’en profite pour me laver.
+- 19h50: Je lave Arthur.
+- 19h56: Il doit avoir eu son compte de jeu car il sort du bain en même temps que moi alors que je lui proposais de rester un peu.
+- 19h58: J’habille Arthur dans sa chambre.
+- 20h02: Je m’éclipse pour aller moi-même m’habiller dans ma chambre. Femme a réussi à coucher Axel.
+- 20h03: Début des histoires. Arthur va se chercher une baguette (pour manger) afin d’en faire sa baguette magique.
+- 20h05: D’un coup de ladite baguette, il fait apparaitre une histoire de la Fée coquillette qu’il veut que je lui lise. D’où la baguette.
+- 20h15: On enchaine ensuite avec un Samsam et un livre d’exploration. Pendant que je lis, Arthur continue à faire des tours de magie. Il est bien drôle.
+- 20h23: Petit pipi d’Arthur avant le dernier droit.
+- 20h26: Arthur fait un peu durer le plaisir du pipi pour éviter de retourner dans la chambre. Rien de bien excessif et il prend la direction de son lit de bon coeur.
+- 20h28: Nos trois chansons habituelles: À la claire fontaine, V’la le bon vent et Pirouette Cacahuète. Pendant que je chante, il se met sous sa couette, non sans oublier sa baguette qui ne manquera pas de lui servir dans ses rêves.
+- 20h35: Fin des chansons. Je le borde et j’éteins les lumières. Vraiment agréable comme soirée.
+- 20h37: Sortie de la chambre d’Arthur. Femme fait du iPad dans le salon.
+- 20h39: Traitement des courriels de la journée. En bout de ligne j’ai reçu 2 courriels que j’attendais, mais le plus important de tous n’est pas arrivé. Je vais devoir attendre jusqu’à lundi, au mieux.
+- 20h55: Mon cell fait un gros gong sur réception d’un courriel (inintéressant par ailleurs). Ça me rappelle de lui couper le sifflet.
+- 20h56: Lecture de quelques onglets trainant sur Firefox…
+- 21h04: Après une nuit précédente pénible et une journée passée à se sentir fiévreuse, Femme va se coucher.
+- 21h31: Une amie de Femme appelle pour lui souhaiter un bon anniversaire. Raté, elle dort.
+- 21h37: Arthur fait de la résistance, je l’entends encore se raconter des histoires dans son lit.
+- 22h02: Je fais un peu de mise en page et de correction de coquilles pour le présent billet.
+- 22h23: Verre d’eau. J’ai tellement soif depuis que j’ai été malade.
+- 22h47: Brossage de dent.
+- 22h51: Extinction des feux.

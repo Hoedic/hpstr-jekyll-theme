@@ -1,0 +1,26 @@
+---
+layout: post
+title: "L'espoir vain de gérer le traffic"
+date: 2014-09-10 09:43
+comments: true
+author: Hoedic
+image:
+  feature: 2014-09-10-traffic-lights.jpg
+  credit: "Traffic Lights, Barb Crawford"
+---
+
+
+L'actualité me donne l'occasion de poursuivre la réflexion amorcée récemment dans les [pages](http://cllbr.com/post/montreal-l-intelligence-dans-l-engagement/400/) de Cllbr au sujet de la ville intelligente: la [mise](http://www.lapresse.ca/actualites/montreal/201409/08/01-4798256-montreal-aura-son-transport-intelligent.php) en [oeuvre](http://www.ledevoir.com/politique/montreal/417959/montreal-fait-un-pas-de-plus-vers-le-transport-intelligent) du Centre de Gestion de la Mobilité Urbaine (CGMU) de la Ville de Montréal promettant du transport intelligent.
+
+Histoire d'être parfaitement clair sur ma connaissance du sujet: je connais une partie de l'équipe en charge de ce projet, j'ai même eu l'occasion de pénétrer dans une des salles dédiées au CGMU. Ceci dit, je n'en connais pas beaucoup plus sur le projet que les descriptions publiées ces derniers jours.
+
+Le gros du CGMU est la mise en oeuvre d'un réseau de caméra aux principales intersections ainsi que la capacité de controler à distance certains feux de circulation. Dans l'avenir, cela va également venir, si j'ai bien compris, avec la mise en oeuvre de capteurs variés; le tout supporté par de puissants systèmes d'informations. Les bénéfices sont évidents: voir les accidents à distance et modifier le cycle des feux de circulation pour limiter les impacts aussi rapidement que possible.
+
+Mais de là à dire que cela va permettre de *gérer* le traffic, il y a un pas à ne pas franchir. Penser gérer le traffic, c'est un peu comme espérer gérer une équipe de chats. Le nouvel [adage](http://www.morallymarketed.com/marketing-ethics/you-are-not-stuck-in-traffic-you-are-traffic/) "vous n'êtes pas pris dans le traffic, vous êtes le traffic" explique parfaitement la problèmatique: tant que les automobilistes ne sont pas impliqués directement dans la résolution du problème, n'ont pas les bons outils pour eux-mêmes régler le problème, les gains resteront minimes. L'approche tour de contrôle ne fonctionne pas.
+
+Regardons un cas récent, hier: des travaux créaient un rétrecissement de deux à une voie après un feu de circulation. Le comportement idéal serait d'attendre *avant* l'intersection et à tour de rôle traverser l'intersection. Comportement réel: trop de monde essaie de tricher. Nous voulant pas se faire doubler, chacun se jette dans l'intersection, bloquant ainsi le traffic de la rue perpendiculaire. C'est le genre de phénomène qui crée un [gridlock](http://en.wikipedia.org/wiki/Gridlock), situation dans laquelle de la congestion le long d'un axe entraine de la congestion sur les axes orthogonaux, quand bien même ces derniers ne sont pas au-dessus de la capacité de transport. À partir de ce moment c'est *game overt*, la congestion ne peut que croitre. C'est le genre de situation typique où adapter le cycle des feux aura un impact limité.
+
+La solution réside donc dans une approche plus vaste. Un aspect important est d'avoir des outils ergonomiques et faciles d'accès pour décider où circuler. Le moyen le plus efficace pour arriver à cela est d'ouvrir les données. Les Google et Tomtom de ce monde sont déjà la recherche de ces informations pour adapter leurs trajets en fonction de l'état du traffic. Des startups se positionnent aussi sur ce créneau comme [ReRoute.me](http://www.rerouteme.com/) à Ottawa. (Et bien franchement, ça ne me fait pas plaisir outre mesure de déléguer une partie de l'information aux voyageurs à Google car cela soulève d'autres problématiques. Toutefois, dans un objectif d'isoler un tant soit peu les problèmes, il n'en reste pas moins que des organisations comme Google sont les mieux placer pour améliorer la situation). Des [collaborations](http://www.forbes.com/sites/parmyolson/2014/07/07/why-google-waze-helps-local-governments-track-its-users/) sont même en train de se mettre en place pour échanger les données officielles contre des données crowdsourcées. Évidemment, fournir des options de déplacement, notamment en transport en commun ou simplement favoriser le télétravail pour limiter le nombre de déplacement font partie d'une stratégie plus vaste et nécessaire.
+
+La bonne nouvelle, c'est que l'équipe de transports intelligents de la Ville de Montréal est parfaitement consciente que le CGMU n'est qu'une étape, l'étape où on commence à *voir*. Des commentaires soulevant la possibilité de faire des calculateurs de trajets multi-modaux montrent une bonne compréhension des options. Ils savent aussi que l'ouverture des données est un incontournable pour espérer voir cette informations utilisée par chacun. La grande question est donc de savoir comment, dans les faits, traduire cette vision en réalité, comment designer une stratégie permettant d'intégrer les informations de la ville, les organisations capables de fournir des services aux citoyens et les citoyens eux-mêmes. Dans tous les cas, ce sont ces derniers (les citoyens, ou plus précisément les voyageurs) le dernier mot quant à l'amélioration de cette plaie universelle qu'est la congestion routière.
+

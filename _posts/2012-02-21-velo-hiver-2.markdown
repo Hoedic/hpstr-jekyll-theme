@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Vélo d’hiver, 2ème partie – la philosophie"
+date: 2012-02-21 00:00
+comments: true
+author: Hoedic
+---
+
+
+Après avoir traité des aspects techniques du vélo d’hiver en [1ère partie]({{ root_url }}/2012/02/15/velo-hiver-1/
+), voici quelques considérations sur la raison d’être de ce mouvement en pleine croissance. Étant donné que ce texte m’est venu en entendant toutes sortes d’âneries à propos du vélo d’hiver, je vais également répondre aux détracteurs… quand bien même je sais que c’est vain. Le lecteur attentif remarquera que de nombreux arguments s’appliquent au vélo en général.
+
+–
+
+### Au plan individuel: la motivation
+
+Au commencement était l’individu. Pourquoi des gens se font chier à faire du vélo par -20. Surtout avec tous les emmerdements que cela implique: froid, préparation du vélo, etc.  Sont-ce des illuminés écolo-granos à tendance masochiste en nomination pour les Darwin Awards? Nous sommes chanceux, une personne s’est penchée sur le sujet. Cela a notamment fait l’objet d’un sondage auprès d’hiverno-cyclistes multirécidivistes. Le tout fut couronné par un petit [rapport](http://www.urb.umontreal.ca/realisations/docs/AME_11/TARN27598403.pdf) très éloquent.
+
+Premier point: le pourquoi! Les trois premières raisons de faire du vélo d’hiver sont  : 1. les déplacements plus rapides, 2. l’autonomie supérieure et 3. l’exercice physique. En ne cherchant pas trop loin, on devrait trouver les mêmes raisons pour la pratique du vélo “utilitaire” en général.
+
+On ne parle pas vraiment d’une guerre idéologique visant la domination du monde par les deux roues musculo-propulsés! Les préoccupations environnementales arrivent en 6ème position après le plaisir du vélo (4ème) et les faibles coûts (5ème). Parlant de coûts: on associe souvent vélo à du monde pas-les-moyens-pour-s’acheter-un-char. Dans le sondage en question, plus de la moitié des répondants déclaraient un salaire annuel supérieur à 40k$.
+
+Enfin, et c’est important à noter: c’est agréable! Alors que l’on a facilement tendance à se cloîtrer durant l’hiver, le vélo est une occasion de passer un bon moment dehors. L’activité physique permet de lutter contre le froid et du coup est relativement plus confortable que de marche (ou pire, d’attendre le bus!). C’est vivifiant, on arrive au travail, par exemple, réveillé et fier de notre trajet!
+
+Quelque soit le sens dans lequel on prend ses données, on parle d’une pratique avant tout… pratique! C’est rapide, agréable,  simple et efficace, voilà tout.
+
+
+![Tweed run @ Helsinki]({{ root_url }}/images/2012-02-21-tweed-run.jpg)
+<div class="photoattrib">Source: <a href="http://www.flickr.com/photos/cycleinhel/5479072728/">Martti Tulenheimo/CycleInHel</a>.</div>
+
+
+### Au plan collectif
+
+Difficile d’éviter les arguments généraux en faveur de la pratique du vélo: c’est environnemental, c’est santé, ça met de bonne humeur, ça créé un sentiment de communauté et ça libère de l’espace. En quelques mots, ça répond à la majeure partie des problématiques rencontrées par les villes.
+
+Maintenant, pourquoi le vélo d’hiver spécifiquement. C’est assez simple: pour que le vélo puisse effectivement jouer un rôle dans l’organisation de la ville (i.e libérer des places dans les transports en commun, enlever des voitures dans les rues), il faut que son effet se fasse sentir toute l’année. Si, au premier gel, tout le monde range son vélo, les infrastructures, les transports en commun et tout le reste doit être pensé en fonction de la charge hivernale, quand bien même ça ne dure que 3 mois par an.
+
+Entendons-nous bien: on ne parle pas d’obliger le monde à faire du vélo. Je dis juste que pour avoir des bénéfices systémiques au vélo utilitaire, il faut qu’une partie de ses utilisateurs continuent durant l’hiver. Admettons que comme à Oulu, en Finlande, 25% des cyclistes poursuivent leur pratique l’hiver, on a quelque chose! A contrario, une pratique marginale l’hiver n’a pas d’effet positif sur l’organisation générale de la ville. Tout ceci pourrait se traduire par une baisse des coûts reliés aux infrastructures de transport.
+
+
+### La sécurité
+
+De nombreux opposants à la pratique du vélo d’hiver mettent en avant les questions de sécurité. Et là je dis WTF! Depuis quand des personnes comme [Mario Dumont et ses acolytes](http://www.youtube.com/watch?feature=player_embedded&v=Gopry3RnbMc) s’intéressent à la sécurité des autres? C’est de toute évidence un argument fallacieux pour appâter le téléspectateur. Mais bon, je vais quand même élaborer sur la question.
+
+Premièrement, comme expliqué dans le précédent billet, le vélo est surprenant de stabilité une fois bien équipé. Je sais que bien des personnes ne vont pas me croire, mais il n’y a qu’en essayant qu’on peut s’en convaincre: un vélo peut être aussi contrôlable qu’une voiture sur surface enneigée ou même un peu glacée (et au pire, il est plus facile de descendre de vélo et de marcher que de laisser sa voiture sur place). Par ailleurs, 90% du temps, les routes sont suffisamment dégagées pour assurer un contact direct avec l’asphalte. Ce n’est pas sans danger, on peu se prendre de gamelle, mais l’été ausi (depuis le temps, j’en suis à 3 chutes hors hiver et une chute d’hiver)
+
+Ensuite, dites-moi qu’est-ce qui est plus dangereux: un 80kg de cycliste et 10kg de vélo roulant à 25km/h ou 2 tonnes de métal roulant (théoriquement) à 50km/h. Par temps difficile, la voiture est non seulement dangereuse pour les cyclistes, mais aussi pour les piétons, et pour les autres voitures. Si on veut vraiment jouer sur l’argument de la sécurité, on interdit les voitures! Avec les milliers de morts chaque année sur les routes canadiennes, la voiture est une arme de destruction massive…
+
+Enfin, les [statistiques générales](http://grist.org/biking/virtuous-cycle-10-lessons-from-the-worlds-great-biking-cities/) démontrent que la pratique du vélo devient moins dangereuse à mesure que le nombre de cyclistes augmentent. Il va se produire la même chose pour le vélo d’hiver: les infrastructures vont tranquillement suivre, les automobilistes vont s’habituer à nous voir et le nombre d’accidents en proportion va baisser.
+
+Comme toute nouvelle pratique, le vélo d’hiver est perçu comme bizarre. Cependant, à mesure que des “pionniers” s’y mettent, de nouvelles personnes vont se joindre au mouvement au point que cela devienne à peu près normal.
+
+### Les opposants
+
+Je vais couvrir ci-dessous quelques uns des arguments récurrents des opposants au vélo d’hiver…
+
+#### Les motos sont interdites l’hiver
+
+Il faut avoir une incompréhension crasse des forces en présence pour confondre moto et vélo. D’abord, la majorité des motos ne peuvent pas être équipées de pneus d’hiver. Ensuite le rapport puissance/poids des deux véhicules est sans commune mesure, le couple transmis par une moto demeurant beaucoup plus difficile à doser. Enfin une moto roule à la même vitesse qu’une voiture, mais sans la carrosserie. En cas de glissade, c’est le massacre assuré. Été comme hiver, les chutes à vélo sont moins dangereuses!
+
+On déneige les pistes cyclables avant les rues!
+Ceci est factuellement faux, je n’ai jamais vu les pistes cyclables déneigées en priorité à Montréal. Mais ce serait souhaitable! D’ailleurs, ça se fait dans certaines villes scandinaves. J’ai aussi lu récemment que Chicago avait acheté du matériel spécifiquement pour déneiger les pistes cyclables.
+
+Voilà plusieurs années, alors que le vélo d’hiver était quasi-inexistant (et le réseau de pistes moins développé), il semblait normal de ne pas investir dans le déneigement des pistes cyclables. Maintenant que le vélo prend plus de place l’hiver, il semblerait normal que les villes suivent au moins le mouvement… à défaut de l’anticiper.
+
+#### C’est du gâchis d’argent public!
+
+Certains s’émeuvent très facilement des dépenses publiques liées à la pratique du cyclisme, encore plus en hiver. Évidemment pour ces personnes, le vélo est un loisir bien particulier en ce sens qu’il écoeure le bon travailleur qui veut rentrer chez lui. Sauf que penser ainsi revient à doublement se fourrer la tête dans le fion. D’abord parce que le vélo est un moyen efficace pour déplacer. Ensuite parce que le “payeur de taxe”  contribue très très grassement aux infrastructures routières énormes qu’impliquent l’utilisation de la voiture. Dépeint à l’extrême, l’ensemble des québécois paie très cher pour les centaines de milliers de leurs concitoyens qui vivent en banlieue éloignée ([exburbs](http://en.wikipedia.org/wiki/Commuter_town)).
+
+En comparaison, le cyclisme nécessite des infrastructures plus légères, plus souples et plus durables. Enfin, si on veut jouer à ce petit jeu, les cyclistes aussi sont des “payeurs de taxe”…
+
+#### Ça ralentit le trafic
+
+La tarte à la crème universelle! Alors si vous ragez contre les hordes de vélo qui prennent d’assaut vos routes, référez-vous au point au-dessus et demandez aux gouvernements des investissements en matière vélo… ça en fera moins sur vos routes.
+
+En condition hivernales, les cyclistes empruntent effectivement plus les routes puisque les pistes cyclables ne sont pas déneigées. Par ailleurs, nous avons tendance à rouler plus au milieu de la route car les bords de rues sont plus dangereux. Cependant, dans un contexte urbain, les cyclistes n’ont pas d’effet majeur sur le trafic routier. Ça me fait toujours sourire lorsqu’une voiture me dépasse rageusement (parfois en me serrant au-delà de ce qui est sécuritaire justement), pour que je la dépasse de nouveau 100 mètres plus loin… prise qu’elle est à un stop.
+
+Ce qui crée de la congestion routière, ce ne sont pas les cyclistes, ou si peu, ce sont les autos! Alors c’est plus facile de pointer un élément particulier et de se venger dessus que de réfléchir à un problème systémique… pourtant c’est bel et bien un problème systémique. Les problèmes de trafic, tout comme les décès par accidents, sont un corollaire de l’automobile, volontairement ignorés au profit de causes qui semblent plus facile à contrôler… comme le vélo d’hiver.
+
+![Stuck in traffic]({{ root_url }}/images/2012-02-21-stuck-in-traffic.jpg)
+
+
+### Mais au fait, pourquoi tant de haine ?
+
+Parfois je me demande pourquoi tant de haine contre “nous”. Là encore, entendons-nous bien: 95% des automobilistes tolèrent très bien les cyclistes, hiver comme été. Mais pourquoi le 5% restant, ainsi que certains “commentateurs” radio et télé, sont aussi vindicatifs?
+
+Est-ce de la jalousie de nous voir prenant du plaisir à faire du vélo et dans le même temps être plus rapides? Est-ce une crainte de voir le modèle dont ils font partie être remis en cause par une vision moyenâgeuse? (Argl, un vélo, faut-il retourner à l’époque où il fallait faire un effort pour se mouvoir? Où est la modernité?) Ou est-ce un exutoire pour toute cette frustration accumulée dans la congestion et qui brûle tout ce qu’elle touche? Sûrement un peu de tout cela je suppose.
+
+### En conclusion…
+
+La certitude que j’ai, c’est que chier sur les cyclistes est totalement contre-productif. D’abord parce que cela antagonise les relations. Les automobilistes n’aiment pas les cyclistes, ces derniers le leur rende bien… et n’oublions pas les p***** de piétons dans le portraits! Ce n’est pas par des vociférations que la situation va s’améliorer, au contraire! Que les cyclistes doivent améliorer leur comportement me semble assez clair. C’est quelque chose qui se fait naturellement, justement avec l’augmentation de l’utilisation. Les pouvoirs publics peuvent aider en offrant des infrastructures de qualité et en adaptant les règles… et pourquoi pas un peu de coercition s’il le faut.
+
+Le but n’est pas de convertir la Terre entière, ni de forcer des octogénaires maladifs à faire du vélo d’hiver pendant que nous mangeons leurs arrière-petits enfants. Le but est de favoriser une pratique qui peut compléter d’autres stratégies de déplacement des personnes. Parfois, je me sens con de me fendre de (longs) textes pour défendre la pratique de vélo d’hiver. Je n’ai pas besoin de la bénédiction de la Terre entière pour me déplacer efficacement tout en me faisant plaisir et normalement je suis assez bon pour ignorer le venin qui sort des gueules puantes de frustration de certains ou simplement à la recherche d’une meilleure audience. Le problème c’est que les propos les plus vindicatifs finissent par des concours comme [Klaxonnons un cycliste](http://www.radioego.com/ego/listen/8268) qui sont dangereux en plus d’être stupides.
+
+Par ailleurs, cette petite chose conne à deux roues où je passe quasiment une heure par jour (ce n’est pas rien) est un élément non-négligeable dans cette équation immense qu’est la question du transport. Vous savez, cette question qui fait rager tant de monde, qui est l’activité la plus désagréable de la journée pour beaucoup, un facteur stressant majeur qui raccourcit les journées de chacun et transforme la journée en course. Bref, on ne résoudra pas les problèmes de faim dans le monde ni d’itinérance en faisant du vélo, mais la pratique du vélo d’hiver se place malgré tout dans une réflexion d’ensemble sur une problématique qui touche quasiment toute la population active, tout en se faisant plaisir.

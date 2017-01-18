@@ -1,0 +1,15 @@
+---
+layout: post
+title: "L'averse"
+date: 2013-07-07 17:42
+comments: true
+categories: 
+---
+
+![Nuages]({{ root_url }}/images/2013-07-07_nuages.jpg)
+<div class="photoattrib">Eastman, 24 juin 2013</div>
+
+Le bitume exhale la chaleur de la journée<br/>
+Pris de panique, certains quittent en hâte<br/>
+D'autres, plus serein, maintiennent le cap<br/>
+Car bientôt l'averse sera terminée.

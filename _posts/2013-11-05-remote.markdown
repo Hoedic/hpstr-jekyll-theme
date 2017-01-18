@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Chroniques de travail à distance - un livre"
+date: 2013-11-05 18:32
+comments: true
+author: Hoedic
+image:
+  feature: 2013-11-05-fauteuils-vides.jpg
+  credit: "Parc Lafontaine, Montréal, 1er octobre 2005"
+---
+
+Ne jamais attendre la sortie d'un livre; l'espérance est mère de toutes les désillusions, en cette matière comme dans d'autres. On espère une oeuvre de référence, on rêve d'une portée sociale ou philosophique, on finit avec un livre de cuisine.
+
+C'est ce qui vient de m'arriver avec Remote: Office not required que j'attendais depuis le printemps dernier. J'essaie encore de comprendre à qui s'adresse ce livre. Toute personne ayant déjà médité un peu sur le travail à distance, ayant expérimenté, même assez légèrement sur le sujet, a déjà en tête 80% du livre. Les autres, ben c'est peut-être à eux que s'adresse ce livre.
+
+> We'll draw on this rich experience to show how remote work has opened the door to a new era of freedom and luxury. A brave new world beyond the industrial-age belief in The Office.
+> <div class="attrib">Remote: Office not required, Jason Fried et David Heinemeier Hansson</div>
+
+Le travail à distance a le potentiel de révolutionner le monde du travail et le monde tout court. Dans les année 60, Arthur Clarke entrevoyait une société où il n'était plus nécessaire de se rendre au bureau avec toute l'organisation sociale qui repose dessus. Un changement significatif rendu en théorie possible par les technologies de l'information. Toutefois, s'il suffisait d'un livre de récettes pour que ce changement advienne, eh bien il serait déjà advenu.
+
+Pas besoin d'un livre pour comprendre que le travail à distance fait gagner du temps aux employés et de l'argent aux employeurs. Les réponses aux excuses des employeurs/boss sont pour le moins convenues et finalement ne font que répondre à la partie immergée de l'iceberg. Enfin, dire que des entreprises comme Accenture et IBM ont un ratio bureau/employé de 1 pour 10 pour mettre en valeur l'adoption du télétravail dans des grandes entreprises est à la limite de malhonnêté intellectuelle: on parle de boites consultants qui passent leur temps fourré chez le client. Et je peux vous dire que chez le client, il n'est pas question de travailler à distance. Je le sais, j'ai travaillé pour Accenture au début des années 2000 alors que l'entreprise faisait école en instaurant un système de réservation dynamique des bureaux pour limiter le nombre d'emplacements nécessaires.
+
+Tant qu'à prendre des exemples, il aurait été possible de regarder du coté de Mozilla dont le mode de travail est fortement décentralisé et "télé". Le livre aborde durant quelques paragraphes à peine le travail réalisé dans le monde du logiciel libre: des dizaines d'outils qui font désormais partie de l'infrastructure logicielle centrale au fonctionnement d'Internet ont été bâti par des équipes dispersées à travers le monde, et toutes ces équipes n'ont pas le même mode de fonctionnement, la même approche par rapport à la réalisation du travail, etc. Quelques chapitres pour étudier ces aspects n'auraient pas été de trop.
+
+Le télétravail est par ailleurs traité comme une chose monolithique. Pourtant traiter des équipes situées dans une même ville dont les employés vont optionnellement à leur bureau et des entreprises faisant du recrutement à l'étranger pour aller chercher les meilleurs talents, ce n'est pas la même chose. C'est un continuum, l'un permet d'accéder à l'autre mais ce n'est pas la même chose, pas la même organisation.
+
+Enfin, le livre passe complètement à coté de la dimension sociale et quasi-philosophique du télétravail. Dans nos sociétés où 75% du travail vient du secteur des services, la redéfinition du concept de déplacement pour se rendre au travail correspondrait à un changement social majeur. Faites que 50% des résidents d'une ville/région n'ont plus à faire plus 2km pour se rendre au travail et vous venez de "régler"<sup>**</sup> des problèmes économiques (coûts de déplacements et afférants, spéculation pour être proche des lieux de travail), sociaux (réaménagement des infrastructures), environnementaux et sanitaires (pas besoin d'expliquer). Vous venez aussi de provoquer un krach immobilier majeur qui pourrait remettre en cause le fonctionnement de villes au complet et donc de pays.
+
+> Too much writing on work is pitched as either pro-employer or pro-worker. While those struggles are real, they are not the struggles we're interested in examining.
+> <div class="attrib">Remote: Office not required, Jason Fried et David Heinemeier Hansson</div>
+
+Les auteurs refusent explicitement de traiter des questions de relation de travail encadré: conventions collectives, syndicats, etc. Implicitement, ces éléments sont relégués aux oubliettes d'un passé lourd et ennuyeux comme si les enjeux qui avaient présidé à la mise en place de ces gardes-fous s'étaient soudainement évaporés. Les nouvelles nous rappellent quotidiennement qu'il n'en est évidemment rien. Les auteurs ont la chance de travailler dans un milieu privilégié (et je rentre dans cette catégorie aussi) dans lequel la dialectique historique employeur/travailleur a perdu de son sens. Mais ce n'est pas le cas pour tout le monde. L'application à grande échelle du télétravail là où cette dialectique est encore bien vivant est complètement différentes. 
+
+Et un des critères centraux de cette relation employeurs/travailleurs réside dans la liberté dans le travail dont ces derniers disposent. Une liberté au sens propre, philosophie, qui terrorise tous les cheffaillons de ce monde -et ils sont nombreux, une liberté parfois lourde à porter (je reviendrai sur mon expérience personnelle prochainement). Le livre n'aborde que les symptômes de cette relation de servitude qui domine le monde du travail sans jamais pointer vers la clé de voute de tout cet ensemble. En n'abordant que des questions techniques et des réticences intellectualisées, ce livre ne peut pas, à mon avis, avoir d'effet sérieux sur la pratique du télétravail.
+
+Le livre est court et facile d'accès. Pour qui veut mettre en place un système de travail à distance dans une petite organisation reposant largement sur du travail technologique, c'est un bon livre. Et c'est surement l'objectif des auteurs (qui rappelons-le, vendent des outils de collaboration en ligne plutôt orientés pour cette même clientèle). Pour ce qui est d'ouvrir un "brave new world" avec tout ce que ça implique de changements organisationnels et sociaux, on repassera.
+
+
+<sup>**</sup> Je n'ai pas non plus la naïveté de croire que toutes sortes de problèmes se régleraient instantanément. J'ose croire toutefois que le télétravail, appliqué à grande échelle et couplé avec des politiques d'ensemble peut avoir un effet positif important sur plusieurs problématiques. Mal encadré, cela peut aussi avoir des effets terribles.
+
+⁂
+
+> Mais ils veulent servir pour amasser des biens: comme s'ils pouvaient rien gagner qui fût à eux, puisqu'il ne peuvent même pas dire qu'ils sont à eux-mêmes.
+> <div class="attrib">Discours de la servitude volontaire, Étienne de la Boétie</div>
+

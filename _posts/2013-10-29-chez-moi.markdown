@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Chez moi"
+date: 2013-10-29 21:00
+comments: true
+author: Hoedic
+categories: 
+---
+
+![Constrast]({{ root_url }}/images/2013-10-29_chez-moi.jpg)
+<div class="photoattrib">Paris, chez moi, circa 2002</div>
+
+La semaine dernière, je "fêtais" mes 11 ans sur le territoire québécois. Fêter est un bien grand mot, je viens à peine de m'apercevoir que j'ai raté la date. Pour mes 10 ans, je me suis aperçu que j'avais manqué la date plusieurs mois après.
+
+Alors que le thermomètre indiquait ce matin des températures négatives, je suis donc sur le point d'entamer mon onzième hiver québécois. Outre l'effet de répétition qui fait perdre conscience des autres hivers passés, le temps lisse aussi les souvenirs passés.
+
+Dans mon cas, l'immigration correspondait sensiblement à une étape de vie, passant de l'école à la vie active. Pour moi la France ne représente plus qu'une sorte d'enfance à rallonge. Ma vie d'adulte est au Québec. Toutes mes connaissances, mes apprentissages n'ont de sens que dans le référentiel montréalais. Mes souvenirs vie en France sont désormais confus et se déroulent dans un espace que je n'habite plus et qui ne m'habite plus.
+
+⁂
+
+Durant l'été, j'ai eu une altercation avec un automobiliste qui m'avait doublé dans un virage sans visibilité. Vain et inutile, comme toujours. À la fin de l'échange, il en vient à me dire de "rentrer chez moi". 
+
+Chez moi? À la maison? Évidemment, en me balaçant ça à la figure, il m'enjoignait de prendre un aller simple vers la France. Il ne semble pas avoir perçu que sur le coup, ce qu'il voulait être l'insulte suprême ne m'évoquait rien. "Chez moi", hormis ma maison, ça ne veut pas dire grand-chose.
+
+--
+
+> L'enfance<br/>
+> C'est encore le droit de rêver<br/>
+> Et le droit de rêver encore<br/>
+> Mon père était un chercheur d'or<br/>
+> L'ennui c'est qu'il en a trouvé
+> <div class="attrib">Jacques Brel, L'enfance.</div>
