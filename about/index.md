@@ -1,32 +1,19 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: À propos de ce blogue
+author: Hoedic
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: aeroport-montreal.jpg
 comments: false
-modified: 2016-02-01
+modified: 2017-01-18
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Certes, les blogues sont passés date. Même l'auteur de ces lignes envisage à l'occasion d'arrêter sans jamais s'y résoudre. Il est loin le temps où les blogueurs formaient une communauté active. Le plaisir, finalement un peu trompeur, de faire partie d'une sorte d'élite du web, ceux qui peuvent s'y exprimer sans intermédiaire. Au sommet de la gloire des blogues, c'était surtout l'occasion de rencontrer nombre de personnes allumées.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Alors oui, fut un temps, bloguer était pour s'affirmer, pour faire partie de ce groupe qui s'auto-entretenait: untel lançait un sujet ou une polémique, un autre répondait, etc. Facebook a remplacé cette activité vaine et chronophage et un blogue éperdu, ne faisant pas partie d'une "plateforme" ressemble à un anachronisme, une sorte de relique des temps anciens où des femmes et des hommes avaient la prétention de s'exprimer sur les interwebs par leurs propres moyens.
 
-## HPSTR Features:
+Aujourd'hui, ce blogue est surtout une réflexion. D'ailleurs, il n'est pas indexer sur Google et autres moteurs de recherche... en espérant que les crawlers respectent les indications qu'on leur donne. À ce titre, ce blogue répond d'ailleurs aux aspirations qui ont présidé à sa création, en 2003: consigner l'air du temps. Après 13 ans d'activité (pas toujours continu), près de 2200 billets (surtout pendant ses premières années), ce blogue représente un beau compendium d'une certaine vie au début du XXIème siècle.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+Que dire de plus; parti de deux blogues séparés au début, le contenu fut fusionné en un blogue écrit à quatre mains. Les affres du temps, surtout le manque de temps, fait qu'il n'est plus écrit que par deux mains souvent distraites, mais c'est mieux que rien. Les auteurs, écrivant sous des pseudos, Hoedic (actif) et Dre Papillon (inactive), ne cherchent pas spécialement l'anonymat (le fouineur curieux trouvera en quelques minutes de qui il s'agit), mais s'assurent ainsi que certaines de leurs méditations les moins sagaces ne soient pas accessibles par le premier venu cherchant nos noms forts peu communs dans un moteur de recherche.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Ainsi va le blogue.
