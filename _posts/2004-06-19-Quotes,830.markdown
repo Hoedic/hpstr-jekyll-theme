@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-06-19 18:02:02
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*A paranoid is someone who knows a little of what's going on.*  (William Burroughs)
+
+*All paid jobs absorb and degrade the mind.*  (Aristotle)
+
+*Of those who say nothing, few are silent.*  (Thomas Neiel)

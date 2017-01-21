@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-21 05:21:49
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*To teach is to learn twice.*  (Joseph Joubert)
+
+*Every man in the world is better than someone else and not as good as someone else.*  (William Saroyan)
+
+*We live amid surfaces, and the true art is to skate well on them.*  (Ralph Waldo Emerson)

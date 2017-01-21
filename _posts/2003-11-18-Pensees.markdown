@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Pensées"
+date: 2003-11-18 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Quand le baromètre se passe la patte derrière l'oreille, c'est que le chat est à la pluie.*  (Léo Campion)
+
+*Le secret de la liberté, c'est la librairie.*  (Bernard Werber)
+
+*Je plains les gens petits : ils sont les derniers à savoir qu'il pleut.*  (Peter Ustinov)

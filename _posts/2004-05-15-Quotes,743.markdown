@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-15 05:40:14
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*It's a damn poor mind that can only think of one way to spell a word.*  (Andrew Jackson)
+
+*Whenever anyone says, "theoretically", they really mean, "not really".*  (Dave Parnas)
+
+*When I was a boy I was told that anybody could become President. Now I'm beginning to believe it.*  (Clarence Darrow)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-20 00:01:53
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*In Dr. Johnson's famous dictionary, 'patriotism' is defined as the last resort of the scoundrel. With all due respect to an enlightened but inferior lexicographer, I beg to submit that it is the first.*  (Ambrose Bierce)
+
+*In Paris they simply stared when I spoke to them in French; I never did succeed in making those idiots understand their language.*  (Mark Twain)
+
+*Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen, even so does inaction sap the vigors of the mind.*  (Leonardo Da Vinci)

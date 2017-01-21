@@ -1,0 +1,24 @@
+---
+layout: post
+title: "D'la merde !"
+date: 2003-11-27 16:30:07
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Raaah, et puis Word, c'est vraiment de la merde !
+
+![Image]({{ site.url }}/images/wordmerde.png)
+<div class="photoattrib">Word en action</div>
+
+
+
+Ça fait 3 fois depuis hier qu'il me corrompt des fichiers. Comme ça, là, sans raison, je veux ouvrir un fichier, il s'ouvre, mais dès que je clique sur quelque chose, il plante, ce con. Pas moyen de le rouvrir après, même en mode *sans échec* ou *récupération* qu'il me propose après avoir planté, il replante.
+
+Il est bien sympa, il me propose d'envoyer l'erreur à Microsoft, mais c'est pas ça qui va me rendre mon document de 10 pages !
+
+Et jusqu'ici, j'avais réussi à m'en sortir en ouvrant le document sous Wordpad (quelle déchéance) et en le sauvegardant en RTF, mais là mon fichier contient des marques de correction, alors Wordpad, il s'en sort pas...
+
+Vraiment de la merde Word !

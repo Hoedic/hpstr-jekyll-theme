@@ -1,0 +1,23 @@
+---
+layout: post
+title: "The Tyger"
+date: 2003-09-03 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/tigre.jpg)
+
+*Tyger! Tyger! burning bright <BR>In the forests of the night, <BR>What immortal hand or eye <BR>Could frame thy fearful symmetry ? *
+
+*In what distant deeps or skies <BR>Burnt the fire of thine eyes ? <BR>On what wings dare he aspire ? <BR>What the hand dare seize the fire ? *
+
+*And what shoulder, and what art, <BR>Could twist the sinews of thy heart ? <BR>**<BR>[...]*
+
+*Tyger! Tyger! burning bright <BR>In the forests of the night, <BR>What immortal hand or eye <BR>Dare frame thy fearful symmetry ?* 
+
+William Blake
+
+Voilà un charmant petit poème, en bel et ancien anglais, qui me rappelle l'été que j'ai passé à Mississauga, en banlieue de Toronto, en 1998...

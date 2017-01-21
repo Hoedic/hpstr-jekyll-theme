@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-07-05 05:54:09
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+<blockquote class="citation">
+The known is finite, the unknown is infinite; intellectually we stand on an islet in the midst of an illimitate ocean of inexplicability. Our business in every generation is to reclaim a little more land.
+
+<p style="align: right">T. H. Huxley, 1887
+
+</blockquote>
+
+(Bon, c'est pas tout mais me je me mets en vacances moi aussi ;) enfin ça va juste durer 3-4 jours)

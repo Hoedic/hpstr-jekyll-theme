@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Cassé :("
+date: 2003-10-08 00:00:00
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Du fait d'une erreur de manipulation avec mes sauvegardes j'ai perdu toutes mes données... j'espère pouvoir être de retour bientôt.

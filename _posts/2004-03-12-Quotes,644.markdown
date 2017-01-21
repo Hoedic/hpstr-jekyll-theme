@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-12 00:39:22
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Genius is one per cent inspiration and ninety-nine per cent perspiration.*  (Thomas Alva Edison)
+
+*Genius is an infinite capacity for taking pains.*  (Jane Hopkins)
+
+*I do not fear computers. I fear the lack of them.*  (Isaac Asimov)

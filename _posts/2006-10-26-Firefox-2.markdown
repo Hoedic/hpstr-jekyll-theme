@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Firefox 2"
+date: 2006-10-26 16:10:35
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Ça faisait quelques semaines que j'utilisais  en beta mais à force de le bidouiller, de mettre des extensions pas faites pour, etc, j'en étais arrivé à une install instable avec plusieurs fonctionnalités inutilisables (comme la boîte de recherche).
+
+J'ai donc profité de la livraison officielle pour réinstaller tout ça proprement et les progrès sont quand même au rendez-vous : plus rapide au lancement, une interface plus réactive et esthétique, certaines fonctionnalités comme la sauvegarde des tabs d'une session à l'autre. L'installation par défaut semble également régler le problème de boulémie de RAM dont souffrait les versions 1.5.
+
+Dre Papillon trouve également que cette version-ci est nettement plus rapide sous Mac, comparable à Safari ce qui sera surement une amélioration notable pour les utilisateurs de la pomme.
+
+C'est trop court pour parler de stabilité mais jusqu'à présent, aucune plantouille. Ça sent le très bon produit !
+
+J'encourage donc tout le monde à passer à Firefox 2, c'est visiblement un bon cru(Lorsque vous faites une installation normale, toutes vos données personnelles (cookie, login, historique) sont conservées).
+
+Quelques remarques :
+-  Pour que votre brouteur se rappelle des tabs d'une session à l'autre, il faut lui dire : Outils > option > Onglet général. Dans le menu déroulant "Au démarrage de Firefox", choisissez le dernier choix.
+-  Pour fermer une tab, si vous voulez une unique croix placée tout à droite de la fenêtre au lieu d'être sur chaque tab, ça se passe 

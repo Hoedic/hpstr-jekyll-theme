@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Truismes"
+date: 2003-09-20 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Je suis inculte parce que je n'en pratique aucun, et insecte parce que je me méfie de toutes.*  (Raymond Queneau)<BR><BR>*Nous devons nous y habituer : aux plus importantes croisées des chemins de notre vie, il n'y a pas de signalisation.*  (Ernest Hemingway)<BR><BR>*Tout ce que tu ne sais pas donner te possède.*  (André Gide)

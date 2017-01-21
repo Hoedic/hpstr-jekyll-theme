@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-10-06 02:26:31
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*He who sacrifices his conscience to ambition burns a picture to obtain the ashes.*  (Chinese Proverb)
+
+*It's not whether you win or lose, it's how you place the blame.*  (Oscar Wilde)
+
+*Beware of little expenses; a small leak will sink a great ship.*  (Benjamin Franklin)

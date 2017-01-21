@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Ben non"
+date: 2005-02-04 22:05:31
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Nan parce que là, Édouard, je dis  !
+
+![Image]({{ site.url }}/images/chaise-faceaface_01-02-2005.jpg)

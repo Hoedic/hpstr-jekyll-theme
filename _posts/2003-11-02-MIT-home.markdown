@@ -1,0 +1,21 @@
+---
+layout: post
+title: "MIT @ home ?"
+date: 2003-11-02 19:07:38
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+<a href="http://www.lemonde.fr/web/article/0,1-0@2-3266,36-340204,0.html" title="Le MIT à portée de clic">Le Monde</a> se fait aujourd'hui l'écho du lancement officiel du .
+
+C'est un projet qui court au Massachussets Institute of Technology depuis un bon de temps et que j'étais allé voir il y a quelques années... alors qu'il n'y avait pas grand chose à y voir.
+
+Mais depuis quelques mois, le contenu et l'apparence ressemblent vraiment à quelque chose. Avec la mise en ligne de 500 cours, le MIT termine la deuxième phase du projet avec une base solide pour quiconque veut apprendre. La troisième phase vise à mettre l'intégralité des quelques 2000 cours en ligne et de "mirrorer"  leurs bases de données pour rendre l'information plus accessible et pour permettre à des universités dans des pays moins avancés de pouvoir utiliser ces cours comme base pédagogique.
+
+Plus que des documents HTML ou même de simples PDF, certains cours sont des trames sonores voire des vidéos où l'on peut voir la vénération de certains élèves pour les profs les plus doués qui se font ovationner à la fin de leur cours.
+
+Il y a surement beaucoup à faire encore pour rendre l'information disponible à des populations qui ne disposent pas d'ordinateur mais de toute évidence c'est un pas gigantesque en avant !
+
+Plus généralement, ça fait du bien de voir une université prendre la place qui lui revient sur Internet. En effet, quand j'ai pris mon premier abonnement 'ternet, le contenu des .edu représentait l'apport quantitatif et qualitatif le plus important du web, des news et de tout le reste. Aujourd'hui, beaucoup des ressources universitaires n'ont pas évolué et ont été submergées par le contenu .com dont l'intérêt et surtout l'impartialité ne manquent pas d'être remis en cause.

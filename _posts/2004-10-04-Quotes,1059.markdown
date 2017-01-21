@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-10-04 00:27:09
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Failures are divided into two classes - those who thought and never did, and those who did and never thought.*  (John Charles Salak)
+
+*Reason often makes mistakes, but conscience never does.*  (Josh Billings)
+
+*Restlessness and discontent are the first necessities of progress.*  (Thomas A. Edison)

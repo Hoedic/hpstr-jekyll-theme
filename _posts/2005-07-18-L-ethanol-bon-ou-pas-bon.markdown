@@ -1,0 +1,23 @@
+---
+layout: post
+title: "L'éthanol, bon ou pas bon ?"
+date: 2005-07-18 22:33:35
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Un aspect particulièrement frustrant avec les questions environnementales réside dans l'absence de certitudes scientifique à laquelle s'ajoute des intérêts souvent divergents. Le réchauffement climatique en donne un bon exemple.
+
+Un autre exemple aujourd'hui sur l'intérêt de la production d'éthanol comme remplacement/additif au pétrole.
+
+ : cyberpresse relaie la sortie d'une  montrant que l'éthanol nécessite plus d'énergie à être produit qu'il ne contient d'énergie. Bref, c'est en pure perte, le seul avantage pour le producteur doit alors résider dans les aides gouvernementales (déduction personnelle). Toutefois l'article précise que tout le monde n'est pas en accord avec cette vision. Petite recherche pour tomber sur la  qui sous ce nom assez générique se trouve être un lobby pro-éthanol à base de maïs. Et en cherchant un peu, on se rend compte que les  ne datent pas d'aujourd'hui entre ce lobby et l'un des auteurs de l'étude, Pr. Pimentel. Ces gens (le lobby) nous  eux qu'on a un rapport de 6 entre l'énergie consommée et le potentiel énergétique de l'éthanol. Mon a priori sur le sujet étant qu'il est plus facile d'oublier des coûts énergétiques de production que d'en rajouter...
+
+ : Slashdot s'en mêle en publiant un article longuement commenté comme à l'habitude (plusieurs centaines de commentaires, certains intéressants). Plusieurs références d'articles circulent, certains allant dans le sens de l'étude citée, d'autres non (il ressort toutefois que les études négatives sont quasi systématiquement liée au même professeur Pimentel.)
+
+Ces études sont tellement complexes qu'il est tout bonnement impossible pour une personne n'ayant pas des connaissances dans le sujet de s'en sortir. Ceci se rapproche énormément du sujet que je devrais traiter dans mon éventuel doctorat, l' ou comment quantifier tous les intrants d'un produits et donc quelque part son impact environnemental et son coût économique. De telles bagarres sur un produit finalement assez simple (on prend des graines, on les fait pousser, on récolte le maïs et on le transforme en éthanol en suivant un processus assez connu bien qu'en étant en évolution) montre combien sur le principe l'ACV est un concept intéressant mais auquel on peut faire dire bien des choses !
+
+Une conclusion sur la question de l'éthanol ? L'association  propose une  sur l'utilisation énergétique de la biomasse qui permet de se faire une idée globale sur le sujet. On peut y lire que la production d'éthanol à partir de maïs a un rendement faible mais positif (on se dit que mal fait c'est possiblement négatif). Toutefois, il existe d'autres sources organiques (certaines herbes à croissance rapide notamment) avec lesquelles le rendement serait plus élevé et dont la production serait moins nocive à l'environnement (le maïs, ça tue la terre).
+
+Alors pourquoi on s'entête sur le maïs ? Bien parce que ça fait vivre cette économie représentée par des grosses firmes et de gros lobbies et que par conséquent l'administration en place a décidé d'y mettre des gros sous. Bien qu'étant une solution intéressante mais non renouvelable techniquement parlant (La biomasse est non-renouvelable en ce sens que la source énergétique ne se renouvelle pas d'elle-même comme le soleil ou le vent. Dans le cas du maïs, il faut le faire pousser ce qui nécessite la consommation d'autres produits et un travail constant. À ce titre, le nom de l'association "Renewable Fuels Association est un peu trompeuse à mes yeux), la voie de l'éthanol mérite d'être creusée mais est loin d'être parfaite, et ne le sera jamais, ni d'être employée de manière optimale à l'heure actuelle.

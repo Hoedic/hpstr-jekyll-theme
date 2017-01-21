@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-02-25 04:48:20
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Democracy is the theory that the common people know what they want, and deserve to get it good and hard.*  (H. L. Mencken)
+
+*I don't want to achieve immortality through my work. I want to achieve it through not dying.*  (Woody Allen)
+
+*Happiness is not something you experience, it's something you remember.*  (Oscar Levant)

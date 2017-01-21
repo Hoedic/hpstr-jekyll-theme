@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-07-03 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*The unfortunate thing about this world is that good habits are so much easier to give up than bad ones.*  (Somerset Maugham) 
+
+*Few people are capable of expressing with equanimity opinions which differ from that of their social environment.*  (Albert Einstein) 
+
+*The vast majority of human beings dislike and even dread all notions with which they are not familiar.
+Hence it comes about that at their first appearance innovators have always been derided as fools and
+madmen.*  (Aldous Huxley)

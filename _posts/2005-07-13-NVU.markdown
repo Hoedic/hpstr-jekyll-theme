@@ -1,0 +1,20 @@
+---
+layout: post
+title: "NVU"
+date: 2005-07-13 00:47:56
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Rien que pour vous j'ai testé  (prononcez, chers amis des glawish *N-view* pour *New view*). C'est un éditeur de site web/HTML totalement gratuit et ouvert, dans la lignée des Firefox et autres, développé par d'amicales personnes comme ce .
+
+![Image]({{ site.url }}/images/nvulogo.png)
+
+
+Je dois avouer que je craignais un peu de trouver un netscape composer un peu amélioré, et c'est un peu l'impression que ça donne au début, quand on regarde l'interface. Toutefois, il se révèle diablement efficace à l'utilisation.
+
+Les points forts sont une gestion transparente et claire du code avec une visualisation du résultat en temps réel. La gestion des feuilles de style se fait de manière transparente et aisée (Pour le CSS, la difficulté n'est pas de comprendre comment fonctionne Nvu mais comment fonctionnent les feuilles de style si on ne connait pas le principe). Par ailleurs le code est propre, ça ne génère pas trop de sur-balisage, ce qui rend la relecture du code facile. Ceci dit, pour le moment, je n'ai que très peu eu besoin d'aller jouer avec le code généré, c'est dire qu'il fait bien son boulot ! La gestion d'un site au complet semble également bien foutu bien (mais je n'ai testé qu'avec une page, un CSS et deux images, un peu restreint). Par ailleurs assez peu de bug pour le moment.
+
+Je n'hésiterais donc pas à le recommander autant au débutants qu'aux personnes avancés (voilà, ceci fait office de réponse aux personnes qui me demandent régulièrement de leur dire ce qui se fait de bien en la matière !) Personnellement j'avais abandonné l'utilisation d'un éditeur depuis plusieurs années, entre les patabousains comme Dreamweaver, Frontpage dont je ne parle pas, et les gratuits bien trop limités je n'avais pas trop trouvé mon compte. Celui-ci pourrait me réconcilier avec les éditeurs graphiques. (dispo sous Windows, Mac et Unix-land)

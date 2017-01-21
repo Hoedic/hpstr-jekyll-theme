@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Et de 1000 !"
+date: 2004-09-07 23:55:00
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Un an et mille articles plus tard...
+
+Eh oui, ce blog a un an et il se trouve que ça tombe à mille articles. Faut bien dire qu'il y a un peu de triche puisqu'Ebb avait commencé avant moi et que nous avons rappatrié ses articles antécédents ici-même.
+
+Ça fait tout de même une moyenne autour de 2,5 posts par jours, avec l'aide non négligeable de quelque 184 citations. On totalise également 1828 commentaires à cette date soit, le calcul est vite fait, 1.828 commentaires par article.
+
+La première fierté est d'avoir dépassé la durée de vie moyenne d'un blogue (qui s'établit autour de 8 mois pour un carnet en nom de domaine propre). Et la bonne nouvelle c'est que nous avons toujours envie d'écrire. Avec des hauts et des bas, bien entendu, probablement de moins en moins de temps, mais toujours le même désir de continuer.
+
+![Image]({{ site.url }}/images/couchersoleil-poly_07-09-2004.jpg)
+<div class="photoattrib">Alors que la pluie est encore là</div>
+
+
+
+Ce fut également une année de rencontres. Je suis encore loin de certains, mais j'ai facilement parlé à une dizaine de personnes grâce à ce merveilleux moyen d'expression (en excluant des trucs comme YulBlog parce que c'est trop le bordel ;). Il me reste encore des personnes à découvrir (hein Guy, un jour on sera courageux et on trouvera un endroit où se rencontrer !) et surement de belles choses à venir.
+
+J'espère ne pas avoir trop souvent sombré dans le mélo-dramatique dépressif. Plusieurs d'entre vous ont compris que la situation n'était pas forcément facile pour moi. Je craignais, en me lançant dans cette aventure, de rapidement en arriver à des articles nombrilistes et apitoyant ce qui ne fut pas tant le cas que ça il me semble. Ce début d'automne s'annonce sous de bons auspices pour le moment, j'espère que ceci va durer.
+
+![Image]({{ site.url }}/images/couchersoleil-poly2_07-09-2004.jpg)
+<div class="photoattrib">L'eau au sol se transforme en légère brume</div>
+
+
+
+Et pour fêter ce premier anniversaire, après une averse bien drue, le soleil m'a gratifié d'un superbe coucher alors que je descendait la cote du Mont-Royal, revenant de cours. Rester planter au bord de la route, le voir à peine dépasser des nuages menaçants, puis peu à peu se découvrir et soulever une brume donnant un éclairage hors du commun. Se retrouver à quelqu'uns à respecter ce coucher, d'autres photographesen herbe et de simples amateurs de belles vues.
+
+Visiblement les comptes tombent rond aujourd'hui puisque j'ai également passé ma 4000ème photo avec mon Canon A70 depuis que je l'ai réçu en cadeau en mai 2003. Ça monte vite !
+
+![Image]({{ site.url }}/images/couchersoleil-poly3_07-09-2004.jpg)
+<div class="photoattrib">À demain !</div>
+

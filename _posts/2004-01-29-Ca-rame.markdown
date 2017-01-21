@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ça rame !"
+date: 2004-01-29 17:41:25
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Ouvaton subit le contre-coup de l'engorgement provoqué par le virus *MyDoom*, il en résulte des ralentissements notoires aussi bien du temps de réponse des serveurs web que de la capacité à extraire les articles de la base de données. Désolé pour ça.
+
+Toutefois, les admins d'Ouvaton travaillent dur aujourd'hui pour alléger la charge des serveurs en ajoutant de nouvelles machines et de la mémoire, ce qui devrait être suffisant pour retrouver d'ici demain un service normal.
+
+***
+
+Juste un petit ajout sur l'affaire Ouvaton c/ Métrobus : Métrobus a osé demander durant la dernière audience la liste des coordonnées complètes des 2100 coopérateurs Ouvaton, culottés quand même !

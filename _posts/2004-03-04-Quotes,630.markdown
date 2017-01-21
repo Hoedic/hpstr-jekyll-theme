@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-04 00:22:59
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Ask yourself whether you are happy, and you will cease to be so.*  (John Stewart Mill)
+
+*Basic research is what I'm doing when I don't know what I'm doing.*  (Wernher Von Braun)
+
+*Be nice to people on your way up because you'll need them on your way down.*  (Wilson Mizner)

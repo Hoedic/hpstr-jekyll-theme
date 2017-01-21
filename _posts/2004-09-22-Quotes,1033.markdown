@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-22 04:13:43
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Give a small boy a hammer and he will find that everything he encounters needs pounding.*  (Abraham Kaplan)
+
+*Give me the luxuries of life and I will willingly do without the necessities.*  (Frank Lloyd Wright)
+
+*Good judgement comes from experience; and experience, well, that comes from bad judgement.*  (Anonymous)

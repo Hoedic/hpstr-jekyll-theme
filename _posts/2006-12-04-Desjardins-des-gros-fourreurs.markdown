@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Desjardins, des gros fourreurs comme les autres ?"
+date: 2006-12-04 15:55:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Il faut croire que oui...
+
+Étant donné que mon père m'a jetée comme une malpropre le jour où je suis devenue mariée (enfin bon, il faut dire ce qui est, il m'avait déjà jetée depuis très longtemps et ça ne faisait que confirmer des choses connues...), et la situation financière se corsant, j'ai eu la brillante idée d'aller cogner à la porte de la banque la plus près de chez moi pour m'informer de leurs marges de crédit. Comme j'en ai marre de me faire fourrer par toutes les banques que je connais, mon choix s'est tout naturellement porté sur la caisse populaire Desjardins, que je pensais différente de tous les autres (en plus, c'est comme ça qu'ils s'annoncent). Et puis, il paraît que pour les étudiants en médecine, ils déroulent tous le tapis rouge, alors je pensais que j'allais me faire traiter avec sérieux et professionnalisme. Je me trompais lourdement.
+
+Donc je rencontre une conseillère spécialisée en marges, qui me parle tout le long comme à une pauvre petite conne. La première condition qu'elle m'évoque est celle d'une assurance-vie au cas où je mourrais. Je comprends le principe. Elle veut me vendre leur assurance-marge à plus de 7$ par mois, qui n'assure que la marge et pas la vie par ailleurs. Je me dis que tant qu'à acheter une assurance-vie pour éventuellement mourir, autant qu'elle protège aussi un peu les gens que j'aime. Là-dessus, on en vient presque à annuler l'ouverture de la marge, mais elle finit par me dire qu'elle fera tout de même la vérification. Finalement, le lendemain, sur mon répondeur, on me fait une "immense faveur" : j'ai le droit de choisir l'assurance-vie que je veux. Donc, on poursuit la démarche d'ouverture.
+
+Par la suite, elle me demande de passer à la succursale pour signer une "formalité" qui consiste à faire migrer mon prêt étudiant du gouvernement de la BMO, où il dort tranquillement, vers chez eux. Suspicieuse, je demande si c'est vraiment obligatoire, ce à quoi elle répond par l'affirmative, en me répétant que ce n'est vraiment qu'une simple formalité. OK, elle doit connaître son affaire, et moi je m'en fous d'où dort mon prêt.
+
+Le mois suivant, il se trouve que je ne reçois pas mon aide financière comme à l'habitude. Après de multiples appels à l'aide financière du gouvernement à Québec, à la BMO, à Desjardins, et des heures d'attente au téléphone, je finis par comprendre qu'en cas de transfert de banque, le gouvernement BLOQUE tout bonnement l'aide financière jusqu'à ce que les MULTIPLES ÉTAPES ADMINISTRATIVES des deux banques soient complétées. Ce qui peut durer plusieurs mois. Donc j'ai trouvé ça très drôle, de ne plus recevoir mon aide financière du gouvernement pendant plusieurs mois, en pleine année scolaire où j'ai justement de multiples surplus à payer en prime des frais de scolarité (inscription au service de jumelage en résidence : 300 $, inscription à l'examen final de médecine : 700 $, etc.).
+
+Je rappelle ma conseillère qui me dit qu'elle ne savait pas que ça se passait comme ça. Je lui fais savoir que je suis très mécontente et que j'espère qu'elle s'occupera de faire avancer les choses. Elle me dit qu'il n'y a pas de problème, qu'il suffit d'ouvrir ma marge plus vite (!!), comme ça je n'aurai plus de soucis financiers. Je lui dit que ce n'est pas comme ça que ça marche et que je veux d'abord ravoir mon aide financière. Après des appels acharnés de ma part aux différents intervenants impliqués, mon aide financière finit par débloquer et réapparaître après deux longs mois d'attente.
+
+Entre-temps, sur mon répondeur, la conseillère m'explique ce que je dois faire avec mon assurance-vie. 
+
+Je dois préciser que depuis le début, elle me disait qu'il était obligatoire d'ouvrir la plus grosse marge possible pour les étudiants en médecine, i.e. 125 000 $, même si je lui répétais mille fois que je voulais juste un petit montant en cas de coup dur, avant de commencer à recevoir mon salaire de résidente, ce qui s'en vient très bientôt. Ça m'embêtait, parce que je me disais que si je voulais une hypothèque, dans quelques années, une aussi grosse marge allait sûrement me plomber ! Mais bon, pas le choix hein... Bref, il fallu donc aussi prendre une assurance-vie de 130 000 $ pour couvrir le montant fou de cette marge folle.
+
+La démarche à faire était donc de mettre Desjardins comme bénéficiaire UNIQUE ET IRRÉVOCABLE de mon assurance-vie. Ce que j'interprète comme : même si j'ai juste utilisé 500 $ de la marge et que je meurs demain matin, Desjardins va se faire 130 000 $ sur mon dos et ma famille n'aura pas une cenne. Je me dis que je suis néophyte en la matière et que je n'y connais rien. Alors j'appelle tout de même mon assureur pour leur demander quoi faire avec ça. Et je me fais répondre que ce qu'on exige de moi est très étonnant, n'est pas normal du tout, et que je devrais aller me chercher une marge ailleurs. Pourtant, mon assureur aussi est affilié à Desjardins, c'est dire !
+
+Après autant d'épisodes douteux, je finis par porter une plainte officielle par téléphone, d'abord à cause de la suspension de mon aide financière pendant plusieurs semaines, ensuite pour les demandes anormales concernant mon assurance-vie. Le lendemain, le directeur adjoint laisse un message sur mon répondeur. Le surlendemain, j'essaie de le rappeler et j'apprends qu'il a quitté Desjardins ! Ben voyons donc, que se passe-t-il ?
+
+Le sur-surlendemain, j'appelle directement la directrice de la succursale. Et j'apprends que presque rien ne s'est passé dans les règles de l'art. Dès le début, j'aurais dû recevoir un dépliant m'expliquant que je peux choisir l'assureur de mon choix et la façon de procéder. J'aurais d'ailleurs aussi dû avoir le choix du montant de la marge que je voulais ouvrir. Et il n'était absolument pas nécessaire de transférer mon aide financière de l'ancienne banque à Desjardins. La directrice se confond en excuses et est bien désolée de ce qui m'est arrivée, ne cessant de répéter que la conseillère a vraiment besoin de FORMATION. Oh oui, c'est ça, formez-la !
+
+Heureusement que je n'ai pas de marge avec ces fourreurs. Ils ne méritent même pas que je m'endette avec eux.
+
+Du coup, je ne sais plus trop quoi faire. J'ai l'impression que toutes les banques nous arnaquent. Je pense que la conclusion, c'est qu'on peut choisir la banque qu'on veut (genre la plus proche de chez soi, ou la plus pratique), et puis être très vigilant par rapport à tout ce qu'ils font sur le compte (car ils font très souvent des "erreurs" à leur avantage, qu'il faut ensuite leur demander de corriger...) et d'être aussi très critique par rapport à tout ce qu'ils demandent de faire. N'empêche que c'est épuisant de les surveiller et de ne pouvoir leur faire confiance. En plus, c'est complètement inintéressant de se soucier de ça.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "P@#!!!&!* de merde !"
+date: 2005-04-15 14:00:30
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Y a des jours, rien ne va. Je me répète, c'est pas la première fois que je le dis, mais bien que n'étant pas particulièrement superstitieux, il est des fois difficile de croire que le sort ne s'acharne pas. C'est rien, plein de riens qui font que rien ne fonctionne : au boulot un  truc d'encryption qui ne veut pas marcher (Rien qu'en voyant dans les specs que j'allais devoir jouer avec des algo de crypto, je me suis que ça sentait mauvais car quand je bossais en France, j'avais passé 1 mois avec plusieurs personnes à résoudre un problème similaire...), hier une pratique d'aikido où je faisais tout de travers et où je me suis bien brulé le dessus du pied sur le tatami et surtout mon linux qui refuse de demarrer*.
+
+Là où l'on voit que le sort s'acharne vraiment c'est quand, pour faire un truc ridicule, à savoir compiler un micro-truc en C, définitivement, rien ne veut : pas le droit d'installer un compilo sur mon PC de travail, pas le droit de compiler sur le serveur de dev, pas d'accès distant à mon PC, mon PC qui refuse de fonctionner une fois sur place et le GCC de l'ibook qui refuse de me compiler mon code. Pourtant ce ne sont pas les solutions qui manquaient, mais aucune ne fonctionnait.
+
+Je dois bien avouer que dans ces conditions, les méthodes  apprises en thérapie semblent bien lointaines et je peux difficile réprimer ou gérer un puissant sentiment d'exaspération.
+
+Aujourd'hui ça va un peu mieux, j'ai eu l'accès à la compil sur le serveur de dev et j'ai pu tester mon truc... ce qui ne me donne pas la réponse à mon problème mais me permet au moins d'isoler l'étape qui déconne. C'est un progrès.
+
+* Je soumets mon problème de PC à l'audience : autant mon Linux que mon Windows démarrent acceptablement bien mais me posent des tonnes de problème lors du lancement de la partie graphique après le logon. Windows a réussi à se réparer comme un grand bien que m'insultant copieusement et voulant envoyer pleins d'infos à Microsoft, quant à Gnome, j'ai du l'abandonner a profit de KDE, pour le moment. À noter qu'avant ça, mon PC s'était éteint tout à fait correctement. Cette affaire me dépasse. À noter que c'est la deuxième fois qu'il me fait la même affaire en 3 semaines, sauf que la première fois j'avais réussi à récupéré Gnome...

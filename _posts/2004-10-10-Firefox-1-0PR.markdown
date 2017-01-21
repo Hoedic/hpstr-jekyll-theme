@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Firefox 1.0PR"
+date: 2004-10-10 18:09:34
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Je viens tout juste de passer mon Firefox à la version 1.0PR, aussi bien sous Windows que sous Linux.
+
+Disons ce qui est, le renard de feu passe à la vitesse supérieure : install dans les régles avec import automatique des données des autres navigateurs installés, gestion efficace des plugins comme Flash, etc.
+
+Alors je pose la question, pourquoi s'en priver ?!?!
+
+<div class='spip_documents'>
+<a href="http://www.spreadfirefox.com/?q=affiliates&amp;id=0&amp;t=45"><img border="0" alt="Get Firefox!" title="Get Firefox!" src="http://www.spreadfirefox.com/community/images/affiliates/Banners/300x250/rediscover_white.png"/></a>
+</div>
+
+Alors toi, oui, toi qui me lis avec ton Internet Explorer tout pourri, pourquoi utiliser un navigateur non sécuritaire qui ouvre ton ordi à toutes sortes de logiciels espions à ton insu ? Pourquoi te priver de naviguer avec des tabs permettant d'ouvrir des tonnes de pages en même temps ?
+
+Et sache, toi, lecteur, qu'avec Firefox, tu pourrais voir des choses sur mon blog que tu ne peux pas voir avec ton IE (comme c'est le cas sur de nombreux blog d'ailleurs).
+
+Alors tu vas prendre ta petite souris, aller sur le site de  et tu vas installer ce gentil navigateur !!!
+
+*Ajout* : Ah oui, et cette version de Firefox gère également les feeds RSS/Atom... bon, ça ne remplace pas un vrai lecteur de feed mais pour les gens qui ne veulent pas en installer un et suivre quelques blogs par exemple...

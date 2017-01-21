@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-16 22:50:09
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*We are shaped and fashioned by what we love.*  (Johann Wolfgang von Goethe)
+
+*Simplicity is the most difficult thing to secure in this world; it is the last limit of experience and the last effort of genius.*  (George Sand)
+
+*The classroom - not the trench - is the frontier of freedom now and forevermore.*  (Lyndon Baines Johnson)

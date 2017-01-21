@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-08 18:01:07
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*We forfeit three-fourths of ourselves in order to be like other people.*  (Arthur Schopenhauer)
+
+*Most folks are about as happy as they make up their minds to be.*  (Abraham Lincoln)
+
+*A fallacy that makes me glad is worth a truth that makes me sad.*  (Christoph Martin Wieland)

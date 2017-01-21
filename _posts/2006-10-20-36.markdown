@@ -1,0 +1,13 @@
+---
+layout: post
+title: "36 !"
+date: 2006-10-20 02:40:25
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Damned, j'ai 36 tabs d'ouverts sur Firefox. Faudrait que je trouve le temps de lire tous ces articles en attente (sans parler des cent et quelques liens del.icio.us marqués "ALire".)
+
+Depuis la version 2 de Firefox, *les tabs scrollent* (ceci mérite d'être ajouté au Petit Robert 2008) ce qui fait qu'il n'y a pas de limite aux merdes qu'on entasse ainsi. C'est sans fin.

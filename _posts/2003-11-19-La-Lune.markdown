@@ -1,0 +1,37 @@
+---
+layout: post
+title: "La Lune"
+date: 2003-11-19 00:46:26
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+La lune, c'est mon amie, d'ailleurs je l'ai en photo comme fond d'écran (avec ). Faut dire que c'est un astre aux propriétés étonnantes.
+
+![Image]({{ site.url }}/images/mini-lune.jpg)
+<div class="photoattrib">La Lune et Smart-1</div>
+
+
+
+Souvent, je me suis demandé par quelle magie on voyait toujours la même face de la Lune. Fallait-il y voir un clin d'oeil d'un Dieu quelconque ou la main d'extraterrestres joueurs ? Aujourd'hui, alors que cette question d'enfance m'est revenue en tête, je me suis décidé à glaner quelques informations sur le sujet.
+
+Et je suis presque déçu d'avoir trouvé des explications, tant, étant petit, je pensais être le seul à voir un coup de baguette magique celeste dans cette constance de la Lune à nous montrer toujours le même visage. Mais il devait en être ainsi ! Comment était-il possible que la lune, après des millions de révolutions autour de la Terre ne bouge pas d'un millième de dégré ?
+
+Semble-t-il que la grosse et imposante Terre ai déformé la petite lune, tellement déformé qu'au lieu d'être ronde, elle en est oblongue. De surcroît, ceci aurait provoqué un déplacement du centre de la masse par rapport au centre géométrique. Le résultat étant que la zone la plus lourde reste toujours vers la Terre. À titre de comparaison, ce serait un peu comme une roue libre qui serait lesté en un point. La partie lestée se retrouverait toujours en bas.
+
+Cette forme oblongue et cette modification de la répartition de la masse de la Lune l'a forcé a calquer sa période de rotation sur sa révolution expliquant pourquoi elle nous montre toujours aussi parfaitement les mêmes cratères.
+
+Ceci pourrait également expliquer la différence de topographie entre les deux faces : d'un coté, celui vers la Terre, la croute serait plus fine, ce qui aurait favoriser les éruptions volcaniques et la formation des fameuses mer. À l'opposé, un manteau plus épais aurait limité l'activité volcanique laissant en place les cratères existants.
+
+Il n'en demeure pas moins qu'un autre caractère exceptionnel de la Lune ne trouvera pas d'explication scientifique puisque que ce n'est qu'on coup du hasard : ce rapport entre son diamètre, son éloignement de la Terre ainsi que le diamètre du soleil et son éloignement à la Terre qui provoque des eclipses solaires aussi impressionnantes. La lune serait plus grosse ou plus petite, plus proche ou plus lointaine (de même pour le soleil) et ce serait un tout autre spectacle !
+
+Et pour en avoir déjà vu une, le  à Fécamp (ça rappellera des souvenirs à  et  et... moi-même ;), ça laisse bouche bée, et pas seulement par la beauté du spectacle, mais pas cette métamorphose aussi soudaine que courte de tout ce qui nous entoure.
+
+Voilà pour la Lune, demain, ce sera le tour des marées !
+
+Sources : 
+-  
+-  
+-  D'autres que j'ai perdu en route :)

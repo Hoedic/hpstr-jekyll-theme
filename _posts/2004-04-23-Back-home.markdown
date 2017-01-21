@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Back home !"
+date: 2004-04-23 17:17:54
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Après une deuxième semaine chargée, un long vol retardé par des problèmes informatiques à l'enregistrement, une alerte à la bombe et des problèmes sur la piste de décollage (c'est tellement bien Roissy), après une bonne grosse nuit de plus de 14 heures, je peux le dire, je suis de retour !
+
+Que dire si ce n'est que ce séjour m'a fait le plus grand bien : revoir mes amis, ma famille, retrouver la vie parisienne l'espace de quelques jours en ce qu'elle présente de plus attrayante, sentir revenir en moi la motivation, bref revivre après m'être enfermé trop longtemps chez moi, sur moi.
+
+Quant à comparer, comme on me l'a déjà demandé, les deux vies, parisienne et montréalaise, je ne m'y avancerai pas car si les deux sont proches dans l'absolu, quand on les connait de près elles me semblent si différentes et en tous points incomparables avec leurs spécificités propres. Je conserve tout de même une préférence pour Paris.
+
+À défaut de comparatifs, quelques photos :
+
+![Image]({{ site.url }}/images/marche_saint-honore_12_04_2004.jpg)
+<div class="photoattrib">Le marché Saint-Honoré</div>
+
+
+
+![Image]({{ site.url }}/images/Hall_beer_tavern_12-04-2004.jpg)
+<div class="photoattrib">Le Hall's beer tavern</div>
+
+
+
+![Image]({{ site.url }}/images/squelette_louvre_12-04-2004.jpg)
+<div class="photoattrib">Une vitrine en face du louvre</div>
+
+
+
+![Image]({{ site.url }}/images/bateau_mouche_12-04-2004.jpg)
+<div class="photoattrib">Un bateau mouche extra-terrestre</div>
+
+
+
+![Image]({{ site.url }}/images/pont_arts_12_04_2004.jpg)
+<div class="photoattrib">Le pont des arts</div>
+
+
+
+![Image]({{ site.url }}/images/Plage_pouliguen_17-04-2004.jpg)
+<div class="photoattrib">La plage du Pouliguen</div>
+
+
+
+![Image]({{ site.url }}/images/tram_nantes_19_04_2004.jpg)
+<div class="photoattrib">La ville de Nantes</div>
+
+
+
+![Image]({{ site.url }}/images/passage_pommeraie_19_04_2004.jpg)
+<div class="photoattrib">Les passage Pommeraie</div>
+
+
+
+![Image]({{ site.url }}/images/jardin_des_plantes_19_04_2004.jpg)
+<div class="photoattrib">Le jardin des plantes de Nantes</div>
+

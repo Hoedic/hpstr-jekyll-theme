@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Fatigue"
+date: 2005-03-12 15:28:06
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Voilà très longtemps que je n'avais pas été aussi fatigué. Première semaine à travailler dans le centre-ville et à aller en cours (la semaine dernière c'était relache), je le sens passer. Hier je suis tombé en rentrant du boulot.
+
+La fatigue amène aussi son lot de désagréments : je fus malade ce matin (et le suis encore un peu) du coup je tourne au Coke depuis le réveil, et mes brulures d'estomac semblent vouloir refaire surface depuis quelques jours, possiblement vais-je devoir revoir un peu mon alimentation.
+
+![Image]({{ site.url }}/images/colorful-palais_10-03-2005.jpg)
+<div class="photoattrib">Le Palais des Congrès de Montréal sous le soleil</div>
+
+
+
+Preuve s'il en est besoin que la fatigue nuit à la santé... ça faisait une éternité que je n'avais pas été malade.

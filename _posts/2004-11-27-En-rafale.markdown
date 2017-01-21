@@ -1,0 +1,41 @@
+---
+layout: post
+title: "En rafale"
+date: 2004-11-27 02:55:50
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+**Blogues événementiels**
+
+ a clairement pris le virage blogue en faisant une publicité continue sur leur page d'accueil sur les différents blogues journalistiques qu'ils hébergent. Concept intéressant dans le lot : des blogues spécifiques à certains événements. Après  sur les élections présidentielles (et qui continue même après), voici , un blog à quatre mains, un pro (Olivier Duhamel) et un anti (Paul Alliès) constitution européenne. Cette utilisation ponctuelle du blog montre une nouvelle fois l'intérêt de ce très puissant outil de diffusion de l'information.
+
+**Intelligent Design**
+
+C'est le "nouveau" mouvement anti-darwiniste qui tend à remplacer le créationnisme classique. Un très bon  de Wired sur le sujet (via  et ) montre la force de ce mouvement qui se détache de l'aspect religieux pour simplement dire qu'une complexité comme on la retrouve chez l'humain ne peut pas être le fruit de l'évolution et qu'il faut donc un designer...
+
+Ils ont déjà réussi à faire apposer sur certains livres de biologie que l'évolutionnisme n'est qu'une théorie (comprendre sans fondement réel).
+
+Petit hic pour l'article de Wired : les pubs Google en bas de page pointent vers des sites créationnistes comme  et , ce qui est un peu ballot quand on veut dénoncer ces théories !
+
+**10 raisons de blogger**
+
+ de tenir un carnet chez Vu d'ici. Je me retrouve dans plusieurs de ces raisons.
+
+<blockquote class="citation">*'With the raw materials in my blog, my mom could actually construct an accurate picture of who I am. This is fucking serious.' - The Onion*</blockquote>
+
+**Ça bouge à Montréal**
+
+Via  j'ai découvert  et  qui vise à promouvoir les accès wifi semi-protégés dans Montréal, initiative intéressante. Toujours au même endroit j'ai trouvé un projet de . Faut bien dire que Montréal (et le Québec en général) me semble très prolifique en blogue, c'est certain que cette initiative pourrait être un succès.
+
+J'ai également (re)découvert par un courriel qui a parcouru pas mal de chemin l'existence du collectif .
+
+Tout ceci en fait donc des choses à suivre !
+
+**Le gouvernement québécois, mauvais client ?**
+
+Aujourd'hui j'ai assisté à une soutenance de maîtrise comparant les compagnies de génie-conseil au Québec et au Danemark, notamment en ce qui concerne l'innovation. Le constat est très clair : les entreprises québécoises sont à la ramasse avec 0.01% de leurs revenus en R&D contre 4% au Danemark.
+
+L'une des causes de ce manque d'innovation (possiblement valable pour une large partie de l'ingénierie au Québec), la politique du plus bas soumissionnaire pour les projets publics québécois.

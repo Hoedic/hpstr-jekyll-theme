@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-20 06:46:08
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*To think is easy. To act is difficult. To act as one thinks is the most difficult of all.*  (Johann Wolfgang von Goethe)
+
+*The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it.*  (Elbert Hubbard)
+
+*A room without books is like a body without a soul.*  (Marcus Tullius Cicero)

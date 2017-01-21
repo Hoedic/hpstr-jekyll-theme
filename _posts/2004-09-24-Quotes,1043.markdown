@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-24 03:53:03
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Our scientific power has outrun our spiritual power. We have guided missiles and misguided men.*  (Martin Luther King, Jr.)
+
+*Take time to deliberate; but when the time for action arrives, stop thinking and go in.*  (Andrew Jackson)
+
+*Though we travel the world over to find the beautiful, we must carry it within us or we will find it not.*  (Ralph Waldo Emerson)

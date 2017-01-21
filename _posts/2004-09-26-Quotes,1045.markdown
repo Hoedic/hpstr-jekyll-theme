@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-26 02:06:06
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Life is what happens to us while we're making other plans.*  (John Lennon)
+
+*The two hardest things to handle in life are failure and success.*  (Unknown)
+
+*When it is not necessary to make a decision, it is necessary not to make a decision.*  (Lord Falkland)

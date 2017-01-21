@@ -1,0 +1,18 @@
+---
+layout: post
+title: "2008 ?"
+date: 2008-01-02 23:22:22
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Huh ?! On est en 2008 ?!
+
+Bon ben bonne année 2008 alors. Pour ceux qui ont encore quelques sortes d'espoir
+
+If ever winter really piss you off (un petit souvenir de Thailande) : 
+
+![Image]({{ site.url }}/images/4448_8b11e00207_z_d.jpg)
+<div class="photoattrib">Our hotel at Koh Samui</div>

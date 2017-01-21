@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-25 03:39:56
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*It is not enough to succeed. Others must fail.*  (Gore Vidal)
+
+*The reason that lightning doesn't strike twice in the same place is that the same place isn't there the
+second time.*  (Willie Tyler)
+
+*Freedom is the right to be wrong, not the right to do wrong.*  (John Diefenbaker)

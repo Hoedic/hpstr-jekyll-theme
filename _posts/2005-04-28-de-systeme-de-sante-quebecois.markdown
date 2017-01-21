@@ -1,0 +1,15 @@
+---
+layout: post
+title: "&$%#& de système de santé québécois"
+date: 2005-04-28 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+-Mon frère de 20 ans, qui souffre de bégaiement, de dépression et de phobie sociale, a fini par se décider à suivre une thérapie de groupe, censée être une très bonne thérapie pour ce genre de trouble (il est déjà suivi par un psychiatre, une orthophoniste et un psychologue, tous dans le privé, par ailleurs).  Or les thérapies de groupe, ça se donne forcément dans les centres hospitaliers.  Du coup, depuis l'hiver, nous sommes à la recherche de cette précieuse thérapie pour lui.  Malheureusement, le domaine de la santé mentale est *ultra sectorisé* et mon frère n'a pas le droit d'avoir accès aux services des hôpitaux montréalais.  Il est prisonnier, depuis l'hiver, de la liste d'attente de l'hôpital de son secteur, qui n'a rien à lui proposer *avant l'automne* au moins.  Malheureusement, l'objectif à court terme de mon frère, qui est à l'aube de sa vie adulte, à cet âge critique où les trajectoires de vie se dessinent, serait d'enfin retourner au cégep après 2 ans d'arrêt, dans ce domaine d'intérêt qu'il s'est découvert à l'issue d'une démarche en orientation plutôt ardue.  J'ai comme l'impression qu'une thérapie de groupe aurait pu être le coup de pouce lui permettant d'affronter ce retour à l'école cet automne, et que son impossibilité pourrait le laisser s'embourber plusieurs mois encore dans le décrochage scolaire.
+
+- En outre, la psychiatre de cet hôpital en charge d'évaluer mon frère l'a enjoint à tout prix de se trouver un médecin de famille (jusqu'ici, c'est mon oncle, qui est médecin, qui s'occupait de ses petits ennuis de santé ou prescriptions à l'occasion...).  Je ne vous mens pas, ma mère a appelé de façon *exhaustive* toutes les cliniques et tous les médecins de Repentigny, L'Asssomption, Lavaltrie, Mascouche, Terrebone, etc.  Plus personne ne prend de nouveaux patients.  Ils me font rire jaune, les gens de l'hôpital, à l'obliger à se trouver un généraliste quand c'est une denrée si rare... qu'elle n'existe pas.  Ils vivent sur une autre planète ou quoi ?
+
+- J'ai besoin d'un rappel du vaccin contre la polio pour aller au Sénégal cet été.  Je suis allée à la clinique-voyage pour recevoir mes vaccins la première semaine de mars, et il y avait déjà une pénurie pancanadienne de ce précieux inoculum.  On me disait que ce serait résolu en avril.  En avril, on me disait en mai.  Maintenant, on me parle de juin, mais pas de bol, je ne serai plus là !  Mon oncle médecin, le même que cité plus haut, a miraculeusement déniché un CLSC et une clinique à Repentigny qui ont encore quelques doses de vaccin, mais ces gens-là *refusent* de lui en donner une pour qu'il me vaccine.  Je ne sais pas quelles sont les raisons qui motivent ces gens-là à garder comme un coffre-fort un vaccin pourtant gratuit et auquel j'ai droit.  Chose certaine, d'un point de vue de *bienfaisance* à l'égard de la santé des gens (moi en l'occurrence), c'est raté...

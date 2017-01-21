@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Design"
+date: 2003-08-27 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/plante.jpg)
+
+*I found a dimpled spider, fat and white, <BR>On a white heal-all, holding up a moth <BR>Like a white piece of rigid satin cloth - <BR>Assorted characters of death and blight <BR>[...] *
+
+*What had that flower to do with being white, <BR>The wayside blue and innocent heal-all? <BR>[...]<BR>What but design of darkness to appal? - <BR>If design govern in a thing so small.*
+
+Robert Frost
+
+Un poème rythmé sur la beauté, un hommage à la nature, tout simplement.
+
+![Image]({{ site.url }}/images/lotus.jpg)

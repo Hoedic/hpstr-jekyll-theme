@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-14 01:25:06
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*If I were a medical man, I should prescribe a holiday to any patient who considered his work important.*  (Bertrand Russell)
+
+*If poetry comes not as naturally as the leaves to a tree, it better not come at all.*  (John Keats)
+
+*If there is no God, who pops up the next Kleenex?*  (Art Hoppe)

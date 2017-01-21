@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Tablet PC"
+date: 2005-07-08 18:37:11
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Cette nuit j'ai rêvé que j'avais un tablet PC, c'était vraiment très pratique (En fait c'était un peu volumineux, mais c'est surement parce que j'ai rêvé un 14/15" alors que je prendrais plus un 12")!
+
+Rien d'étonnant à cela, j'ai passé une partie de mon après-midi à regarder ces -.
+
+![Image]({{ site.url }}/images/prod_portM200_300x300.jpg)
+<div class="photoattrib">Vous prendrez bien un petit M200 pour la route ?</div>
+
+
+
+Y a-t-il dans la salle des utilisateurs de tablet PC (ou en ayant déjà eu dans les mains) ? Je serais assez curieux d'avoir des échos d'expérience (même si j'ai pas mal lu de posts de forums :p)

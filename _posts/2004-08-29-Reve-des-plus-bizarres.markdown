@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Rêve des plus bizarres"
+date: 2004-08-29 18:54:57
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Mon sommeil a été mouvementé en cette chaude nuit (merde à la fin, ce n'est plus la période des chaleurs là, l'hiver arrive à grands pas !)
+
+D'abord, je me rendais à mon premier jour de travail dans une entreprise pour laquelle j'ai réellement passé une entrevue il y a deux semaines. C'était le bonheur : l'ambiance était jeune et décontractée, j'étais très confiant et j'étais même affecté à un bureau dans le centre de Montréal accessible en métro et non à la maison mère à Saint-Laurent qui nécessite un affreux déplacement en voiture (bien entendu, dans la réalité cette entreprise n'a pas de bureau dans le Centre-Ville de Montréal).
+
+On commence à m'expliquer mon boulot, mes attributions sauf que là, une idée me vient à l'esprit : je n'ai pas eu de confirmation que j'étais accepté pour ce poste. Or je n'étais pas seul pour ce poste, il est donc impossible que je me sois rendu là si je n'ai pas eu confirmation. À cet instant je prends conscience que c'est surement un rêve, idée qui m'est désagréable car je suis très content d'être là où je suis !
+
+Pourtant c'est bien d'un rêve dont il s'agit, et je me retrouve chez moi, à Nantes dans une maison qui est un mix entre la maison de Nantes et l'hotel qu'ont eu mes parents pendant quelques années. Je devrais y être seul pourtant ça bouge à l'étage. Je dis à ma mère, qui vient d'apparaître, de m'accompagner et de prendre le téléphone sans fil pour appeler la police au besoin. Alors que nous sommes dans un couloir, trois personnages masqués surgissent, l'un fonçant vers moi armé d'une bâtons terminé par une seringue. Je l'évite grâce à une prise d'Aikido mais en se revelant il enfonce son arme dans ma mère qui s'éffondre, tuée sur le coup. Je me bats pour finalement me débarasser des deux autres agresseurs.
+
+Puis je me réveille de nouveau dans mon lit à Nantes ! Et j'ai conscience que mon rêve était prémonitoire et que quelque chose se trame dans la maison. Cette fois je dis à ma mère d'appeler d'office la police et de rester au rez-de-chaussée. L'attaque se produit comme dans le rêve et l'un des agresseurs arrive de nouveau à blesser ma mère mais pas mortellement cette fois. Une fois tué les inconnus, je prends le téléphone pour appeler la police mais ça sonne à la porte. J'ouvre et débarquent tous les gens que j'ai rencontré lors de mon premier jour de boulot (qui je le rappelle était un rêve dans mon rêve et se passait théoriquement à Montréal !). Ça sent le piège et alors qu'ils se sont tous déjà installés à table pour manger, je les menace d'une sorte de faux que j'ai pris à un des cadavres que j'ai laissé au premier étage. Certains visages me sont familiers, je les ai rencontré au travail, mais d'autres sont inconnus, quelques'uns visiblement hostiles. Je les pousse vers la cuisine pour les y enfermer. Certains se rebellent, sortant de je ne sais où de longues armes tranchantes mais je les tue à l'aide de ma faux.
+
+Je m'apprête à finalement appeler la police mais un bruit des plus étranges me parvient de l'étage. Je monte et entrant dans la chambre où les premiers agresseurs s'étaient tapis je trouve gisant au milieu de tout le bardas qu'ils avaient installés pour préparer leur attaque un minuscule orque, à peine plus gros qu'un saumon, en train de se dessécher. Je fais couler un bain pour l'y mettre. J'ai soudainement conscience que le plus important demeure d'appeler la police et que plus rien ne devrait m'en empêcher. Je compose le numéro, un officier décroche mais ma description des événements lui fait croire à une blague et arrête rapidement d'écouter préférant, à ce que j'entendant dans le combiné, jouer à Battlefield.
+
+Je me rabats donc sur les pompiers pour qu'ils viennent au moins chercher ma mère dont la situation se dégrade... ils appeleront bien les flics quand ils verront le massacre dans la maison. Mais ça sonne de nouveau à la porte, puis ça frappe dans le but d'enfoncer le tout. Je sors par derrière et m'approche des agresseurs comme si de rien. Ils s'adressent alors à moi comme si je m'appelais Willy. Je comprends alors qu'ils me confondent avec un tueur à gage qu'ils ont engagés pour me tuer ! Me faisant passer pour Willy, j'explique que je vais essayer de passer par derrière pour entrer. Dans la maison je reprends ma faux, retourne à l'extérieur et tue toutes ces gentilles personnes en sachant qu'il y a toujours un certain Willy qui doit venir.
+
+Ensuite, mon rêve devient plus flou... plusieurs images se bousculent sans sens apparent. Je demeure vraiment fasciné par ce rêve en abîme très réaliste malgré l'énormité des faits, incroyablement cohérent dans son déroulement et bourré de détails faisant référence à ma vie réelle. Je m'en suis réveillé, pour de bon cette fois, tout retourné !

@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Le laptop à 100$"
+date: 2005-11-16 23:42:38
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+ du  travaille depuis pas mal de temps sur la possibilité de produire un . A priori, il a réussi son pari et va annoncer le produit à Tunis, à l'occasion de .
+
+À l'image du sommet en question, ce laptop a vocation à aider les pays en voie de développement à combler la fracture numérique.
+
+Personnellement, je demeure sceptique.
+
+Déjà, je ne peux m'empêcher de mettre mon chapeau environnemental et de me dire que ceci ne sera pas sans impact. Oui je sais, que sont quelques centaines de millions de laptop en plus (si les objectifs sont atteints) par rapport à tout ce qu'on balance dans la nature. C'est vrai. Mais il faut savoir que dans certains pays, la poubelle c'est la rue, et quand y en a trop, on brûle. Un laptop n'est pas une planche de bois.
+
+Par ailleurs, même si cette machine sera uniquement accessible pour les ONG et gouvernements, ça poursuit la course au moins cher, à la multiplication des produits, etc. Et quand on produit est fait au plus bas prix, ça se fait souvent en passant par des produits ayant un impact environnemental supérieur (pourquoi : parce que ça prend des études couteuses pour baisser l'impact environnemental, parce que ça prend des produits souvent plus dispendieux, etc.)
+
+Ensuite, se pose la question de l'impact "social" de telles machines. En gros, une outil est-il suffisant pour former celui qui l'utilise ? Dans des pays manquant cruellement de compétences, où l'encadrement sera clairement déficiant, ces machines arriveront-elles à faire évoluer des populations entières ou resteront-elles (les machines) dans un coin faute de personnes voulant/pour s'en servir ?
+
+D'après les témoignages que j'ai, il n'est pas rare de voir des outils sensés aider, totalement unitilisés (les cas les plus flagrants étant les systèmes de traitement/d'accès à l'eau qui sont laissés en plan bien que presque prêt à fonctionner).
+
+Des laptops peuvent-ils aider, ne serait-ce que dans une faible mesure, des populations avec un taux d'alphabétisation très limitée à répondre à des questions qui sont souvent de l'ordre de la survie ?
+
+Cette fameuse fracture numérique mérite-t-elle d'être comblée rapidement d'ailleurs ? Quand on voit l'impact important (et pas toujours positif) d'Internet dans notre petit monde, il faut se demander quel en serait l'impact dans ces pays.
+
+Ce souhait de les voir embarquer dans l'univers magique de virtuel reflète bien là une vision occidentale/capitaliste finalement : leur donner les outils pour se joindre au commerce mondial, seul espoir de s'en sortir.
+
+Mais si la solution n'était pas dans le commerce avec nous ? S'ils avaient plus à gagner à essayer de produire pour eux avant d'essayer de vendre ? Les politiques "d'aide" conduites par les pays développés, l'intransigeance des contraintes fixées par le FMI ont toujours été guidées par cette même vision, et laissant derrière nombre d'échecs cuisants. Ne faudrait-il pas repenser la logique utilisée ?
+
+Pour revenir au laptop à 100$, il ne faudrait pas prendre ceux à la base de ce projet pour des abrutis. Des personnes Nicholas Negroponte ont une feuille de route convaincante et le portable en question a visiblement été bien pensé pour répondre à sa difficile mission. J'espère que ça apportera un plus à ceux qui en profiteront mais je ne m'empêcher de voir dans cette machine le fruit d'une reflexion guidée par une logique qui n'est pas forcément adaptée.

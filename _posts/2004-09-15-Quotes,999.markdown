@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-15 01:04:35
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*I like children. If they're properly cooked.*  (W. C. Fields)
+
+*I'm an idealist: I don't know where I'm going, but I'm on my way.*  (Carl Sandburg)
+
+*A cynic is a man who, when he smells flowers, looks around for a coffin.*  (H. L. Mencken)

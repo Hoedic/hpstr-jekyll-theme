@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Smog"
+date: 2005-02-06 01:07:19
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Montréal subit depuis quelques jours une vague de smog semble-t-il record. Maux de gorge pour certains, symptômes d'asthme, air visiblement plus opaque malgré le ciel bleu, c'est pas super.
+
+![Image]({{ site.url }}/images/bambou-cjour_05-02-2005.jpg)
+<div class="photoattrib">Couche de soleil vu de l'intérieur</div>
+
+
+
+Mais au moins le smog a un intérêt : ça fait des beaux couchers de soleil !
+
+![Image]({{ site.url }}/images/soleil-smog_05-02-2005.jpg)
+<div class="photoattrib">Version dehors</div>
+
+
+
+Ceci dit, je ne comprends pas qu'aucune mesure ne soit prise pour limiter ce phénomène. Limitation de la vitesse des autos ? Voire limitation de la circulation ? À dire vrai je ne sais pas ce qui serait efficace, mais se contenter d'annoncer sur les panneaux de bord de route qu'il y a du smog ne me semble pas très utile.

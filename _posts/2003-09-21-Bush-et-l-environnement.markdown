@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Bush et l'environnement"
+date: 2003-09-21 18:49:37
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Depuis l'arrivée au pouvoir de l'actuel président des USA, les critiques concernant sa gestion environnementale (ou plutôt anti-environnementale) n'ont eu cesse de se multiplier. Loin d'être seulement une aide au développement des entreprises, ces positions sont de véritables attaques ciblées contre toute politique de protection de l'environnement.
+
+Si pour beaucoup de citoyens la protection de l'environnement n'est qu'une problématique moderne parmi tant d'autre, ce n'est pas le point de vue de nombreux industriels. Pour eux, c'est un frein énorme au développement, ainsi que des coûts exorbitants qui grèvent leur compétitivité par rapport aux pays sans réglementation sur le sujet. Et parfois, tout est bon pour contourner les lois. Par exemple, l'USEPA (<a href="http://www.epa.gov/" title="Agence américaine de protection de l'environnement">US Environmental protection agency</a>) avait adopté en 1998 une réglementation obligeant les véhicules diesel à s'équiper de pots d'échappement catalytiques pour limiter les émissions atmosphériques. Le coût pour les entreprises produisant les véhicules s'élevait à 1G$ pour faire permettre d'abaisser de 10% la production américaine d'oxydes nitriques. La solution fut de mettre au point un système de catalyse "temporaire" rendant ainsi possible de passer avec succès les tests de l'EPA sans pour autant s'encombrer ensuite avec des contraintes trop coûteuses.
+
+Comme on peut le voir, le manque d'intérêt des certains industriels pour l'environnement n'est pas seulement de l'ordre du manque d'attention, c'est une véritable politique. Autant dire que lors de la campagne présidentielle de 2000, la question environnementale n'était pas un point mineur ; pour de nombreux soutiens et bailleurs de fond du président l'assouplissement des normes écologiques était un point important car cela représentait un fardeau plusieurs milliards de dollars.
+
+C'est pour cette raison que le sabotage de certaines lois de protection des ressources naturelles passées à la fin de l'ère Clinton a été parmi les premières actions du gouvernement Bush. C'est ainsi qu'il est désormais possible de défricher des zones entières de zones normalement protégées en <a href="http://www.savearcticrefuge.org/" title="Save Arctic Refuge">Alaska</a> sans que cela ne pose le moindre soucis.
+
+En faisant le tour des contraintes liées à l'environnement, on comprend rapidement l'empressement de l'administration Bush dans l'abaissement des normes environnementales. Quasiment tous les secteurs industriels sont liées à ces questions. Bien entendu le secteur pétrolier est parmi les premiers intéressés. Il est important pour eux que l'utilisation des énergie fossiles ne soit pas entravée par des règles liées à la pollution atmosphérique, de même qu'il est important d'avoir un accès facile aux ressources énergétiques.
+
+Le secteur de l'énergie est concerné en général. Laisser des centrales au charbon dépasser leur limite de vie sans apporter de modification au système de filtrage, et même favoriser le développement de ces centrales faisait partie de l'argument de vente de M. Bush dès 2001, et le tout éviter les coupures d'électricité. Le mega-black out de septembre 2003 lui a donné raison, cependant les normes environnementales ne sont les premières en cause. Et on ne parle pas du secteur automobile qui est au plus bas et qui ne supporterait de contraintes supplémentaires sur les émissions atmosphériques des véhicules.
+
+Le secteur de l'agriculture est lui aussi fortement dépendant des normes environnementales. Ce qui est très intéressant, c'est de voir à quel point le support de l'administration Bush se tourne surtout vers les gros producteurs, ceux qui peuvent faire pression à travers les lobbies. En effet, si l'on y regarde de plus près, les normes auxquels doivent se soumettre les producteurs agricoles sont plus sévères aux USA qu'au Québec. Cependant, les mega-producteurs peuvent se permettre de dépasser ces normes. En effet, là où un petit producteur sera rapidement contraint de contrôler ses rejets sous peine de ce qui est pour lui une grosse amende, il va falloir aller devant un tribunal qui il s'agit d'un gros producteurs. De plus les amendes qui peuvent être délivrées dans ce genre de cas sont faibles comparativement aux profits des méga-producteurs. Bref il en coûte moins cher à ces gens d'aller en cour et de payer une amende que de se conformer aux règles. Et tant qu'à ne pas s'y conformer autant ne pas le faire du tout pour éviter les coûts liés aux normes environnementales. C'est ainsi que l'on se retrouve avec des méga-voyous qui acceptent de payer des amendes de temps à autres mais qui polluent de plus en plus.
+
+*La suite au prochain épisode*

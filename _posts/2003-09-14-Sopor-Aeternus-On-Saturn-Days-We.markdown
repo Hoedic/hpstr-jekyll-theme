@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Sopor Aeternus : On Saturn Days We Used to Sleep"
+date: 2003-09-14 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Voilà une chanson tout droit issue de mon époque "musique gothique".  Celle-là est toute gentille et *soft*, et j'aime beaucoup ses paroles...  En plus elle est tout indiquée pour un dimanche (*Saturday*) :)<BR><BR>*On Saturn days we used to sleep <BR>all motionless and still... <BR>[...]<BR>through mystic veils her silver rays <BR>are glowing carefully. <BR>Woven of dewdrops and magical light <BR>this gown that we're wearing here <BR>is but a cloth of mist and we used to call it <BR>"The Breath of the Other Sphere". <BR>We are floating, flying, incredibly fast, <BR>the world of the thought gives birth to this life. <BR>Free to remember, to discover and feel <BR>as we're closely together in our parallel flight. <BR>While beyond the gates our bodies lie <BR>next to each other in fragile rest, <BR>two chests are lifted up and down, <BR>moved only by some mortal breath. <BR>Yes, our bodies are sleeping so closely together, <BR>but it's only in our minds that we touch (at last). <BR>In the realm of the spirits our souls become one <BR>in the happy knowledge that we are completing halves. <BR>No bodies and no barriers... <BR>(all) far more intimate and strange. <BR>[...]<BR>that it's him, my husband, the one that I love. <BR>See me! Read me! Step inside!! <BR>[...]<BR>So intensively and so deep <BR>as our fingers unite, our hands caress. <BR>Two wanderers are lovingly dwelling this land, <BR>(as) we fly side by side over mountains and glens. <BR>[...]<BR>and guarded by the shadows of the enchanted realm. <BR>Below a violet sky, both dark and profound, <BR>the horizon is glitt'ring, still there is no sound. <BR>We fly through the night crossing frontiers and lakes, <BR>mountains and valleys... world without end. <BR>"This is where we truly belong, <BR>take both my hands, look into my soul!" <BR>I feel the strength of his embrace <BR>as we're closely together in this secret place... <BR>[...]<BR>ghostly creatures as they dance and sing. <BR>Their transparent bodies, half man and half beast, <BR>their voices so sweet like a soft breath of wind. <BR>[...]*

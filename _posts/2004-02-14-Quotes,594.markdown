@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-02-14 19:03:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*I'm an idealist: I don't know where I'm going, but I'm on my way.*  (Carl Sandburg)
+
+*Patriotism is the last refuge of a scoundrel.*  (Samuel Johnson)
+
+*The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges, to beg in the streets, and to steal bread.*  (Anatole France)

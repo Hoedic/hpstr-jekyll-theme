@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Enfin !"
+date: 2004-12-11 15:43:33
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Je sais, je sais, je sors la même photo tous les ans, mais la première vraie bordée de neige, ça se fête tout de même !
+
+![Image]({{ site.url }}/images/neige-blacon_11-12-2004.jpg)
+<div class="photoattrib">La première bordée de l'hiver</div>
+

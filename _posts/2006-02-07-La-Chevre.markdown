@@ -1,0 +1,43 @@
+---
+layout: post
+title: "La Chèvre"
+date: 2006-02-07 23:22:11
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Bon, je n'osais pas le dire, mais c'est maintenant avéré.
+
+Depuis notre retour, je suis entrée dans une période de poisse pure et dure, une série de malchances malencontreuses difficile à arrêter et difficile à supporter.
+
+En gros, aucune de mes initiatives ne fonctionne du premier coup et je dois m'y reprendre plusieurs fois pour réaliser le moindre petit objectif de vie (même acheter des bagels, faire remplir une prescription à ma pharmacie habituelle ou aller à la piscine...).  Ce qui est sensé fonctionner ne fonctionne pas, ou cesse de le faire tout d'un coup.  Je casse plein de choses, même incassables, et me blesse en faisant des gestes pourtant très habituels.  Tout ça en même temps, bien sûr, c'est le comique de répétition !  Ça donne vachement confiance en soi pour agir...  Franchement, j'aurais envie de rester couchée en étoile dans mon lit et de ne rien faire, tant tout ce que je touche se transforme en échec.
+
+Hier, cerise sur le sundae, après la pile de ma montre pourtant presque neuve qui m'a lâchée (et de multiples péripéties pour la faire changer) et la petite bille du tournevis qui est sortie de son trou par on ne sait trop quel miracle, je me suis dit que j'allais sagement sur mon ordinateur, car c'est bien là une chose qui fonctionne et que je ne brise pas.
+
+Erreur, grave erreur.  Je faisais pourtant trois fois rien, comme d'habitude.  Mes mails étaient ouverts, de même que mes photos, et je discutais avec ma maman.  Quand tout a gelé.  Bon, certes, ça arrive.  Mais c'était gelé tout en émettant un "tic" régulier et très peu inspirant de l'endroit où se trouve le disque dur.  J'éteins l'ordinateur et essaie de le redémarrer.  Le "tic" reprend de plus belle.  Et le système d'exploitation n'essaie même pas de se mettre en route.  Il y a seulement un petit carré avec un point d'interrogation sur mon écran, exactement comme s'il n'y avait plus de disque dur.
+
+
+![Image]({{ site.url }}/images/8355_05253e0c0e_z_d.jpg)
+<div class="photoattrib">Deux chèvres qui mènent la dure vie aux Saintes, Guadeloupe</div>
+
+
+
+Ma vie est une vraie blague.  Ce n'est pas possible.  Il y a quelqu'un, en Haut, qui doit bien se marrer en ce moment.  J'étais certaine à ce moment d'avoir un ordinateur brisé que je devrais galérer pour faire réparer tout en devant m'en priver pendant des semaines/mois.  Et surtout, j'étais persuadée du décès de mon disque dur et par conséquent de la perte de toutes mes données depuis l'été.
+
+Bon, je sais, je n'ai à m'en prendre qu'à moi pour cette frousse.  Ce n'est pas du tout là une fréquence raisonnable de backup.  Mais croyez-moi, il était bien prévu que je fasse un backup à Noël.  Ne l'ayant pas fait à Noël, je m'étais dit que je pourrais aussi bien le faire pendant mon mois de vacance de janvier.  C'était donc le week-end dernier, dernier délai que je m'étais fixé pour le faire, et je l'avais bien en tête.  Mais voilà, j'étais trop dépitée et le courage m'a manqué.  Quelle cruelle et amère punition...
+
+Alors j'ai appelé AppleCare pour savoir où envoyer mon ordinateur pour le faire réparer.  C'est Kyle qui m'a répondu.  On a dû passer une bonne heure et demie au téléphone hier soir à faire diverses tentatives.  Plusieurs fois, il a voulu jeté l'éponge, mais j'ai insisté pour essayé autre chose (d'où venait cette foi que je lui ai communiqué dans cette situation sans appel ?).  À la fin, avant de raccrocher, il est allé demander une dernière fois à un collègue spécialiste s'il n'y avait pas encore quelque chose à tenter.  Il est revenu et m'a demandé de faire une combinaison de touches peu élégante sur mon clavier, suivie d'un certain "reset all".  Et, comme par magie, mon disque dur est revenu à la vie, avec mon système d'exploitation et surtout... toutes mes données !  Je vous jure que lui-même n'en croyait pas ses oreilles.  Il m'a dit qu'il gardait précieusement toutes ses notes à ce sujet et m'a donné le numéro de dossier au cas où je doive rappeler.
+
+Croyez bien que je l'ai faite immédiatement, ma sauvegarde extensive de données.  Et merci à Kyle qui a sauvé ma journée, ma semaine, et plus encore !
+
+Comme me l'a rappelé Hoedic très à propos, "aide-toi et le ciel t'aidera", surtout devant l'adversité ! ;)
+
+
+![Image]({{ site.url }}/images/8098_abe849fcce_z_d.jpg)
+<div class="photoattrib">Les chèvres mènent la dure vie aux Saintes, Guadeloupe</div>
+
+
+
+Bon, mais on va quand même louer le fameux film français "La chèvre", que je n'ai pas vu, ce week-end ;)

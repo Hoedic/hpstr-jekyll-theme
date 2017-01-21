@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-02 00:02:09
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.*  (Albert Einstein)
+
+*A man is a critic when he cannot be an artist, in the same way that a man becomes an informer when he cannot be a soldier.*  (Gustave Flaubert)
+
+*A man lives by believing in something, not by debating and arguing about many things.*  (Thomas Carlyle)

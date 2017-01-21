@@ -1,0 +1,23 @@
+---
+layout: post
+title: "De retour"
+date: 2003-10-09 21:21:24
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Bon, après trois jours sans donner vie, me voici de retour.
+
+D'où venait ce problème ? Pour faire simple, j'ai voulu faire une sauvegarde, sauvegarde qui se fait par la génération d'un fichier XML contenant le contenu de la base de donnée. L'erreur que j'ai fait c'est cliquer sur mauvais bouton, celui qui sert à restaurer le contenu de la base à partir d'un fichier XML. Manque de bol, j'avais un vieux fichier qui trainait dans le répertoire donc Spip a écraser ce qui était en base par cette vieille sauvegarde ce qui a fait disparaître tous mes billets depuis le 28 septembre.
+
+Heureusement j'avais une page ouverte avec le contenu de mon site, donc j'ai pu sauver ça ; en y couplant le cache Google j'ai récupéré tous mes billets. Cependant, je viens de passer pas mal de temps pour tout refaire, je suis un peu gavé là.
+
+Le soucis c'est que j'ai perdu vraisemblablement de manière définitive mes statistiques de fréquentation ainsi tous les commentaires depuis le 28 septembre, ce qui me rend le plus triste car il y avait quelques messages que j'aimais bien.
+
+Cependant, cette connerie de ma part a pu passer vaguement inaperçue du fait des plantages répétitifs d'Ouvaton qui a été down de façon plus que régulière durant les deux derniers jours. D'ailleurs, à l'instant même où j'écris, je suis sur mon serveur local car les admins d'Ouvaton doivent changer cette nuit le serveur principal car la fiabilité n'était pas au rendez-vous, c'est pas le moment d'aller faire joujou avec site en ligne, j'ai déjà fait assez de conneries pour l'heure !
+
+Bon, enfin tout ceci me fatigue beaucoup. Au lieu de travailler sur d'autres choses sur mon blog comme quelques scripts PHP, eh bien je viens de passer ma soirée à tout remettre droit et je n'ai vraiment plus envie de faire quoique ce soit.
+
+Histoire d'aller me défouler un peu, je vais aller tuer quelques menus ennemis dans Battlefield 1942

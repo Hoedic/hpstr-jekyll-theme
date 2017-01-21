@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Le chat"
+date: 2003-09-14 18:05:34
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Voici le genre de ... "chose" qui peut venir se poser négligemment sur le bureau lorsque l'on navigue tranquillement sur internet.
+
+![Image]({{ site.url }}/images/safran-ordi2-pt.jpg)
+<div class="photoattrib">Bob, le chat</div>
+
+
+
+Coup de chance, cette fois-ci, ce n'était pas devant mon ordinateur mais devant celui de <a href="http://ebb.monblogue.com/" title="
+Le voltigeur et l'impératrice">Ebb</a>
+
+Mais non, je ne fais pas de pub à <a href="http://mediatic.blogspot.com/" title="Toute la blog'actu">MediaTIC</a> ;)

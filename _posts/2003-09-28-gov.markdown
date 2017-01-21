@@ -1,0 +1,16 @@
+---
+layout: post
+title: ".gov"
+date: 2003-09-28 00:00:00
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+J'étais en train de me demande s'il existait un site en .gov qui n'appartenait au gouvernement américain...
+
+En fait, j'ai eu assez rapidement ma réponse sur le site d'<a href="http://www.icann.org/tlds/" title="Internet Corporation
+for Assigned Names and Numbers">ICANN</a> : Trois TLD (Top-Level Domain) sont régis par une administation américaine ou dédiés aux institutions américaines (.gov, .edu, .mil).
+
+C'est impressionnant de voir à quel point le gouvernement possède encore une sorte de droit de cuissage sur l'Internet...

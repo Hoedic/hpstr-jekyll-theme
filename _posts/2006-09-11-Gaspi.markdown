@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Gaspi"
+date: 2006-09-11 16:52:13
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Hier j'ai découvert que je payais 3 assurances santé/médicaments. Une par mon boulot, la seconde par mon ordre professionnel et la dernière par l'unversité, les deux dernières étant facturées par défaut dans les frais annuels.
+
+On s'étonne quand les assureurs se font du fric après ça ! Quant à moi, ça m'apprendra à regarder d'un peu plus près ce que je paie.
+
+![Image]({{ site.url }}/images/0942_59a11b6064_z_d.jpg)
+<div class="photoattrib">Dans le tunnel / In the tunnel</div>

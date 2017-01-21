@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Retard"
+date: 2004-11-14 05:00:03
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Bon, le déménagement prend du retard pour cause de RewriteRule qui fonctionnent bizarrement chez mon nouvel hébergeur... de plus le support technique semble ne pas être vite vite pour regarder ce qui cloche (d'un autre coté, au prix que je paie, je ne m'attendais pas à avoir un support immédiat... mais ça ne m'inquiète pas pour autant, c'était pareil chez Ouvaton et ça c'est le genre de problème auquel on fait face surtout lors de l'install.)
+
+![Image]({{ site.url }}/images/tache-essence_12-11-2004.jpg)
+<div class="photoattrib">Rue Lacombe, Montréal</div>
+

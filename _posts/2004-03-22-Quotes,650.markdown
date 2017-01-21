@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-22 00:50:43
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Love your neighbors, but don't pull down the fence.*  (Chinese proverb)
+
+*Make things as simple as possible, but no simpler.*  (Albert Einstein)
+
+*Never tell people how to do things. Tell them what to do, and they will suprise you with their ingenuity.*  (General George S Patton, Jr.)

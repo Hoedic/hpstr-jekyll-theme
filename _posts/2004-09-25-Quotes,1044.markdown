@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-25 02:35:08
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Computers are useless. They can only give you answers.*  (Pablo Picasso)
+
+*I haven't failed, I've found 10,000 ways that don't work.*  (Ben Franklin)
+
+*We are all in the gutter, but some of us are looking at the stars.*  (Oscar Wilde)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-02-16 00:22:22
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Fashion is a form of ugliness so intolerable that we have to alter it every six months.*  (Oscar Wilde)
+
+*It is not enough to succeed; others must fail.*  (Gore Vidal)
+
+*A cynic is a man who, when he smells flowers, looks around for a coffin.*  (H. L. Mencken)

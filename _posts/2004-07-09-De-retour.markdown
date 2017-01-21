@@ -1,0 +1,32 @@
+---
+layout: post
+title: "De retour"
+date: 2004-07-09 00:28:58
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Peu de choses à raconter.  En gros : famille et jeux de cartes, vélo, tennis, piscine, randonnée, un peu de magasinage à St-Sauveur (décevantes ces "factories" d'ailleurs) et une journée de pure détente au .
+
+![Image]({{ site.url }}/images/Cefl2.jpg)
+<div class="photoattrib">Le Riverain</div>
+
+
+
+![Image]({{ site.url }}/images/ptittraindunord.jpg)
+<div class="photoattrib">La Rivière du Nord</div>
+
+
+
+Quelques images pour conclure (j'ai ressorti mon ancien appareil-photos, qui ne mérite pas l'appellation, alors ne soyez pas difficiles !).
+
+![Image]({{ site.url }}/images/Cefl3.jpg)
+<div class="photoattrib">L'Aquatique</div>
+
+
+
+![Image]({{ site.url }}/images/couchersoleil.jpg)
+<div class="photoattrib">Le soleil qui se couche</div>
+

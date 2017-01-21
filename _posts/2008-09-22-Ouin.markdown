@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Ouin..."
+date: 2008-09-22 20:30:23
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Quelque chose comme ça :
+
+![Image]({{ site.url }}/images/gifcar_220908.gif)
+
+
+Je me demande combien ça pèse 700 milliards de dollars en quarters

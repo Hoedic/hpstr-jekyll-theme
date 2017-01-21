@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-04-25 19:54:18
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Worry is interest paid on trouble before it comes due.*  (William Ralph Inge)
+
+*Lack of will power has caused more failure than lack of intelligence or ability.*  (Flower A. Newhouse)
+
+*We have forty million reasons for failure, but not a single excuse.*  (Rudyard Kipling)

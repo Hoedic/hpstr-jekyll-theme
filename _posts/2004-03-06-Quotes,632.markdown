@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-06 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Everyone is born with genius, but most people only keep it a few minutes.*  (Edgard Varese)
+
+*Experience is the hardest kind of teacher. It gives you the test first, and the lesson afterward.*  (Anonymous)
+
+*Fanaticism consists of redoubling your efforts when you have forgotten your aim.*  (George Santayana)

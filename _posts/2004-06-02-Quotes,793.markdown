@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-06-02 01:02:45
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Climb mountains to see lowlands.*  (Chinese Proverb)
+
+*The measure of a man's real character is what he would do if he knew he would never be found out.*  (Macaulay)
+
+*Life is like a game of cards. The hand that is dealt you represents determinism; the way you play it is free will.*  (Jawaharial Nehru)

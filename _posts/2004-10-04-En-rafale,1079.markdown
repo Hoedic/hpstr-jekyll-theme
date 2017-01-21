@@ -1,0 +1,30 @@
+---
+layout: post
+title: "En rafale"
+date: 2004-10-04 15:50:38
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Petite revue de presse de début de semaine
+
+Michel Dumais  aux lecteurs du quotidien  (et sur son ) le principe de la licence  (faudrait que je me penche un peu plus sur un sujet un de ces quatre)
+
+ se moque -à juste titre- de la . Je ne sais pas comment c'est traité en France mais vu d'ici ça fait effectivement très guignolesque. Faudra qu'on m'explique ce que ce groupe de personnes comptait faire là-bas et à qui ils comptaient faire gober leurs conneries. Espérons que le sort des otages n'en patira pas.
+
+Le Devoir  le succès de la 3ème  à Paris. Dommage, j'étais à Nantes pour préparer mon départ lors de la première édition. L'article rappelle que  le 26 février 2005, soit approximativement au moment le plus froid de l'année... c'est tellement intelligent ! Pourquoi ne pas le faire fin septembre alors que les températures sont encore clémentes et les gens pas encore en mode hibernation ?!
+
+Toujours au sujet de Montréal, Cyberpresse suit le maire Tremblay dans sa . Si quelqu'un pouvait lui expliquer que si le poubelles débordent, c'est pas que les Montréalais sont sales, c'est qu'il n'y a pas assez de poubelles !
+
+![Image]({{ site.url }}/images/montreal-poubelle_04-10-2004.jpg)
+<div class="photoattrib">Si les poubelles sont pleines</div>
+
+
+
+Les scientifiques s'en prennent de plus en plus sèchement à l'administration Bush. Cette fois les éditeurs de presse scientifique  en justice le département Trésor pour leur avoir interdit de publier des recherches faites en collaboration avec des scientifiques de pays sous embargo américain.
+
+La situation de Diebold sur les machines à voter ne s'arrange pas. Cette fois ils se sont fait   pour avoir injustement poursuivi des étudiants qui ont révélé des trous de sécurité dans des machines similaires à celles qui vont servir pour l'élection présidentielle américaine.
+
+Enfin Montréal a    à "ses Amours", comprendre l'équipe de baseball des Expos, installées ici depuis 35 ans et qui prennent la direction de Washington où ils seront mis aux enchères... en espérant qu'un milliardaire en voudra bien. Bien que je déteste le baseball comme jeu et ne comprenne pas que des gens soient en pleurs à cause de cet événement, je trouve ce déménagement ridicule sur le principe du sport et lamentable pour l'image de Montréal...

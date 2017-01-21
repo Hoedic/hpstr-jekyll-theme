@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-26 01:05:56
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Whenever one finds himself inclined to bitterness, it is a sign of emotional failure.*  (Bertrand Russell)
+
+*I have a simple philosophy. Fill what's empty. Empty what's full. And scratch where it itches.*  (Alice Roosevelt Longworth)
+
+*It has been my experience that folks who have no vices have very few virtues.*  (Abraham Lincoln)

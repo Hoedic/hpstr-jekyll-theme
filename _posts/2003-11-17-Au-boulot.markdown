@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Au boulot !"
+date: 2003-11-17 00:00:00
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Cette fois-ci, ce n'est pas de  dont il est question, mais bien de travail ! En effet j'ai de nouveau du travail, à défaut d'avoir un emploi.
+
+La différence ? C'est un contrat de seulement 3 semaines, donc pas de quoi sauter au plafond, mais ça paie, et un peu plus que mon stage, ce qui devrait me permettre d'amasser une coup' de millier de piasses (environ 2000$ quoi :) Ça ne se refuse pas !
+
+De plus, la quantité de travail ne semble pas faramineuse et je peux gérer mon organisation à ma guise, ce qui me laissera suffisamment de temps pour persécuter les entreprises que j'ai en vue.
+
+En fait, durant ces derniers jours, et au gré de plusieurs rencontres avec des connaissances (on peut pas encore parler d'amis, mais pourquoi pas :), je me suis fait une idée sur ce que je veux faire et ne pas faire. Depuis un an que je suis ici, je navigue entre plusieurs voies, sans me décider pour l'une ou pour l'autre : environnement, génie, informatique, un peu de chaque... J'ai toujours été conscient que je n'arriverai à rien si je ne me décidais pas... mais c'est pas pour autant que je me décidais.
+
+En réfléchissant un peu et en discutant, les conclusions se sont posées d'elles-mêmes : l'environnement c'est bien sympa, mais comme boulot, ça me gonfle. Déjà parce que ça ne m'intéresse pas au quotidien comme job. Ensuite, travailler dans l'environnement, c'est souvent être employé par des industries polluantes et essayer de faire que ça ne se voit pas. J'entends souvent durant les cours des profs dire aux écolo en herbe que nous sommes *"Oui, mais ces industries ont justement besoin de vous pour les aider à moins polluer"*. De toute évidence, la majeure partie des firmes en question s'en foutent de saloper l'environnement et y travailler ne changera rien. Je souhaite donc continuer à m'engager en environnement, mais pas de manière professionnelle.
+
+Le génie, j'en parle même pas : ça m'a toujours fait chier, je déteste l'environnement "usine" (et je suis ingénieur mécanique et industriel, je vous raconte pas la joie) et je n'ai aucune expérience. Bref, ce serait utopique d'espérer y travailler et de surcroît c'est une utopie qui ne m'intéresse pas du tout, du tout, du tout.
+
+Reste l'info. Y a pas à dire, l'info, c'est mon dada, l'ordi, c'est mon copain. Bon, c'est vrai que fondamentalement, ça n'apporte pas grand chose à ma vie, à mes aspirations profondes mais, au quotidien, c'est ce que je préfère. Alors, pourquoi s'en priver ? Bon, le soucis, c'est que je n'ai pas suivi les dernières évolutions et je me rends compte que mon année et demie d'expérience n'est pas si bonne que je le pensais. Mais après tout, quand je me suis fait engager chez Accenture, je n'y connaissais absolument rien. De l'avis de certaines personnes bossant dans le milieu, mon CV est assez défendable. Rien n'est joué, mais... ça fait du bien de faire un choix.
+
+Du coup, j'arrête un de mes trois cours du soir, le plus chiant, celui dans lequel je suis le plus à la bourre et nécessitant le plus de travail d'ici la fin de l'année. Je vais mener à bout les deux autres histoire de ne pas avoir payé pour rien, ne pas laisser tomber mes équipiers et parce que c'est intéressant tout de même.
+
+Le temps libéré sera consacré à me "former", notamment revoir le fonctionnement de la méthode UML et jeter un coup d'oeil à .NET qui a l'air de susciter pas mal d'intérêt ces temps-ci.
+
+Je me trouve un peu dans l'état d'esprit que j'avais lorsque j'ai été embauché en sortant de l'école et où tout me réussissait. Bon, ça ne durera peut-être pas quand je me serais cassé le nez à quelques reprises mais bon, pour l'heure, je suis motivé, plus que je ne l'ai été depuis mon arrivée, il faut en profiter !

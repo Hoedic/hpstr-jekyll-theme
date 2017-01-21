@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Concepts"
+date: 2003-10-31 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Avez-vous souvenir de ces choses que l'on vous a apprises à l'école et qui allaient à l'encontre de ce que vous aviez toujours pensé ?  D'avoir dû vous faire violence pour oublier votre première perception erronnée des choses ?
+
+Moi si.  Par exemple, je pensais que pour qu'un objet avance à vitesse constante, il fallait le pousser à vitesse constante (ben oui, expérience élémentaire quoi).  Et puis la physique, avec ses gros sabots, est venue me dire qu'en fait, un objet que l'on ne touche pas est soit immobile, soit il avance à vitesse constante.  Si on lui applique une force, alors il accélère.  (En fait, par la suite, j'ai compris que je n'avais pas tout à fait tort sur Terre, avec tous les frottements - ouf !)
+
+Mais quelle ne fut pas ma surprise, dernièrement, à la lecture d'un article portant sur une étude très sérieuse.  Ainsi, la plupart des gens penseraient de façon spontanée que ce que l'on mange et ce que l'on boit empruntent chacun un tube différent pour aller dans des poches différentes.
+
+L'étude a eu lieu en France, chez des élèves du primaire, du collège, du lycée et enfin chez des étudiants universitaires.  Ils ont tous répété la faute, à 5 ans pratiquement dans les mêmes proportions qu'à 20 ans.  L'étude visait à prouver que l'enseignement français échoue à changer une conception erronnée.
+
+Seulement, personnellement, je n'ai jamais vu qui que ce soit croire qu'il y avait des tubes différents pour les aliments solides et les liquides...!

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-17 23:49:08
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*If you tell the truth you don't have to remember anything.*  (Mark Twain) 
+
+*Technological progress is like an axe in the hands of a pathological criminal.*  (Albert Einstein) 
+
+*Writing about music is like dancing about architecture.*  (anonymous)

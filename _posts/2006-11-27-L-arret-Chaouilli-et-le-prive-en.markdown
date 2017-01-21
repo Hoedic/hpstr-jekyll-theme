@@ -1,0 +1,38 @@
+---
+layout: post
+title: "L'arrêt Chaouilli et le privé en santé"
+date: 2006-11-27 15:38:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+L&#8217;arrêt Chaouilli, c&#8217;est cette décision de la Cour Suprême du Canada statuant que le Québec ne peut interdire à un citoyen de prendre une assurance privée pour obtenir des soins médicaux. En effet, il a été jugé que l&#8217;attente dans le système public est parfois inacceptable et met en danger la vie et la santé des patients. Cet arrêt va même à l&#8217;encontre de la ''Loi canadienne sur la santé'', dont les cinq principes fondamentaux sont : gestion publique, intégralité, universalité, transférabilité, accessibilité.
+
+Québec, dans sa loi 33 du printemps dernier, cherche donc à garantir des délais raisonnables au public, recourant sinon à des cliniques privées aux frais de l&#8217;État. De plus, il est maintenant permis de contracter une assurance privée pour la chirurgie de la hanche, du genou et de la cataracte.
+
+Pourquoi est-ce que le privé est une si mauvaise solution ?
+
+On sait que le Québec consacre 9,6% de son PIB brut à la santé (comparativement à 10,9% au Canada, 10,2% en France et 14,7 % aux Etats-Unis), répartis actuellement en 30% de privé et 70% de public (une répartition comparable à la France). On peut donc constater que le privé est déjà bien impliqué au Québec (pensons aux dentistes, optométristes, physiothérapeutes, médicaments&#8230;). On peut aussi se surprendre des coûts aussi élevés aux Etats-Unis malgré une mauvaise couverture de la population. Quant à nous, si on se compare, on pourrait croire à voir ces chiffres que le financement de notre système de santé est adéquat et que le gros du problème réside dans l&#8217;organisation et l&#8217;efficacité du réseau, en particulier la première ligne.
+
+Notre système de santé s&#8217;est toujours voulu juste, équitable et universel, et le consensus dans la société est toujours pour qu&#8217;il le demeure. Donner une plus grande part au privé à but lucratif a souvent été avancé comme une solution pour améliorer l&#8217;accessibilité des soins et contrôler les coûts. Pourtant, les exemples ailleurs ne semblent pas prouver que le privé améliore la situation&#8230;
+
+La première étude (Devereaux et al., CMAJ 2002) est une revue systématique et une méta-analyse comparant les taux de mortalité entre les hôpitaux publics et privés aux Etats-Unis. Les résultats sont éloquents : les taux de mortalité pour les mêmes types de diagnostics/patients sont significativement plus élevés de 2% dans les hôpitaux à but lucratif. Les explications avancées en seraient : une proportion moins élevée de personnel hautement qualifié, l&#8217;obligation de dégager des profits de 10-15%  et de payer des taxes. Le seconde étude de la même équipe (CMAJ 2004) compare les coûts absolus pour des services similaires dans des hôpitaux publics et d&#8217;autres à but lucratif. C&#8217;est aussi une revue systématique et méta-analyse, faisant état de coûts significativement supérieurs d&#8217;environ 19% dans les hôpitaux privés. Il est donc faux de croire que le privé permet de faire diminuer les coûts ou d&#8217;augmenter la qualité des soins&#8230;
+
+La troisième étude vient de Woolhandler et al. (NEJM 2003) et compare les coûts de l&#8217;administration de la santé entre le Canada et les Etats-Unis. Ces coûts sont beaucoup plus élevés aux Etats-Unis, représentant 31% des dépenses de santé (1059 $ per capita), comparativement à 16% au Canada (307 $ per capita). À croire que la gestion publique du réseau n&#8217;est pas si désavantageuse !
+
+Les conséquences du privé en santé sont potentiellement nuisibles, il devrait donc être réglementé et contrôlé de façon stricte. Quant à l&#8217;accessibilité, de façon conceptuelle, on voit mal comment le fait de répartir différemment l&#8217;offre limitée de médecins et de personnel en contexte de pénurie (certains en privé et d&#8217;autres en public) pourrait
+faire autrement que de simplement déplacer le problème. Ceux qui payent auront peut-être un meilleur accès, mais au détriment du système public, où les listes d&#8217;attente s&#8217;allongeront. Ceci est d&#8217;ailleurs bien démontré par l&#8217;expérience au Manitoba, en Alberta, au Royaume-Uni et en Australie (dans  sur le système privé parallèle et les temps d&#8217;attente, 2005).
+
+Pour terminer sur le privé, on a plusieurs fois démontré que de lui ouvrir la porte augmente les coûts totaux de la santé (et ce sont toujours les citoyens qui payent au fond), augmente les listes d&#8217;attente dans le public et augmente aussi les coûts de gestion du système de santé. Pourtant, l&#8217;arrêt Chaoulli va quand même dans ce sens&#8230;  C&#8217;est que d&#8217;un point de vue purement individuel plutôt que populationnel, la personne qui a les moyens de se payer un service privé est effectivement objectivement avantagée. Elle réclame donc ce « droit » à grand cri, même au détriment des autres.
+
+Au fond, si le système de soins était satisfaisant, il ne serait pas nécessaire d&#8217;avoir recours au privé et la solution réside dans le fait de le rendre satisfaisant. Et si nous sommes prêts à nous payer en double une assurance privée tellement cela nous importe, c&#8217;est que nous serions aussi prêts à en payer un peu plus par nos impôts, le cas échéant. Personnellement, j&#8217;aurais honte que notre système en devienne un comme celui des Etats-Unis où tellement de malades sont des laissés pour compte du système de soins&#8230;
+
+Or il existe bien d'autres formes de privés que celui des États-Unis, comme par exemple les fameux PPP (partenariats public-privé), où une entreprise privée offre un service public selon des normes de services strictes fixées par l'État. À la limite, un cabinet de médecins est déjà un PPP. En France, cette forme de privé existe effectivement beaucoup, de nombreux hôpitaux privés offrent par exemple des chirurgies (40% des hôpitaux en France sont privés à but lucratif, plus 33% à but non lucratif et seulement 25% sont publics). Mais les médecins y sont toujours rémunérés par la Sécurité sociale et les patients y sont également remboursés par la Sécu. Pas d'inégalité !
+
+L'OMS place le système de santé français au premier rang mondial quant à son efficacité globale (état de santé de la population par rapport aux sommes investies). Le Canada arrive 30e et les États-Unis 37e. À noter que les États-Unis tombent au rang 72 d'après les effets sur le niveau de santé. Il faut aussi mentionner que la France compte un grand nombre de médecins actifs par rapport à sa population (329 par 100 000 habitants, comparativement à 209 par 100 000 habitants au Canada), mais qu'ils sont bien moins bien rémunérés qu'en Amérique du Nord...
+
+En gros, c'est vraiment un système où le privé est omniprésent, pour le bien-être du plus grand nombre. Et le filet social ne laisse personne à découvert. (Seul bémol au tableau, le déficit monstrueux de la Sécurité sociale française, qui est prévu à 8 milliards d'euros en 2007, ce qui représente pourtant une légère baisse du déficit !)
+
+Les PPP, une partie de la solution ? Peut-être, mais il ne faudrait pas oublier de combler la pénurie de personnels, et d'améliorer l'efficacité du réseau actuel. (La grande question est : jusqu'où va la volonté politique ? Après tout, une pénurie et un mauvais accès, c'est aussi une façon de contrôler les coûts...!)

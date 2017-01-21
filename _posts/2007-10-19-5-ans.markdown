@@ -1,0 +1,15 @@
+---
+layout: post
+title: "5 ans !"
+date: 2007-10-19 23:57:38
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Comme me le rappelait Olivier, avec qui je partage ce jour saint, ça fait exactement 5 ans aujourd'hui que j'ai posé le pied à feu-l'aéroport-Mirabel en tant que résident permanent. 
+
+5 années de hauts et bas, les seconds plutôt au début, les derniers plus récemment et je dois avouer que je ne suis pas mécontent de mon choix maintenant :)
+
+![Image]({{ site.url }}/images/jpg_mt-st-hilaire.jpg)

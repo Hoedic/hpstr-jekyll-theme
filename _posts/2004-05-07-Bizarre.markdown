@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Bizarre !"
+date: 2004-05-07 19:34:38
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Récemment, notre siamoise, Safran, nous a fait une rhino-trachéite possiblement d'origine herpétique.  Elle a été traitée avec des antibiotiques pendant 10 jours.
+
+Et voilà qu'elle a l'air de ça :
+
+![Image]({{ site.url }}/images/nezmouchete.jpg)
+<div class="photoattrib">Safran a le nez moucheté</div>
+
+
+
+Je précise que d'habitude, un siamois, ça a le nez tout noir, pas noir et blanc comme ça !

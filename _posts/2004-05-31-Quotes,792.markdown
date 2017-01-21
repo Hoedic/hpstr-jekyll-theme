@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-31 23:00:43
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*I hear and I forget.  I see and I believe.  I do and I understand.*  (Confucius)
+
+*All things in the world come from being. And being comes from non-being.*  (Lao-Tzu)
+
+*We take greater pains to persuade others that we are happy than in endeavoring to think so ourselves.*  (Confucius)

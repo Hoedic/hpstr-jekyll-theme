@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Automne"
+date: 2005-11-04 17:06:44
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/9118_4406e19170_z_d.jpg)
+<div class="photoattrib">Montréal vers le Nord-Ouest</div>
+
+
+Oui oui, nous sommes encore en vie :)

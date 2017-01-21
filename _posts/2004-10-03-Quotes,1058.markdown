@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-10-03 05:19:13
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Example is contagious behavior.*  (Charles Reade)
+
+*He that wrestled with us strengthens our nerves and sharpens our skill. Our antagonist is our helper.*  (Burke)
+
+*The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in business. You've got to keep working that talent.*  (Irving Berlin)

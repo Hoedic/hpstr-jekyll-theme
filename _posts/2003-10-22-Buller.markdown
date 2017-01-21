@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Buller"
+date: 2003-10-22 18:31:23
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/bulle.jpg)
+
+
+**Buller** *v.i* [...] **2. ** *Fam.* Rester oisif ; ne rien faire, se reposer.
+
+*Le Petit Larousse Illustré, 1996*

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-03 23:43:38
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*A small mind is obstinate. A great mind can lead and be led.*  (Alexander Cannon)
+
+*A man too busy to take care of his health is like a mechanic too busy to take care of his tools.*  (Spanish Proverb)
+
+*People who cannot find time for recreation are obliged sooner or later to find time for illness.*  (John Wanamaker)

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "iPod Mini"
+date: 2004-07-29 21:25:22
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+C'est petit quand même quand on y pense...
+
+![Image]({{ site.url }}/images/ipod_mini-29-07-2004.jpg)
+<div class="photoattrib">iPod Mini vert</div>
+
+
+
+Avec quelques mois de retard, mon cadeau d'anniversaire ! À défaut d'être moi-même riche, j'ai des cadeaux cool.
+
+Au résultat, ça fait que Ebb et moi avons donné pas mal d'argent à Apple dernièrement...

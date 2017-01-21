@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-08 01:41:58
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*It's more fun to arrive at a conclusion than to justify it.*  (Macolm Forbes)
+
+*Yes, risk-taking is inherently failure-prone.  Otherwise it would be called sure-thing-taking.*  (Tim McMahon)
+
+*An optimist thinks this is the best of all worlds.  A pessimist fears the same may be true.*  (Doug Larson)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-29 02:54:42
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*If what you are telling is true, you don't have to choose your words so carefully.*  (Frank A. Clark)
+
+*You cease to be afraid when you cease to hope; for hope is accompanies by fear.*  (Lucius Annaeus Seneca)
+
+*The way to love anything is to realize that it may be lost.*  (C.K. Chesterton)

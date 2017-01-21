@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-03 05:02:40
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Lonely people talking to each other can make each other lonelier.*  (Lilliam Hellman)
+
+*We all are born mad. Some remain so.*  (Samuel Beckett)
+
+*Prolong human life only when you can shorten its miseries.*  (Stanislaw J. Lec)

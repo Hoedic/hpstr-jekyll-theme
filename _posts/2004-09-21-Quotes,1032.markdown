@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-21 04:09:02
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Don't be so humble. You're not that great.*  (Golda Meir)
+
+*Genius is an infinite capacity for taking pains.*  (Jane Hopkins)
+
+*Give a small boy a hammer and he will find that everything he encounters needs pounding.*  (Abraham Kaplan)

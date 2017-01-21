@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-12 05:39:53
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Nobody can contribute to the best of humanity who does not make the best out of himself.*  (Johann Gottfried Herder)
+
+*Life consists not in holding good cards, but in playing well those you do hold.*  (Josh Billings)
+
+*Above all, do not lose your desire to walk.*  (Soren Kierkegaard)

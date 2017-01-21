@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Il pleut"
+date: 2003-09-15 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Il pleut - c'est merveilleux.  Je t'aime.*  (Francis Carco)

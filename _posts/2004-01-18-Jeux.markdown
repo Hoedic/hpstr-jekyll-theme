@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Jeux !"
+date: 2004-01-18 18:32:01
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Ces derniers temps, enfin depuis que j'ai quitté les bancs de l'école, j'avais envie de jouer, de me trouver un bon jeu sur PC et m'amuser un peu avec. Non pas que je sois un accroc du jeu, mais à travers le temps, j'ai toujours eu un jeu phare sur lequel je prenais beaucoup de plaisir. Ça a commencé avec Space Commander et  Paratroopers quelque chose comme autour de 1983/1984, j'avais 5/6 ans, puis Decathlon, Winter game et Summer game peu de temps après. Vers la fin des années 80 début 90, j'arrêtais les voyous avec sur Highway patrol II ou faisait du stunt car avec un jeu dont je ne me rappelle plus le nom. C'est marrant car à cette époque, nombre de mes amis avaient des consoles amiga ou autre et échangeaient leurs jeux, alors que moi, je me contentais d'un PC et échangeais quelques disquettes avec les amis de mon père et faisais joujou avec des commandes DOS ou du QBasic.
+
+![Image]({{ site.url }}/images/space-commander.gif)
+<div class="photoattrib">Star commander</div>
+
+
+
+Ensuite, voyant l'air des consoles portables arriver, j'ai voulu faire mieux que la Gameboy et ai extorqué à mes parents une , vers 1991/1992 je pense. J'y ai passé pas mal de temps, notamment sur Gauntlet III et Kung Food, avant de me trouver franchement embêter par le manque d'autonomie de la chose. Dans le même temps, j'accrochais à un jeu de role PC nommé Star command (ou un truc dans ce genre) ; je n'ai jamais trouvé scénario plus complet, malheureusement je suis resté coincé sur une mission et n'ai jamais pu aller très loin. L'éditeur du jeu refusant de répondre à mes quelques courriers désespérés, j'ai fini par abadonner avec une certaine amertume.
+
+Par la suite, un ami me fit découvrir Flashback, un jeu de plateau aux abords simples mais tellement complexe, le personnage étant très maniable et les énigmes assez corsées. J'ai aussi passé pas mal de temps sur la suite de ce jeu à savoir Fade to black dont les scènes cinématiques me semblaient ahurissantes pour l'époque. C'était aussi l'un des premiers jeux en vrai 3D mais qui était malheureusement beaucoup maniable que son prédécesseur. Je pense aussi que c'était le début de l'apogée du jeu vidéo français.
+
+En 1995 j'ai eu mon premier ordinateur à moi (avant je volais ceux de mon père), un Pentium, l'un des premiers avec un modem 14.4 et une connexion internet que je suis aller chercher quasi-immédiatement. C'est là que j'ai découvert , à ma connaissance le premier vrai jeu sur internet avec des serveurs publics ; celui-là m'a couté assez cher en temps de connexion :) C'est aussi avec ce jeu que j'ai acquis mon premier nom de réseau à savoir Flying Sausage.
+
+J'ai manqué de peu , un jeu de role par e-mail, je pense que l'annonce de la fermeture s'est faite une semaine après mon inscription, je n'ai même pas eu l'occasion de faire la moindre ronde de jeu. (C'est aussi l'époque où je participe à un semblant de rédaction de livre à plusieurs sur internet, mon premier contact avec Ebb :) Peu de temps après d'ailleurs, avec Ebb, , son pingouin d'amour et quelques autres connaissances d'IRC, il y eu de nombreuses parties endiablées de Tetrinet (assez stressant malgré tout ;)
+
+En parallèle je tombe sur Wolfenstein,  et Heretic. Par la suite, je me suis retrouvé privé de subspace, pour cause de fermeture des serveurs par Virgin Interactive Entertainment (ça a rouvert depuis). À défaut de jeux en réseau, je me suis retourné vers  (rien n'égal le premier) et surtout  (un jeu d'un sadisme délicieux :D).
+
+Puis, m'installant en résidence étudiante et me trouvant responsable du réseau interne, je me trouvai quelques amis proches de ma chambre pour jouer en réseau à  : pas mal de soirées voire de nuits, malgré la prépa, à brailler porte ouverte contre le voisin qui vient de nous tuer par derrière. À partir de ce moment, les jeux "solo" ont cessé de m'intéresser, c'est tellement mieux de faire face à d'autres humains, et de les anéantir totalement ! Quelques parties de Quake aussi mais mon pentium vieillissant tenait difficilement le choc malgré l'octroi de RAM supplémentaire.
+
+Après mon départ de la résidence étudiante, s'en suit une assez longue période sans jeu, n'ayant plus de partenaire sur un réseau ethernet et les jeux sur internet étant définitivement trop chiants avec un modem 56k. Puis vint le travail et malgré la connexion ADSL, l'envie n'y était pas forcément et j'ai décroché de l'actu jeu (et info en général) pendant quelques temps... jusqu'à ce que, l'été dernier, après quelques mois à Montréal, je me décide à acheter un nouveau PC bien à moi (j'utilisais celui de Ebb depuis mon arrivée). Et là, l'envie de jouer est revenue, et je n'ai pas tardé à mettre la main sur une démo de , un bon jeu de guerre comme on sait les faire.
+
+![Image]({{ site.url }}/images/battlefield-17-01-04.jpg)
+<div class="photoattrib">À bord d'un avion</div>
+
+
+
+Bien entendu, ça se joue en réseau (c'est qualifié de jeu massivement multijoueur, c'est-à-dire parfaitement inintéressant en solo) et c'est très complet : incarnant un soldat lors de seconde guerre mondiale on peut, hormis tirer, utiliser toutes sortes d'engins, avions, tanks, voitures, navires en tous genres. De plus, avec des combinaisons de touches il est possible d'envoyer des messages prédéfinis permettant d'organiser un semblant de stratégie. Enfin, il est possible de se placer dans les principaux théatres de guerre : pacifique, europe, afrique. Et ce n'est pas un jeu *speed* comme Quake, c'est également moins sanglant et sauvage, donc j'en ressors pas mal moins sur les nerfs qu'à mon époque Duke et Quake... d'ailleurs je n'ai pas encore éclater de clavier, c'est dire que je suis calme :)
+
+Seul petit inconvénient, je n'ai pas une bête de course, notamment pour ce qui à trait à la carte video qui est intégrée à la carte mère et ne présente qu'un petit 16Mo de mémoire vidéo, du coup je ne peux pas profiter au max des graphismes et de la fluidité du jeu comme j'ai pu le voir chez d'autres personnes. Enfin bref, je pense que j'aime bien jouer et parfois, je me demande même si ça ne pourrait pas être amusant d'acheter une petite Game Cube, mais je pense que ce ne serait pas du goût de Ebb :p

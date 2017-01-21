@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Safran"
+date: 2003-10-13 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/saflangue.jpg)
+
+Il y en aurait long à dire sur cette belle chatte...  En attendant, elle vous tire la langue et vous regarde avec ses deux yeux ronds ! ;)

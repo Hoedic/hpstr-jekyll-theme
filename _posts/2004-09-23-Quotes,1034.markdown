@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-23 00:02:27
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Half a man's life is devoted to what he calls improvements, yet the original had some quality which is lost in the process.*  (E. B. White)
+
+*I don't have any solution, but I certainly admire the problem.*  (Ashleigh Brilliant)
+
+*Logic is a system whereby one may go wrong with confidence.*  (Charles Kettering)

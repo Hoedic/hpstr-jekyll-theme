@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-06-03 01:43:43
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*You see things; and you say, "Why?" But I dream things that never were; and I say, "Why not?*  (George Bernard Shaw)
+
+*The superior man acts before he speaks, and afterwards speaks according to his action.*  (Confucius)
+
+*There are three kinds of love, - unselfish, mutual, and selfish. The unselfish love is of the highest kind. The lover only minds the welfare of the beloved and does not care for his own sufferings. In mutual love the lover not only wants the happiness of his beloved but has an eye towards his own happiness also. It is middling. The selfish love is the lowest. It only looks towards its own happiness, no matter whether the beloved suffers weal or woe.*  (Ramakrishna)

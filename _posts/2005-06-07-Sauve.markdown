@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Sauvé !"
+date: 2005-06-07 01:27:03
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+![Image]({{ site.url }}/images/biafine_06-06-2005.jpg)
+<div class="photoattrib">Le tube sacré de biafine</div>
+
+
+
+Posologie :<br/>
+1. Étaler sur la peau brûlée jusqu'à ce que la peau cesse d'absorber.<br/> 
+2. Mettre encore 2-3 couches. Attendre que la peau absorbe ces couches supplémentaires.<br/>
+3. Recommencer 1. et 2. autant que nécessaire.
+
+Effets secondaires : ne pas s'étonner de transpirer tout blanc.

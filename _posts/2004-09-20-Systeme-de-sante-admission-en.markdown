@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Système de santé, admission en médecine ?"
+date: 2004-09-20 00:15:55
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+Dans les Idées du Devoir, j'ai été impressionnée récemment par les propos d', un titulaire de doctorat en sciences qui a voulu entrer en médecine et a été refusé.
+
+Sur la recherche : effectivement, c'est un monde souvent injuste où il faut jouer du coude et où il faut passer beaucoup de temps à chercher des subventions, malheureusement.  Un peu comme en environnement.  Ou alors il faut se "prostituer" et travailler dans le privé...  Mais bon, de là à dire que les médecins volent les places aux autres chercheurs avec un titre usurpé...  Il y a un pas qu'il ne faut pas franchir !  Notre "doctorat" est surtout symbolique.  D'abord, il ne s'agit pas d'un PhD mais d'un MD - le titre est différent.  Ensuite, on ne peut travailler sur base de ce diplôme, puisqu'il faut ensuite réaliser une résidence de 2 ans au gros minimum (médecine familiale), plus souvent 5 ans ou plus (n'importe quelle spécialité).  Ensuite, la plupart des médecins ne font pas de recherche, et ceux qui en font ne le font pas au niveau fondamental mais au niveau clinique, où leur présence est très appropriée !  Après ça, s'ils obtiennent plus facilement des subventions, c'est peut-être qu'il est plus facile de convaincre un comité avec des arguments concrets et cliniques ("médicament prometteur pour guérir la...") qu'avec un objectif de "compréhension des bases biologiques de...", par exemple !
+
+Sur le salaire plus élevé des médecins : il ne faut quand même pas oublier le très haut niveau de responsabilité des médecins.  À la moindre erreur, ils peuvent tuer quelqu'un ou lui faire perdre un organe ou une partie du corps...  Sans compter le nombre d'heures travaillé, qui inclut aveuglément la nuit, les jours férié et la fin de semaine.  Il y a dans ma famille un médecin de famille qui ne travaille pas comme un fou, et il gagne un salaire plus faible à celui de bien des ingénieurs ou comptables agréés.
+
+Le contingentement en médecine n'est pas absurde non plus.  L'apprentissage de la médecine se fait très tôt en petits groupes.  Plus il y a d'étudiants, plus il faut de profs (qui sont en nombre limité et difficiles à recruter), c'est proportionnel.  Nous allons aussi très tôt à l'hôpital - ce n'est plus comme dans l'ancien temps où les premiers pas à l'hôpital d'un étudiant en médecine se faisaient le premier jour de l'externat.  Or, les hôpitaux, les patients du Québec et les profs de clinique ne peuvent absorber un nombre illimité d'étudiants.  En ce moment, avec l'augmentation des admissions, on ne sait déjà plus où envoyer les étudiants.
+
+Ce qui est absurde, c'est les erreurs de vision d'avenir qui elles ont eu des conséquences catastrophiques sur la démographie médicale, avec un resserrement du contingentement inapproprié.
+
+Il faudrait que plus de monde commence la médecine, quitte à se faire écrémer plus loin, histoire que plus de citoyens s'y connaissent en santé ?  Je n'ai pas du tout l'impression que la population manque d'informations en santé.  Et avec toutes les professions médicales et paramédicales qui existent (sciences infirmières, physio, ergo, pharmacie, médecine dentaire, optométrie, sages-femmes maintenant) sans oublier les médecines parallèles...  J'ai plutôt l'impression que les gens n'ont jamais été aussi bien informés et au courant de la santé !  Sans compter qu'ils vont sur Internet, s'informent, etc.
+
+L'écrémage "plus loin" est la norme dans plusieurs pays d'Europe, dont la France et la Belgique.  Cela donne lieu à un système particulièrement inhumain où l'on perd inutilement de nombreuses années de sa vie, sans oublier le mal psychologique que cela peut occasionner.
+
+Le système nord-américain est encore, et de loin, le plus humain de tous, avec sa sélection à l'entrée et ses entrevues pour évaluer les capacités inter-personnelles.  On peut se faire dire non au début, mais ce n'est jamais définitif, on peut toujours améliorer son dossier en faisant d'autres études (qui peuvent finalement nous plaire définitivement...) et se faire admettre plus tard.  L'Université de Montréal a une politique qui laisse la place à 40% d'étudiants en réorientation (qui ont souvent le droit de sauter l'année préparatoire en plus), ce qui représente une énorme proportion !  Nombre de cégépiens auraient sûrement pu passer du premier coup s'il n'y avait autant de places pour les retours en médecine...  Alors on peut aussi considérer qu'il y a déjà énormément de souplesse et de place à réorientation !
+
+Quant à la difficulté de l'admission par rapport à la suite des études...  Effectivement on ne risque plus trop de se faire éjecter n'importe quand, mais ça ne fait pas de nos études des années faciles !  Il y a énormément de travail et de stress.  Côtoyer des patients est très stressant en soi.  Plusieurs étudiants craquent d'ailleurs devant le stress de ces études et ne peuvent les mener à bien.  Dans ce contexte, un système d'écrémage serait particulièrement malsain et de trop !
+
+Quant aux admissions, je rappelle tout de même qu'elles se font toujours d'abord et avant tout sur dossier !  Seuls les meilleurs dossiers sont considérés, et ensuite le reste de la sélection se fait sur d'autres critères.  Ils recherchent des personnes équilibrées, qui ont aussi des loisirs et des amis (pas seulement les études), et qui savent communiquer - à plus forte raison si la méthode d'apprentissage se base sur l'APP !  Ces entrevues sont aussi l'occasion de faire valoir certaines circonstances atténuantes pour justifier une moins bonne note, par exemple.
+
+Enfin, quant aux proportions d'hommes et de femmes en médecine, elles reflètent très bien la meilleure réussite scolaire des filles au cégep (qui relève assurément d'une autre problématique...) et la plus grande proportion de filles à l'université.  En France, où la sélection se fait uniquement sur base d'un concours (examen, notes et classement), on retrouve les mêmes proportions entre les sexes qu'ici, preuve que ce n'est pas l'entrevue qui sélectionne tant des qualités féminines !  Il faut aussi dire qu'une discrimination positive à l'égard des hommes se pratique déjà un peu : à dossier égal, c'est l'homme qui sera admis avant la femme.
+
+Aller dire qu'il faudrait réserver 50% des places aux hommes frôle franchement le machisme.  Tout ça sous prétexte que les femmes font des enfants et ne travaillent pas assez d'heures et d'années dans leur vie ?  Cet argument rétrograde occulte complètement la réalité des pères d'aujourd'hui qui s'impliquent souvent beaucoup aussi à la maison et dans l'éducation des enfants.  Et puis, si ce phénomène pouvait contribuer à humaniser la profession en la rendant plus conciliable avec une vie de famille, à faire en sorte qu'il y ait plus de médecins (encore faudrait-il que nos instances tiennent compte du phénomène...) et que des heures moins folles soient exigées de chacun, il me semble que ce serait plutôt là un grand pas pour l'humanité... ou du moins pour la médecine !  
+
+Si au moins M. Rouillard avait pu avancer un argument plus "vrai" concernant la féminisation de la médecine, comme le fait que les femmes sont moins portées à choisir des spécialités comme la chirurgie (et encore !)...
+
+Voir aussi la réponse à ce sujet d'une résidente en médecine, .

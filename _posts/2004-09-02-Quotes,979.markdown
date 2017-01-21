@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-02 00:11:10
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Obesity is a mental state, a disease brought on by boredom and disappointment.*  (Cyril Connolly)
+
+*When you betray somebody else, you also betray yourself.*  (Isaac Bashevis Singer)
+
+*Physics does not change the nature of the world it studies, and no science of behavior can change the essential nature of man, even though both sciences yield technologies with a vast power to manipulate their subject matters.*  (B.F. Skinner)

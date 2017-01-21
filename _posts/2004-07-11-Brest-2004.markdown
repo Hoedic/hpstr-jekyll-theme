@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Brest 2004"
+date: 2004-07-11 06:19:46
+author: Hoedic
+comments: true
+categories: 
+---
+
+
+Hier a commencé à Brest  avec notamment des tonnes de vieux gréments (bon le site est pas très ergonomique mais bon...)
+
+Puis ça a un peu plus de gueule que des multi-coques de 60 pieds avec des silos à grain en arrière-plan ;)
+
+![Image]({{ site.url }}/images/fete-brest_11-07-2004.jpg)
+<div class="photoattrib">À l'abordage !!!</div>
+
+
+
+Enfin bref, si vous voulez vous en mettre plein les yeux, c'est l'occasion. Bon d'un autre coté, d'après les souvenirs que j'ai y a des tonnes de monde, c'est pas forcément agréable.

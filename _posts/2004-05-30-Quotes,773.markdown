@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-05-30 05:27:01
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Success is not measured by the position one has reached in life, rather by the obstacles overcome while trying to succeed.*  (Booker T. Washington)
+
+*What we see depends mainly on what we look for.*  (John Lubbock)
+
+*A fanatic is one who can't change his mind and won't change the subject.*  (Winston Churchill)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Bâtir"
+date: 2004-02-28 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*C'est un devoir aussi envers les autres que d'être heureux.*  (Alain)
+
+*Ce n'est pas la girouette qui tourne, c'est le vent.*  (Edgar Faure)
+
+*Les hommes construisent trop de murs et pas assez de ponts.*  (Isaac Newton)

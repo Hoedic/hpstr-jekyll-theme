@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-02-27 00:26:58
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*A conclusion is the place where you got tired of thinking.*  (Arthur Block)
+
+*A conference is just an admission that you want somebody to join you in your troubles.*  (Will Rogers)
+
+*A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author.*  (G. K. Chesterton)

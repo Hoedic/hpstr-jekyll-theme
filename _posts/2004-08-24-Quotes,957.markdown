@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-08-24 02:14:20
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Tact is the great ability to see other people as they think you see them.*  (Carl Zuckmayer)
+
+*The educated person is someone who knows how to find out what he doesn't know.*  (Georg Simmel)
+
+*We are more often frightened than hurt; we suffer more from imagination than from reality.*  (Lucius Annaeus Seneca)

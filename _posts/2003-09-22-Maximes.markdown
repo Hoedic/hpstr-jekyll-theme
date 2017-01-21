@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Maximes"
+date: 2003-09-22 00:00:00
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*Ils ne savaient pas que c'était impossible, alors ils l'ont fait*.  (Mark Twain)
+
+*Les faits ne cessent pas d'exister parce qu'on les ignore.*  (Aldous Huxley)
+
+*On met longtemps à devenir jeune.*  (Pablo Picasso)

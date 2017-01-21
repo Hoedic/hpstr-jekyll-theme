@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-01 00:06:51
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*All progress is based upon a universal innate desire of every organism to live beyond its means.*  (Samuel Butler)
+
+*Always do right. This will gratify some people and astonish the rest.*  (Mark Twain)
+
+*Art is the lie that makes us realize the truth.*  (Pablo Picasso)

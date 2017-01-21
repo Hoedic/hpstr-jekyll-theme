@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-09-16 00:43:49
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*It isn't necessary to be rich and famous to be happy. It's only necessary to be rich.*  (Alan Alda)
+
+*Exercise is bunk; if you are healthy, you don't need it; if you are sick, you shouldn't take it.*  (Henry Ford)
+
+*Humility is no substitute for a good personality.*  (Fran Lebowitz)

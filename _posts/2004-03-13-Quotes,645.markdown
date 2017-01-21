@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Quotes"
+date: 2004-03-13 05:06:42
+author: Dre Papillon
+comments: true
+categories: 
+---
+
+
+*I don't give a damn for a man that can only spell a word one way.*  (Mark Twain)
+
+*I may disagree with what you have to say, but I shall defend, to the death, your right to say it.*  (Voltaire)
+
+*If I have seen farther than others, it is because I have stood on the shoulders of giants.*  (Isaac Newton)
