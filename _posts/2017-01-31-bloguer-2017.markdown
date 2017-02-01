@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Pourquoi bloguer en 2017"
+date: 2017-01-31 20:31
+comments: true
+author: Hoedic
+description: "Bloguer en 2017, une tâches vaine, une nostalgie exagérée ou un fil conducteur nécessaire?"
+image:
+  feature: 2017-01-29-ecrire.jpg
+  credit: "Écrire - Montréal, le 29 janvier 2017"
+---
+
+Après plusieurs soirées de travail, j'ai finalement resuscité près de 2200 billets du notre vieux blogue. Le tout a été traité pour être accessible sous forme de pages HTML statiques plutôt d'avoir besoin d'une plateforme. Ce faisant, je suis de nouveau en mesure de *bloguer*.
+
+Après plusieurs années à procrastiner cette tâche qui s'est avérée plus simple que prévue, la tenue d'un prochain [YulBlog](http://www.alexlauzon.com/je-blogue/yulblog-mercredi-1er-fevrier) ainsi que des appels à faire de 2017 l'année du retour du blogue m'ont poussé à passer à l'action. 
+
+---
+
+Mais à propos, *pourquoi* bloguer en 2017?
+
+Moi-même, je ne suis pas certain. En 2003, fraichement arrivé au Québec, c'était un moyen pour garder contacter avec la famille. Rappelons-nous qu'en ces temps anciens, les médias sociaux n'existaient pas encore; les blogues étaient la forme la plus simple pour publier régulièrement ou ouvertement du contenu. Toutefois l'espoir d'utiliser ce medium pour garder contact s'est rapidement dissipé, mais d'autres raisons ont émergé.
+
+La communauté de blogueurs était à l'époque très dynamique. Par la magie du médium, il était possible de découvrir de nouveaux blogueurs à chaque instant, en suivant un lien, un commentaire, un référent dans les statistiques du site. Le concept restreignant "d'ami" ou de "follower" ne nous enfermait pas dans une cage d'apriori. Et au gré des échanges circulaient cette impression d'être maître de notre parole et, de manière surement présomptueuse, de faire partie d'une sorte d'élite des interwebs. C'était aussi une manière de rendre hommage à la vocation de web: un monde axé sur l'ouverture et sur le partage et une sorte de vecteur d'émancipation pour le plus grand nombre.
+
+Plus concrètement, c'était aussi un moyen efficace, pour un jeune immigrant, de rencontrer du monde, de se faire des amis. Aussi virtuels que puissent être les blogues, c'est par eux que j'ai réussi à m'enraciner au Québec et à Montréal. Aujourd'hui encore, il m'arrive régulièrement de croiser au gré des aléas de la vie, ceux qui furent la crème de la crème à cette époque. 
+
+Est-ce que cet esprit de confrérie et une certaine approche d'ouverture sont perdus pour de bon? Probablement en partie. Même si les blogues n'ont jamais disparus, leur nature a changé, ils se sont trouvé un travail comme on dit. On trouve maintenant nombre de blogues sur les sites de nouvelles ou d'entreprises avec un but clairement affiché. Même ceux qui sont animés de manière indépendante s'alignent généralement avec des objectifs de marketing personnel. Les authentiques blogues d'humeur, parsemés d'inanités ou de réflexion profondes mais "inutiles" sont rares et trop clairsemés, noyés dans la masse d'information, pour obtenir la masse critique nécessaire à reproduire l'atmosphère qui prévalait *dans le bon vieux temps*. Et serait-ce souhaitable? Tandis que tout devient médié par Internet, un réseau trop actif et visible de blogues devient un poids plus qu'autre chose. C'est d'ailleurs, pour moi, ce qui avait signé le début de la fin.
+
+---
+
+*Mais alors pourquoi bloguer en 2017 se demandent toujours les 3 lecteurs qui se sont rendus jusqu'ici?*
+
+Avant tout pour se sortir de ce que sont devenus les médias sociaux "traditionnels". Ceux dont le modèle d'affaire est de capter notre attention. Me voici en train d'écrire dans mon terminal blanc sur fond noir. Pas de notification, pas de "ce qui va suivre est incroyable". J'écris ce que je veux, sans sentir que je risque d'être jugé par mes "amis" et quand j'aurais executé ma commande de mise à jour, je refermerai mon écran sans la tentation de continuer à lire des monceaux de paroles sages partagées à l'envie.
+
+Même si on ne reviendra jamais à l'âge d'or des blogues, il y a une valeur à conserver des modes d'expression indépendants et autonomes. D'essayer de maintenir ou de reproduire un tissu réticulaire plutôt que de se reposer uniquement les systèmes concentrateurs à la Facebook. Un réseau avec un noeud central peut paraitre plus efficace, mais il donne trop de controle à ce point de passage obligé, tout en étant plus vulnérable. Il n'est pas tant question de faire disparaitre le noeud actuellement central, que de le complémenter avec des liens ne passant pas par lui.
+
+Enfin écrire ses pensées pour les consigner. Le rôle de carnet de note personnel est rapidement devenu la raison d'être de mon blogue. Et c'est un euphémisme de dire combien j'étais réjoui de lire des billets datant de plus de 10 ans quand j'ai excavé ces anciennes archives. Autant à travers les frivolités que les réflexions qui se voulaient profondes transparait un état d'esprit qui ne ressortira jamais dans des photos et encore moins dans les froides actualités d'époque. Je retrouve celui que j'étais à 23 ans, à 28 ans, à 32 ans, le contexte dans lequel je vivais et comme le petit poucet je constate mon évolution mais aussi ce qui n'a pas changé.
+
+En ces temps fait d'incertitude avec parfois l'impression d'être devant un immense vide, où les plus grandes certitudes sont ignorées, bafouées, où la haine est attisée de toutes parts alors que pourtant tout pourrait être si clair et si lumineux, consigner aujourd'hui le futur passé demeure, à mes yeux, le meilleur moyen de ne pas se perdre en route.
+
+> But above all, truth matters, even tiny truths. Records matter. Keeping a diary matters. History matters. Science matters. Keeping objective facts straight in your head, when the world and your Facebook feed is screaming the opposite, is a vital act of rebellion. 
+> <div class="attrib">Chris Taylor, Dystopia project, <a href="http://mashable.com/2017/01/24/dystopia-trump-1984/">How Trump has already taken us into full-on 'Nineteen Eighty-Four' territory</a>, Mashable</div>
