@@ -52,7 +52,7 @@ Repas du soir : restaurant de l'auberge. Vraiment succulent, dans le magnifique 
 
 
 
-Dodo : . Belle et accueillante ; seul hic à l'affaire, nous avons malheureusement hérité d'une chambre avec deux lits séparés sans en avoir été prévenus. Mais c'était bien le seule bémol.
+Dodo : [L'Auberge des îles](http://www.aubergedesiles.ca/). Belle et accueillante ; seul hic à l'affaire, nous avons malheureusement hérité d'une chambre avec deux lits séparés sans en avoir été prévenus. Mais c'était bien le seule bémol.
 
 
 ***

@@ -11,7 +11,7 @@ categories:
 Vous voyez, quand je disais que l'affaire Juppé fait du bruit partout.
 
 ![Image]({{ site.url }}/images/chappatte-juppe-02-02-04.png)
-<div class="photoattrib"> dans </div>
+<div class="photoattrib">[Chappatte](http://www.globecartoon.com/dessin/) dans [Le Temps](http://www.letemps.ch/)</div>
 
 
 

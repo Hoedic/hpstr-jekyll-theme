@@ -8,7 +8,7 @@ categories:
 ---
 
 
- du  travaille depuis pas mal de temps sur la possibilité de produire un . A priori, il a réussi son pari et va annoncer le produit à Tunis, à l'occasion de .
+[Nicholas Negroponte](http://web.media.mit.edu/~nicholas/) du [MIT Media Lab](http://www.media.mit.edu/) travaille depuis pas mal de temps sur la possibilité de produire un [laptop à 100$](http://laptop.media.mit.edu/). A priori, il a réussi son pari et va annoncer le produit à Tunis, à l'occasion de [Sommet mondial sur la société de l'information](http://www.itu.int/wsis/).
 
 À l'image du sommet en question, ce laptop a vocation à aider les pays en voie de développement à combler la fracture numérique.
 

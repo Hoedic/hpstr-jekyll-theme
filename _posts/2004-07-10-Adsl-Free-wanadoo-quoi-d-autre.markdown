@@ -12,7 +12,7 @@ Je suis actuellement à la recherche d'une offre Internet permettant à ma maman
 
 Lors de ma dernière venue en France, j'ai eu l'occasion de voir la FreeBox sans trop regarder en détail. J'ai donc regardé de plus près l'offre par Internet plus quelques autres qui semblent assez intéressantes.
 
-Toutefois, j'aimerais bien avoir l'avis de quelques utilisateurs. Donc si vous utilisez la FreeBox ou une autres offres ADSL intéressante, votre avis m'intéresse (soit en commentaire, soit par un message ).
+Toutefois, j'aimerais bien avoir l'avis de quelques utilisateurs. Donc si vous utilisez la FreeBox ou une autres offres ADSL intéressante, votre avis m'intéresse (soit en commentaire, soit par un message [ici](../contact.html)).
 
 J'ai quelques questions en particulier :
 -  Comment ça se passe dans les faits les appels illimités sur fixe en France métro avec la FreeBox ? Est-ce que pour les autres appels (cell, hors France, etc), ça utilise l'abonnement habituel ? Est-ce que ça marche toujours correctement ?

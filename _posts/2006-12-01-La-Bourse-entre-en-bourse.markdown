@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Coup de tonnerre hier au bureau : la Bourse de Montréal, une entreprise privée jusqu'ici, va  ses actions en bourse. Ça va d'ailleurs donner lieu à une situation cocasse. En effet, la  a émis a plusieurs reprises le souhait de se rapprocher de sa demi-soeur Montréalaise. Étant donné que TSX (Toronto Stock Exchange) a le monopole des valeurs mobilières (les actions) alors que MX (Montreal Exchange) gère les produits dérivés, le Bourse de Montral va voir ses actions listées chez son potentiel acheteur.
+Coup de tonnerre hier au bureau : la Bourse de Montréal, une entreprise privée jusqu'ici, va [inscrire](http://www.m-x.ca/f_comm_press_fr/21-06_fr.pdf) ses actions en bourse. Ça va d'ailleurs donner lieu à une situation cocasse. En effet, la [Bourse de Toronto](http://www.tsx.com) a émis a plusieurs reprises le souhait de se rapprocher de sa demi-soeur Montréalaise. Étant donné que TSX (Toronto Stock Exchange) a le monopole des valeurs mobilières (les actions) alors que MX (Montreal Exchange) gère les produits dérivés, le Bourse de Montral va voir ses actions listées chez son potentiel acheteur.
 
 Ça ne signifie absolument rien au niveau d'un rapprochement des deux institutions, le choix était assez peu limité. Pour l'heure la direction de Montréal refuse ne serait-ce que de discuter sérieusement avec Toronto. Mais qui dit actions en bourse dit OPA possible. Remarquons cependant qu'il ne s'agit pas d'une IPO à proprement parler puisqu'aucune nouvelle action ne sera émise. Ce listing en bourse est "seulement" un moyen plus transparent pour transiger les actions existantes, détenues pour l'heure par quelques 300 actionnaires.
 

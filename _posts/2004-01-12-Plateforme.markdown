@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je viens de sortir de la lecture de ** de Michel Houellebecq (j'en connais  qui ne va pas être mon ami sur ce sujet, mais bon :p).
+Je viens de sortir de la lecture de *[Plateforme](http://www.fnac.com/Shelf/article.asp?No=2&Mn=3&Mu=-13&Ra=-1&PRID=1330801&To=0&Fr=0&TTL=130120040320&SID=f805f93d-f4fd-ed8f-c40a-fb2b1e633763&Origin=FnacCH&UID=065f35617-2afd-cc95-1c67-adbd7a38f63b)* de Michel Houellebecq (j'en connais [un](http://www.la-grange.net/2003/10/11.html) qui ne va pas être mon ami sur ce sujet, mais bon :p).
 
 ![Image]({{ site.url }}/images/plateforme-11-01-04.jpg)
 <div class="photoattrib">Plateforme de Michel Houellebecq</div>

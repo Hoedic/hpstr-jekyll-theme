@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un billet facile parce que je suis en panne d'écriture (en fait j'écris plein de choses mais ça n'atteint jamais le stade de la publication).  m'a refilé un sujet en chaine : mon plus ancien souvenir.
+Un billet facile parce que je suis en panne d'écriture (en fait j'écris plein de choses mais ça n'atteint jamais le stade de la publication). [Leeloolène](http://eorarbleizmor.free.fr/) m'a refilé un sujet en chaine : mon plus ancien souvenir.
 
 J'hésite, faudrait que Môman m'aide à faire le tri. Mais je pense bien que le plus ancien du plus vieux que j'ai dans la cervelle vient d'un séjour en Tunisie, j'avais alors possiblement 3 ou 4 ans. Je me souviens principalement de la piscine de l'hotel où nous étions : froide, très froide. Quand on dit que les enfants sont moins frileux que les adultes c'est archi-faux, je me rappelle que c'était vraiment difficile. Je me rappelle aussi que j'apprenais alors à nager et qu'il y avait des flotteurs rouges et blancs pour délimiter le petit bassin. Mais surtout, il y avait un plongeoir, un gi-gan-tesque plongeoir blanc, une tour de plusieurs étages... du moins c'est le souvenir que j'en ai.
 
@@ -28,7 +28,7 @@ La mémoire est quelque chose d'extraordinairement complexe qui nous joue souven
 
 Une facette passionnante de la mémoire c'est son caractère associatif. Hier, durant une réunion, je regardais la cravate de mon voisin d'en face et les motifs m'ont fait plonger dans un flashback dont le sujet exact m'échappe maintenant. Mais l'espace de quelques instants, j'étais dans un autre monde, un monde mien, un monde de mon passé, qui à la simple vue de ce motif avait soudainement surgit.
 
-Mais la mémoire n'est pas uniquement visuelle, surtout quand vient le temps des associations. L'odorat à ce niveau est très puissant et deux souvenirs me viennent à l'esprit. Le premier c'est l'odeur des toilettes de ma tante. Ok, ça peut sembler loufoque comme souvenir et pourtant. Je devais alors avoir 11 ans, je vivais temporairement chez la soeur de ma mère et  passait à la télé. Ce film m'a terrorisé, comme E.T quelques années plus tôt (on remarquera que j'étais très branché extra-terrestre, je lui toujours d'ailleurs et ça vient surement de là), et j'ai du aller aux toilettes à quelques reprises pour me protéger. Un peu comme les personnages de Lovecraft, j'étais terrorisé mais j'étais incapable de m'échapper définitivement, pourtant ce n'est pas difficile de lacher la télé. Depuis, cette odeur est systématiquement associée à une peur sourde, sans motif précis.
+Mais la mémoire n'est pas uniquement visuelle, surtout quand vient le temps des associations. L'odorat à ce niveau est très puissant et deux souvenirs me viennent à l'esprit. Le premier c'est l'odeur des toilettes de ma tante. Ok, ça peut sembler loufoque comme souvenir et pourtant. Je devais alors avoir 11 ans, je vivais temporairement chez la soeur de ma mère et [Rencontre du troisière type](http://www.allocine.fr/film/fichefilm_gen_cfilm=881.html) passait à la télé. Ce film m'a terrorisé, comme E.T quelques années plus tôt (on remarquera que j'étais très branché extra-terrestre, je lui toujours d'ailleurs et ça vient surement de là), et j'ai du aller aux toilettes à quelques reprises pour me protéger. Un peu comme les personnages de Lovecraft, j'étais terrorisé mais j'étais incapable de m'échapper définitivement, pourtant ce n'est pas difficile de lacher la télé. Depuis, cette odeur est systématiquement associée à une peur sourde, sans motif précis.
 
 ![Image]({{ site.url }}/images/2186_ed403faa68_z_d.jpg)
 <div class="photoattrib">Bois-Jolan, Guadeloupe</div>
@@ -38,4 +38,4 @@ L'autre souvenir "odorant" est en fait un mix odeur/musique. Ça devait être à
 
 Je pourrais en faire des tonnes et des tonnes : l'accouchement de notre jument (dont je fus le seul à voir le début), le bras cassé, le ski entre les jambes de ma mère, des souvenirs de rêves même ! La mémoire n'était-elle pas quelque chose d'à la fois merveilleux et terrible ?
 
-Je passe le bâton à mon amour ainsi qu'à  :)
+Je passe le bâton à mon amour ainsi qu'à [Eor](http://eorarbleizmor.free.fr/) :)

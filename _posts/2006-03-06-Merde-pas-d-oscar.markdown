@@ -8,4 +8,4 @@ categories:
 ---
 
 
-Merde, moi qui espérait que si  gagnait un oscar,  reviendrait peut-être bloguer ben... c'est rater !
+Merde, moi qui espérait que si [Joyeux Noël](http://www.imdb.com/title/tt0424205/) gagnait un oscar, [Pierre](http://www.pierrecarion.com/blog/) reviendrait peut-être bloguer ben... c'est rater !

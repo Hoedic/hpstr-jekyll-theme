@@ -15,7 +15,7 @@ Bon, désolé pour l'article précédent sur "guérir" qui est écrit dans un fr
 
 
 
-Ô joie, nous sommes désormais membres de . Nous allons donc pouvoir profiter nous aussi des plaisirs automobiles, les bouchons, les accidents, le prix de l'essence. Ça peut toujours servir. Puis avec un petit calcul rapide, ça divise les coûts par 2 voire 4 pour une utilisation limitée comme on peut en avoir une. Par exemple, dernièrement pour passer une entrevue à Laval, j'avais du louer une voiture pour 50$, avec Communauto, ça m'aurait couté autour de 15$. Bon, il y a des petits inconvénients comme le risque de voir le gars qui était avant nous avoir 2 heures de retard, mais bon.
+Ô joie, nous sommes désormais membres de [Communauto](http://www.communauto.com/). Nous allons donc pouvoir profiter nous aussi des plaisirs automobiles, les bouchons, les accidents, le prix de l'essence. Ça peut toujours servir. Puis avec un petit calcul rapide, ça divise les coûts par 2 voire 4 pour une utilisation limitée comme on peut en avoir une. Par exemple, dernièrement pour passer une entrevue à Laval, j'avais du louer une voiture pour 50$, avec Communauto, ça m'aurait couté autour de 15$. Bon, il y a des petits inconvénients comme le risque de voir le gars qui était avant nous avoir 2 heures de retard, mais bon.
 
 ![Image]({{ site.url }}/images/mont-royal_15-06-2004.jpg)
 <div class="photoattrib">L'avenue Mont-Royal</div>

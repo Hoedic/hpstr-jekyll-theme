@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Pour le moment l'achat de  par Yahoo! a eu un effet positif : faire  !
+Pour le moment l'achat de [Flickr](http://www.flickr.com/) par Yahoo! a eu un effet positif : faire [baisser le prix](http://blog.flickr.com/flickrblog/2005/04/new_prices_free.html) !
 
 J'ai bien entendu crains d'avoir payé plein pot pour rien, juste quelques jours avant le changement de prix, mais ils ont pensé à leurs premiers utilisateurs en leur rallongeant automatiquement leur compte à 2 ans en plus de leur donner deux comptes pros d'un an gratuits (ce qui est aussi un très bon moyen pour attirer de nouveaux clients, il ne faut pas se le cacher non plus ;)
 

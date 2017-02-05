@@ -8,16 +8,16 @@ categories:
 ---
 
 
-Pour une fois,  ne se limite pas à un vague descriptif "objectif" sur un événement mais y va d'un  pour le moins véhément à l'encontre des Républicains américains et de leur récente convention.
+Pour une fois, [Cyberpresse](http://www.cyberpresse.ca/) ne se limite pas à un vague descriptif "objectif" sur un événement mais y va d'un [article](http://www.cyberpresse.ca/monde/article/1,151,1066,092004,784402.shtml) pour le moins véhément à l'encontre des Républicains américains et de leur récente convention.
 
-Même si déterrer le passé de  n'est pas des plus intelligent et le ton global très agressif, le fond n'en demeure par moins réaliste. Le but de l'équipe Bush est de faire passer Kerry et tous ceux qui les soutiennent pour des *girlie-men* (que le journaliste québécois traduit par moumoune, moi je dirais fiotte).
+Même si déterrer le passé de [Schwarzenegger](http://www.schwarzenegger.com/) n'est pas des plus intelligent et le ton global très agressif, le fond n'en demeure par moins réaliste. Le but de l'équipe Bush est de faire passer Kerry et tous ceux qui les soutiennent pour des *girlie-men* (que le journaliste québécois traduit par moumoune, moi je dirais fiotte).
 
 ![Image]({{ site.url }}/images/schwarzy-gov_05-09-2004.jpg)
 <div class="photoattrib">Toi, je vais te terminer</div>
 
 
 
-Et comme le disait  récemment, à quoi bon essayer de faire entendre raison à une (large) partie de la population qui va uniquement se baser sur des impressions. Les Républicains ont très bien compris ça et au lieu de se battre sur le fond, on vend des impressions : Bush est le commandant en chef et Kerry un *girlie-man*.
+Et comme le disait [Édouard](http://www.salebete.net/archives/000427.html) récemment, à quoi bon essayer de faire entendre raison à une (large) partie de la population qui va uniquement se baser sur des impressions. Les Républicains ont très bien compris ça et au lieu de se battre sur le fond, on vend des impressions : Bush est le commandant en chef et Kerry un *girlie-man*.
 
 Un commandant en chef qui s'est défilé sous les drapeaux et un *girlie-man* qui est allé au combat alors qu'il aurait également pu l'éviter. Mais on n'hésite pas à réécrire l'histoire lors d'une campagne présidentielle, surtout quand on est conservateur. Et c'est malheureusement ce qui a le plus de poids sur les votes.
 

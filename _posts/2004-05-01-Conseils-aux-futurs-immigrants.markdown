@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai finalement reçu hier de l' un avis d'admission dans un programme de maîtrise (en réalité un DESS qu'on peut ensuite poursuivre en maîtrise) en management de la technologie.
+J'ai finalement reçu hier de l'[École Polytechnique de Montréal](http://polymtl.ca/) un avis d'admission dans un programme de maîtrise (en réalité un DESS qu'on peut ensuite poursuivre en maîtrise) en management de la technologie.
 
 Ce n'est pas couru que je le fasse, c'est une solution de secours si je ne trouve pas de boulot d'ici là, fin août.
 
@@ -26,7 +26,7 @@ Donc, si vous envisagez une immigration, pensez formation également ! En Améri
 
 ***
 
-Autre petit conseil qui s'adresse aux moins de 28 ans de nationalité française (voire européenne, j'ai cru comprendre que ça marchait) : le , volontariat international en entreprise.
+Autre petit conseil qui s'adresse aux moins de 28 ans de nationalité française (voire européenne, j'ai cru comprendre que ça marchait) : le [VIE](http://civiweb.com/), volontariat international en entreprise.
 
 Le principe : Vous partez pour 6 à 24 mois en entreprise, à l'étranger, et c'est l'état français qui vous paie, royal non ? La rémunération est uniquement basée sur la destination (env. 1500 euros pour Montréal, 1800 pour Toronto par exemple). L'une des seules conditions pour l'entreprise d'accueil, il faut qu'elle soit de droit français et représentée dans le pays cible. Par conséquent, pour travailler au Canada, par exemple, il faut trouver une entreprises installée au Canada et en France. C'est la filiale française qui "embauche" (et se fait rémunéré par l'état en fait) et vous dépêche dans sa filiale Canadienne.
 

@@ -10,7 +10,7 @@ categories:
 
 Entendu dans le métro :
 
-"Ah là là, très chère, je ne sais pas si tu as vu, ils ont sorti un  hier, il paraît que le diabète prédispose à la maladie d'Alzheimer.  Ha ha ha, qu'est-ce qu'il ne faut pas inventer !  Encore une idée de compagnie pharmaceutique pour faire vendre des médicaments contre le diabète.  Je ne vois vraiment pas quel lien il pourrait y avoir entre ces deux maladies.  Tiens, prends ma mère : elle a souffert d'Alzheimer, mais jamais du diabète, tu vois !"  (Adaptation libre, de mémoire)
+"Ah là là, très chère, je ne sais pas si tu as vu, ils ont sorti un [article](http://radio-canada.ca/nouvelles/Santeeducation/nouvelles/200405/17/002-Alzheimer-diabete.shtml) hier, il paraît que le diabète prédispose à la maladie d'Alzheimer.  Ha ha ha, qu'est-ce qu'il ne faut pas inventer !  Encore une idée de compagnie pharmaceutique pour faire vendre des médicaments contre le diabète.  Je ne vois vraiment pas quel lien il pourrait y avoir entre ces deux maladies.  Tiens, prends ma mère : elle a souffert d'Alzheimer, mais jamais du diabète, tu vois !"  (Adaptation libre, de mémoire)
 
 Etc.  Avant d'en arriver là, les deux femmes, qui ne devaient pas très bien se connaître, ont pris le temps de se rappeler l'une l'autre ce qu'elles font.  Alors je peux vous dire que la première travaille dans une compagnie pharmaceutique et fait de la génétique.  La seconde a pour employeur l'association de la maladie d'Alzheimer ; je comprends qu'elle fait un boulot de paperasse, genre secrétaire.
 
@@ -20,7 +20,7 @@ Bref, elles ont arrêté de médire sur le sujet et sur les intentions des cherc
 
 La leçon que je retire de cet épisode de vie est que les gens ont vraiment un problème existentiel avec la médecine, peut-être même avec la science en général.  Je ne sais pas trop ce que c'est, une méfiance, une paranoïa, une jalousie, des attentes irrationnelles, ça dépend des gens.
 
-Moi qui ne comprenais pas le comportement de  et le pensait spécialement élaboré contre moi.  Force est de constater que c'est un sentiment au contraire tout-à-fait général et généralisé.
+Moi qui ne comprenais pas le comportement de [mon père]({{ site.url }}/2004/03/20/Mon-pere) et le pensait spécialement élaboré contre moi.  Force est de constater que c'est un sentiment au contraire tout-à-fait général et généralisé.
 
 J'ai l'impression d'entendre partout, à commencer par ma famille, des doléances contre la médecine.  Outre mon père, spécialiste *es* "crier très fort contre les médecins", ma grand-mère en rajoute régulièrement une couche également.  Sur la péritonite non détectée de son frère, tout ça tout ça.  À les entendre, tous les médecins sont des gros nuls assoiffés d'argent.
 

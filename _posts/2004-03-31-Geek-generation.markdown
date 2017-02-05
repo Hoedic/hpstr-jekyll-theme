@@ -10,7 +10,7 @@ categories:
 
 Ou *Quand la télévision n'intéresse plus grand monde*.
 
-Via , un long  du New York Times sur les "missing guys" (Est-ce un terme connu ou une idée nouvelle évoqué par le NYT ?) suite à une étude de  selon laquelle les gars, notamment de 18 à 34 ans, passeraient moins de temps devant la télé (audience en baisse de 12 à 20%) et plus sur leur ordinateur ou à leur console de jeu.
+Via [Slashdot](http://slashdot.org/articles/04/03/30/156247.shtml?tid=129&tid=186&tid=188), un long [article](http://www.nytimes.com/2004/03/29/technology/29guy.html) du New York Times sur les "missing guys" (Est-ce un terme connu ou une idée nouvelle évoqué par le NYT ?) suite à une étude de [Nielsen Media Research](http://www.nielsenmedia.com/) selon laquelle les gars, notamment de 18 à 34 ans, passeraient moins de temps devant la télé (audience en baisse de 12 à 20%) et plus sur leur ordinateur ou à leur console de jeu.
 
 L'article dresse un peu le portrait du geek type qui occupe son temps libre à jouer, à aller sur Internet, ou à causer avec ses amis (en ligne).
 
@@ -22,6 +22,6 @@ Trois-quatre ans plus tard, Internet était sur toutes les langues, on découvra
 
 Les dirigeants de télévision semblent également avoir des difficultés avec ça aussi. Ils tablent sur une prochaine stabilisation de l'audience, misant notamment sur la tendance au multi-tache amenant les gens à mettre la télé pendant qu'ils sont sur internet. C'est en parti vrai. Mais Internet nécessite en soit d'être multi-tache. Du coup, la télé devient rapidement un élément au mieux inutile au pire carrément dérangeant, dans tous les cas on finit par perdre le réflexe de l'allumer. Je le sais, j'ai vécu cette phase de transition, maintenant la télé reste majoritairement éteinte.
 
-D'autant qu'il est très facile de trouver tout le contenu souhaité sur Internet. La plupart de "bonnes" pub que j'ai vu dernièrement c'était sur le web. Prenons la campagne "", il est fort probable que plus de monde l'ai vu sur le site web de  qu'à la télévision. Hormis les films qui sont dispo sur tout bon réseau P2P, on trouve aussi toutes les séries qui passent à la TV, disponibles quasi-immédiatement, regardable quand on veut et sans pub.
+D'autant qu'il est très facile de trouver tout le contenu souhaité sur Internet. La plupart de "bonnes" pub que j'ai vu dernièrement c'était sur le web. Prenons la campagne "[Bush in 30 seconds](http://www.bushin30seconds.org/)", il est fort probable que plus de monde l'ai vu sur le site web de [MoveOn](http://www.moveon.org/) qu'à la télévision. Hormis les films qui sont dispo sur tout bon réseau P2P, on trouve aussi toutes les séries qui passent à la TV, disponibles quasi-immédiatement, regardable quand on veut et sans pub.
 
 Bref la multiplication des ligne haute-vitesse sans limitation de trafic se fait sentir assez fortement, et c'est loin de finir !

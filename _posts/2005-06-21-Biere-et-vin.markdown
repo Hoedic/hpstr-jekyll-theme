@@ -16,4 +16,4 @@ Pour le vin, c'est 13 litres/habitant au Québec contre 60 en France. On est loi
 
 C'était le message à caractère informatif du jour :)
 
-Sources : ,  et 
+Sources : [1](http://www.lemonde.fr/web/article/0,1-0@2-3234,36-663971,0.html), [2](http://www.schoune.com/biere3.html) et [3](http://archives.radio-canada.ca/IDC-0-10-1143-6272/vie_societe/canada_vin/)

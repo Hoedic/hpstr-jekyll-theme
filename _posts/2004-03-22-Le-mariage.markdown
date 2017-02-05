@@ -10,7 +10,7 @@ categories:
 
 On ne cesse de se marier dans mon entourage.  C'est difficile de rester impassible devant cette avalanche de nouvelles.  C'est un geste tellement sérieux, finalement, que de se marier.  (Et à la fois tellement frivole, si on en juge par le nombre de divorces...)
 
-Derrière la problématique (en est-ce vraiment une ?) du , il reste la question du mariage tout court.
+Derrière la problématique (en est-ce vraiment une ?) du [mariage homosexuel](http://embruns.net/actus_et_opinions/000196.html), il reste la question du mariage tout court.
 
 Pourquoi se marie-t-on encore de nos jours ?  Évidemment, je pose la question d'un point de vue idéologique, et non religieux ou pratique (raisons d'immigration, de fiscalité ou autres).
 

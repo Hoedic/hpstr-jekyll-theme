@@ -15,7 +15,7 @@ Hier soir, à Mer et Monde, c'était mon tour de faire un petit oral.  Mon sujet
 
 
 
-Après en avoir bien discuté, nous avons ensuite regardé un film totalement touchant et troublant : .  Vous avez déjà vu ?  Sinon, je vous le conseille vivement.
+Après en avoir bien discuté, nous avons ensuite regardé un film totalement touchant et troublant : [Des Marelles et des petites filles](http://www.onf.ca/petites_filles/).  Vous avez déjà vu ?  Sinon, je vous le conseille vivement.
 
 C'est un très beau documentaire sur la condition de petite fille à travers le monde.  Lourd travail ménager et/ou à l'extérieur, mariage au plus jeune âge, tourisme sexuel, port du voile, excision, esclavagisme.  Le tout du point de vue des enfants eux-mêmes, avec leurs sourires et toute leur naïveté.
 

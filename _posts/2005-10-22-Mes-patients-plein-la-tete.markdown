@@ -26,4 +26,4 @@ La médecine, c'est aussi ça.  Côtoyer la fragilité et la vulnérabilité ave
 
 ~~
 
-Je me demandais c'était quoi, toutes ces photos retouchées bizarrement et de façon amusante, sur Flickr et différents blogs.  Eh bien, c'est .
+Je me demandais c'était quoi, toutes ces photos retouchées bizarrement et de façon amusante, sur Flickr et différents blogs.  Eh bien, c'est [flagrantdisregard Flickr Toys](http://flagrantdisregard.com/flickr/).

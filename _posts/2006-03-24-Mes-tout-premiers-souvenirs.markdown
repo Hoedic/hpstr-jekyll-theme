@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Mon enfance aussi, tout comme celle de , est ponctuée de certains points de repère simples.  Je cherchais évidemment des souvenirs du temps où je vivais en Abitibi (donc avant 9 ans), et plus simplement avant l'école et la garderie (donc avant 5 ans).
+Mon enfance aussi, tout comme celle de [Leeloolène](http://leeloolene.free.fr/), est ponctuée de certains points de repère simples.  Je cherchais évidemment des souvenirs du temps où je vivais en Abitibi (donc avant 9 ans), et plus simplement avant l'école et la garderie (donc avant 5 ans).
 
 Mon tout premier souvenir est facile à identifier comme tel.  C'est une saynète assez courte.  C'était l'hiver, et je devais monter dans notre voiture de l'époque.  Cette voiture comportait un trou béant au sol à l'arrière et mes parents s'en s'ont débarassés en 1985.  Je me souviens très nettement de ma mère me disant "Attention, il y a un trou par terre !" et même d'avoir pensé que je le savais déjà !  Ou était-ce ma réponse ?  J'avais tout juste 3 ans, maximum.
 

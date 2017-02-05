@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Enfin ! Après un an à Montréal, c'était la première fois que j'allais voir un match du .
+Enfin ! Après un an à Montréal, c'était la première fois que j'allais voir un match du [Canadien de Montréal](http://canadiens.com/).
 
 Disons que ça a assez mal commencé car on n'a pas eu le droit de rentrer avec notre sac à dos. Ebb et moi nous promenons toujours avec des sacs à dos pour trimballer nos petites affaires (mon appareil photo numérique, un livre, tuque, gants, plus toutes mes conneries). Bon, faut dire qu'on l'a cherché parce que c'était écrit sur le billet que les sacs à dos étaient interdis.
 

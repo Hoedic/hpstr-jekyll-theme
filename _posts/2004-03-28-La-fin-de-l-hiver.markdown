@@ -10,7 +10,7 @@ categories:
 
 La fin de l'hiver approche. Au Québec, l'hiver met beaucoup de temps à s'en aller pour de bon, on peut encore se retrouver aux prises avec des chutes de neige en avril. Toutefois, une série d'éléments font dire que malgré quelques mauvaises surprises, on en a globalement fini avec les pelles, le sel et les pneus d'hiver.
 
-Un critère pour Ebb et moi, c'est de voir la  réapparaître, malheureusement sous forme d'une eau brûnatre peu appétante mais bon. Un autre élément est le démontage progressif des  qui voient le jour dans de nombreux parcs à Montréal (et surement ailleurs).
+Un critère pour Ebb et moi, c'est de voir la [piscine du voisin]({{ site.url }}/2003/11/18/Mes-criteres-d-hiver) réapparaître, malheureusement sous forme d'une eau brûnatre peu appétante mais bon. Un autre élément est le démontage progressif des [patinoires extérieures]({{ site.url }}/2004/01/30/Le-hockey-une-religion) qui voient le jour dans de nombreux parcs à Montréal (et surement ailleurs).
 
 ![Image]({{ site.url }}/images/patinoire-jean-brillan_27-03-04.jpg)
 <div class="photoattrib">C'était une patinoire</div>

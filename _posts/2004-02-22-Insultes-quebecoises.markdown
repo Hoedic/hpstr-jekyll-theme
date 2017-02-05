@@ -16,7 +16,7 @@ Pour vous replacer le contexte, il s'agit d'un client quelque peu sur les nerfs 
 
 Éloignez enfants, chiens et chats, parce que ça arrache ! (Malgré tout, rien ne remplacera dans mon coeur un bon *Putain de bordel de merde, j'en ai vraiment plein le cul !*)
 
-**Ajout** : La retranscription du dialogue a été ajoutée dans un autre 
+**Ajout** : La retranscription du dialogue a été ajoutée dans un autre [message]({{ site.url }}/2004/02/24/Insultes-quebecoises-bis)
 
 ![Image]({{ site.url }}/images/service_a_la_clientle_videotron.mp3)
 <div class="photoattrib">Pas content le monsieur !</div>

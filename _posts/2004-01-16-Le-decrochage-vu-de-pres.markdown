@@ -8,7 +8,7 @@ categories:
 ---
 
 
- devait reprendre sous peu un train de vie et d'études normales pour cette session d'hiver qui pointe le bout de son nez au cégep...  Depuis l'automne, il est en effet suivi en orthophonie et son langage s'est grandement amélioré.
+[M]({{ site.url }}/2003/08/25/article172,172) devait reprendre sous peu un train de vie et d'études normales pour cette session d'hiver qui pointe le bout de son nez au cégep...  Depuis l'automne, il est en effet suivi en orthophonie et son langage s'est grandement amélioré.
 
 Cependant, il a toujours refusé obstinément de réfléchir à son orientation, et d'accepter certaines réalités de la vie (à laquelle il n'a guère été confronté jusqu'ici).  Nécessité de travailler, valeur de l'effort...  Autant de notions tellement basiques qui lui sont totalement étrangères.  Il était inscrit jusqu'ici en sciences humaines, "par défaut", sans la moindre trace de réflexion ou de choix, *niet*.
 

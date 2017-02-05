@@ -20,6 +20,6 @@ Je me suis donc retrouvée à Mississauga, accueillie par une gentille famille. 
 
 La fréquentation de cette école, outre l'aspect linguistique, s'est avérée pour moi très enrichissante.  C'était une école tout à fait internationale et j'étais la seule à ne pas venir de loin - à la place, le loin est venu à moi.  Des Italiens, des Espagnols, des Brésiliens, des Lituaniens, des Taïwanais, et j'en passe.  C'était très "ambiance", surtout pendant la Coupe du Monde 1998.  Je prenais bien sûr pour la France et j'étais un peu la seule.  Heureusement, je ne me suis pas fait huer.
 
-Chose certaine, après toutes ces expériences, je croyais bien ne plus jamais avoir à retourner en Ontario, sauf peut-être à Stanford pour voir le festival shakespearien un jour.  Et voilà qu' me donne presque envie d'aller nous installer en Ontario.  L'état d'immigrant y a l'air tellement moins problématique...  Et celui de médecin y est accessoirement agréablement bonifié.
+Chose certaine, après toutes ces expériences, je croyais bien ne plus jamais avoir à retourner en Ontario, sauf peut-être à Stanford pour voir le festival shakespearien un jour.  Et voilà qu'[il](http://www.yvonet.com/) me donne presque envie d'aller nous installer en Ontario.  L'état d'immigrant y a l'air tellement moins problématique...  Et celui de médecin y est accessoirement agréablement bonifié.
 
 À méditer...

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Article rédigé en écho à  de Winckler, et faisant suite à .
+Article rédigé en écho à [cette suggestion](http://martinwinckler.com/article.php3?id_article=858) de Winckler, et faisant suite à [celui-ci](http://mon-ile.net/carnet/La-France-des-demi-baguettes-1.html).
 
 Après une éprouvante et caricaturale recherche d'appartement à Paris, où je me suis souvent fait jeter de par ma nationalité étrangère, par mon sexe (les cheveux de filles, ça bouche les douches, c'est bien connu) et par toutes sortes de critères assez farfelus, nous finissons par dénicher un studio de 25 mètres carrés place de la Madeleine. C'est une ancienne chambre de bonne sous les toits, c'est petit mais meublé, les murs sont rouges et il y a plein de miroirs partout pour faire croire à de l'espace ; il n'y a ni four, ni congélateur, ni bain (juste une douche). Le canapé-lit est le meuble principal de l'appart. C'est cher, mais c'est bien situé, ce qui est utile dans une vie aussi occupée que celle que l'on va connaître. Nous sommes dans un carrefour stratégique entre la place de la Concorde, la gare Saint-Lazare et l'Opéra, tout près des grands magasins (et leurs si jolies vitrines du temps des fêtes).
 

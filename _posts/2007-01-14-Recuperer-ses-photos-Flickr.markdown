@@ -14,6 +14,6 @@ Comme je le disais récemment, je ne vais pas renouveler mon compte. Cependant j
 
 C'est certain que c'est faisable avec les API flickr, mais je n'ai rien trouvé pour le moment. Une idée ?
 
-**Update** : À force de chercher, j'ai trouvé :  ! C'est ça qui est bien avec Internet ; quand on a un problème, il y a toujours quelqu'un pour avoir eu le même... et pour l'avoir résolu :)
+**Update** : À force de chercher, j'ai trouvé : [FlickrBackup](http://sourceforge.net/projects/flickrbackup) ! C'est ça qui est bien avec Internet ; quand on a un problème, il y a toujours quelqu'un pour avoir eu le même... et pour l'avoir résolu :)
 
 Ça m'a récupéré 80% des photos toutefois, j'ignore pourquoi certaines ne veulent pas venir...

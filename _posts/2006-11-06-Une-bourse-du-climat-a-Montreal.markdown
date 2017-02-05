@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le Devoir a bien calculé son coup ce matin en faisant  sur une déclaration de Rona Ambrose selon laquelle le Canada aura son marché climatique dans le cadre de Kyoto à l'image de l'Europe.
+Le Devoir a bien calculé son coup ce matin en faisant [sa une](http://www.ledevoir.com/2006/11/06/122256.html) sur une déclaration de Rona Ambrose selon laquelle le Canada aura son marché climatique dans le cadre de Kyoto à l'image de l'Europe.
 
 Évidemment, ce fut un coup de tonnerre. La Bourse de Montréal étant l'élément central de ce processus, la journée fut assez agitée et l'intérêt des medias rarement aussi évident...
 

@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Hier en rentrant à pied d'un de mes cours je réfléchissais au  de  sur l'importance des choix consommation pour changer le monde. C'est un sujet frais de ma tête du fait de certaines lectures et de la récente tenue de l'.
+Hier en rentrant à pied d'un de mes cours je réfléchissais au [post](http://www.rundom.com/houssein/index.php?itemid=638) de [Houssein](http://www.rundom.com/houssein/) sur l'importance des choix consommation pour changer le monde. C'est un sujet frais de ma tête du fait de certaines lectures et de la récente tenue de l'[UNM](http://www.inm.qc.ca/).
 
-Houssein, comme , reprend l'idée que le capitalisme est le système maximisant les profits et donc la croissance, le principal biais présenté étant la création d'inégalité et c'est incontestable.
+Houssein, comme [Jacques Attali]({{ site.url }}/2004/08/23/Jacques-Attali-et-Romeo-Dallaire), reprend l'idée que le capitalisme est le système maximisant les profits et donc la croissance, le principal biais présenté étant la création d'inégalité et c'est incontestable.
 
 Personnellement j'y vois une autre problématique, abordée par Houssein sans clairement l'identifier, il s'agit de l'absence d'optimisation des ressources. Je m'explique : pour simplifier, le modèle capitaliste aboutit à l'augmentation la plus rapide possible du PNB mondial. Ceci se fait au détriment des ressources. Peu importe la quantité de ressources utilisée, le but est de vendre, produire des richesses.
 
@@ -20,7 +20,7 @@ Cette analyse s'applique à un grand nombre de ressources, y compris les ressour
 
 Évidemment ce n'est pas le cas et une grande partie des ressources se renouvellent à un rythme plus faible que l'utilisation qui en est faite.
 
-Le principe des , considéré comme la solution si correctement prisent en compte, me fait doucement rigoler car la manière dont ces externalités sont quantifiées est généralement faussées.
+Le principe des [externalités](http://www.google.com/search?q=define:Externalities), considéré comme la solution si correctement prisent en compte, me fait doucement rigoler car la manière dont ces externalités sont quantifiées est généralement faussées.
 
 Effectivement la solution réside en partie dans les choix de consommation. Quand j'achète bio ou équitable, j'accepte de réduire mon pouvoir d'achat pour payer le prix juste d'une ressource, que ce soit en respectant l'environnement ou en payant correctement un travailleur. En réutilisant ou en réparant du mobilier, j'optimise la ressource qui servi à la création du meuble. Si je laisse mon sofa sur le bord de la route et en achète un autre, certes je favorise l'augmentation du PNB mais niveau optimisation des ressources, on est à coté de la plaque.
 

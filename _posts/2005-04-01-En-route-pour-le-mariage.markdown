@@ -10,7 +10,7 @@ categories:
 
 Depuis l'annonce-surprise du mariage (de mon point de vue du moins ;)), nous avons fait quelques démarches pour trouver où le faire, comment le faire, etc.
 
-Le projet initial : la Guadeloupe, un territoire français, mais dans les Caraïbes, donc pas de jaloux du côté de nos familles respectives.  Et le tout dans la plus grande intimité (on n'est pas de grands fêteux ;)).  Et puis c'est une île qui a l'air intéressante, magnifique, et dont nous avons entendu  depuis longtemps...
+Le projet initial : la Guadeloupe, un territoire français, mais dans les Caraïbes, donc pas de jaloux du côté de nos familles respectives.  Et le tout dans la plus grande intimité (on n'est pas de grands fêteux ;)).  Et puis c'est une île qui a l'air intéressante, magnifique, et dont nous avons entendu [parler](http://leeloolene.free.fr/) depuis longtemps...
 
 ![Image]({{ site.url }}/images/mer-baie-fort-guadeloupe-sa.jpg)
 <div class="photoattrib">Baie des Saintes</div>
@@ -34,7 +34,7 @@ Parallèlement à tout ceci, j'ai commencé à regarder les robes de mariées et
 
 
 
-Je suis même allée me promener sur la , le haut-lieu du mariage à Montréal (mais si je n'aime pas trop l'aspect de ses magasins vieillots et décrépits), pour quelques essayages.  Difficile de savoir ce que je veux !
+Je suis même allée me promener sur la [Plaza St-Hubert](http://wwww.plaza-st-hubert.com/freepage.php?page=87&section=parcour&niv=1&secteur=87), le haut-lieu du mariage à Montréal (mais si je n'aime pas trop l'aspect de ses magasins vieillots et décrépits), pour quelques essayages.  Difficile de savoir ce que je veux !
 
 ![Image]({{ site.url }}/images/demetrios.jpg)
 <div class="photoattrib">Demetrios</div>

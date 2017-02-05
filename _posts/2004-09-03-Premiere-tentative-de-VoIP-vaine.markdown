@@ -8,10 +8,10 @@ categories:
 ---
 
 
-Après avoir reçu notre bidule pour téléphoner par  avant-hier, je me suis décidé à essayer de l'installer hier.
+Après avoir reçu notre bidule pour téléphoner par [VoiceIP](http://www.primustel.ca/en/residential/talkbroadband/index.html) avant-hier, je me suis décidé à essayer de l'installer hier.
 
 Comme je le craignais ça marche pas.
 
 Je vais réessayer ce WE mais d'avance ça me fatigue. Non seulement le téléphone marche pas, mais en plus ça me coupe Internet puisqu'il faut mettre leur router entre le modem-cable et mon routeur et que du coup mon routeur ne retrouve plus le chemin de la sortie. Ça promet.
 
-Y aurait-il quelqu'un dans la salle qui aurait réussi à faire fonctionner l'offre VoiceIP de  avec un routeur ?
+Y aurait-il quelqu'un dans la salle qui aurait réussi à faire fonctionner l'offre VoiceIP de [Primus](http://www.primustel.ca/) avec un routeur ?

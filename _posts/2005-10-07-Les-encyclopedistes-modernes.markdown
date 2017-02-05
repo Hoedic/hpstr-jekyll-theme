@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Après  et sa quête de Spinoza, au tour d' de m'occuper avec ses écrits, avec **. L'auteur est réputé pour la qualité de sa prose, mais c'est surtout son sujet, , qui m'a particulièrement intéressé, philisophe des Lumières énigmatique, moins connu que ses contemporains Voltaire et Rousseau, et qui m'a toujours fasciné avec son  ou sa **. Diderot fut également l'éditeur en chef et principal contributeur de l'  (dont le titre complet est *Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers*), une oeuvre de 18000 pages et 75000 entrées.
+Après [Damasio](http://en.wikipedia.org/wiki/Antonio_Damasio) et sa quête de Spinoza, au tour d'[Éric-Émmanuel Schmitt](http://www.eric-emmanuel-schmitt.com/) de m'occuper avec ses écrits, avec *[Diderot ou la philosophie de la séduction](http://www.amazon.fr/exec/obidos/ASIN/222609203X/171-9091838-5653053)*. L'auteur est réputé pour la qualité de sa prose, mais c'est surtout son sujet, [Diderot](http://fr.wikipedia.org/wiki/Denis_Diderot), qui m'a particulièrement intéressé, philisophe des Lumières énigmatique, moins connu que ses contemporains Voltaire et Rousseau, et qui m'a toujours fasciné avec son [Jacques]({{ site.url }}/2003/10/10/Hommage-a-Diderot) ou sa *[Lettre sur les aveugles à l'usage de ceux qui voient]({{ site.url }}/2005/01/16/Lettre-sur-les-aveugles)*. Diderot fut également l'éditeur en chef et principal contributeur de l'[Encyclopédie](http://fr.wikipedia.org/wiki/Encyclop%C3%A9die_ou_dictionnaire_raisonn%C3%A9_des_sciences%2C_des_arts_et_des_m%C3%A9tiers)  (dont le titre complet est *Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers*), une oeuvre de 18000 pages et 75000 entrées.
 
 Se voulant un bilan éclairé de la connaissance de l'époque, l'Encyclopédie eu un impact énorme, malgré ses quelques milliers de copies, étant souvent considérée comme un des points de départ de la révolution française. La remise en cause de la préséance de l'église et de Dieu au profit de la raison humaine et des sciences étant un aspect central de cette oeuvre.
 
-Difficile de ne pas faire un parallèle entre l'Encyclopédie des Lumières et .
+Difficile de ne pas faire un parallèle entre l'Encyclopédie des Lumières et [Wikipedia](http://www.wikipedia.org/).
 
 Aujourd'hui, il n'est plus réellement possible, avec quelques dizaines de personnes, de rassembler tout le savoir humain. Plus de Descartes capable d'établir les règles de l'optique, d'étudier le fonctionnement du coeur et d'être l'un des plus grand philosophe de son temps.
 
@@ -22,7 +22,7 @@ Sans pousser la comparaison trop loin, il est évident que Wikipedia reprend la 
 
 ***
 
-Hier je discutais avec  et lui présentais cette comparaison. Il m'a alors fait part de sa crainte d'une perte de diversité avec cette encyclopédie. Je ne suis pas certain du fond de sa pensée mais c'est effectivement une crainte de par la forte représentation de certaines populations, comme le *geekus americainus vulgaris* (C'est d'ailleurs un problème plus large selon moi puisque les spécialistes en technologie construisent purement et simplement le monde moderne). Ces considérations amènent à dire qu'autant de personnes que possible, de tous horizons, doivent participer au développement de l'encyclopédie wiki.
+Hier je discutais avec [Karl](http://www.la-grange.net/) et lui présentais cette comparaison. Il m'a alors fait part de sa crainte d'une perte de diversité avec cette encyclopédie. Je ne suis pas certain du fond de sa pensée mais c'est effectivement une crainte de par la forte représentation de certaines populations, comme le *geekus americainus vulgaris* (C'est d'ailleurs un problème plus large selon moi puisque les spécialistes en technologie construisent purement et simplement le monde moderne). Ces considérations amènent à dire qu'autant de personnes que possible, de tous horizons, doivent participer au développement de l'encyclopédie wiki.
 
 Cependant Wikipédia me semble en soit un initiative nettement plus vecteur de diversité que la diffusion classique du savoir qui ne maintient la diversité que par le cloisonnement. Par ailleurs dans du contenu comme Wikipedia chacun trouve ce qu'il veut. Comme l'explique Schmitt à propos de la vision de Diderot, le mot n'est qu'une représentation, une représentation qui plonge en fait dans un sens lié au vécu de chacun.
 

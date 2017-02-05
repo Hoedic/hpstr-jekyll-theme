@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme le dit si bien , la saison du pleurnichage est arrivée, parce qu'il fait froid, moche, sombre et qu'il pleut.  On sent notre liberté se restreindre au fur et à mesure, un petit peu plus chaque jour...
+Comme le dit si bien [François](http://carnets.ixmedia.com/magellan/), la saison du pleurnichage est arrivée, parce qu'il fait froid, moche, sombre et qu'il pleut.  On sent notre liberté se restreindre au fur et à mesure, un petit peu plus chaque jour...
 
 Hier, en mettant ma tuque et mes mitaines dans la rue (eh oui, déjà), j'ai entendu un ricanement vulgaire dans mon dos : *"Eh babe, it's not cold yet !"*.
 

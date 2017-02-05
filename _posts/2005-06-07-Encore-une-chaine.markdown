@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Des questionnaires, parfois, c'est rigolo. Pour le coup j'ai  de celui qu'il est à la mode en ce moment about la musique.
+Des questionnaires, parfois, c'est rigolo. Pour le coup j'ai [hérité](http://www.micheldumais.com/archives/2005/06/06/miouzik/) de celui qu'il est à la mode en ce moment about la musique.
 
 **1. La quantité de musique sur mon disque dur.**
 
@@ -23,7 +23,7 @@ Là-dedans, surement un tiers sont en notre possession (à Ebb et moi). Je ne su
 ![Image]({{ site.url }}/images/la-rue-ketanou.jpg)
 <div class="photoattrib">La Rue Kétanou</div>
 
-La rue kétanou, album , un petit cadeau pour Ebb.
+La rue kétanou, album [En attendant les caravanes](http://www.amazon.fr/exec/obidos/ASIN/B0000560OC/), un petit cadeau pour Ebb.
 
 À remarquer que si je télécharge assez peu, j'achète aussi assez peu. J'aime pas avoir la mauvaise surprise d'avoir un album dont la moitié des tounes sont nulles. D'ailleurs, l'écoute de MP3 a changé mon comportement puisque ça me permet d'écouter une large partie des chansons avant de passer à l'achat. Ce fut le cas de la Rue Ketanou pour Ebb je pense bien. Globalement, j'aime bien me faire conseiller par des amis.
 
@@ -47,4 +47,4 @@ Mention spéciale pour *Le poil* de Java (Album Hawai)
 
 **5. À qui je passe le relais?**
 
-Niark : , ,  et puis... Ebb !
+Niark : [Leeloolène](http://leeloolene.free.fr/), [Fleur de Lotus](http://littlestories.canalblog.com/), [François](http://carnets.ixmedia.com/magellan/) et puis... Ebb !

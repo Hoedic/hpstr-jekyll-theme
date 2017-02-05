@@ -17,4 +17,4 @@ Ce fut pour le moins expéditif : 30 minutes montre en main et la confirmation d
 
 
 
-Sinon, sur le chemin du retour, j'ai fait un heureux qui souhaite se présenter à l'élection fédérale en apportant ma signature. Du coup, si le  arrive à avoir un député dans la circonscription d'Outremont, ce sera en partie grâce à moi (bien que je n'ai pas le droit de vote, ce qui est assez fort ;)
+Sinon, sur le chemin du retour, j'ai fait un heureux qui souhaite se présenter à l'élection fédérale en apportant ma signature. Du coup, si le [Parti Marijuana](http://www.marijuanaparty.com) arrive à avoir un député dans la circonscription d'Outremont, ce sera en partie grâce à moi (bien que je n'ai pas le droit de vote, ce qui est assez fort ;)

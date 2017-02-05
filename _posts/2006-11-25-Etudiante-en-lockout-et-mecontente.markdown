@@ -35,11 +35,12 @@ Quand je vois un handicapé dans la rue, je ne me tire pas dans le pied pour êt
 
 Prochaine AG sûrement lundi soir...
 
+[Tous les externes en médecine privés de stage à l'UdeM](http://www.cyberpresse.ca/article/20061125/CPACTUALITES/61125008/5032/CPACTUALITES)
 
+[Les médecins résidents ont de la sympathie pour les spécialistes](http://www.cyberpresse.ca/article/20061124/CPACTUALITES/61124193/1019/CPACTUALITES)
 
+[Les étudiants en médecine montent au front](http://www.cyberpresse.ca/article/20061122/CPSOLEIL/61122240/5293/CPSOLEIL)
 
+[Manif des étudiants en médecine à Québec](http://www.cyberpresse.ca/article/20061122/CPACTUALITES/61122176/5094/CPACTUEL03)
 
-
-
-
-
+[Les étudiants veulent la fin des moyens de pression](http://www.radio-canada.ca/regions/Quebec/2006/11/22/010-manif_etudiants.shtml)

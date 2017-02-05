@@ -11,13 +11,13 @@ categories:
 Brêve présentation à l'attention des visiteurs curieux qui souhaitent en connaître plus sur les deux auteurs de ce blog.
 Adresse courriel : hoedic [at] mon-ile.net (changez le [at] par @)
 
-Derrière le pseudo de Hoedic se cache donc Stéphane pré-trentenaire natif de la France installé à Montréal depuis 2002 pour les beaux yeux de ma femme et co-auteure de blogue,  (ex-Ebb).
+Derrière le pseudo de Hoedic se cache donc Stéphane pré-trentenaire natif de la France installé à Montréal depuis 2002 pour les beaux yeux de ma femme et co-auteure de blogue, [Dre Papillon]({{ site.url }}/2003/12/02/Qui-est-Dre-Papillon) (ex-Ebb).
 
 Depuis que j'ai terminé mes études d'ingénieur es-rien en 2001, j'ai navigué dans toutes sortes d'emplois, en informatique, en environnement, à gauche à droite sans pour le moment avoir réellement trouvé ma voie. Cependant j'espère toujours que la recherche d'une activité plaisante et suffisamment lucrative ne sera pas vaine. Nouvelles technologies (en plus de travailler à temps plein, je poursuis actuellement un master en "gestion de l'innovation" à l'école Polytechnique de Montréal), environnement, finance même (mais selon certaines restrictions), mes champs d'intérêt et de compétences sont nombreux et certaines ouvertures intéressantes se dessinent.
 
 Les raisons pour lesquelles je publie sur un blogue sont nombreuses, la principale d'entre elles étant qu'en tant que maudit français, j'aime bien l'ouvrir. Donc je l'ouvre sur tous les sujets qui me passent sous le nez en plus de raconter ma vie. Parfois je me demande comment je faisais avant !
 
-En plus de ce blog, je publie des  sur Flickr ainsi que des  sur Delicious.
+En plus de ce blog, je publie des [photos](http://flickr.com/photos/hoedic/) sur Flickr ainsi que des [liens](http://del.icio.us/hoedic) sur Delicious.
 
 Un petit «j'aime/j'aime» pas :
 

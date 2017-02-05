@@ -8,4 +8,4 @@ categories:
 ---
 
 
-J'hésite encore à aller à l'édition de juin de , il faudrait que je fasse l'aller-retour avec Lille dans la soirée.  Ça vaut la peine, c'est sympa, vous y serez ? ;)
+J'hésite encore à aller à l'édition de juin de [Paris Carnet](http://www.wikiservice.at/fractal/wikidev.cgi?FR%2FParisCarnet), il faudrait que je fasse l'aller-retour avec Lille dans la soirée.  Ça vaut la peine, c'est sympa, vous y serez ? ;)

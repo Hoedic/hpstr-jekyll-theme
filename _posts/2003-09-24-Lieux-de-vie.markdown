@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Si j'étais restée en France, c'est sur les bancs de la fac de médecine *Broussais-Hôtel-Dieu* (*Paris VI*, *Pierre et Marie Curie*), au 15 rue de l'École de Médecine, que j'aurais usé mes pantalons...  En effet, c'est ainsi qu'en avait décidé l'impénétrable  (Service inter-académique d'Affectation des Etudiants en Première année d'études médicales).
+Si j'étais restée en France, c'est sur les bancs de la fac de médecine *Broussais-Hôtel-Dieu* (*Paris VI*, *Pierre et Marie Curie*), au 15 rue de l'École de Médecine, que j'aurais usé mes pantalons...  En effet, c'est ainsi qu'en avait décidé l'impénétrable [SADEP](http://www.sorbonne.fr/Websorbon/Arborescence/5-Etablissements/Rectorat/Services/DEVU/22-SADEP.html) (Service inter-académique d'Affectation des Etudiants en Première année d'études médicales).
 
 Quelle ne fut pas ma surprise d'apprendre récemment que cette faculté ferme ses portes aux étudiants et que j'aurais fait partie de leur toute historique dernière vague.  Quel dommage, car il s'agissait sûrement là de la plus belle faculté de Paris, magnifiquement située dans le 6e arrondissement...
 

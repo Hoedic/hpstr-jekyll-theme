@@ -8,24 +8,24 @@ categories:
 ---
 
 
-J'ai passé mercredi une très bonne soirée. Initialement pas très décidé à sortir, je me suis finalement levé de mon scéant pour prendre le bus et me rendre à , sans Ebb, submergée qu'elle était par... un sujet médical quelconque :)
+J'ai passé mercredi une très bonne soirée. Initialement pas très décidé à sortir, je me suis finalement levé de mon scéant pour prendre le bus et me rendre à [La Cabane](http://www.montrealplus.ca/portalf/profile.do?profileID=53460&sectionID=1), sans Ebb, submergée qu'elle était par... un sujet médical quelconque :)
 
 La première rencontre fut celle de Fernando, un portugais installé depuis quelques années à Montréal et avec qui j'ai parlé du bus jusqu'à l'intersection avec Saint-Laurent où nos routes se séparaient. Ce n'est pas dans mes habitudes de parler à des inconnus, mais là c'est venu tout seul.
 
-Ensuite, soirée  des plus agréables même si je mets toujours un peu de temps à me sentir à l'aise et à enclencher la discussion. Malgré tout, comme je l'ai déjà signalé, la barrière de la langue est présente car même si je comprends bien l'anglais en général, j'ai beaucoup de mal dans ce contexte bruyant (j'ai déjà du mal à entendre correctement quand c'est en français...)
+Ensuite, soirée [YULBLog](http://yulblog.org/) des plus agréables même si je mets toujours un peu de temps à me sentir à l'aise et à enclencher la discussion. Malgré tout, comme je l'ai déjà signalé, la barrière de la langue est présente car même si je comprends bien l'anglais en général, j'ai beaucoup de mal dans ce contexte bruyant (j'ai déjà du mal à entendre correctement quand c'est en français...)
 
 ![Image]({{ site.url }}/images/st-laurent-04-05-2004.jpg)
 <div class="photoattrib">Intersection Saint-Laurent et Mont-royal</div>
 
 
 
-Enfin bref, j'ai découvert , , , j'ai discuté chats avec , divers choses avec  et diverses autres choses avec . Et c'est là qu'intervient la justification de mon titre, *Mise au point sur le Québec*.
+Enfin bref, j'ai découvert [Zeke](http://www.zekesgallery.blogspot.com/), [UP4](http://www.up4.com/), [EyeKyu](http://www.eyekyu.com/), j'ai discuté chats avec [Zénon](http://marcheur_immobile.monblogue.com/), divers choses avec [Martine](http://www.martinepage.com/blog/) et diverses autres choses avec [Karl](http://www.la-grange.net/). Et c'est là qu'intervient la justification de mon titre, *Mise au point sur le Québec*.
 
-En effet, assez rapidement Karl m'a interpelé en me disant avoir discuté avec une québécoise lisant ce carnet ainsi que celui de  (je n'ai malheureusement pu savoir qui c'était) et qui était assez touchée par les critiques que j'adresse envers le Québec et Montréal.
+En effet, assez rapidement Karl m'a interpelé en me disant avoir discuté avec une québécoise lisant ce carnet ainsi que celui de [MQ](http://yvonet.com/) (je n'ai malheureusement pu savoir qui c'était) et qui était assez touchée par les critiques que j'adresse envers le Québec et Montréal.
 
 Je voudrais juste recadré les choses : d'abord l'immigration c'est pas toujours facile (pléonasme). Ensuite je ne suis pas venu ici pour trouver l'eldorado, j'étais très très bien en France, rien d'étonnant donc que des choses me manquent et que d'autres m'agacent et que j'éprouve de l'énervement à trouver du boulot alors que j'étais on ne plus tranquille de ce point de vue en France. Enfin, dans la vraie vie, je la joue profil bas malgré les nombreuses frustrations quotidiennes, le carnet se trouve ainsi être mon exutoire, un concentré de mes pulsions négatives.
 
-Je comprends parfaitement la sensation que peuvent faire des critiques répétées contre son pays, contre sa ville par un étranger aigri. Je le comprends d'autant mieux que ma ville préférée, malgré tout, reste Paris. Et qu'est-ce que je n'entends pas dessus ! Et ça me fait mal au coeur quand je lis un , ça me fait sauter au plafond, tout comme certaines de mes remarques doivent faire sauter des montréalais au plafond.
+Je comprends parfaitement la sensation que peuvent faire des critiques répétées contre son pays, contre sa ville par un étranger aigri. Je le comprends d'autant mieux que ma ville préférée, malgré tout, reste Paris. Et qu'est-ce que je n'entends pas dessus ! Et ça me fait mal au coeur quand je lis un [abruti faire un article stupide sur Paris]({{ site.url }}/2004/02/18/Un-journaliste-quebecois-a-Paris), ça me fait sauter au plafond, tout comme certaines de mes remarques doivent faire sauter des montréalais au plafond.
 
 La plupart des québécois ne se rendent pas compte des obstacles que peuvent rencontrer les nouveaux arrivants et ne peuvent par conséquent pas comprendre la frustration qui en ressort. Après ça, oui, les Français sont des chialeux, c'est incontestable, c'était vraiment flagrant quand je suis retourné en France, mais pas chialeux pour rien, je gueule pour des raisons justifiées.
 

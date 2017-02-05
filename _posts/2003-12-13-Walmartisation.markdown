@@ -26,15 +26,15 @@ Supposons, exemple fictif et très simplifié : tous les employés de General Mo
 
 Ceux-là même qui ont poussé pour avoir un meilleur rendement seraient alors indirectement responsable de leur propre sort.
 
-Dans un message récent,  parlait de l'entrée dans le dico du  dans le sens où, dans son approche, McDonald a changé pour toujours la considération de certains petits boulots. Pierre, toujours le même, a également  de l'appétit de Walmart poussant ses concurrents a baisser les salaires et tirer toujours plus sur la corde. Ce n'est pas théorique, ça se passe devant chez nous.
+Dans un message récent, [Pierre](http://www.pierrecarion.com/blog/) parlait de l'entrée dans le dico du [McJob](http://www.pierrecarion.com/blog/archives/2003/11/112057.html) dans le sens où, dans son approche, McDonald a changé pour toujours la considération de certains petits boulots. Pierre, toujours le même, a également [fait les frais](http://www.pierrecarion.com/blog/archives/2003/10/132041.html) de l'appétit de Walmart poussant ses concurrents a baisser les salaires et tirer toujours plus sur la corde. Ce n'est pas théorique, ça se passe devant chez nous.
 
 Nos choix, en tant que consommateurs, sont souvent mis de l'avant dans le domaine environnemental : acheter vert, bio, sans OGM, local, etc. L'aspect social n'est pas moins négligeable et gagnera en importance.
 
 Si on en vient à parler d'une walmartisation dans les pays occidentaux, ça signifiera accepter des conditions sociales aussi lamentables chez nous que dans les pays en voie de développement. De toutes évidence, ce n'est pas ce vers quoi nous devrions essayer de tendre, mais plutôt l'inverse !
 
-**Ajout :** Le  de  est vraiment très pertinent à ce sujet, surtout quand il parle, au niveau de la culture US de *fatalisme économique, primauté de la publicité et consommation ostentatoire*.
+**Ajout :** Le [dernier article](http://embruns.net/quebec/000036.html) de [Laurent](http://embruns.net/) est vraiment très pertinent à ce sujet, surtout quand il parle, au niveau de la culture US de *fatalisme économique, primauté de la publicité et consommation ostentatoire*.
 
 Son article est dédié aux différences entre Canada et États-Unis. Pourtant, pour ce qui est de la walmartisation, les effets sont les même au Canada et au Québec.
 
 
-**Ajout bis :** Ebb vient également de m'envoyer un message assez intéressant de , ça se passe 
+**Ajout bis :** Ebb vient également de m'envoyer un message assez intéressant de [Brunmarde](http://brunmarde.com/), ça se passe [ici](http://brunmarde.com/vieillemarde/006399.php)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Et comme ce soir je vais fêter avec  nos 4 ans, je vous laisse tout de suite sur ces quelques citations...
+Et comme ce soir je vais fêter avec [Hoëdic](http://hoedic.ouvaton.org/) nos 4 ans, je vous laisse tout de suite sur ces quelques citations...
 
 *Qu'il faut donc aimer quelqu'un pour le préférer à son absence !  *(Jean Rostand)
 

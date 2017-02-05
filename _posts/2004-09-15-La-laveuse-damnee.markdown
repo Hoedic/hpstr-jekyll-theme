@@ -12,7 +12,7 @@ Suis-je poursuivi par la damnation du lave-linge.
 
 Avant de partir au Québec, je regardais un peu les sites d'immigrés pour profiter de leur expérience. Plusieurs d'entre eux mettent en avant les différences matérielles et notamment les machines à laver le linge qui sont ici énormes et peu efficaces.
 
-Plus tard, fréquentant le forum d', la polémique des laveuses nord-américaines refit souvent surface, comment était-il possible de faire aussi peu économique et peu efficace ?
+Plus tard, fréquentant le forum d'[immigrer-contact](http://immigrer-contact.com/), la polémique des laveuses nord-américaines refit souvent surface, comment était-il possible de faire aussi peu économique et peu efficace ?
 
 Même un Roumain avec qui j'ai fait de l'aikido m'a fait le même constat sur les laveuses locales quasiment le prermier jour que je lui ai parlé.
 

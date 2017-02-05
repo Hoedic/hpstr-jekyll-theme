@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Non, je vous rassure, ça ne me concerne pas. Ça concerne Richard Bergeron, candidat de  élu au conseil municipal de Montréal.
+Non, je vous rassure, ça ne me concerne pas. Ça concerne Richard Bergeron, candidat de [Projet Montréal](http://www.projetmontreal.org/) élu au conseil municipal de Montréal.
 
-Richard Bergeron était analyste stratégique à l' et fut licencié. Je vous conseille de lire le  de Richard qui, bien qu'un peu long, démontre l'aspect politique et les pressions qui ont eu lieu.
+Richard Bergeron était analyste stratégique à l'[Agence Métropolitaine de Transport](http://www.amt.qc.ca/) et fut licencié. Je vous conseille de lire le [texte](http://www.projetmontreal.org/communiques/communiques.php?id=101) de Richard qui, bien qu'un peu long, démontre l'aspect politique et les pressions qui ont eu lieu.

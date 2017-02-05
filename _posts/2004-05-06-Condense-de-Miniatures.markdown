@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Si je pouvais me transformer en  ne serait-ce que pour 7 minutes, ce serait bien sûr en dauphin.
+Si je pouvais me transformer en [quelque chose](http://taian.akita.free.fr/index.php?/2004/04/21/266-MiniatureDuMercredi21Avril#co) ne serait-ce que pour 7 minutes, ce serait bien sûr en dauphin.
 
 Je me sens comme une gamine du primaire pas très originale qui doit faire une petite rédaction, mais c'est véridique.  J'aime l'eau, j'aime sauter dans/hors de l'eau, j'aime le contact de la surface de l'eau, j'aime avoir la tête sous l'eau...  Et comme j'aimerais pouvoir user de leur très fin système de communication !
 
-À défaut de pouvoir me transformer en dauphin, j'en prendrais donc bien un comme  !  Ce serait le rêve.  Avec la piscine qui va avec et tout et tout...  Ou carrément la mer, tiens.  Pourquoi pas ?
+À défaut de pouvoir me transformer en dauphin, j'en prendrais donc bien un comme [animal de compagnie](http://taian.akita.free.fr/index.php?/2004/05/05/299-MiniatureDuMercredi5Mai) !  Ce serait le rêve.  Avec la piscine qui va avec et tout et tout...  Ou carrément la mer, tiens.  Pourquoi pas ?
 
 ***
 

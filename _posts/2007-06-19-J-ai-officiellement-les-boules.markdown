@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je n'ai pas pu aller à  parce que j'étais pris ce soir là et maintenant je vais rater le . J'ai officiellement les boules !
+Je n'ai pas pu aller à [Pecha Kucha](http://montreal.pecha-kucha.ca/) parce que j'étais pris ce soir là et maintenant je vais rater le [Flickr Party à Montréal](http://blog.flickr.com/en/2007/05/24/save-the-date/). J'ai officiellement les boules !
 
 Non pas que je sois particulièrement sorteux mais justement ! Pour une fois que des événements me tentent, je ne peux pas y aller.
 

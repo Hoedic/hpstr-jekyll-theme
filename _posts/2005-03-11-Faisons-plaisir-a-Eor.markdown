@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Dans un  sans aucun lien avec mon article sur le ,  demandait des photos de la Main Street et de Saint-Catherine, deux rues très connues et citées dans une chansons des  dont il est visiblement fan ;)
+Dans un [commentaire](http://mon-ile.net/carnet/blog1302.html#commentaire2728) sans aucun lien avec mon article sur le [buzz marketing](http://mon-ile.net/carnet/blog1302.html), [Eor Ar Bleizmor](http://eorarbleizmor.free.fr/) demandait des photos de la Main Street et de Saint-Catherine, deux rues très connues et citées dans une chansons des [Cowboys Fringants](http://www.cowboysfringants.com/) dont il est visiblement fan ;)
 
 ![Image]({{ site.url }}/images/pano-quartier-chinois_10-03-2005.jpg)
 <div class="photoattrib">La Main au niveau du quartier chinois</div>
@@ -17,7 +17,7 @@ Dans un  sans aucun lien avec mon article sur le ,  demandait des photos de la M
 
 Alors j'exauce sa demande, au risque de ma vie ! Bon, c'était pas trop difficile, j'avais à aller dans le coin pour me faire poser un lapin (t'inquiète pas Julie, c'est pas grave) puis pour me rendre à ma pratique d'aikido.
 
-Les photos se trouvent en taille plus grande sur  ou cliquez sur les photos.
+Les photos se trouvent en taille plus grande sur [mon compte Flickr](http://flickr.com/photos/hoedic/) ou cliquez sur les photos.
 
 ![Image]({{ site.url }}/images/pano-stcath-stlaurent1_10-03-2005.jpg)
 <div class="photoattrib">La Main proche de Sainte-Catherine</div>

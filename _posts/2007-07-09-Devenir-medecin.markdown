@@ -18,7 +18,7 @@ C'est que, depuis la dernière fois, je me suis transformée en médecin !
 
 
 
-Tout a commencé par notre déménagement, qui fut littéralement épuisant mais qui en valait vraiment la peine. Trois jours après (bien comptés), nous faisions déjà notre pendaison de crémaillère. Qui fut suivie par une bien courte nuit, car nous devions nous lever avant l'aube pour prendre le premier vol du matin en direction de New York. C'est même Monsieur  le taximan qui nous y a conduit, ce qui fut drôlement apprécié à une heure si matinale. Ça fait très *jet set*, dit comme ça, surtout que ce petit séjour fut décidé quasiment sur un coup de tête à la dernière minute.
+Tout a commencé par notre déménagement, qui fut littéralement épuisant mais qui en valait vraiment la peine. Trois jours après (bien comptés), nous faisions déjà notre pendaison de crémaillère. Qui fut suivie par une bien courte nuit, car nous devions nous lever avant l'aube pour prendre le premier vol du matin en direction de New York. C'est même Monsieur [Pierre-Léon](http://taxidenuit.blogspot.com/) le taximan qui nous y a conduit, ce qui fut drôlement apprécié à une heure si matinale. Ça fait très *jet set*, dit comme ça, surtout que ce petit séjour fut décidé quasiment sur un coup de tête à la dernière minute.
 
 
 ![Image]({{ site.url }}/images/6349_7742351f50_z_d.jpg)
@@ -42,7 +42,7 @@ Le mardi matin, nous avons pris le vol de 8h50 qui nous faisait arriver juste, m
 
 
 
-La looongue cérémonie fut suivie, non sans passer par de rocambolesques péripéties avec la voiture , par un repas réellement délicieux au resto tout en bleu, , que nous avait conseillé l'ami . Tout fut divin, de l'apéro au dessert en passant par les nombreuses petites surprises du chef. Et que dire du service, tout simplement génial.
+La looongue cérémonie fut suivie, non sans passer par de rocambolesques péripéties avec la voiture [Communauto](http://www.communauto.com/), par un repas réellement délicieux au resto tout en bleu, [Européa](http://www.europea.ca/), que nous avait conseillé l'ami [Philippo](http://piette.blogspot.com/). Tout fut divin, de l'apéro au dessert en passant par les nombreuses petites surprises du chef. Et que dire du service, tout simplement génial.
 
 
 ![Image]({{ site.url }}/images/1582_532f1e7118_z_d.jpg)

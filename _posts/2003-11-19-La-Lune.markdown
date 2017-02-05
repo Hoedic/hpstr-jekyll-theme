@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La lune, c'est mon amie, d'ailleurs je l'ai en photo comme fond d'écran (avec ). Faut dire que c'est un astre aux propriétés étonnantes.
+La lune, c'est mon amie, d'ailleurs je l'ai en photo comme fond d'écran (avec [Smart-1](http://nfo.edu/moon.htm)). Faut dire que c'est un astre aux propriétés étonnantes.
 
 ![Image]({{ site.url }}/images/mini-lune.jpg)
 <div class="photoattrib">La Lune et Smart-1</div>
@@ -27,11 +27,11 @@ Ceci pourrait également expliquer la différence de topographie entre les deux 
 
 Il n'en demeure pas moins qu'un autre caractère exceptionnel de la Lune ne trouvera pas d'explication scientifique puisque que ce n'est qu'on coup du hasard : ce rapport entre son diamètre, son éloignement de la Terre ainsi que le diamètre du soleil et son éloignement à la Terre qui provoque des eclipses solaires aussi impressionnantes. La lune serait plus grosse ou plus petite, plus proche ou plus lointaine (de même pour le soleil) et ce serait un tout autre spectacle !
 
-Et pour en avoir déjà vu une, le  à Fécamp (ça rappellera des souvenirs à  et  et... moi-même ;), ça laisse bouche bée, et pas seulement par la beauté du spectacle, mais pas cette métamorphose aussi soudaine que courte de tout ce qui nous entoure.
+Et pour en avoir déjà vu une, le [11 août 1999](http://www.chez.com/lepithec/eclipse/11aout.htm) à Fécamp (ça rappellera des souvenirs à [certaines](http://ebb.monblogue.com/) et [certaines](http://leeloolene.free.fr/) et... moi-même ;), ça laisse bouche bée, et pas seulement par la beauté du spectacle, mais pas cette métamorphose aussi soudaine que courte de tout ce qui nous entoure.
 
 Voilà pour la Lune, demain, ce sera le tour des marées !
 
 Sources : 
--  
--  
+-  [Un site qu'il en contient des choses](http://villemin.gerard.free.fr/Science/Univers.htm)
+-  [Earth Moon Dynamics](http://nfo.edu/moon.htm)
 -  D'autres que j'ai perdu en route :)

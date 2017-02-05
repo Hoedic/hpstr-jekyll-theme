@@ -10,7 +10,7 @@ categories:
 
 Mes lectures actuelles de cours sont très intéressantes et dans deux cours différents convergent vers le même sujet : l'évolution des relations employeur - employé.
 
-Ça fait également suite à un article précédent où j'abordais le sujet de l'intérêt au travail suite à la lecture d'un article concernant le best seller français **.
+Ça fait également suite à un article précédent où j'abordais le sujet de l'intérêt au travail suite à la lecture d'un article concernant le best seller français *[Bonjour paresse](http://www.fnac.com/Shelf/article.asp?PRID=1520383)*.
 
 L'intérêt provoqué par ce livre n'est finalement qu'un écho de l'évolution du milieu de travail. Le changement actuel, tout le monde le reconnaît et pointe le doigt dessus : on passe d'un statut d'employé à vie à celui de temporaire permanent. Selon un article, si la tendance se stabilise, on estime qu'un américain moyen entrant actuellement sur le marché du travail changera en moyenne 3 à 5 fois de carrière... pas d'emploi, de carrière !
 

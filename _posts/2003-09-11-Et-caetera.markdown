@@ -29,18 +29,22 @@ categories:
 
 ![Image]({{ site.url }}/images/blogovoisinage.jpg)
 
-Voisinage par  - par 
+Voisinage par [carte](http://mygmaps.com/show/0.0.8/?url=http%3A%2F%2Fwww.w3.org%2F2000%2F06%2Fwebdata%2Fxslt%3Fxslfile%3Dhttp%253A%252F%252Fwww.ldodds.com%252Fprojects%252Fwitw%252Fgeo2gm.xsl%26xmlfile%3Dhttp%253A%252F%252Fgeourl.org%252Fnear%252F%253Fp%253Dhttp%253A%252F%252Fmon-ile.net%252Fcarnet%252F%253Bformat%253Drss10) - par [liste](http://geourl.org/near/?p=http://mon-ile.net/carnet/)
 </div>
 <div class="blockcolonne">
 <h2>Nos autres sites</h2>
 <ul>
-  <li>  : Tout sur l'immigration au Canada </li>
-  <li>  : Un TPE de vulgarisation sur le
+  <li> [Destination
+Canada](http://www.mon-ile.net/canada/) : Tout sur l'immigration au Canada </li>
+  <li> [La
+Th&eacute;orie du Chaos](http://www.mon-ile.net/chaos/) : Un TPE de vulgarisation sur le
 chaos et ses applications </li>
-  <li> 
+  <li> [Yellowstone](http://www.mon-ile.net/canada/)
 : Le parc national de Yellowstone, l'un des plus beaux au monde ! </li>
-  <li> , pour ceux qui voudraient utiliser ce ,
-et quelques , dont le Ping-O-Blog ! </li>
+  <li> [Mes
+squelettes Spip](http://www.mon-ile.net/squelettes/), pour ceux qui voudraient utiliser ce [tr&egrave;s bon CMS](http://spip.net/),
+et quelques [scripts
+PHP](http://www.mon-ile.net/scripts/), dont le Ping-O-Blog ! </li>
 </ul>
 <div class="logo"> <a href="http://www.mon-ile.net/" title="Mon-Ile.net"> ![Image]({{ site.url }}/images/banniere-mon-ile.jpg)
 </a></div>
@@ -49,7 +53,8 @@ et quelques , dont le Ping-O-Blog ! </li>
 <h2><span>Et caetera</span></h2>
 <ul>
   <li style="text-align: left;"> N'h&eacute;sitez pas
-&agrave; , que ce soit pour un probl&egrave;me
+&agrave; [nous
+&eacute;crire](http://www.mon-ile.net/contact.html), que ce soit pour un probl&egrave;me
 d'affichage ou pour des commentaires </li>
   <li style="text-align: left;">
 <a href="http://www.spip.net/" title="Syst&egrave;me de publication pour l'Internet">![Image]({{ site.url }}/images/spip.png)

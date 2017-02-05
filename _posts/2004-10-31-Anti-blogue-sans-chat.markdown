@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Forcément, il n'y avait qu' pour lancer une telle  contre nos amis les chats et ceux qui en parlent fierement sur leur site web.
+Forcément, il n'y avait qu'[une hystérique, pleine aux as, qui a ses règles](http://embruns.net/) pour lancer une telle [campagne](http://embruns.net/logbook/2004/10/30.html#001617) contre nos amis les chats et ceux qui en parlent fierement sur leur site web.
 
 ![Image]({{ site.url }}/images/anti-bsc_30-10-2004.jpg)
 <div class="photoattrib">Non à la campagne {Blogue sans chat}</div>

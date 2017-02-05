@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Chez nous, les plantes, c'est presque aussi important que les chats. Par conséquent, comme une , il est important de faire connaître à tous l'état de nos plantes.
+Chez nous, les plantes, c'est presque aussi important que les chats. Par conséquent, comme une [amie](http://leeloolene.free.fr/), il est important de faire connaître à tous l'état de nos plantes.
 
-La grande nouvelle pour moi ce sont mes piments. Grâce à , mon pimentier m'a fait 4 beaux fruits. Et j'ai réussi à sécher avec succès le premier d'entre eux sans qu'il ne pourrise en cours de route. Des jalapenos, des piments chauds chauds chauds ! Les trois autres sont encore sur l'arbre ; ils vont subir le même traitement à savoir suspendus par la queue chez moi et à chaque fois que le four est utilisé, les piments y passent après la bouffe. Quand ils seront tous prêts, ils plongeront dans une bain d'huile pour faire de l'huile pimentée.
+La grande nouvelle pour moi ce sont mes piments. Grâce à [quelques conseils avisés]({{ site.url }}/2006/06/17/Give-it-away), mon pimentier m'a fait 4 beaux fruits. Et j'ai réussi à sécher avec succès le premier d'entre eux sans qu'il ne pourrise en cours de route. Des jalapenos, des piments chauds chauds chauds ! Les trois autres sont encore sur l'arbre ; ils vont subir le même traitement à savoir suspendus par la queue chez moi et à chaque fois que le four est utilisé, les piments y passent après la bouffe. Quand ils seront tous prêts, ils plongeront dans une bain d'huile pour faire de l'huile pimentée.
 
 
 ![Image]({{ site.url }}/images/3220_0ea61f847e_z_d.jpg)

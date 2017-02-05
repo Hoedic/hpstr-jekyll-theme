@@ -20,7 +20,7 @@ Vient ensuite le temps de démonter la tente pour reprendre nos aventures, plus 
 
 De retour sur la route 132 qui borde le fleuve et bientôt l'océan, nous faisons de nouveau un arrêt au IGA du coin. L'homme n'a-t-il pas inventé de plus belle chose que l'épicerie en grande surface ?
 
-Pour aller au , nous devons emprunter une route toute faite de plaisirs. D'abord c'est joli, légèrement valonné, au bord de l'eau, presque droit, entre falaises et eau. Ensuite ça se complique en devenant passablement sinueux et pentu. Puis arrivent les travaux. Parfois il faut attendre 20 minutes à un feu de signalisation en rase campagne. D'autres fois il faut faire sans asphalte, au milieu des engins de travaux.
+Pour aller au [parc Forillon](http://www.pc.gc.ca/pn-np/qc/forillon/visit/index_f.asp), nous devons emprunter une route toute faite de plaisirs. D'abord c'est joli, légèrement valonné, au bord de l'eau, presque droit, entre falaises et eau. Ensuite ça se complique en devenant passablement sinueux et pentu. Puis arrivent les travaux. Parfois il faut attendre 20 minutes à un feu de signalisation en rase campagne. D'autres fois il faut faire sans asphalte, au milieu des engins de travaux.
 
 La moyenne kilométrique en prend un coup. Ce n'est pas compliqué, en quittant Ste-Anne-des-Monts (ou un peu après), un bateau de plaisance à moteur longeait la rive à nos côtés. Après avoir pris beaucoup d'avance sur lui, il finit par nous rattraper et même nous dépasser, profitant des travaux (et de notre pause midi). Remarquez que c'est toujours moins pire qu'être à vélo.
 
@@ -42,7 +42,7 @@ La tente montée, il est possible d'aller explorer les abords, notamment la plag
 
 
 
-Quelques photos de coucher de soleil, puis la température prend le parti de descendre très rapidement. C'est l'heure de rejoindre les sacs de couchage dans l'espoir de ne pas, une nouvelle fois, voir les températures atteindre les -40°C (dans nos rêves)(Une référence à la .) !
+Quelques photos de coucher de soleil, puis la température prend le parti de descendre très rapidement. C'est l'heure de rejoindre les sacs de couchage dans l'espoir de ne pas, une nouvelle fois, voir les températures atteindre les -40°C (dans nos rêves)(Une référence à la [nuit précédente]({{ site.url }}/2006/08/23/Toujours-plus-haut-ou-presque).) !
 
 
 ![Image]({{ site.url }}/images/0670_ca23a4c2d8_z_d.jpg)
@@ -60,4 +60,4 @@ Repas du midi : Des clubs sandwich avec leurs inénarrables frites dans un resto
 
 Repas du soir : De nouveau des hot-dogs après avoir fait le plein à Saint-Anne-des-monts. Avec des chips. Très santé le camping !
 
-Dodo : Le  dans le parc Forillon. Très accueillant, bien foutu avec même des salles intérieures pour manger si le temps est mauvais et la plage à 2 minutes. Il est possible d'y voir des phoque batifoler, vue sur la pointe Gaspé.
+Dodo : Le [camping Des-Rosiers](http://www.pc.gc.ca/pn-np/qc/forillon/visit/visit3_f.asp) dans le parc Forillon. Très accueillant, bien foutu avec même des salles intérieures pour manger si le temps est mauvais et la plage à 2 minutes. Il est possible d'y voir des phoque batifoler, vue sur la pointe Gaspé.

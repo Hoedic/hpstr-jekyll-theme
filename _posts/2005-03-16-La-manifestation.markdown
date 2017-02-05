@@ -22,7 +22,7 @@ Qu'à cela ne tienne, je suis quand même allée manifester !
 
 
 
-On a eu droit à de la musique des  et à des dicours des présidents de la  et de la .  Tout s'est déroulé dans le plus grand calme, mais avec détermination.
+On a eu droit à de la musique des [Loco Locass](http://www.locolocass.net/) et à des dicours des présidents de la [FECQ](http://www.fecq.org/) et de la [FEUQ](http://www.feuq.qc.ca/).  Tout s'est déroulé dans le plus grand calme, mais avec détermination.
 
 ![Image]({{ site.url }}/images/IMG_0342.jpg)
 <div class="photoattrib">Un excité amusant perché en hauteur</div>

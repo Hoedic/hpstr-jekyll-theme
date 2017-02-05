@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Fait rare, j'ai été chanceux ; j'ai gagné un tirage au sort ! Lors du party de fin d'annéede mon employeur, alors que j'étais pas mal imbibé (La première fois depuis plusieurs années que je suis "joyeux" à cause de l'alcool), j'ai vaguement entendu mon nom annoncé. Quelque instants plus tard j'étais  sur l'estrade avec une boîte d' dans les mains.
+Fait rare, j'ai été chanceux ; j'ai gagné un tirage au sort ! Lors du party de fin d'annéede mon employeur, alors que j'étais pas mal imbibé (La première fois depuis plusieurs années que je suis "joyeux" à cause de l'alcool), j'ai vaguement entendu mon nom annoncé. Quelque instants plus tard j'étais  sur l'estrade avec une boîte d'[iPod Touch](http://www.apple.com/fr/ipodtouch/) dans les mains.
 
 Mes derniers déboires avec le matériel Apple m'avaient fait jurer de ne plus acheter de leurs jouets avant un certain temps. Mais bon, quand c'est offert :)
 
@@ -19,7 +19,7 @@ Mes derniers déboires avec le matériel Apple m'avaient fait jurer de ne plus a
 
 Après 2 jours passés entre autres à jouer avec, je suis assez satisfait de ma chance. Ça me fait un peu la sensation que j'avais ressenti en me faisant offrir mon Palm V (paix à son âme) par mon premier employeur. Même design simple, fin, esthétique et foncièrement différent des autres produits sur le marché.
 
-Car si ça s'appelle un iPod, il faut en fait plus le voir comme un iPhone sans téléphone, surtout une fois "". Et comme je n'aime pas les cellulaires (et que par ailleurs j'en ai un par mon boulot), l'aspect "phone" ne m'intéresse pas.
+Car si ça s'appelle un iPod, il faut en fait plus le voir comme un iPhone sans téléphone, surtout une fois "[désemprisonné](http://zephir-blog.com/post/2007/10/18/Apple-iPod-Touch-:-jailbreak-et-applications-iphone-::-Tuto-Mac)". Et comme je n'aime pas les cellulaires (et que par ailleurs j'en ai un par mon boulot), l'aspect "phone" ne m'intéresse pas.
 
 L'écran est aussi impressionnant que celui du MacBook : précis et lumineux. Le contrôle tactile à un et deux doigts fonctionne bien mais n'est pas toujours évident étant donné la taille de l'écran.
 
@@ -39,4 +39,4 @@ L'avenir dira à l'utilisation si j'accrocherai sur une utilisation type Palm ou
 
 Pour ceux qui se demanderaient pour mon MacBook justement, il se trouve que mon disque dur est un Fujitsu et non et un Seagate comme ceux qui souffrent d'un (grave) défaut de fabrication. De coup je m'excite un peu moins, d'autant que je suis hors garantie. Ayant assez peu manipulé de gros fichiers récemment, je n'ai pas vu de problème de disque.
 
-Par ailleurs, je passe plus volontier par mon   très silencieux, stable sur ses pieds, reconnu 100% du temps par nos laptops et qui s'éteint et s'allume avec le MacBook. Bref nettement mieux que l'espèce de réacteur d'avion précédent que nos deux laptops ne reconnaissaient pas une fois sur deux et que nous n'utilisions que pour de rares déchargements de disque.
+Par ailleurs, je passe plus volontier par mon [nouveau disque externe](http://www.seagate.com/www/fr-fr/products/external/freeagent_pro_data_movers/)  très silencieux, stable sur ses pieds, reconnu 100% du temps par nos laptops et qui s'éteint et s'allume avec le MacBook. Bref nettement mieux que l'espèce de réacteur d'avion précédent que nos deux laptops ne reconnaissaient pas une fois sur deux et que nous n'utilisions que pour de rares déchargements de disque.

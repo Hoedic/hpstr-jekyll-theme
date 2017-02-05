@@ -15,7 +15,7 @@ J'ai assisté hier à une conférence donnée par le Dr. Patch Adams, le vrai, l
 
 
 
-Le personnage paraît un peu excessif mais était très intéressant.  Il a partagé avec nous son aversion pour Bush, qu'il considère pire qu'Hitler (!), son aversion pour les médicaments en psychiatrie (il ne s'en est jamais prescrit à aucun patient souffrant de trouble de la santé mentale dans son ).  Il nous a avoué qu'une première consultation avec un patient lui prend 4 heures (!).  Il nous a confié sa déception par rapport aux médias, qui passent leur temps à nous divertir en occultant les sujets qui sont réellement importants.
+Le personnage paraît un peu excessif mais était très intéressant.  Il a partagé avec nous son aversion pour Bush, qu'il considère pire qu'Hitler (!), son aversion pour les médicaments en psychiatrie (il ne s'en est jamais prescrit à aucun patient souffrant de trouble de la santé mentale dans son [Institut Gesundheit](http://www.patchadams.org/home.htm)).  Il nous a avoué qu'une première consultation avec un patient lui prend 4 heures (!).  Il nous a confié sa déception par rapport aux médias, qui passent leur temps à nous divertir en occultant les sujets qui sont réellement importants.
 
 ![Image]({{ site.url }}/images/IMG_0503.jpg)
 <div class="photoattrib">Patch Adams, le vrai</div>

@@ -12,4 +12,4 @@ Comme je l'avais dit récemment, j'ai mis en place un système de brèves, sous 
 
 Je me demandais donc ce que vous en pensiez, si vous les regardiez de temps en temps. Je me demandais quel pourrait-être l'intérêt de faire un fil RSS (ça me semble pas top) ou essayer d'ajouter ces brèves au feed classique en ajoutant "Vite dit :" avant le titre.
 
-Sinon ce week-end il devrait y avoir d'autres petites améliorations, notamment pour vous, amis utilisateurs d'Internet Explorer (même si je vous conseille de passer à ), les effets de transparence devraient être réglé ce qui améliorera le style du site ;)
+Sinon ce week-end il devrait y avoir d'autres petites améliorations, notamment pour vous, amis utilisateurs d'Internet Explorer (même si je vous conseille de passer à [Firefox](http://www.mozilla.org/products/firefox/)), les effets de transparence devraient être réglé ce qui améliorera le style du site ;)

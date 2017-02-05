@@ -8,12 +8,12 @@ categories:
 ---
 
 
-Ebb vient de me signaler la publication d'un  sur l'aïkido sur  (et surement dans la version papier). Je le signale parce que j'ai cru comprendre que quelques personnes s'intéressaient à ce sport qui n'en est pas un.
+Ebb vient de me signaler la publication d'un [article](http://www.lemonde.fr/web/article/0,1-0@2-3230,36-355771,0.html) sur l'aïkido sur [lemonde.fr](http://www.lemonde.fr/) (et surement dans la version papier). Je le signale parce que j'ai cru comprendre que quelques personnes s'intéressaient à ce sport qui n'en est pas un.
 
 Bon personnellement je trouve que l'article fait assez ésotérique en parlant de projeter de l'énergie ou je ne sais quoi d'autre... en tous cas ce n'est pas comme ça que je le vis. En revanche, ça se rapproche beaucoup plus de ma vision lorsque ça explique que l'aïkido vise une très bonne connaissance du corps, de notre propre corps par la posture, les réflexes, la technique et le corps de l'autre par les prises.
 
 ![Image]({{ site.url }}/images/tsukiage.jpg)
-<div class="photoattrib">Le Sensei du </div>
+<div class="photoattrib">Le Sensei du [Dojo de la Montagne](http://www.aikidodelamont.com/)</div>
 
 
 

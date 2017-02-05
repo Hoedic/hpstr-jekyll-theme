@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ce week end, alors que je relisais un de mes billets (mal écrit) sur l'embauche d'immigrants, je tombai sur la série d' de Rima Elkouri dans lequel elle présente l'itinéraire de 3 familles fraichement arrivées au Québec.
+Ce week end, alors que je relisais un de mes billets (mal écrit) sur l'embauche d'immigrants, je tombai sur la série d'[articles](http://www.cyberpresse.ca/opinions/chroniqueurs/rima-elkouri/200902/18/01-828449-une-valise-et-un-reve.php) de Rima Elkouri dans lequel elle présente l'itinéraire de 3 familles fraichement arrivées au Québec.
 
 Les dossiers sur l'immigration refont surface régulièrement, montrant toujours une réalité crue dans laquelle des personnes qualifiée finissent par échouer dans des emplois médiocres, parfois pire. La série d'articles de La Presse montre cependant un angle moins souvent traité : nombre de familles font cela pour leurs enfants. La progéniture sacrée à laquelle il faut tout sacrifier pour une bonne éducation dans un bon pays.
 

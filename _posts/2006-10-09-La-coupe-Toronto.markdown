@@ -8,4 +8,4 @@ categories:
 ---
 
 
-Après la  pour les messieurs, la  pour les dames (attention, ce n'est pas au niveau de la tête)
+Après la [coupe Longueuil](http://www.google.ca/search?q=coupe+longueuil) pour les messieurs, la [coupe Toronto (*Toronto Trim* en V.O)](http://www.shamelessmag.com/issues/fall2005/surgery/) pour les dames (attention, ce n'est pas au niveau de la tête)

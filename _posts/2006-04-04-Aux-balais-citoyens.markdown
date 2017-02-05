@@ -12,7 +12,7 @@ categories:
 
 Sur ma rue (possiblement sur d'autres aussi), certains résidents prennent les choses en main et balaient eux-mêmes leur bout de trottoir. J'ai donc acheté de quoi et fait mon petit bout. C'est un peu étrange de voir des segments parfaitement nettoyés alternant avec d'autres bouts à la limite du praticable.
 
-Dans sa dernière édition, le journal du quartier  relayait le concours "" lancé par l' du coin qui va inciter les commerçants d'une artères commerciale importante, l'avenue Mont-Royal, à balayer devant chez eux.
+Dans sa dernière édition, le journal du quartier [Le Plateau](http://www.leplateau.com/) relayait le concours "[Balai d'or dehors](http://www.leplateau.com/pages/article.php?noArticle=28236)" lancé par l'[éco-quartier](http://www.velo.qc.ca/eco_plateau/) du coin qui va inciter les commerçants d'une artères commerciale importante, l'avenue Mont-Royal, à balayer devant chez eux.
 
 ![Image]({{ site.url }}/images/4301_88f1a6d728_z_d.jpg)
 <div class="photoattrib">Marcheur dans le vide</div>
@@ -23,4 +23,4 @@ Je reprends leur appel à mon compte et en le généralisant, en invitant tous l
 
 Combien en entend-je qui se plaignent de l'état lamentable de "leur" ville. Il est temps de montrer que c'est notre ville en en prenant soin comme il se doit. Ce n'est pas seulement aux services municipaux de faire ce travail. Notre environnement de vie en dépend tout comme la santé de notre ville !
 
-Je vous laisse sur deux articles du Devoir :  et .
+Je vous laisse sur deux articles du Devoir : [« Réinventer Montréal » - Pour une « métropole créative, humaine, inclusive, festive et généreuse »](http://www.ledevoir.com/2006/04/01/105618.html) et [Une ville à réinventer](http://www.ledevoir.com/2006/04/01/105617.html).

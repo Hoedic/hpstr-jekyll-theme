@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Déplacement à vélo riche en voitures étonnantes ! Ici on peut vraiment voir tout et n'importe quoi, de la  au tas de boue rouillé jusqu'à l'os en passant par des voitures montées à faire palir le top 5 du célèbre .
+Déplacement à vélo riche en voitures étonnantes ! Ici on peut vraiment voir tout et n'importe quoi, de la [limousine hummer](http://www.a1limobus.com/h2.htm) au tas de boue rouillé jusqu'à l'os en passant par des voitures montées à faire palir le top 5 du célèbre [JackyTouch](http://www.thejackytouch.com/).
 
 Mais deux d'entre elles ont tout de même attirer mon attention ce matin.
 

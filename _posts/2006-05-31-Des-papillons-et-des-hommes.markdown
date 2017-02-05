@@ -14,7 +14,7 @@ La première fois que je l'ai entendu, il s'agissait de quelqu'un d'autre, mais 
 
 Mais le papillon est aussi un drôle de symbole dans ma vie.  Car le papillon est issu d'une transformation, ce que nous sommes tous.  Nous ne naissons pas ce que nous sommes, nous le devenons, nous y travaillons petit à petit.  Le résultat peut être beau mais demeure toujours fragile.
 
-C'est aussi une façon de parler de la , que j'affectionne beaucoup.  "L'effet papillon" : le battement d'ailes d'un papillon peut occasionner une tornade ou un cyclone à l'autre bout de la terre.  Petite cause, grands effets.  Il faut toujours porter attention à l'air que nous déplaçons autour de nous, aux effets que nous créons, même nos plus petits gestes, parce qu'ils ne sont jamais exempts de conséquences...
+C'est aussi une façon de parler de la [théorie du chaos](http://mon-ile.net/chaos/), que j'affectionne beaucoup.  "L'effet papillon" : le battement d'ailes d'un papillon peut occasionner une tornade ou un cyclone à l'autre bout de la terre.  Petite cause, grands effets.  Il faut toujours porter attention à l'air que nous déplaçons autour de nous, aux effets que nous créons, même nos plus petits gestes, parce qu'ils ne sont jamais exempts de conséquences...
 
 C'était le nom de mon chien adoré, quand j'étais petite.
 

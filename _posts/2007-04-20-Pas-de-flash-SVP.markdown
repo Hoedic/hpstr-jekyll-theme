@@ -10,7 +10,7 @@ categories:
 
 Sous l'impulsion de Femme qui a récemment fait changer ses lunettes, j'ai décidé d'aller faire un tour chez l'optométriste.
 
-Petit, on m'a diagnostiqué une  pour laquelle on me conseillait le port de lunettes de vue. Depuis un certain temps je ne les mettais plus mais avec le retour de mes migraines, j'ai décidé de reposer autant que possible ma vue. 
+Petit, on m'a diagnostiqué une [hypermétropie](http://www.doctissimo.fr/html/sante/bien_voir/sa_4945_hypermetropie.htm) pour laquelle on me conseillait le port de lunettes de vue. Depuis un certain temps je ne les mettais plus mais avec le retour de mes migraines, j'ai décidé de reposer autant que possible ma vue. 
 
 Résultat de l'examen : l'optométriste ne me conseille pas de porter des lunettes. La correction nécessaire n'a pas changer avec le temps donc mes lunettes correspondent à mes besoins mais je ne me sens pas à l'aise avec puisqu'avec j'ai des difficultés à faire le focus quand je passe d'une vision de proche à une vision de loin et lycée de Versailles.
 

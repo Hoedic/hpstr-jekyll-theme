@@ -10,11 +10,11 @@ categories:
 
 Promenons-nous dans les bois et voyons tout le monde arroser sa pelouse. Bien entendu, rendu au mois de septembre arroser la pelouse n'est pas utile, c'est généralement très vert, il pleut régulièrement et bientôt tout ceci recouvert par des tas de feuilles mortes en putréfaction.
 
-Bref, ça revient à arroser le bitume (d'ailleurs, en général, une bonne moitié de cette eau finie effectivement sur le bitume). Dans le même temps le gouvernement et  paient des espaces publicitaires dans le métro pour dire qu'il faut économiser l'eau. En vain ! L'herbe est bien plus importante, la propreté de la voiture aussi.
+Bref, ça revient à arroser le bitume (d'ailleurs, en général, une bonne moitié de cette eau finie effectivement sur le bitume). Dans le même temps le gouvernement et [Réseau Environnement](http://www.reseau-environnement.com/) paient des espaces publicitaires dans le métro pour dire qu'il faut économiser l'eau. En vain ! L'herbe est bien plus importante, la propreté de la voiture aussi.
 
 À quoi bon d'ailleurs ? Le réseau d'eau potable de la ville de Montréal présente des pertes à hauteur de 40%, et ce n'est un secret pour personne. Alors pourquoi je me fatigue à utiliser une pomme de douche à faible consommation alors que ce que j'économise passe dans les fuites du réseau d'eau ?
 
-Et comme me le faisait remarquer  alors que je m'insurgeais contre ces importantes pertes d'eau, l'eau n'est pas un problème à Montréal. L'eau qui sort du robinet vient directement du Saint-Laurent, une source quasi-inépuisable à l'échelle de Montréal. La seule raison pour laquelle la Ville souhaite limiter l'utilisation c'est pour éviter les frais d'augmentation de capacité de la station de traitement des eaux, des frais infiniment plus faibles que la remise en état du réseau d'aqueduc...
+Et comme me le faisait remarquer [Neige](http://www3.sympatico.ca/dneige/vert/index.htm) alors que je m'insurgeais contre ces importantes pertes d'eau, l'eau n'est pas un problème à Montréal. L'eau qui sort du robinet vient directement du Saint-Laurent, une source quasi-inépuisable à l'échelle de Montréal. La seule raison pour laquelle la Ville souhaite limiter l'utilisation c'est pour éviter les frais d'augmentation de capacité de la station de traitement des eaux, des frais infiniment plus faibles que la remise en état du réseau d'aqueduc...
 
 ![Image]({{ site.url }}/images/bassint-stlaurent_27-08-2004.jpg)
 <div class="photoattrib">Le bassin versant du Saint-Laurent</div>

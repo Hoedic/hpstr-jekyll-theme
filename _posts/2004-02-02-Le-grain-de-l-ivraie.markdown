@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Voici mes statistiques de fréquentation depuis mon  sur mon nouveau nom de domaine.
+Voici mes statistiques de fréquentation depuis mon [déménagement]({{ site.url }}/2004/01/26/Demenagement) sur mon nouveau nom de domaine.
 
 ![Image]({{ site.url }}/images/evolution-visites-02-02-04.png)
 <div class="photoattrib">Je tooooommmmmbe</div>
@@ -19,7 +19,7 @@ Comme on le voit, c'est la chute libre et faut bien dire que j'ai fait ce qu'il 
 
 N'ayant pas d'analyseur de stats très précis, j'avais du mal à quantifier l'apport de Google dans nos quelques 150 visites par jour ; maintenant je peux le dire : beaucoup ! Puisque nous tournons désormais à quelques 30/40 visites par jour de vrais lecteurs :)
 
-Comparativement, pour mon site sur le , la fréquentation n'a pas bougé. Dans ce cas-ci, comme Google est très important, j'ai fait une redirection page pour page (c'est là qu'on voit la puissance du module  d'Apache et de PHP ensemble). Sûrement une petite baisse  à prévoir le temps que Google se mette à jour, mais j'espère rien de bien énorme.
+Comparativement, pour mon site sur le [Canada](http://mon-ile.net/canada/), la fréquentation n'a pas bougé. Dans ce cas-ci, comme Google est très important, j'ai fait une redirection page pour page (c'est là qu'on voit la puissance du module [rewrite](http://httpd.apache.org/docs/mod/mod_rewrite.html) d'Apache et de PHP ensemble). Sûrement une petite baisse  à prévoir le temps que Google se mette à jour, mais j'espère rien de bien énorme.
 
 Et pour notre blog, c'est mieux ainsi. C'est mieux pour les internautes qui ne tombent plus sur un article pointant vers un flash débile quand ils cherchent "fumer tue" (mon premier référant avant le déménagement). C'est mieux parce qu'à la vitesse où grimpait la fréquentation, j'allais rapidement dépasser le volume autorisé et devoir payer plus. Enfin c'est mieux parce que ça limite une partie des saloperies qui vont avec un ranking élevé (toute proportion gardée) sous Google : troll, spam, pollution des statistiques et autres.
 

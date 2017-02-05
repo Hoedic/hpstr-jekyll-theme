@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Après avoir passé près d'une semaine à la rentrée pour nous faire maîtriser la technique des APP (assez précise en ce qui concerne les rencontres en petits groupes, deux fois par semaine), nous avons ce matin appris que la  préfère maintenant implanter (et tester sur nous) le *concept mapping* ou *carte conceptuelle*...
+Après avoir passé près d'une semaine à la rentrée pour nous faire maîtriser la technique des APP (assez précise en ce qui concerne les rencontres en petits groupes, deux fois par semaine), nous avons ce matin appris que la [Faculté](http://www.med.umontreal.ca/) préfère maintenant implanter (et tester sur nous) le *concept mapping* ou *carte conceptuelle*...
 
 Avant : on lit le problème, on le clarifie, on identifie les phénomènes, on suggère des hypothèses, on crée un schéma, on se fixe des objectifs d'étude pour la fois suivante qui sont aussi ceux pour l'examen.
 

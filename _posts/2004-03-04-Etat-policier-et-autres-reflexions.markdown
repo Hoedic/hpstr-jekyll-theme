@@ -8,7 +8,7 @@ categories:
 ---
 
 
-MQ parlait  de la France comme d'un état policier, malgré son point de vue maintenant extérieur.
+MQ parlait [récemment](http://www.yvonet.com/2004/02/13/88-LaFranceVueDeLexterieur.html) de la France comme d'un état policier, malgré son point de vue maintenant extérieur.
 
 Mon point de vue sur la France aura au contraire été celui d'un étrangère à l'intérieur.  Et c'est effectivement la même impression que lui que j'ai eue : celle d'une société policière.  C'est vrai que les policiers et militaires sont omniprésents : dans le métro parisien ou marseillais, dans les aéroports, dans les rues.  Ces représentants des forces de l'ordre me faisaient invariablement peur.  D'abord parce qu'ils ont un air très méchant (c'est pas comme ici, où ils ont l'air doux comme des agneaux, et où on les imagine mangeant des beignes).  Ensuite parce qu'un tel déploiement (avec des chiens qui ont l'air aussi méchants qu'eux) ne laisse rien présager de bon concernant les dangers qui doivent nous guetter de toutes parts.
 

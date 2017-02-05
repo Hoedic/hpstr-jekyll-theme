@@ -14,7 +14,7 @@ Bien qu'ayant découvert les weblogues avant de venir au Québec, je n'y voyais 
 
 Puis je suis arrivé au Québec et au gré des liens, je suis tombé sur le site de <a href="http://blog.kicou.com/" title="[Kicou]">Kicou</a>. Immigré comme moi, l'une des raisons d'être de son blogue est la possibilité de tenir au courant sa famille de son évolution. Là, ça a fait *clic*. Disons ce qui est, passer mon temps à écrire à tout le monde pour donner des nouvelles, ça ne me tentait pas.
 
-L'idée a mûri, j'en parlais à gauche à droite, je lisais quelques autres sites, à commencer par celui de <a href="http://unadorned.org/dandruff/" title="Une autre gréviste ?">Stephanie</a> (qui est le premier sur lequel j'ai vraiment accroché après Kicou) puis quelques autres. Ce qui a couronner ma réflexion, c'est le fait que <a href="http://ebb.monblogue.com/" title="Le Voltigeur et l'Impératrice">Ebb</a> a . C'en était fait, je ne pouvais pas rester sans rien faire !
+L'idée a mûri, j'en parlais à gauche à droite, je lisais quelques autres sites, à commencer par celui de <a href="http://unadorned.org/dandruff/" title="Une autre gréviste ?">Stephanie</a> (qui est le premier sur lequel j'ai vraiment accroché après Kicou) puis quelques autres. Ce qui a couronner ma réflexion, c'est le fait que <a href="http://ebb.monblogue.com/" title="Le Voltigeur et l'Impératrice">Ebb</a> a [commencé son propre blog](http://blog.kicou.com/b493.html). C'en était fait, je ne pouvais pas rester sans rien faire !
 
 Mais, en réfléchissant un peu, je me suis rendu compte qu'il y avait d'autres motivations. Déjà, j'avais, peu de temps avant de quitter la France, commencé un carnet, sur papier. Mon but était alors 1. de me rappeler un peu de mon histoire passée 2. de garder une trace de ma vie actuelle, "pour plus tard". Mais le stylo et le papier ne sont définitivement pas un médium qui me convient, écrire des lignes et des lignes à la main, ça fait bien longtemps que je n'en suis plus capable ! Le seul avantage du papier, c'est que je pouvais dessiner, ce que je ne peux pas faire sur mon carnet web.
 
@@ -23,7 +23,7 @@ Mais, en réfléchissant un peu, je me suis rendu compte qu'il y avait d'autres 
 
 
 
-Je retrouve aussi dans le carnet un souhait de me forcer à quelque chose de régulier. L'un des choses que je critiquerais volontier chez moi, c'est mon manque de persévérance. Trop souvent je regrette de ne pas être allé au bout de quelque chose. Un carnet, c'est un défi de taille car il n'y a pas de bout, pas de fin, juste la nécessité, pour continuer à le faire vivre, l'alimenter constamment, un peu comme un animal de compagnie ou un bon vieux .
+Je retrouve aussi dans le carnet un souhait de me forcer à quelque chose de régulier. L'un des choses que je critiquerais volontier chez moi, c'est mon manque de persévérance. Trop souvent je regrette de ne pas être allé au bout de quelque chose. Un carnet, c'est un défi de taille car il n'y a pas de bout, pas de fin, juste la nécessité, pour continuer à le faire vivre, l'alimenter constamment, un peu comme un animal de compagnie ou un bon vieux [tamagotchi](http://members.tripod.com/~gotchi/).
 
 Il faut également souligner que je ne me faisais pas beaucoup d'illusion sur la capacité de mes amis à venir lire un blog régulièrement. Les blogs restent un microcosme d'habitués, tant qu'on n'a pas mordu dedans, on peut difficilement en suivre un. Je voyais seulement Maman pour suivre ce que j'écrivais.
 

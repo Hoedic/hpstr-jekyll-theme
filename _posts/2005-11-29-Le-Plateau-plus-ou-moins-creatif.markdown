@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Une  réalisée récemment a déclarer le quartier du plateau comme quartier artistique par excellence au Canada. Dans la zone dont le code postal commence par H2J, la concentration d'artiste, puisque c'est le critère retenu, est 10 fois supérieure à la moyenne avec 8% de la population totale. Notre bout de quartier est à 5%. 
+Une [étude](http://www.hillstrategies.com/resources_details.php?resUID=1000138&lang=fr) réalisée récemment a déclarer le quartier du plateau comme quartier artistique par excellence au Canada. Dans la zone dont le code postal commence par H2J, la concentration d'artiste, puisque c'est le critère retenu, est 10 fois supérieure à la moyenne avec 8% de la population totale. Notre bout de quartier est à 5%. 
 
-Mais le journal , a une  de la chose. Avec des loyers en forte augmentation, nombre d'artistes doivent décamper comme le montre le témoignage d'un d'entre eux. L'impact se fait autant sentir sur les lieux de vie que sur les lieux d'exposition et de création.
+Mais le journal [Le Plateau](http://leplateau.com/), a une [vision plus critique](http://leplateau.com/pages/article.php?noArticle=7354) de la chose. Avec des loyers en forte augmentation, nombre d'artistes doivent décamper comme le montre le témoignage d'un d'entre eux. L'impact se fait autant sentir sur les lieux de vie que sur les lieux d'exposition et de création.
 
 Les restaurants et les bars qui s'installent ou évoluent deviennent hupés, chers ; les artistes ne s'y sentent plus les  bienvenus. Plusieurs personnes au Plateau le même sort que Montmartre ou Soho. Les rues ne sont que magasins les uns après les autres (St-Denis) ou restaurants (Duluth).
 

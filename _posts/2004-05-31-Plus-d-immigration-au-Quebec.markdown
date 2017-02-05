@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme le  Cyberpresse, l'actuel gouvernement libéral du Québec souhaite augmenter *considérablement* le nombre d'immigrés arrivant au Québec. On s'entend, par considérablement je pensais qu'ils allaient le doubler ou le tripler, en fait il s'agit de passer de 40.000 actuellement à 48.000 en 2007.
+Comme le [relaie](http://www.cyberpresse.ca/politique/article/1,153,1925,052004,692517.shtml) Cyberpresse, l'actuel gouvernement libéral du Québec souhaite augmenter *considérablement* le nombre d'immigrés arrivant au Québec. On s'entend, par considérablement je pensais qu'ils allaient le doubler ou le tripler, en fait il s'agit de passer de 40.000 actuellement à 48.000 en 2007.
 
 Et Michelle Courchesne, ministre en charge de l'immigration, d'ajouter *«Avec les communautés culturelles, nous bâtirons le Québec de demain»*.
 

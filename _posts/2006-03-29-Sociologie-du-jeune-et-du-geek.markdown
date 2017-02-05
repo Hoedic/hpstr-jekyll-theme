@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai passé une bonne partie de mon après-midi d'hier à lire les perles de , au grand damn de ma productivité.
+J'ai passé une bonne partie de mon après-midi d'hier à lire les perles de [bashfr](http://www.bashfr.org/), au grand damn de ma productivité.
 
 IRC, ces channels de discussion en ligne dont sont tirées la majorités des perles de bashfr, m'est particulièrement cher, ainsi qu'à Ebb, puisque c'est là que nous nous sommes rencontrés et c'est marrant de voir que ça a toujours une certaine popularité.
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Dans ma , on facilite (en tout cas plus qu'ailleurs) l'acceptation d'étudiants après qu'ils aient complété un bac, une maîtrise ou un doctorat dans un autre domaine d'études (de préférence connexe).
+Dans ma [fac](http://www.umontreal.ca/), on facilite (en tout cas plus qu'ailleurs) l'acceptation d'étudiants après qu'ils aient complété un bac, une maîtrise ou un doctorat dans un autre domaine d'études (de préférence connexe).
 
 Ces étudiants (avec parfois aussi une certaine expérience de travail) ont le privilège de pouvoir sauter la première année, imposée aux pré-universitaires : l'année préparatoire.  Les études de médecine durent tout de même encore un minimum de 6 ans, bientôt 7, ne serait-ce que pour devenir généraliste.
 

@@ -12,4 +12,4 @@ Bon, il paraît que je peux déjà faire mon entrée ici, en impératrice échou
 
 C'est marrant, ça me rappelle la fois où j'ai atterri dans la chambre d'Hoëdic, à Nantes, pour y vivre un an.  Elle était toute décorée aux motifs de la mer, elle aussi.
 
-Alors sans plus de fla-fla, puisque vous  connaissez normalement déjà, je vais pouvoir publier mon article du 1er décembre concernant le sida (oups, je n'ai même pas prévenu ).
+Alors sans plus de fla-fla, puisque vous [me](http://ebb.monblogue.com/main.php) connaissez normalement déjà, je vais pouvoir publier mon article du 1er décembre concernant le sida (oups, je n'ai même pas prévenu [MediaTIC](http://mediatic.blogspot.com/)).

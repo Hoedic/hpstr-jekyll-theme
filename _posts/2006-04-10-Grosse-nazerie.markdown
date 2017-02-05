@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La Presse me déçoit encore avec son dossier du week-end au sujet des .
+La Presse me déçoit encore avec son dossier du week-end au sujet des [menstruations](http://www.cyberpresse.ca/article/20060409/CPACTUEL/60407114/5760/CPACTUEL).
 
 Ainsi, un "nouveau" médicament viendrait "abolir" les règles contre la volonté des femmes et la nature (voir les 4-5 femmes interviewées sur le sujet qui donnent leur avis, sous couvert d'anonymat).
 

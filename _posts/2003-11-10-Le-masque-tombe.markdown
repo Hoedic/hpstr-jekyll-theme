@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La  ne suffisait pas, bien entendu ! Après l'injonction de fermeture reçu par l'hébergeur de vivreaquebec.com, se sont désormais ses propriétaires, Pat et Valou qui ont reçu un courrier venant d'avocat leur demandant de payer 30 000$ pour atteinte à la réputation !
+La [fermeture d'un site internet]({{ site.url }}/2003/11/08/Coup-de-gueule) ne suffisait pas, bien entendu ! Après l'injonction de fermeture reçu par l'hébergeur de vivreaquebec.com, se sont désormais ses propriétaires, Pat et Valou qui ont reçu un courrier venant d'avocat leur demandant de payer 30 000$ pour atteinte à la réputation !
 
 30 000$ pour un texte de rien, resté quelques jours sur un site perso. Un texte qui ne m'aurait même pas choqué s'il m'avait été destiné, et Dieu sait que je suis susceptible.
 

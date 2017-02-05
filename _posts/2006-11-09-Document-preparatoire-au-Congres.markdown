@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Les deux grands quotidiens que je lis, que sont *La Presse* et *Le Devoir*, ont parlé du document préparatoire au Congrés du parti  devant se tenir fin novembre. Ce document vise pour l'instant à présenter aux membres ce que seraient les engagements électoraux pour le début d'un éventuel gouvernement de ce parti.
+Les deux grands quotidiens que je lis, que sont *La Presse* et *Le Devoir*, ont parlé du document préparatoire au Congrés du parti [Québec Solidaire](http://quebecsolidaire.net/) devant se tenir fin novembre. Ce document vise pour l'instant à présenter aux membres ce que seraient les engagements électoraux pour le début d'un éventuel gouvernement de ce parti.
 
-Mais les deux journaux ne se sont pas contentés de présenter les faits. Ils ont aussi pris position, au moins implicitement. À la limite,  a un ton assez positif, alors que  fait presque preuve de mauvaise foi.
+Mais les deux journaux ne se sont pas contentés de présenter les faits. Ils ont aussi pris position, au moins implicitement. À la limite, [l'article de *La Presse*](http://www.cyberpresse.ca/article/20061107/CPACTUALITES/611070631) a un ton assez positif, alors que [celui du *Devoir*](http://www.ledevoir.com/2006/11/07/122316.html) fait presque preuve de mauvaise foi.
 
 En effet, le parti propose de mettre sur pied (et je cite textuellement) "Pharma-Québec, un pôle public de recherche, de production et d'acquisition de produits pharmaceutiques dans le but d'enrichir les capacités scientifiques du Québec, d'innover dans le domaine du médicament et de freiner la croissance des coûts". Je ne comprends pas là qu'ils voudraient "nationaliser toutes les industries pharmaceutiques" comme le prétend le *Devoir* (sic) ! Peut-être faudrait-il leur laisser le temps d'en discuter entre eux puis d'expliquer ce qu'ils entendent par là, avant de tout jeter à la poubelle.
 

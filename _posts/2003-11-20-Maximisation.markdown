@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le  a l'intention de maximiser la gestion des garderies de façon à ce qu'il y ait plus de places dans les établissements déjà existants.  Sur le principe, l'intention est louable.
+Le [gouvernement](http://ebb.monblogue.com/main.php/2003/9/13) a l'intention de maximiser la gestion des garderies de façon à ce qu'il y ait plus de places dans les établissements déjà existants.  Sur le principe, l'intention est louable.
 
 Le moyen employé l'est un peu moins...  Pour ce faire, le gouvernement va imposer des pénalités de financement aux garderies dont les enfants sont absents plus de 10% du temps (ce qui donne droit à 26 jours d'absence par enfant).  C'est la fin de la garderie buissonière (pour cause d'enfant malade, de parent qui prend des vacances en voulant passer du temps avec son enfant, etc.).  Et le début de ce qui sera sûrement un gigantesque casse-tête pour les garderies comme pour les parents.  Si ça ne devient pas une horreur.  Car ces considérations économiques appliquées aux garderies sonnent bien inappropriées et inhumaines.
 

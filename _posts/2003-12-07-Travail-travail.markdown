@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Voici donc l'endroit où je passe le plus clair de mon temps de travail hors fac.  Tous mes livres de médecine (enfin, ceux cumulés jusqu'ici) s'y trouvent ; les polycopiés (codex) manquent cependant à l'appel.  Notez comme la tablette ploie allègrement sous ce poids monstrueux.  (On remarque aussi la présence d'une carte postale de Guadeloupe de  et les peluches offertes par Hoëdic.)
+Voici donc l'endroit où je passe le plus clair de mon temps de travail hors fac.  Tous mes livres de médecine (enfin, ceux cumulés jusqu'ici) s'y trouvent ; les polycopiés (codex) manquent cependant à l'appel.  Notez comme la tablette ploie allègrement sous ce poids monstrueux.  (On remarque aussi la présence d'une carte postale de Guadeloupe de [Leeloolène](http://leeloolene.free.fr/) et les peluches offertes par Hoëdic.)
 
 ![Image]({{ site.url }}/images/bouquins1.jpg)
 

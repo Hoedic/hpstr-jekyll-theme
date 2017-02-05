@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'aime beaucoup l' et j'aime généralement les gens d'initiatives, je vais donc sacrifier à l'exercice.
+J'aime beaucoup l'[initiative de Martine](http://www.martinepage.com/blog/2004_01_01_archive.html#107350254857023767) et j'aime généralement les gens d'initiatives, je vais donc sacrifier à l'exercice.
 
 Pour rappel le principe de cette fois-ci est de causer un peu de nos différents emplois.
 

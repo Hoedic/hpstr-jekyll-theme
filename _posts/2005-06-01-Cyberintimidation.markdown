@@ -10,7 +10,7 @@ categories:
 
 La cyberintimidation est une nouvelle (?) tendance qui vise à utiliser Internet pour, finalement, poursuivre les petites bagarres qui ont souvent lieu à l'école.
 
-RadioCanada a récemment diffusé un  (se rendre à la minute 31:00 directement) sur le sujet. Les marketeurs ont été rapides à saisir la portée d'Internet, mais certains jeunes malfaisants ont été au moins aussi rapides si ce n'est plus. Possibilité d'attaquer une personne avec un effet décuplé, de quoi pourrir la vie de quelqu'un, autant à l'école qu'en dehors.
+RadioCanada a récemment diffusé un [reportage intéressant](http://www.radio-canada.ca/Medianet/RDI2/Telejournal200505292100.asx) (se rendre à la minute 31:00 directement) sur le sujet. Les marketeurs ont été rapides à saisir la portée d'Internet, mais certains jeunes malfaisants ont été au moins aussi rapides si ce n'est plus. Possibilité d'attaquer une personne avec un effet décuplé, de quoi pourrir la vie de quelqu'un, autant à l'école qu'en dehors.
 
 Bien entendu, ceci ne s'arrête pas à l'intimidation entre élèves : il y a la diffamation sous diverses formes, les insultes, ce qu'on veut. À une époque où les employeurs *googlent* leurs employés, ça ne manque pas d'avoir un impact négatif sur qui que soit.
 

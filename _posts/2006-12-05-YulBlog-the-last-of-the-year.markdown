@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Note sur le réfrigérateur (en espérant qu'il ne tombe pas en panne d'ici là) : Dernier  de l'année demain mercredi. 
+Note sur le réfrigérateur (en espérant qu'il ne tombe pas en panne d'ici là) : Dernier [Yulblog](http://yulblog.org/first_premier.html) de l'année demain mercredi. 
 
 En fait, je suis trop fatigué pour en écrire plus, bonne nuit. ZZZzzzzz ZZZZZzzz

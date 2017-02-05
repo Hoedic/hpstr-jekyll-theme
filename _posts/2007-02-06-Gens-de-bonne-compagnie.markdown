@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ce soir, j'ai fait un saut au lancement de l' : l'Association des Anciens des Grandes Écoles de France au Canada ; tout un programme.
+Ce soir, j'ai fait un saut au lancement de l'[AAGEFC](http://www.aagefc.com/) : l'Association des Anciens des Grandes Écoles de France au Canada ; tout un programme.
 
 Tout le gratin de l'élite français en exil, parfois forcé, se fait donc un petit *get together* et je me rappelle soudainement pourquoi parfois il ne m'est pas désagréable d'avoir quitté la France. Arrivé au salon Monet du très français Sofitel, on se fait gentiment étiqueter ; le nom bien entendu, mais l'école surtout. Si on ne sait de quel école vous êtes, on ne peut pas trop vous situer. Pour être certain que personne n'a manqué ce qui est écrit sur le badge, on le répète en se présentant "Bonjour, Untel, ESCP".
 

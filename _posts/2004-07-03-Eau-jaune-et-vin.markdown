@@ -19,17 +19,17 @@ Voilà, regardez ce que me sort mon robinet. Ça n'a rien d'exceptionnel, c'est 
 
 ***
 
-Sinon je suis en train de faire des tests avec  qui permet de faire tourner des softs Windows sous mon Linux. Je suis assez étonné du résultat.
+Sinon je suis en train de faire des tests avec [Wine](http://www.winehq.com/) qui permet de faire tourner des softs Windows sous mon Linux. Je suis assez étonné du résultat.
 
 La première fois que j'ai essayé Wine, y a quelques années, ce fut catastrophique, un temps fou pour l'installer puis ça refusait de marcher une fois sur deux. Du coup j'avais tout lourdé,  Linux avec.
 
-Je suis revenu sur ma mauvaise expérience en apprenant récemment qu'une version amélioré de Wine (et payante, bien que pas chère),  permettait de jouer à quasiment tous les jeux PC sans config ni perte importante de perf.
+Je suis revenu sur ma mauvaise expérience en apprenant récemment qu'une version amélioré de Wine (et payante, bien que pas chère), [WineX Cedega](http://www.transgaming.com/) permettait de jouer à quasiment tous les jeux PC sans config ni perte importante de perf.
 
-Et je dois bien dire que l'installation s'est faite assez facilement et je viens de tester quelques programmes, dont  (ex-Slowview, un très bon remplacement de ACDSee mais gratuit) et ça marche pas mal bien. Possibilité de faire une vraie install en règle sans partition Win, et le programme roule assez bien (un peu lentement tout de même). J'ai juste eu à faire un peu de tweaking pour les dll et les menus déroulants s'affichent zarbes quand même.
+Et je dois bien dire que l'installation s'est faite assez facilement et je viens de tester quelques programmes, dont [Mediafile Assistant](http://www.mediafileassistant.com/) (ex-Slowview, un très bon remplacement de ACDSee mais gratuit) et ça marche pas mal bien. Possibilité de faire une vraie install en règle sans partition Win, et le programme roule assez bien (un peu lentement tout de même). J'ai juste eu à faire un peu de tweaking pour les dll et les menus déroulants s'affichent zarbes quand même.
 
 Mais pourquoi utiliser Wine allez-vous me demander (bande de mécréants), alors que Linux est soi-disant un remplaçant parfait de Windows. Ben pour le moment j'ai pas trouvé de gestionnaire de contact/outil CRM potable (genre Act! ou Maximizer pour ceux qui connaissent) pour Linux et qui ne soit pas web-based (parce que c'est bien sympa les web-appli mais c'est super lent, je refuse de travailler là-dessus).
 
-Si vous avez des idées intéressantes sur le sujet, je suis preneur mais pour le moment j'ai rien trouvé hormis  qui, je pense, ne fait pas exactement ce que je veux (ce que je veux, c'est avant tout du suivi de client) et me semble abominablement complexe pour ce que je veux faire. Du coup, je vais faire quelques essais avec des outils Windows grâce à Wine.
+Si vous avez des idées intéressantes sur le sujet, je suis preneur mais pour le moment j'ai rien trouvé hormis [Compiere ERP + CRM](http://www.compiere.org/) qui, je pense, ne fait pas exactement ce que je veux (ce que je veux, c'est avant tout du suivi de client) et me semble abominablement complexe pour ce que je veux faire. Du coup, je vais faire quelques essais avec des outils Windows grâce à Wine.
 
 ***
 

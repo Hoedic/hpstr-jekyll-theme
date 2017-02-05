@@ -18,7 +18,7 @@ L'idéal serait surement un bureau équipé, sympa et proche, peut-être avec d'
 
 ***
 
-Pour revenir sur le métro, qui est décidément un sujet dont je parle beaucoup, Long dans un de ses commentaires pointait sur un  qu'il a co-rédigé. Et je suis d'accord avec lui que les architectes du métro, notamment pour les premières stations, ont fait un effort créatif. C'est bien ça qui me permet quelque part de trouver du plaisir à y prendre des photos.
+Pour revenir sur le métro, qui est décidément un sujet dont je parle beaucoup, Long dans un de ses commentaires pointait sur un [rapport](http://www.longstudios.com/long/viec/metro.pdf) qu'il a co-rédigé. Et je suis d'accord avec lui que les architectes du métro, notamment pour les premières stations, ont fait un effort créatif. C'est bien ça qui me permet quelque part de trouver du plaisir à y prendre des photos.
 
 ![Image]({{ site.url }}/images/cote-vertue_21-02-2005.jpg)
 <div class="photoattrib">Station Cote-Vertue</div>

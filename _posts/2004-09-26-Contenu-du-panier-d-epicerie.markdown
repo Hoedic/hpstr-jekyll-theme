@@ -12,6 +12,6 @@ categories:
 
 Par ailleurs, les boissons gazeuses ne dégringolent pas encore, malgré l'épidémie d'obésité annoncée.  Il y a bien eu une légère baisse de leur vente, mais compensée de façon équivalente par la hausse des achats de leur version "diète" ! 
 
-Et la nutritionniste en  du Devoir de commenter : "Avant, on demandait aux gens qu'on rencontrait s'ils avaient déjà fait à manger.  Aujourd'hui, il faut leur demander s'ils ont déjà vu quelqu'un faire à manger."
+Et la nutritionniste en [une](http://www.ledevoir.com/2004/09/25/64747.html) du Devoir de commenter : "Avant, on demandait aux gens qu'on rencontrait s'ils avaient déjà fait à manger.  Aujourd'hui, il faut leur demander s'ils ont déjà vu quelqu'un faire à manger."
 
 Quand on parle de problème de société, qui va au-delà des individus...

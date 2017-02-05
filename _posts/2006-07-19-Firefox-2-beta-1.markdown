@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Pour ceux que cela intéresse, la version beta de Firefox 2 est . <strike>Notez qu'en l'installant, vous écrasez votre version précédente, donc ce n'est pas forcément une bonne idée, ça reste une béta</strike> Ah ben non, j'ai toujours moyen de lancer l'ancienne 1.5.0.4.
+Pour ceux que cela intéresse, la version beta de Firefox 2 est [sortie](http://www.mozilla.org/projects/bonecho/all-beta.html). <strike>Notez qu'en l'installant, vous écrasez votre version précédente, donc ce n'est pas forcément une bonne idée, ça reste une béta</strike> Ah ben non, j'ai toujours moyen de lancer l'ancienne 1.5.0.4.
 
 
 ![Image]({{ site.url }}/images/5883_eff53e5b65_z_d.jpg)

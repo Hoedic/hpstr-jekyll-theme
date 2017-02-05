@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Possiblement est-ce une première : un député conservateur canadien, Garth Turner, a été unaniment  de son parti pour avoir remis en doute la ligne du gouvernement conservateur sur son . Il devra désormais siéger en tant qu'indépendant à la chambre des communes.
+Possiblement est-ce une première : un député conservateur canadien, Garth Turner, a été unaniment [éjecté](http://www.canada.com/nationalpost/news/story.html?id=9d73d8ec-2ea4-4083-b703-5e613bf972cf) de son parti pour avoir remis en doute la ligne du gouvernement conservateur sur son [blogue](http://www.garth.ca/weblog/). Il devra désormais siéger en tant qu'indépendant à la chambre des communes.
 
 Ceci a lieu dans un contexte difficile pour les Cons-ervateurs qui voient les Libéraux revenir à égalité dans les intentions de vote et qu'une nouvelle élection générale au printemps prochain semble désormais inévitable (ce serait la 3ème depuis juin 2004 !). Une voix pourrait alors faire la différence, comme ce fut le cas pour le dernier gouvernement libéral.
 
@@ -16,7 +16,7 @@ Surement sera-t-il intéressant de voir ce qu'il adviendra de ce député quand 
 
 ***
 
-Cet événement montre bien la difficulté pour les politiciens canadiens d'utiliser Internet et les blogues en général comme outil de communication. Et ce n'est pas là une question propre au parti conservateur ; *tous* les partis, autant à l'échelle fédérale que provinciale imposent à leurs membres une ligne stricte. Messieurs , au Québec, en savent quelque chose aussi.
+Cet événement montre bien la difficulté pour les politiciens canadiens d'utiliser Internet et les blogues en général comme outil de communication. Et ce n'est pas là une question propre au parti conservateur ; *tous* les partis, autant à l'échelle fédérale que provinciale imposent à leurs membres une ligne stricte. Messieurs [Paradis et Mulcair](http://www.vigile.net/spip/vigile911.html), au Québec, en savent quelque chose aussi.
 
 Tout comme aux États-Unis, les stratégies politiques sont extrêmement partisane. Pourtant, chez nos voisins du Sud, les sénateurs, députés et politiciens en général ont trouvé moyen d'exploiter intelligemment Internet. Ici, on cherche encore (surtout au Québec) et ces faits montrent à quel point c'est un jeu à haut risque.
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-...pour toute l' [plus de 52 500 étudiants] sauf pour nous - *bien sûr*.  On commence une semaine plus tôt, on finit un mois plus tard et on n'a pas de vacances en prime.
+...pour toute l'[Université](http://www.umontreal.ca/) [plus de 52 500 étudiants] sauf pour nous - *bien sûr*.  On commence une semaine plus tôt, on finit un mois plus tard et on n'a pas de vacances en prime.
 
 Ils nous font vraiment boire jusqu'à la lie la déconfiture de notre choix d'études, reconnues longues et ardues.  Honneur à la réputation ?  On n'en demande pas tant, merci...
 

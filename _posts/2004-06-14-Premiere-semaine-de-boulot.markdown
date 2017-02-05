@@ -22,7 +22,7 @@ Petites présentations de l'équipe...  La directrice du centre est Belge ; un c
 
 C'est tellement sympa, en fait, que dès vendredi, une "journée vélo" est prévue pour qu'on apprenne à mieux se connaître (tout en faisant attention à notre santé...).  Jamais vu ça !
 
-Bon, à part ça, je ne fais pas du tout le projet qui était prévu, mais un autre, que je trouve encore plus intéressant et stimulant.  On bosse sur l'inflammation, l'athérosclérose, l'obésité et le diabète...  Moi qui m'intéresse beaucoup à toutes ces questions et y suis tellement sensible.  Enfin, ceci devrait faire l'objet d'un message à lui seul, quand je trouverais le courage et l'inspiration !  (Peut-être après avoir vu  ?)
+Bon, à part ça, je ne fais pas du tout le projet qui était prévu, mais un autre, que je trouve encore plus intéressant et stimulant.  On bosse sur l'inflammation, l'athérosclérose, l'obésité et le diabète...  Moi qui m'intéresse beaucoup à toutes ces questions et y suis tellement sensible.  Enfin, ceci devrait faire l'objet d'un message à lui seul, quand je trouverais le courage et l'inspiration !  (Peut-être après avoir vu [Super Size Me](http://www.supersizeme.com/) ?)
 
 Déjà une nouvelle semaine qui commence demain.  J'espère qu'avec l'habitude, la sensation de désagrément que j'ai malgré tout se dissipera.  Ben oui quoi, travailler, c'est tout de même chiant !
 

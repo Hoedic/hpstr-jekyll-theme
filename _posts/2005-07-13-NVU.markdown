@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Rien que pour vous j'ai testé  (prononcez, chers amis des glawish *N-view* pour *New view*). C'est un éditeur de site web/HTML totalement gratuit et ouvert, dans la lignée des Firefox et autres, développé par d'amicales personnes comme ce .
+Rien que pour vous j'ai testé [Nvu](http://www.nvu.com/) (prononcez, chers amis des glawish *N-view* pour *New view*). C'est un éditeur de site web/HTML totalement gratuit et ouvert, dans la lignée des Firefox et autres, développé par d'amicales personnes comme ce [monsieur-ci](http://www.glazman.org/weblog/).
 
 ![Image]({{ site.url }}/images/nvulogo.png)
 

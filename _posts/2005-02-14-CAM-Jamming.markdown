@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Parce que je ne suis pas un  (et parce que je doute que les revenus générés en vaille le coup !)
+Parce que je ne suis pas un [support publicitaire mobile]({{ site.url }}/2005/02/01/Nouvelle-CAM) (et parce que je doute que les revenus générés en vaille le coup !)
 
 ![Image]({{ site.url }}/images/cam-barree_14-02-2005.jpg)
 <div class="photoattrib">Au revoir publicité</div>

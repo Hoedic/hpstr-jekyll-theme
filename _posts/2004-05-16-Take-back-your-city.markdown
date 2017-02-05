@@ -10,7 +10,7 @@ categories:
 
 Hier j'ai finalement pu faire un tour à vélo avec Ebb. En effet j'ai à plusieurs reprises fait des promenades cyclistes seul ou accompagné, mais jamais avec ma tendre. C'est chose désormais faite... et à refaire.
 
-Le but était de voir en combien de temps nous pouvions nous rendre  dans le coin du  en partant de chez nous. À cette occasion, j'ai décidé de ne pas prendre le même chemin qu'à l'habitude (Cote-des-Neiges), un peu trop dangereux, et de passer par la rue Victoria qui traverse le très huppé quartier/arrondissement de Westmount (qui vaut bien Outremont ;)
+Le but était de voir en combien de temps nous pouvions nous rendre  dans le coin du [Canal Lachine](http://www.pc.gc.ca/lhn-nhs/qc/canallachine/index_f.asp) en partant de chez nous. À cette occasion, j'ai décidé de ne pas prendre le même chemin qu'à l'habitude (Cote-des-Neiges), un peu trop dangereux, et de passer par la rue Victoria qui traverse le très huppé quartier/arrondissement de Westmount (qui vaut bien Outremont ;)
 
 Dès que nous avons pénétré cet arrondissement, j'ai constaté l'apparition de nombreuses pancartes sur les pelouses "*Take back our city*" et des rubans bleus accrochés en de nombreux endroits. Westmount était encore récemment une ville indépendante qui fut "annexée" à la Ville de Montréal lors d'un processus de fusions municipales à l'échelle du Québec décrété par le gouvernement de l'époque dirigé par le Parti Québécois (le "PQ").
 

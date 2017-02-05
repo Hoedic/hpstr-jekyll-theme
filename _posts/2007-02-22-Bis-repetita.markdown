@@ -12,11 +12,11 @@ categories:
 2- Prenez la parole sur les forums et les blogues<br/>
 -  Internet vous offre des milliers d&#8217;espaces pour faire valoir vos opinions. Vous êtes souverainiste et vous appuyez le Parti Québécois? Alors, faites-vous entendre et prenez la parole sur l&#8217;un des nombreux espaces de discussions politiques du Québec.
 
-Source : </blockquote>
+Source : [Site officiel du parti québécois](http://campagne.pq.org/pq.org/)</blockquote>
 
-Effectivement, les partis québécois ont visiblement décidés de  Internet et les blogues plus particulièrement. On va bien s'amuser pendant le mois à venir.
+Effectivement, les partis québécois ont visiblement décidés de [noyauter](http://www.cyberpresse.ca/article/20070221/CPACTUALITES/702210912/6444/CPACTUALITES) Internet et les blogues plus particulièrement. On va bien s'amuser pendant le mois à venir.
 
-En attendant le PQ a un  officiel en la personne de Nicolas Girard, député de Gouin et également organisateur en chef de la campagne. On parle aussi de multiples fils RSS (trop ?) Les commentaires sont activés ce qui fera plaisir à , mais modérés a priori et il est impossible de laisser l'adresse web du commentateur ce qui montre une certaine retenue par rapport à la bloguitude.
+En attendant le PQ a un [blogueur](http://campagne.pq.org/pq.org/?menu=6&q=blog) officiel en la personne de Nicolas Girard, député de Gouin et également organisateur en chef de la campagne. On parle aussi de multiples fils RSS (trop ?) Les commentaires sont activés ce qui fera plaisir à [Michel](http://www.michelleblanc.com/2007/02/21/liberaux-veulent-noyauter-blogues/), mais modérés a priori et il est impossible de laisser l'adresse web du commentateur ce qui montre une certaine retenue par rapport à la bloguitude.
 
 Cependant il semble évident que le site a été fait rapidement. Si le design est relativement léché, le site est trèèèèèès leeeeeeeent, la base de données a débarqué lors de ma première visite, n'est plus accessible pour l'heure et un expert Drupal (qui se reconnaitra ;) pense que la cache n'a pas été activée. Les URL ne sont pas très clean non plus... peu mieux faire.
 

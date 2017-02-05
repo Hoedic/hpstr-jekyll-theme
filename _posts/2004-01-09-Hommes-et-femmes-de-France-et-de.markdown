@@ -10,7 +10,7 @@ categories:
 
 Euh, je voulais dire, de France et du Québec :)
 
-Magellan nous exposait récemment sa on-ne-peut-plus psychanalytique  des .  
+Magellan nous exposait récemment sa on-ne-peut-plus psychanalytique [théorie](http://carnets.ixmedia.com/magellan/archives/003660.html) des [couilles](http://carnets.ixmedia.com/magellan/archives/003678.html).  
 
 J'en ai profité pour mentionner qu'il existe à mon avis une différence importante entre les Français et les Québécois.
 
@@ -22,7 +22,7 @@ Je ne dis pas que la façon de faire des Québécoises me plaît davantage : ell
 
 Avec le travail identique des femmes et des hommes, les enfants se sont souvent retrouvés sans parents, avec une mère fantômatique, trop fatiguée pour prodiguer l'amour et l'attention indispensables à la bonne constitution d'un nouvel être humain.  Il paraît que les garçons sont plus affectés par ce genre de phénomènes, de même que par le divorce tellement fréquent de leurs parents.  (Les femmes devenues hommes peuvent aussi maintenant mourir, elles aussi en grand nombre, des maladies cardiovasculaires dues au stress et du cancer du poumon dû au tabagisme.  Bravo !  Mais je m'éloigne...)
 
-Revenons donc à nos hommes.  Il saute aux yeux que les hommes Québécois sont mous et assez .  Ils ne prennent pas d'initiative ni de responsabilités, ne savent pas faire les premiers pas.  Ils n'ont pas de rêves, d'ambition, de projets, ni d'énergie pour en réaliser.  (Hoedic dirait qu'ils sont "castrés" : je vais l'inviter instamment à nous exposer lui-même son idée.)  Ils ne croient pas en grand-chose, ou en tout cas pas assez pour agir en conséquence.  Ils se font un point d'honneur d'être des hommes roses, mais souvent, au final, il ne sont plus que ça.  **soupir**
+Revenons donc à nos hommes.  Il saute aux yeux que les hommes Québécois sont mous et assez [perdus](http://perdu.com/).  Ils ne prennent pas d'initiative ni de responsabilités, ne savent pas faire les premiers pas.  Ils n'ont pas de rêves, d'ambition, de projets, ni d'énergie pour en réaliser.  (Hoedic dirait qu'ils sont "castrés" : je vais l'inviter instamment à nous exposer lui-même son idée.)  Ils ne croient pas en grand-chose, ou en tout cas pas assez pour agir en conséquence.  Ils se font un point d'honneur d'être des hommes roses, mais souvent, au final, il ne sont plus que ça.  **soupir**
 
 Il m'a semblé que les jeunes hommes français ont plus de consistance.  Au lycée, c'étaient souvent les meilleurs de la classe.  Quand je les compare avec ces espèces de loques insipides que j'ai connues ici, il y a un monde de différence...  (Bon, admettons à leur décharge que l'adolescence est chose longue et difficile.)
 

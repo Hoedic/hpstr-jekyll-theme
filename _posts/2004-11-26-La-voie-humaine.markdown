@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je viens de terminer la lecture de ** de Jacques Attali et ça me laisse pas mal perplexe. Si la première partie m'a vraiment passionné, la seconde m'a laissé pas mal plus perplexe... Pour ceux qui le ne connaissent pas, Jacques Attali est un ancien conseiller de François Mitterand ce qui en soit ne joue pas en sa faveur à mes yeux, toutefois nous l'avions vu en  à l'occasion de l' et ce qu'il disait était assez étonnant.
+Je viens de terminer la lecture de *[La voie humaine](http://www.amazon.fr/exec/obidos/ASIN/2213619344/)* de Jacques Attali et ça me laisse pas mal perplexe. Si la première partie m'a vraiment passionné, la seconde m'a laissé pas mal plus perplexe... Pour ceux qui le ne connaissent pas, Jacques Attali est un ancien conseiller de François Mitterand ce qui en soit ne joue pas en sa faveur à mes yeux, toutefois nous l'avions vu en [conférence]({{ site.url }}/2004/08/23/Jacques-Attali-et-Romeo-Dallaire) à l'occasion de l'[UNM](http://www.inm.qc.ca/) et ce qu'il disait était assez étonnant.
 
 ![Image]({{ site.url }}/images/lavoie-humaine_26-11-2004.jpg)
 <div class="photoattrib">La voie humaine, Jacques Attali</div>
@@ -29,7 +29,7 @@ La seconde moitié du livre présente la voie humaine, une utopie mettant au cen
 
 Cette nouvelles utopie repose sur une société de la gratuité (de ce qui est nécessaire à la vie), du savoir et de la responsabilité. La démonstration de ce qu'est cette utopie et de ce qu'il faudrait mettre en place pour en prendre le chemin me laisse un peu perplexe bien que certaines idées soient pertinentes.
 
-Mais, quelque soit la justesse et la faisabilité de ses arguments, il n'en reste pas moins qu'il est de plus en plus nécessaire de construire un projet de société. Une frange importante de la population occidentale est désormais consciente qu'il est nécessaire de trouver autre chose que le chemin actuel. Mais en même temps nous voulons tous défendre notre bout de pré carré, moi le premier (cf. ).
+Mais, quelque soit la justesse et la faisabilité de ses arguments, il n'en reste pas moins qu'il est de plus en plus nécessaire de construire un projet de société. Une frange importante de la population occidentale est désormais consciente qu'il est nécessaire de trouver autre chose que le chemin actuel. Mais en même temps nous voulons tous défendre notre bout de pré carré, moi le premier (cf. [ma relation avec l'argent]({{ site.url }}/2004/11/18/Moi-et-l-argent)).
 
 Chose plus étonnante, l'idée même d'être de gauche a presque disparu en Amérique du nord. L'insulte suprême contre Kerry pendant la présidentielle fut de dire qu'il était de gauche, socialiste, comprendre staliniste. Plus récemment alors que je parlais de ce livre, un ami de Polytechnique qui est très critique à l'égard du capitalisme a réagi vivement quand j'ai dit "être de gauche".
 

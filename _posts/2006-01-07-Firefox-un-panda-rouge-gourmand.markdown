@@ -23,6 +23,6 @@ Suis-je le seul à constater ça ? On dirait qu'en cours d'utilisation, Firefox 
 
 J'ai cherché sur Bugzilla et j'ai rien trouvé à ce sujet. Si quelqu'un connait la cause (et éventuellement une méthode de contournement :p)
 
-Note : cependant, je ne lacherai jamais Firefox, ben' trop pratique, trop d'extensions très utiles. Comme l' Tristan récemment, Firefox est plus d'un navigateur, c'est une plateforme !
+Note : cependant, je ne lacherai jamais Firefox, ben' trop pratique, trop d'extensions très utiles. Comme l'[expliquait](http://standblog.org/blog/2006/01/05/93114591-actu-firefox-et-mozilla-plus-qu-un-navigateur-un-terreau-technologique) Tristan récemment, Firefox est plus d'un navigateur, c'est une plateforme !
 
-Update : j'ai finalement trouvé quelque chose dans bugzilla , je vais voir ce que ça donne :)
+Update : j'ai finalement trouvé quelque chose dans bugzilla [là](https://bugzilla.mozilla.org/show_bug.cgi?id=319262#c10), je vais voir ce que ça donne :)

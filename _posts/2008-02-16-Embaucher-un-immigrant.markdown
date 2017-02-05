@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je vais me permettre de commenter un  de Houssein sur l'immigration pour mon premier billet depuis bien longtemps ici. 
+Je vais me permettre de commenter un [billet](http://houblog.net/article/1539-immigration-et-autres-tracas) de Houssein sur l'immigration pour mon premier billet depuis bien longtemps ici. 
 
 Bien que faisant du sous-groupe d'immigrants les moins mal lotis (les Français), j'ai eu ma dose de difficultés pour me faire ma place <strike>au soleil</strike> à la neige. Par ailleurs j'ai l'occasion depuis quelque temps, malgré un syndrome de l'imposteur tenace et un certain malaise, de participer au processus de recrutement pour mon équipe. Bref, je vois maintenant les deux cotés du mur.
 

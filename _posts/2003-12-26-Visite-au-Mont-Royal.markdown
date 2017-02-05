@@ -17,7 +17,7 @@ Pour ceux qui ne connaissent pas, bref aperçu de l'intérêt de ce... mont (ou 
 
 
 
-Dans le "coin" extérieur de ce croissant se trouve le vieux port et non loin le Centre-Ville, zone commerçante et "business" de Montréal. Et le tout est surplombé par la seule discontinuité topographique dépassant 10 mètres d'altitude sur l'île, j'ai nommé le Mont-Royal (d'où, si , Montréal tire son nom.)
+Dans le "coin" extérieur de ce croissant se trouve le vieux port et non loin le Centre-Ville, zone commerçante et "business" de Montréal. Et le tout est surplombé par la seule discontinuité topographique dépassant 10 mètres d'altitude sur l'île, j'ai nommé le Mont-Royal (d'où, si [j'ai bien compris](http://www2.ville.montreal.qc.ca/chm/questionsf.shtm#nom), Montréal tire son nom.)
 
 ![Image]({{ site.url }}/images/chalet-mont-royal-25-12-03.jpg)
 <div class="photoattrib">L'intérieur du chalet du Mont-Royal</div>

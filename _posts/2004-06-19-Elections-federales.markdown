@@ -8,4 +8,4 @@ categories:
 ---
 
 
-L'organisme  nous offre une belle analyse des plate-formes des différents partis politiques en lice pour les élections fédérales du 28 juin.  Une bonne façon pour comparer les programmes et finir de se faire une idée.    !
+L'organisme [D'abord solidaires](http://www.dabordsolidaires.ca/) nous offre une belle analyse des plate-formes des différents partis politiques en lice pour les élections fédérales du 28 juin.  Une bonne façon pour comparer les programmes et finir de se faire une idée.  [À voir](http://www.dabordsolidaires.ca/electionsFed2004/ElectionsFed2004.html)  !

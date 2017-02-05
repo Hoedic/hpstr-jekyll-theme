@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le titre l'indique, je ne suis pas allé pas très loin aujourd'hui. Après avoir installé  hier, il me fallait installer des programmes et configurer le tout. C'est pas encore fini (faut dire que je n'ai pas fait uniquement ça), mais je suis globalement très content de ma décision d'upgrader.
+Le titre l'indique, je ne suis pas allé pas très loin aujourd'hui. Après avoir installé [Fedora Core 2](http://fedora.redhat.com/) hier, il me fallait installer des programmes et configurer le tout. C'est pas encore fini (faut dire que je n'ai pas fait uniquement ça), mais je suis globalement très content de ma décision d'upgrader.
 
 D'abord certains outils intégrés à la distribution ont tout juste progressé ce qu'il fallait pour qu'ils correspondent à mes besoins. Par exemple j'ai pas eu à faire de tweaking pour que mon appareil photo numérique soit reconnu tout seul ce qui en rend l'utilisation beaucoup plus stable.
 
@@ -21,7 +21,7 @@ De plus, bénéficiant d'une expérience supérieure à ma dernière install, ce
 
 ***
 
-Pour vérifier qu' fonctionnait toujours, j'ai téléchargé l'un des derniers épisodes des Simpon, *Bart Mangled Banner*, qu'a  récemment . Effectivement, ça valait le coup d'être vu !
+Pour vérifier qu'[Azureus](http://azureus.sourceforge.net/) fonctionnait toujours, j'ai téléchargé l'un des derniers épisodes des Simpon, *Bart Mangled Banner*, qu'a [conseillé](http://www.salebete.net/archives/000335.html) récemment [Édouard](http://www.salebete.net/). Effectivement, ça valait le coup d'être vu !
 
 Ça fait partie des choses un peu dommage quand on regarde les Simpson ou encore South Park en France : à cause du décalage, on passe à coté d'une certaine symbolique (puis on connait moins bien le contexte malgré tout).
 

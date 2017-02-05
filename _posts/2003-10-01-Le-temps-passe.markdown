@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme me le faisait récemment remarquer  bien sobrement...
+Comme me le faisait récemment remarquer [Hoëdic](http://hoedic.ouvaton.org/) bien sobrement...
 
 C'est assez hallucinant de penser qu'une de nos amies communes d'assez longue date est maintenant :<BR>1) Polytechnicienne<BR>2) mariée
 

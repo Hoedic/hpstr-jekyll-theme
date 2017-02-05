@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Aujourd'hui, j'étais au  ; pour ceux qui ne le sauraient pas, *matières résiduelles* est le terme politiquement correct pour déchets, au Québec.
+Aujourd'hui, j'étais au [4ème colloque québécois sur la gestion des matières résiduelles](http://www.reseau-environnement.com/RENV/ui/documents/activites/P1Colloque.pdf) ; pour ceux qui ne le sauraient pas, *matières résiduelles* est le terme politiquement correct pour déchets, au Québec.
 
 De bien belles paroles, très vraies : *"passer des lois c'est très bien, mais si les réglements qui vont avec ne suivent pas, on peut rien faire !" "Beaucoup de bonne volonté est en train de s'effriter du fait de l'inaction de certains intervenants majeurs"*, etc. 
 

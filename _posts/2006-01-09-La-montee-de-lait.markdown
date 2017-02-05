@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Voici un restaurant dont le nom, , ne reflète pas la qualité de l'assiette !
+Voici un restaurant dont le nom, [La montée de lait](http://www.voir.ca/restos/chronique.aspx?iIDArticle=38873), ne reflète pas la qualité de l'assiette !
 
-Je n'hésiterai pas à dire que c'est pour l'heure le meilleur restaurant que j'ai fait à Montréal, supérieur à  et aux autres. Je serai même porté à dire que ça valait largement le Jules Vernes, à Paris à titre de comparaison.
+Je n'hésiterai pas à dire que c'est pour l'heure le meilleur restaurant que j'ai fait à Montréal, supérieur à [Laloux]({{ site.url }}/2005/02/13/La-suite) et aux autres. Je serai même porté à dire que ça valait largement le Jules Vernes, à Paris à titre de comparaison.
 
 Récemment je suis tombé sur une publicité télévisuelle des rôtisseries Saint-Hubert (Pour les non-locaux, une bonne chaîne québécoise qui vit princialement du poulet), qui se moquait de ces places où le serveur dépose à table une assiette ridiculement peu remplie, en énonçant un nom dithyrambique.
 

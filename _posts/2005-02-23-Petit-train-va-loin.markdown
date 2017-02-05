@@ -19,6 +19,6 @@ Bon, il me reste encore à apprendre davantage tout ça maintenant, et à me met
 
 
 
-Je me suis aussi plongée dans la lecture de certains chapitres ciblés du livre de Médecine tropicale offert par .  C'est d'ailleurs un contact à elle, une femme médecin qui travaille à l'hôpital de Dakar, qui m'a indiqué sur quoi insister pour que ça colle bien à la réalité.
+Je me suis aussi plongée dans la lecture de certains chapitres ciblés du livre de Médecine tropicale offert par [leeloolène](http://leeloolene.free.fr/).  C'est d'ailleurs un contact à elle, une femme médecin qui travaille à l'hôpital de Dakar, qui m'a indiqué sur quoi insister pour que ça colle bien à la réalité.
 
 Mais au fond, plus je me prépare et plus je me dis que sur le terrain, une infirmière est bien plus utile qu'un médecin !  On va sûrement s'attendre à ce que je sache faire des pansements, des soins de plaies, des prises de sang, etc.  Tout ce savoir si précieux qui est en fait du ressort des infimières !  Eh oui !  Les gens s'attendent souvent à ce qu'on sache et puisse faire des tas de choses de base quand on est en médecine, et puis c'est souvent faux...  Par contre, je suis certaine que ça s'apprend, avec de la bonne volonté et des efforts ;)

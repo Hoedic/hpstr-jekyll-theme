@@ -21,9 +21,9 @@ Alors ? En fait, la Lune ne tourne pas autour de la Terre ! (Ça vous en bouche 
 
 Oui, mais saviez-vous qu'il n'y a pas partout deux marées par jour ? Dans le pacifique, il y en a plutôt une, dans d'autre endroits, ça dépend parfois, une, parfois deux. C'est qu'il y a également un phénomène de résonance qui entre en jeu. Ainsi l'atlantique a plutôt une taille propice à propager deux ondes par jour, alors que le pacifique, une.
 
-Onde qui se propage tranquillement à travers les océans remontant l'atlantique du sud au nord aussi peu logique que cela puisse sembler. Onde, qui, du fait de notre bon vieux  en vient même parfois à *s'enrouler* sur elle-même (un peu comme les  de l'univers).
+Onde qui se propage tranquillement à travers les océans remontant l'atlantique du sud au nord aussi peu logique que cela puisse sembler. Onde, qui, du fait de notre bon vieux [Coriolis](http://fr.encyclopedia.yahoo.com/articles/do/do_4775_p0.html) en vient même parfois à *s'enrouler* sur elle-même (un peu comme les [dimensions supplémentaires](http://conspirovniscience.levillage.org/quantique/dimensions.html) de l'univers).
 
-C'est aussi porteur d'espoir : les marées génèrent une puissance hors du commun, imaginez ce que représente toute cette eau qui se promène de droite et de gauche. Certains ont développé des  dont le potentiel énergétique est énorme (mais le défi technique est également énorme).
+C'est aussi porteur d'espoir : les marées génèrent une puissance hors du commun, imaginez ce que représente toute cette eau qui se promène de droite et de gauche. Certains ont développé des [hydroliennes](http://www.transfert.net/a9174) dont le potentiel énergétique est énorme (mais le défi technique est également énorme).
 
 Mais les marées ne sont pas les seules responsables des modifications du niveau de la mer, la pression atmosphérique et les vents ont également leur role à jouer. Par exemple, sur le cotes bretonnes, lors de la tempête de 1987, le niveau de la mer fut supérieur de 1.6m à ce qu'il était supposé être. À l'inverse, par beau temps, il est fréquent d'avoir quelques centimètres de moins que prévu.
 
@@ -31,5 +31,6 @@ Quoiqu'il en soit, la seule morale que j'ai retenu de mes quelques années de na
 
 Source
 
+[Tout sur les marées](http://marees.free.fr/)
 
-
+[Les marées à Roscoff](http://www.sb-roscoff.fr/Maree/maree-intro.html)

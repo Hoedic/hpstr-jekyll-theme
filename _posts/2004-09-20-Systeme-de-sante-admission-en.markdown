@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Dans les Idées du Devoir, j'ai été impressionnée récemment par les propos d', un titulaire de doctorat en sciences qui a voulu entrer en médecine et a été refusé.
+Dans les Idées du Devoir, j'ai été impressionnée récemment par les propos d'[Alain Rouillard](http://www.ledevoir.com/2004/09/10/63414.html?268), un titulaire de doctorat en sciences qui a voulu entrer en médecine et a été refusé.
 
 Sur la recherche : effectivement, c'est un monde souvent injuste où il faut jouer du coude et où il faut passer beaucoup de temps à chercher des subventions, malheureusement.  Un peu comme en environnement.  Ou alors il faut se "prostituer" et travailler dans le privé...  Mais bon, de là à dire que les médecins volent les places aux autres chercheurs avec un titre usurpé...  Il y a un pas qu'il ne faut pas franchir !  Notre "doctorat" est surtout symbolique.  D'abord, il ne s'agit pas d'un PhD mais d'un MD - le titre est différent.  Ensuite, on ne peut travailler sur base de ce diplôme, puisqu'il faut ensuite réaliser une résidence de 2 ans au gros minimum (médecine familiale), plus souvent 5 ans ou plus (n'importe quelle spécialité).  Ensuite, la plupart des médecins ne font pas de recherche, et ceux qui en font ne le font pas au niveau fondamental mais au niveau clinique, où leur présence est très appropriée !  Après ça, s'ils obtiennent plus facilement des subventions, c'est peut-être qu'il est plus facile de convaincre un comité avec des arguments concrets et cliniques ("médicament prometteur pour guérir la...") qu'avec un objectif de "compréhension des bases biologiques de...", par exemple !
 
@@ -34,4 +34,4 @@ Aller dire qu'il faudrait réserver 50% des places aux hommes frôle franchement
 
 Si au moins M. Rouillard avait pu avancer un argument plus "vrai" concernant la féminisation de la médecine, comme le fait que les femmes sont moins portées à choisir des spécialités comme la chirurgie (et encore !)...
 
-Voir aussi la réponse à ce sujet d'une résidente en médecine, .
+Voir aussi la réponse à ce sujet d'une résidente en médecine, [Marianne Breton-Thibodeau](http://www.ledevoir.com/dossiers/268/63497.html?268).

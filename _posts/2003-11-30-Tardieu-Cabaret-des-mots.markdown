@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Bien que sortir dehors soit maintenant devenu chose désagréable, nous sommes allés hier soir à l' pour voir cette  que j'attendais depuis des semaines.
+Bien que sortir dehors soit maintenant devenu chose désagréable, nous sommes allés hier soir à l'[Espace Go](http://www.espacego.com/) pour voir cette [pièce](http://www.montrealplus.ca/profile/178520/) que j'attendais depuis des semaines.
 
 À trop attendre, on est forcément un peu déçu.  Des longueurs au début et à la fin.  Un montage pas toujours heureux.  Des personnages (ou étaient-ce les comédiens ?) irritants.
 
@@ -16,4 +16,4 @@ Il n'y a qu'au milieu de la pièce où j'ai réussi à oublier tous les bruitage
 
 Hoëdic, qui ne partait pas avec le même *a priori* positif que moi, a passé une plutôt mauvaise soirée.
 
-Mes choix de pièces erronés , à Nantes...  (Lieu Unique, comme dans LU : il s'agit justement de l'ancienne usine des fameux biscuits LU !)
+Mes choix de pièces erronés [en fonction de nos goûts] sont plutôt rares, et souvent dans ces cas-là, c'est à moi-même qu'elles ne plaisent pas.  Je me rappelle de quelques expériences particulièrement ratées au [Lieu Unique](http://www.lelieuunique.com/), à Nantes...  (Lieu Unique, comme dans LU : il s'agit justement de l'ancienne usine des fameux biscuits LU !)

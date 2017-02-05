@@ -10,7 +10,7 @@ categories:
 
 Je vais encore revenir sur ce fléau humain qu'est l'automobile car après plus de deux années de sevrage (un an à Paris et un an à Montréal), j'ai retrouvé durant 5 jours mon statut d'*homo automobilus*.
 
-Mais, alors que jusqu'ici j'étais tout sauf prudent, je me suis retrouvé dans la désagréable situation d'être mal à l'aise. Récemment je , mais la signalisation de cette ville n'est pas seule responsable de mon agacement et de mes difficultés. Des questions liées à mon adaptation se sont fait jour assez rapidement.
+Mais, alors que jusqu'ici j'étais tout sauf prudent, je me suis retrouvé dans la désagréable situation d'être mal à l'aise. Récemment je [pestais contre Montréal]({{ site.url }}/2004/01/02/Conduire-a-Montreal), mais la signalisation de cette ville n'est pas seule responsable de mon agacement et de mes difficultés. Des questions liées à mon adaptation se sont fait jour assez rapidement.
 
 Par exemple les feux (lumières) qui sont souvent situés en hauteur (hors du champ visuel habituel pour des feux) et de l'autre coté de la rue (en France, la lumière se trouve là où on doit s'arrêter) ; résultat, je freinais trop tard et j'ai même carrément raté un feu rouge ! Idem pour les stops qui ne sont pas placés à des endroits habituels pour un français.
 

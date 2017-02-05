@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Vendredi PM, la grève n'a pas été reconduite en médecine à l'UdeM.  Samedi, la   qu'on  depuis le début de la semaine est sortie.  Je pense que cela marquera la fin des grands mouvements étudiants.
+Vendredi PM, la grève n'a pas été reconduite en médecine à l'UdeM.  Samedi, la [fameuse](http://ledevoir.com/2005/04/02/78483.html) [proposition](http://www.cyberpresse.ca/actualites/article/article_complet.php?path=/actualites/article/03/1,63,0,042005,979350.php) qu'on [attendait](http://www.radio-canada.ca/nouvelles/Index/nouvelles/200504/02/003-Etudiants-entente.shtml) depuis le début de la semaine est sortie.  Je pense que cela marquera la fin des grands mouvements étudiants.
 
 Mais est-ce vraiment une victoire ?  Je demeure assez mitigée.  D'abord, nous ne retrouverons les 103 millions de dollars dans les prêts et bourses que dans deux ans ; l'an prochain, ce ne sera qu'une partie (environ 70 millions).  L'argent perdu cette année, et la partie perdue l'année prochaine, le sera pour toujours.  C'est assez dommage et injuste pour les quelques cohortes qui auront été touchées.
 

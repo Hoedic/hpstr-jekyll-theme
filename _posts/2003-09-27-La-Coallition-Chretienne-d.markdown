@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Suite à  de <a href="http://neiges.blogspot.com/" title="Le phylum du flocon rose">Neige</a> sur le sujet Bush et l'environnement, je suis allé faire un petit tour sur différents sites web traitant des thèses créationnistes.
+Suite à [message](blog33.html#commentaire66) de <a href="http://neiges.blogspot.com/" title="Le phylum du flocon rose">Neige</a> sur le sujet Bush et l'environnement, je suis allé faire un petit tour sur différents sites web traitant des thèses créationnistes.
 
 ![Image]({{ site.url }}/images/christian_protestors.jpg)
 <div class="photoattrib">Non à l'entropie !!</div>

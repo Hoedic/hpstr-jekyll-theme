@@ -8,14 +8,14 @@ categories:
 ---
 
 
-Hier,  m'a fait une très bonne surprise, en m'achetant un livre de , mais pas n'importe lequel, pas un des romans "classiques" qu'il a écrit (d'ailleurs, on commence à en avoir une large partie) mais une pièce de théatre .
+Hier, [Ebb](http://ebb.monblogue.com/) m'a fait une très bonne surprise, en m'achetant un livre de [Kundera](http://photographie.litteratura.com/?rub=kundera), mais pas n'importe lequel, pas un des romans "classiques" qu'il a écrit (d'ailleurs, on commence à en avoir une large partie) mais une pièce de théatre [*Jacques et son maître, hommage à Denis Diderot en trois actes*](http://www.amazon.fr/exec/obidos/ASIN/2070405834/ref=pd_sim_dp_2/402-4401588-1008114).
 
 ![Image]({{ site.url }}/images/kundera.jpg)
 <div class="photoattrib">Jacques et son maître</div>
 
 
 
-Il faut bien dire que  est un de mes livres préférés si ce n'est mon préféré. D'ailleurs, c'est le seul que j'ai lu à plusieurs reprises car il est tout simplement génial.
+Il faut bien dire que [*Jacques Le Fataliste*](http://www.amazon.fr/exec/obidos/ASIN/2070367630/qid=1065801332/sr=2-1/ref=sr_2_3_1/402-4401588-1008114) est un de mes livres préférés si ce n'est mon préféré. D'ailleurs, c'est le seul que j'ai lu à plusieurs reprises car il est tout simplement génial.
 
 ![Image]({{ site.url }}/images/diderot.jpg)
 <div class="photoattrib">Jacques le fataliste</div>

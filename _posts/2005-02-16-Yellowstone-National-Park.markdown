@@ -15,14 +15,14 @@ Comme j'ai déjà eu l'occasion de le dire, en 1998 j'ai fait un voyage à Yello
 
 
 
-À l'époque j'avais fait un  sur le sujet que j'ai décidé de reniper un peu (parce que le fond bleu et les frames c'est moche) parce qu'il suscite encore du trafic.
+À l'époque j'avais fait un [site web](http://www.mon-ile.net/yellowstone/) sur le sujet que j'ai décidé de reniper un peu (parce que le fond bleu et les frames c'est moche) parce qu'il suscite encore du trafic.
 
 ![Image]({{ site.url }}/images/old-faithful_13-02-2005.jpg)
 <div class="photoattrib">Le geyser Old Faithful et son auditoire</div>
 
 
 
-Le renipage est déjà en cours, mais j'ai déjà mis en ligne une  que je vous encourage à aller voir si vous cherchez un lieu magique pour passer des vacances (ouais bon, c'est aux US mais bon...)
+Le renipage est déjà en cours, mais j'ai déjà mis en ligne une [galerie d'images](http://www.mon-ile.net/images/index.php?album=Yellowstone_1998) que je vous encourage à aller voir si vous cherchez un lieu magique pour passer des vacances (ouais bon, c'est aux US mais bon...)
 
 ![Image]({{ site.url }}/images/lower-falls2_13-02-2005.jpg)
 <div class="photoattrib">Les chutes de Lower Falls</div>

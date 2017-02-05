@@ -8,7 +8,7 @@ categories:
 ---
 
 
-", le recteur [Robert Lacroix] favorise une hausse des droits de scolarité. Il précise cependant qu'elle devrait être effectuée «de façon intelligente», de façon différenciée. Ainsi, les droits pourraient être majorés davantage dans les disciplines où les diplômés sont assurés de gagner des revenus passablement élevés au cours de leur vie. Comme dans le secteur biomédical."
+"[Pour sa part](http://www.iforum.umontreal.ca/Forum/article3227.htm), le recteur [Robert Lacroix] favorise une hausse des droits de scolarité. Il précise cependant qu'elle devrait être effectuée «de façon intelligente», de façon différenciée. Ainsi, les droits pourraient être majorés davantage dans les disciplines où les diplômés sont assurés de gagner des revenus passablement élevés au cours de leur vie. Comme dans le secteur biomédical."
 
 Ça promet.  Ils pourraient prendre exemple sur l'Ontario...  Suggestion subliminale :
 

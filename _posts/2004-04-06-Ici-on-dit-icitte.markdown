@@ -8,14 +8,14 @@ categories:
 ---
 
 
-Je ne sais pas si vous avez eu l'occasion de voir la "dernière"  (difficile pour les non-résidents du Québec), mais elle vaut franchement le détour ! (puis 3.8Mo, c'est pas la mort à  hein ;)
+Je ne sais pas si vous avez eu l'occasion de voir la "dernière" [publicité québécoise de Pepsi](http://www.connexionetudes.ca/articles/23032004/Pepsi_Icitte.mov) (difficile pour les non-résidents du Québec), mais elle vaut franchement le détour ! (puis 3.8Mo, c'est pas la mort à [télécharger](http://www.connexionetudes.ca/articles/23032004/Pepsi_Icitte.mov) hein ;)
 
 ![Image]({{ site.url }}/images/icitte_pepsi-05-04-2004.jpg)
 <div class="photoattrib">Ici, y fait pas froid, y fait frette !</div>
 
 
 
-C'est un peu le ** de Molson mais version québécoise. Les arguments :
+C'est un peu le *[I am canadian]({{ site.url }}/2004/03/01/I-am-Canadian)* de Molson mais version québécoise. Les arguments :
 -  Ici, on déménage tous le même jour, à savoir le 1er juillet,
 -  Ici, on aime beaucoup le hockey... même quand on joue au soccer/football et qu'on se plaque comme des sauvages,
 -  Ici, on est fier de notre gastronomie... surtout de la poutine,

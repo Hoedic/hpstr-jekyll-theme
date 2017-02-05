@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Surprise dans le courrier récemment : une petit lettre d'amour de Google qui me paie pour n'avoir rien fait sauf mis des petites pubs sur  de mes sites (j'en ai aussi mis  ainsi que sur les articles ayant plus d'un mois sur le blog mais ça rapport rien du tout en fait.)
+Surprise dans le courrier récemment : une petit lettre d'amour de Google qui me paie pour n'avoir rien fait sauf mis des petites pubs sur [un](http://mon-ile.net/canada/) de mes sites (j'en ai aussi mis [là](http://www.mon-ile.net/chaos/) ainsi que sur les articles ayant plus d'un mois sur le blog mais ça rapport rien du tout en fait.)
 
 ![Image]({{ site.url }}/images/cheque-google_05-03-2005.jpg)
 <div class="photoattrib">Entre 100 et 200$US en 6 mois</div>
@@ -17,4 +17,4 @@ Surprise dans le courrier récemment : une petit lettre d'amour de Google qui me
 
 Bon, ok, c'est pas avec ça que je m'acheter le tablet PC convertible de mes rêves (est-ce si utile d'ailleurs ?), mais par exemple ça me paierait presque mon disque dur, mon boitier externe et mon graveur de DVD achetés récemment. Pas si mal quand même.
 
-Mais en fait ça va surtout être remis à une  non sans avoir prélevé une petite partie pour amortir les frais de fonctionnement du site (hébergement et nom de domaine).
+Mais en fait ça va surtout être remis à une [oeuvre de charité]({{ site.url }}/2004/09/27/Financez-Ebb) non sans avoir prélevé une petite partie pour amortir les frais de fonctionnement du site (hébergement et nom de domaine).

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Après la version , l'officielle :) :
+Après la version [officieuse]({{ site.url }}/2005/10/11/Pubcrawl-Kesse-ca), l'officielle :) :
 
 Île Sans Fil a maintenant 10,000 usagers, c'est le temps de célébrer !
 

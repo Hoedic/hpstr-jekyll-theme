@@ -8,7 +8,7 @@ categories:
 ---
 
 
-C'est sous ce titre, en anglais, que le NYTimes  les résultats d'une étude du nombre de décès par accident en fonction du modèle de véhicule.
+C'est sous ce titre, en anglais, que le NYTimes [propose](http://www.nytimes.com/2005/03/15/business/15auto.html) les résultats d'une étude du nombre de décès par accident en fonction du modèle de véhicule.
 
 Les statistiques vont de 10 (Mercedes Class E) à 308 (Chevrolet Blazer) décès par millions de véhicules. Sacré écart déjà ! Voici ce que je ressors mais que ne pouvait pas dire le NYT : le voitures américaines sont pourries. 
 

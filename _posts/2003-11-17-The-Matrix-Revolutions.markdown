@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai l'impression que tout le monde se sent obligé de dire de ** qu'il est navesque et qu'il faut le piétiner.
+J'ai l'impression que tout le monde se sent obligé de dire de *[Matrix Revolutions](http://whatisthematrix.warnerbros.com/)* qu'il est navesque et qu'il faut le piétiner.
 
 Certes, le tome III ne peut se targuer d'avoir la force du premier, qui était à la fois novateur et complet, rempli d'idées philosophiques et d'effets spéciaux jamais vus.  Le premier film avait la grâce, l'outrance, le sublime, le culte...  Les suivants ont parfois l'air auto-parodiques, mais s'inscrivent bel et bien dans cette même lignée.  Il faut prendre le tout comme la trilogie qu'elle est (et il me faudrait d'ailleurs revoir toute la série d'affilée).  C'est une oeuvre pleine de contenu, variée et qui porte décidément à réfléchir.
 

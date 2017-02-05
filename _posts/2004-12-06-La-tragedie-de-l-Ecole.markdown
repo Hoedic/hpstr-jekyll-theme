@@ -10,7 +10,7 @@ categories:
 
 Le 6 décembre 1989 un fou tuait 14 étudiantes à l'École Polytechnique de Montréal. À l'époque ce fut un traumatisme et aucun Québécois n'ignore cet événement. Aujourd'hui il s'agit de la quinzième commémoration de cet événement.
 
- a mis sur son site une transcription de la lettre de l'auteur de cette tuerie. Ceci ne fait que confirmer ce que je savais déjà, à savoir qu'il s'agissait d'un anti-féministe qui prenait très mal la présence de femmes à Poly, ce qui est explique qu'il s'en soit seulement pris à des étudiantes.
+[Laurent](http://embruns.net/logbook/2004/12/05.html#001667) a mis sur son site une transcription de la lettre de l'auteur de cette tuerie. Ceci ne fait que confirmer ce que je savais déjà, à savoir qu'il s'agissait d'un anti-féministe qui prenait très mal la présence de femmes à Poly, ce qui est explique qu'il s'en soit seulement pris à des étudiantes.
 
 Peu à peu, cette tragédie se fond à l'histoire et les proches des victimes semblent vouloir regagner l'anonymat dont ils furent sorti bien malgré eux. Mais ceci ne sera pas fait sans avoir changé la société québécoise. Le fameux registre de contrôle des armes à feu est né après cette histoire. Cela a également suscité des nombreux mouvements de lutte contre la violence faite aux femmes mais a aussi fait prendre conscience aux Québécois qu'un important changement ne se fait pas en deux jours.
 
@@ -28,5 +28,6 @@ Aujourd'hui, 15 ans après, la situation a continué à évoluer et il semble qu
 Certes la transformation de la société québécoise est loin d'être terminée car comme dans beaucoup d'autres endroits se pose encore la question de la place de la mère dans la société même si la femme est elle acceptée, et se pose maintenant la question de la place des hommes (entre autres l'échec des garçons à l'école est assez préoccupant). À suivre...
 
 Quelques sources d'information :<br/>
- avec des reportages de l'époque<br/>
-<br/>
+[Dossier Radio-Canada](http://archives.radio-canada.ca/IDD-0-13-382/desastres_tragedies/polytechnique/) avec des reportages de l'époque<br/>
+[Article de La Presse](http://www.cyberpresse.ca/actualites/article/article_complet.php?path=/actualites/article/04/1,63,0,122004,858486.php)<br/>
+[Article du Devoir](http://www.ledevoir.com/2004/12/04/70115.html)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Cela fait plusieurs matin de suite que mon  me passe, en mode random, *Emmenez-moi* de Charles Aznavour... sur près de 900 chansons ça fait un sacré hasard ! Dois-je y voir un message qu'essaierai de me faire passer mon iPod ?
+Cela fait plusieurs matin de suite que mon [Mini]({{ site.url }}/2004/07/29/iPod-Mini) me passe, en mode random, *Emmenez-moi* de Charles Aznavour... sur près de 900 chansons ça fait un sacré hasard ! Dois-je y voir un message qu'essaierai de me faire passer mon iPod ?
 
 <blockquote class="citation">Un beau jour sur un rafiot craquant<BR>
 De la coque au pont<BR>

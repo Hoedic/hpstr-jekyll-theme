@@ -23,18 +23,18 @@ Le Canal Rideau avec ses écluses et l'hotel Laurier
 
 
 
-Nous avons essayé, sur les conseils d'une amie, le , un restaurant  de cuisine autochtone (amérindienne) et nous n'avons pas été déçus. Du gibier parfaitement préparé, autant en entrée qu'en plat, notamment du  succulent.
+Nous avons essayé, sur les conseils d'une amie, le [Sweetgrass](http://www.sweetgrassbistro.ca/), un restaurant  de cuisine autochtone (amérindienne) et nous n'avons pas été déçus. Du gibier parfaitement préparé, autant en entrée qu'en plat, notamment du [bison grillé](http://www.sweetgrassbistro.ca/menudinner.htm) succulent.
 
 
 ![Image]({{ site.url }}/images/3621_ff315041db_z_d.jpg)
 <div class="photoattrib">À l'attaque du parlement</div>
 
- !
+[Maman](http://www.fractale-framboise.com/2005/05/dites-bonjour-a-maman/) !
 
 
-Nous logions dans une  non loin de ce restaurant d'ailleurs, dans le quartier le plus vivant d'Ottawa, autour du Marché By. Tout est relatif en terme de vivant puisqu'en soirée c'est rapidement abandonné par la population.
+Nous logions dans une [auberge](http://www.aubergedumarche.ca/) non loin de ce restaurant d'ailleurs, dans le quartier le plus vivant d'Ottawa, autour du Marché By. Tout est relatif en terme de vivant puisqu'en soirée c'est rapidement abandonné par la population.
 
-Ottawa mérite bien sa réputation de ville pépère de fonctionnaires et aussi de corps diplomatiques (les ambassades sont légions et souvent assez grandes, à l'image de celle des USA (En photo , même si on apprécie difficilement la profondeur du bâtiment).)
+Ottawa mérite bien sa réputation de ville pépère de fonctionnaires et aussi de corps diplomatiques (les ambassades sont légions et souvent assez grandes, à l'image de celle des USA (En photo [ici](http://flickr.com/photos/ebbtide/129784829/), même si on apprécie difficilement la profondeur du bâtiment).)
 
 ![Image]({{ site.url }}/images/4383_edcfeb1146_z_d.jpg)
 <div class="photoattrib">Terrain de jeu / Playground</div>
@@ -42,9 +42,9 @@ Ottawa mérite bien sa réputation de ville pépère de fonctionnaires et aussi 
 L'ambassade des USA en arrière-plan
 
 
-Par ailleurs, ça grouille de musées. Nous nous sommes contenté de deux d'entre eux. Le  qui retrace l'histoire du Canada. Une histoire gentille qui fait largement l'impasse sur les  internes et traite très brièvement des points cruciaux comme le  des acadiens. Un beau musée dans son esthétique, très largement tourné vers la culture autochtone amérindienne.
+Par ailleurs, ça grouille de musées. Nous nous sommes contenté de deux d'entre eux. Le [Musée de la civilisation du Canada](http://www.civilization.ca/) qui retrace l'histoire du Canada. Une histoire gentille qui fait largement l'impasse sur les [conflits militaires](http://fr.wikipedia.org/wiki/R%C3%A9bellion_des_patriotes) internes et traite très brièvement des points cruciaux comme le [Grand Dérangement](http://fr.wikipedia.org/wiki/D%C3%A9portation_des_Acadiens) des acadiens. Un beau musée dans son esthétique, très largement tourné vers la culture autochtone amérindienne.
 
-Le lendemain, nous avons opté pour le , juste à coté de notre auberge et dont les imposantes verrières ainsi que l'architecture générale ne peuvent que susciter la curiosité. L'impression extérieure se reflète à l'intérieur avec des grands puits de lumières, de vastes galeries ayant chacune un style en harmonie avec les oeuvres présentées. L'étage supérieur présente des oeuvres générales de différentes provenances, différents styles ; le rez-de-chaussée présente l'art Canadien depuis les premiers colons ainsi qu'une exposition temporaire, en l'occurrence un artiste chaman amérindien, . Enfin, une petite zone en sous-sol permet d'explorer l'art inuit. Des vastes galeries sont également dédiées à l'art contemporain, mais nous avons préféré ignorer cette partie, faute de temps (et d'intérêt.)
+Le lendemain, nous avons opté pour le [Musée des Beaux-Arts du Canada](http://www.gallery.ca/french/default.htm), juste à coté de notre auberge et dont les imposantes verrières ainsi que l'architecture générale ne peuvent que susciter la curiosité. L'impression extérieure se reflète à l'intérieur avec des grands puits de lumières, de vastes galeries ayant chacune un style en harmonie avec les oeuvres présentées. L'étage supérieur présente des oeuvres générales de différentes provenances, différents styles ; le rez-de-chaussée présente l'art Canadien depuis les premiers colons ainsi qu'une exposition temporaire, en l'occurrence un artiste chaman amérindien, [Norval Morisseau](http://www.gallery.ca/exhibitions/exhibitions/Norval_Morrisseau/french/index.html). Enfin, une petite zone en sous-sol permet d'explorer l'art inuit. Des vastes galeries sont également dédiées à l'art contemporain, mais nous avons préféré ignorer cette partie, faute de temps (et d'intérêt.)
 
 ![Image]({{ site.url }}/images/4422_3b43e58e38_z_d.jpg)
 <div class="photoattrib">Musée des Beaux-Arts du Canada / National Galery of Canada</div>

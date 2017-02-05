@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Ce week-end avait lieu la  d'Option citoyenne, permettant à ce futur parti (horizon : janvier 2006) d'élaborer avec ses membres une position sur la question nationale.  On y a aussi réfléchi sur des questions de lutte contre la pauvreté et de fiscalité.
+Ce week-end avait lieu la [Rencontre nationale](http://www.optioncitoyenne.ca/pivot/entry.php?id=306#body) d'Option citoyenne, permettant à ce futur parti (horizon : janvier 2006) d'élaborer avec ses membres une position sur la question nationale.  On y a aussi réfléchi sur des questions de lutte contre la pauvreté et de fiscalité.
 
-Et voilà, c'est fait, le parti , comme moyen pour réaliser leur projet social et non comme objectif ultime.
+Et voilà, c'est fait, le parti [opte pour la souveraineté](http://www.cyberpresse.ca/actualites/article/article_complet.php?path=/actualites/article/22/1,63,0,102005,1199383.php), comme moyen pour réaliser leur projet social et non comme objectif ultime.
 
 Moi, je n'attendais que cette information pour devenir membre.  Je me sens vraiment en phase avec toutes leurs prises de position et projets.
 

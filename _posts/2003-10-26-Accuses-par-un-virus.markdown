@@ -22,4 +22,4 @@ D'ailleurs, qui n'est jamais allé sur des sites pour chercher des sérials ou d
 
 En tous cas, cela montre encore la vulnérabilité des systèmes informatiques et des conséquences que cela peut avoir. Cela rappelle également l'importance de mettre en place des systèmes de protection (antivirus, firewall et autre) et d'être assez prudent sur ce que l'on fait sur internet (l'une des personnes dont il est question s'est fait contaminer par IRC).
 
-Cependant, quand j'entends  qui met sur les épaules des utilisateurs la source de la propogation des virus de l'été dernier, ça me fait dire qu'il y a un soucis sur la perception des responsabilités qui incombent à l'utilisateur d'un coté et surtout au producteur de l'autre coté.
+Cependant, quand j'entends [Bill Gates](http://www.branchez-vous.com/actu/03-08/07-277302.html) qui met sur les épaules des utilisateurs la source de la propogation des virus de l'été dernier, ça me fait dire qu'il y a un soucis sur la perception des responsabilités qui incombent à l'utilisateur d'un coté et surtout au producteur de l'autre coté.

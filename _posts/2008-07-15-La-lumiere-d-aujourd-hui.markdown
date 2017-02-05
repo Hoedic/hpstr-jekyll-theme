@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Si certains d'entre vous ne lisent pas régulièrement , je vous invite à lire  (sujet a priori con s'il en est).
+Si certains d'entre vous ne lisent pas régulièrement [Laurent](http://embruns.net/), je vous invite à lire [un de ses billets récents sur les ampoules](http://embruns.net/carnet/autres-sujets/la-lumiere-de-demain.html) (sujet a priori con s'il en est).
 
 Dans les derniers jours, deux de nos quelques ampoules fluocompactes ont rendu l'âme avec moins d'un an de durée de vie, soit nettement moins de 1000 heures d'utilisation et avec une pollution chimique en plus -pour faire les choses bien, il faudrait j'apporte ces ampoules à l'éco-quartier du coin car c'est un déchet dangereux.
 
@@ -17,4 +17,4 @@ Dans les derniers jours, deux de nos quelques ampoules fluocompactes ont rendu l
 
 Rendu à ce point, je ne sais plus quoi acheter, franchement... 
 
-En ce moment je profite d'un peu de mon temps pour regarder des vidéos sur . Tant d'ingéniosité, de créativité sur des sujets variés: la technologie, la biologie, les affaires, l'art... et pas moyen de s'éclairer correctement, on se tape encore des ampoules de merde !
+En ce moment je profite d'un peu de mon temps pour regarder des vidéos sur [TED](http://www.ted.com/). Tant d'ingéniosité, de créativité sur des sujets variés: la technologie, la biologie, les affaires, l'art... et pas moyen de s'éclairer correctement, on se tape encore des ampoules de merde !

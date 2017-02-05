@@ -8,7 +8,7 @@ categories:
 ---
 
 
-En septembre dernier je parlais d'un projet que je commançais sur la stratégie technologique de Toyota en matière de . J'avais eu quelques retours de personnes qui souhaitaient savoir ce qu'il en était de cette technologie souvent considérée comme la panacée en matière environnementale. Maintenant que mon projet est terminé et que j'ai une meilleure vision, je vais pouvoir donner mon avis... je préviens tout de suite, rien d'extraordinaire.
+En septembre dernier je parlais d'un projet que je commançais sur la stratégie technologique de Toyota en matière de [pile à combustible](http://en.wikipedia.org/wiki/Fuel_cell). J'avais eu quelques retours de personnes qui souhaitaient savoir ce qu'il en était de cette technologie souvent considérée comme la panacée en matière environnementale. Maintenant que mon projet est terminé et que j'ai une meilleure vision, je vais pouvoir donner mon avis... je préviens tout de suite, rien d'extraordinaire.
 
 **La pile à combustible qu'est-ce ?** C'est une techno fort vieille (date du milieu du XIXème siècle) et souvent considérée comme peu performante jusqu'aujour'dhui. Ça consiste à faire ressortir d'une réaction chimique de l'électricité. Avantage de la réaction en question, elle utilise de l'hydrogène sans le brûler et génère de l'eau. Donc d'un premier coup d'oeil ce n'est pas très polluant.
 
@@ -29,6 +29,6 @@ Il existe des pistes assez intéressantes pour la production d'hydrogène aussi.
 
 Quelqu'un m'a aussi parlé d'un recombinaison qui serait faisable avec la centrales nucléaires et qui permettrait de produire de l'hydrogène. Bon, somme toute ça nécessiterait de modifier toutes les centrales, mais ça ferait que ces dernières auraient une production double.
 
-Dernier point : . C'est sorti sur Wired il y a quelques jours et franchement, je ne sais pas dans quelle mesure c'est vrai (je redoute toujours les vaporwares). Le truc fantastique là-dedans c'est que chaque maison pourrait générer sa propose énergie avec ça. Si ça tend à se vérifier, ça pourrait être une véritable révolution énergétique et un coup de fouet pour la technologie de la pile à combustible !
+Dernier point : [transformer de l'eau en hydrogène grâce au soleil](http://www.wired.com/news/technology/0,1282,65936,00.html). C'est sorti sur Wired il y a quelques jours et franchement, je ne sais pas dans quelle mesure c'est vrai (je redoute toujours les vaporwares). Le truc fantastique là-dedans c'est que chaque maison pourrait générer sa propose énergie avec ça. Si ça tend à se vérifier, ça pourrait être une véritable révolution énergétique et un coup de fouet pour la technologie de la pile à combustible !
 
 La logique de la pile à combustible présente déjà l'avantage du choix de la source d'approvisionnement en hydrogène, ce qui est une avancée environnemental : chaque pays peu utiliser ses "points forts". Par ailleurs il y a beaucoup d'évolution à attendre dans les années à venir et possiblement des gros changements en vue, le marché de l'hydrogène est encore à développer et on peut espérer voir apparaître d'autres solutions pour produire de l'hydrogène.

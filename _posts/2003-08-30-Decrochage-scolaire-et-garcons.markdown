@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Notre société est-elle  pour les hommes ?
+Notre société est-elle [castratrice](http://www.iforum.umontreal.ca/Forum/article2586.htm) pour les hommes ?
 
 Chose certaine, il n'est pas rassurant de savoir que parmi les jeunes de 18 ans sans emploi, 39 % des garçons et 25 % des filles n'ont pas de diplôme.  Le décrochage est ainsi beaucoup plus présent chez les garçons (41 % contre 29 % pour les filles).  Cet écart est grandissant depuis les années 1980.  Et les filles sont maintenant majoritaires à fréquenter l'université.
 
-Quand je pense à , je ne peux m'empêcher de constater que les statistiques, on les vit aussi au quotidien...
+Quand je pense à [M](http://ebb.monblogue.com/2003/8/25/), je ne peux m'empêcher de constater que les statistiques, on les vit aussi au quotidien...
 
 Les enseignants sont-ils en trop grand nombre des enseignantes ?  Cet état de fait ne me semble pas nouveau ; il est plutôt généralisé et universel.  Les manuels scolaires s'adressent-ils trop aux filles ?  Il me semble qu'ils regorgent de problèmes de rondelles de hockey et de balles de baseball.
 

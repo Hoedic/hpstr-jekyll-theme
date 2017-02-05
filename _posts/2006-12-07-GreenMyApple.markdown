@@ -12,4 +12,4 @@ Une belle petite campagne signée Greenpeace, qui ne sonne même pas excessive, 
 
 Un marketing très réussi qui copie joyeusement le site officiel de la Pomme, j'espère qu'ils ne vont pas se faire fermer à cause de ça !
 
-À voir donc : 
+À voir donc : [GreenMyApple](http://www.greenpeace.org/apple/)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Récemment je faisait état de ces mâles qui ressentent le besoin d'aller  dans les toilettes à gros truc alors qu'il y a des pissotières.
+Récemment je faisait état de ces mâles qui ressentent le besoin d'aller [pisser debout]({{ site.url }}/2005/04/25/On-dirait-que-ca-t-gene-de-pisser,1366) dans les toilettes à gros truc alors qu'il y a des pissotières.
 
 Hier, alors que je me lavais les mains, j'ai vu l'un de ces arroseurs être victime de son choix ; entrant dans les toilettes et laissant la porte derrière lui entre-ouverte , une autre personne a voulu utiliser dans les-dits toilettes et lui a donc foutu la porte dans le cul. Haha, joie.
 

@@ -8,9 +8,9 @@ categories:
 ---
 
 
- revient aujourd'hui sur le phénomène des délocalisations des cols blancs aux US... Le sujet risque d'être pour le moins assez sensible durant la campagne présidentielle.
+[Courrier International](http://www.courrierinternational.com/numeros/700/642004_europe.asp?TYPE=europe) revient aujourd'hui sur le phénomène des délocalisations des cols blancs aux US... Le sujet risque d'être pour le moins assez sensible durant la campagne présidentielle.
 
-Selon , la dernière mode en informatique consiste à demander aux futurs virés de former leur remplaçant indien ou chinois pour toucher quelques piécettes de plus
+Selon [USA Today](http://www.usatoday.com/tech/news/2004-04-06-replace_x.htm), la dernière mode en informatique consiste à demander aux futurs virés de former leur remplaçant indien ou chinois pour toucher quelques piécettes de plus
 
 <blockquote class="citation">&#8220;Les salariés américains qui ont reçu leur avis de licenciement sont avisés qu'ils peuvent toucher un autre chèque ou des indemnités supplémentaires s'ils acceptent d'apprendre leur job à des travailleurs venus d'Inde, de Chine et d'autres pays. Quand ces derniers retournent dans leur pays, ils emportent le poste avec eux et les employés américains qui les ont formés sont virés.&#8221;</blockquote>
 

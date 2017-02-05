@@ -14,8 +14,8 @@ Possiblement que j'ai été trop gourmand quant à ma capacité de travail/occup
 -  Ma demande de passage au doctorat qui me prend pas mal de temps en lecture et en réflexion, pour le mois de novembre;
 -  Des demandes de bourses pour le futur doctorat (fortement conseillé par mon éventuel possible directeur de recherche), pour mi-octobre et pas commencé... hum;
 -  La préparation du mariage (Ebb en fait une bonne partie mais j'en ai aussi un peu), en Janvier mais doit être bouclé avant;
--   avec ses réunions, sa liste de diffusion très active et surtout le fait que je voudrais participer au développement;
--   que j'aurais voulu participer et aller aux rencontres; 
+-  [Île sans fil](http://ilesansfil.org/) avec ses réunions, sa liste de diffusion très active et surtout le fait que je voudrais participer au développement;
+-  [Projet Montréal](http://www.projetmontreal.org) que j'aurais voulu participer et aller aux rencontres; 
 -  L'aikido, bloguer et les sorties diverses avec des gens;
 -  Dormir (/me gros dormeur), manger et le reste.
 

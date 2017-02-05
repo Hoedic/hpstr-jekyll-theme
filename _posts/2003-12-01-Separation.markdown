@@ -10,7 +10,7 @@ categories:
 
 En fait, pour les nostalgiques qui aimaient bien quand les deux sites étaient séparés ou pour ceux qui n'aiment pas les conneries que j'écris et qui souhaitent uniquement lire la prose de Ebb, j'ai fait une petite fonction pour séparer les messages.
 
-Ça se trouve dans le menu de gauche,  et . Bon, après ça, c'est certain que nous, normalement, on vient ensemble, c'est un package. D'ailleurs, pour ceux qui nous ont vu pour de vrai ont sûrement remarqué que l'un vient rarement sans l'autre.
+Ça se trouve dans le menu de gauche, [Only Ebb](ebb.html) et [Only Hoedic](hoedic.html). Bon, après ça, c'est certain que nous, normalement, on vient ensemble, c'est un package. D'ailleurs, pour ceux qui nous ont vu pour de vrai ont sûrement remarqué que l'un vient rarement sans l'autre.
 
 De toutes manières, j'ai les noms de ceux qui vont sur l'une ou sur l'autre de ces pages spécifiques alors je vous conseille de vous tenir à carreau !
 

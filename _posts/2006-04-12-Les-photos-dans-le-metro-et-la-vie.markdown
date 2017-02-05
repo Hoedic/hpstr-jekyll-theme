@@ -8,13 +8,13 @@ categories:
 ---
 
 
-Je viens de faire quelques modifications (assez mineures) à ce cher blog. Pour satisfaire , j'ai rendu nos coordonnées nettement plus accessibles par un lien "contact" en haut à gauche et en rendant nos pseudos cliquables.
+Je viens de faire quelques modifications (assez mineures) à ce cher blog. Pour satisfaire [Martine](http://www.martinepage.com/blog/), j'ai rendu nos coordonnées nettement plus accessibles par un lien "contact" en haut à gauche et en rendant nos pseudos cliquables.
 
 Par ailleurs j'ai changé le template pour le fil RSS 2.0. En effet, le fil n'était pas valide et ne fonctionnait pas avec plusieurs agrégateurs. Maintenant c'est améliorer malgré quelques détails à régler (notamment le type de média). N'hésitez pas à me faire signe si ça ne marche pas chez vous.
 
 Enfin, étant donné que depuis quelques temps les commentaires supportent une prévisualisation obligatoire qui bloque bien les spams, j'ai de nouveau autorisé les commentaires pour les vieux articles (plus de 30 jours).
 
-L'effet s'est rapidement fait sentir avec 5 commentaires sur des vieux articles en une journée. Majoritairement inintéressants (j'ai failli bloquer de nouveau les commentaires), mais  qui m'a fait assez plaisir (malheureusement anonyme).
+L'effet s'est rapidement fait sentir avec 5 commentaires sur des vieux articles en une journée. Majoritairement inintéressants (j'ai failli bloquer de nouveau les commentaires), mais [un](http://www.mon-ile.net/carnet/blog1314.html#forum4286) qui m'a fait assez plaisir (malheureusement anonyme).
 
 ![Image]({{ site.url }}/images/9133_e602c4bce4_z_d.jpg)
 <div class="photoattrib">Snowdon quai</div>

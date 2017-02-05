@@ -8,7 +8,7 @@ categories:
 ---
 
 
-, , et  ont décidé de suicider leur carnet.
+[Kicou](http://blog.kicou.com/), [Navire](http://navire.net/), et [Neige](http://neiges.blogspot.com/) ont décidé de suicider leur carnet.
 
 Sans parler des autres qui n'écrivent plus ou qui sont partis pour quelques temps.
 

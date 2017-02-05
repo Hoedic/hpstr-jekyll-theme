@@ -22,4 +22,4 @@ D'ailleurs, la confiture qu'on a ramenée de Charlevoix constitue notre dernièr
 
 ~~
 
-<P align=left>Ma référence en matière de citations, le très peu connu *Citations du Monde*, a fusionné avec le nouveau portail culturel français **.  Allez y jeter un coup d'oeil de temps en temps, ça pourrait en valoir le détour.
+<P align=left>Ma référence en matière de citations, le très peu connu *Citations du Monde*, a fusionné avec le nouveau portail culturel français *[evene](http://www.evene.fr/)*.  Allez y jeter un coup d'oeil de temps en temps, ça pourrait en valoir le détour.

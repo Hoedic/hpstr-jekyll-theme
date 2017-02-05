@@ -20,17 +20,17 @@ Au Québec, les écoles secondaires non mixtes (privées comme publiques) sont l
 
 Je me suis donc retrouvée, pour la première fois de ma vie, dans une classe non mixte, dans un pays où la chose est fort improbable, mais provenant d'un autre pays où cela est coutumier.  J'ai été très impressionnée des règles de politesse qui y régnaient.  C'est ainsi que j'ai appris, en Terminale, à me lever à l'entrée d'un professeur (après avoir appris le vouvoiement seulement au secondaire...).
 
-Mais ce que j'ai le plus apprécié dans ce petit lycée du 11e arrondissement, situé tout près de la place de la République, c'était son aspect résolument multiculturel et oecuménique.  La philosphie de base du lycée est bien sûr catholique.  Fondé par Madeleine Daniélou et sa , il est encore aujourd'hui tenu par des soeurs.  Il y a une chapelle toujours en usage dans l'enceinte même du lycée, avec une messe tous les vendredis midis et à chaque fête chrétienne.
+Mais ce que j'ai le plus apprécié dans ce petit lycée du 11e arrondissement, situé tout près de la place de la République, c'était son aspect résolument multiculturel et oecuménique.  La philosphie de base du lycée est bien sûr catholique.  Fondé par Madeleine Daniélou et sa [communauté Saint-François-Xavier](http://communaute-sfx.cef.fr/), il est encore aujourd'hui tenu par des soeurs.  Il y a une chapelle toujours en usage dans l'enceinte même du lycée, avec une messe tous les vendredis midis et à chaque fête chrétienne.
 
 En fait, il serait plus juste de parler de l'ensemble des établissements dépendants de cette communauté comme d'un tout.  En effet, il en existe également à Blois, à Neuilly, à Rueil, à Garges-lès-Gonesse, à Bobigny, à Milan (Italie), à Abidjan (Côte-d'Ivoire), à N'djaména (Tchad), à Séoul (Corée du Sud) et à Czestochowa (Pologne)...
 
-D'ailleurs, lors de mon , j'ai pu faire la connaissance d'un écrivain et professeur, M. Jean-Pierre Lemaire, qui m'a confié enseigner régulièrement à l'enseigne de Neuilly et y trouver à chaque fois une expérience enrichissante, singulière, sans pareille ailleurs.  Je n'ai pas de mal à le croire.  On ne peut rester insensible à l'ambiance particulière qui règne en des lieux aussi resplendissants de bonté.
+D'ailleurs, lors de mon [séjour à Lourdes]({{ site.url }}/2003/10/13/Mon-Lire-en-fete), j'ai pu faire la connaissance d'un écrivain et professeur, M. Jean-Pierre Lemaire, qui m'a confié enseigner régulièrement à l'enseigne de Neuilly et y trouver à chaque fois une expérience enrichissante, singulière, sans pareille ailleurs.  Je n'ai pas de mal à le croire.  On ne peut rester insensible à l'ambiance particulière qui règne en des lieux aussi resplendissants de bonté.
 
 Il me semblait tout drôle de voir ça dans le pays-phare de la laïcité.  Le Québec est encore très religieux en théorie, en façade, mais ce n'est plus très ancré et je n'y ai jamais rien vu d'aussi concrètement et sincèrement religieux.  Même si je suis complètement athée et que je n'ai jamais assisté aux offices religieux de Charles-Péguy, j'adorais l'atmosphère qui y régnait.  J'admirais cette jeune fille, devenue petit à petit mon amie, si réellement croyante et pratiquante, pour qui la religion faisait partie intégrante de la vie (messes le mercredi et le dimanche), qui organisait ses voyages estivals avec des groupes de jeunes catholiques, qui ne pouvait tomber amoureuse que d'un jeune homme aussi profondément croyant qu'elle (sans omettre d'y voir un signe du ciel...).
 
 Le plus fantastique dans tout ça, c'est que, loin de se contenter d'être un lycée catho, Charles-Péguy encourageait aussi activement toutes les religions.  Des intervenants juifs et musulmans venaient chaque semaine au lycée pour discuter de la foi et de la pratique religieuse avec les fidèles du même culte.  Yom Kippour était annoncé et célébré en grandes pompes dans l'établissement.  Le ramadan aussi.  (Je pense pouvoir affirmer n'avoir jamais entendu parler de ces fêtes avant d'être en France.  Pourtant, Dieu seul sait comme il ne manque pas de pratiquants juifs à Montréal, ni de musulmans d'ailleurs...)
 
-Eh bien pour moi, la laïcité incarnée, c'est Charles-Péguy.  La laïcité, c'est toutes les religions en harmonie, dans l'ouverture, la tolérance et l'amour.  Ce n'est pas un milieu  de toute religion, bien au contraire...
+Eh bien pour moi, la laïcité incarnée, c'est Charles-Péguy.  La laïcité, c'est toutes les religions en harmonie, dans l'ouverture, la tolérance et l'amour.  Ce n'est pas un milieu [aseptisé]({{ site.url }}/2003/08/30/Allergies-saisonnieres) de toute religion, bien au contraire...
 
 ***
 
@@ -46,3 +46,4 @@ Il me revient en tête le fait qu'une amie de la mère d'Hoëdic, que j'ai renco
 
 Mais qui est donc Charles Péguy ?  Il s'agit d'un poète et écrivain français s'étant converti à la religion catholioque suite à une sorte de Révélation.  Il est mort au combat pendant la Première guerre mondiale.  Même le nom n'a pas été laissé au hasard...
 
+[Tout savoir sur Charles Péguy](http://www.eleves.ens.fr/home/vaisserm/peguy/francais.html)

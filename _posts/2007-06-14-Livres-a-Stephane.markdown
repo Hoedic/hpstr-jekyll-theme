@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Retour de congé pas vraiment motivant pour écrire. Pourtant ce n'est pas faute d'avoir des choses à dire ! Bref, rien de mieux pour se remettre dans le bain de l'écriture qu'une petite gentille "chaîne" gracieuseté de 
+Retour de congé pas vraiment motivant pour écrire. Pourtant ce n'est pas faute d'avoir des choses à dire ! Bref, rien de mieux pour se remettre dans le bain de l'écriture qu'une petite gentille "chaîne" gracieuseté de [Houssein](http://houblog.net/article/1386-livres)
 
 *** **4 livres de mon enfance**
 -  *Tistou les pouces verts*, Maurice Druon
@@ -43,4 +43,4 @@ Retour de congé pas vraiment motivant pour écrire. Pourtant ce n'est pas faute
 -  *Vendredi ou les limbes du pacifique*, Michel Tournier
 -  Le *R&#257;m&#257;yana*
 
-Je passe le relais à , à , à , à  et à  :)
+Je passe le relais à [Patrick](http://i.never.nu/), à [Chroniques du patio](http://www.chroniquesdupatio.ca/), à [Martine](http://www.martinepage.com/blog/), à [Olivier de Montréal](http://www.olivierdemontreal.ca/blogue/) et à [Femme](http://mon-ile.net/carnet/) :)

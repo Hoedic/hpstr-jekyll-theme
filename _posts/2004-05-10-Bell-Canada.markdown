@@ -10,7 +10,7 @@ categories:
 
 Avec Hoedic, on se demande si on ne prendra pas un téléphone portable, bientôt.
 
-Nous éliminons d'office de nos comparatifs et de notre magasinage la possibilité de faire affaire avec .  Et je vais même vous dire pourquoi...
+Nous éliminons d'office de nos comparatifs et de notre magasinage la possibilité de faire affaire avec [Bell Canada](http://www.bell.ca/).  Et je vais même vous dire pourquoi...
 
 Il y a de cela presque deux ans, je louais mon premier appartement au Québec, puisque j'allais devenir étudiante à Montréal.  Et qui dit appartement dit ligne téléphonique.  C'est Bell qui a le monopole sur la boucle locale au Canada.
 
@@ -36,6 +36,6 @@ Tout est bien qui finit bien.  Sauf pour mon opinion de Bell Canada, qui est dur
 
 ***
 
-Dans le même genre, les  aussi pratiquent des tarifs monstrueux et des techniques de vente douteuses.  Quand on commande un trio chez eux (comprenant normalement un café de taille moyenne...), ils mettent d'office un grand café à la place tout en en chargeant le supplément.  Et si on demande quelque chose de spécial, une petite modification (par exemple quand on n'aime pas le café...), ils se gardent bien de vous faire savoir que cela augmente le prix à chaque fois.
+Dans le même genre, les [Tim Hortons](http://www.timhortons.com/) aussi pratiquent des tarifs monstrueux et des techniques de vente douteuses.  Quand on commande un trio chez eux (comprenant normalement un café de taille moyenne...), ils mettent d'office un grand café à la place tout en en chargeant le supplément.  Et si on demande quelque chose de spécial, une petite modification (par exemple quand on n'aime pas le café...), ils se gardent bien de vous faire savoir que cela augmente le prix à chaque fois.
 
 Il faut aimez les factures salées pour aller se sustenter là !  Parce que niveau rapport qualité/prix, ça craint...

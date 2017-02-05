@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme je le disais dans mon , il semble  que Google ai attribué plus d'importance à notre modeste blog au point que nous arrivons 2ème pour la recherche "", suivant de peu un article sans intérêt de la maison mère, le conglomérat BCE.
+Comme je le disais dans mon [message précédent]({{ site.url }}/2004/06/04/Frequentation-du-site), il semble  que Google ai attribué plus d'importance à notre modeste blog au point que nous arrivons 2ème pour la recherche "[Abonnement Bell Canada](http://www.google.fr/search?q=Abonnement+Bell+Canada&ie=UTF-8&hl=fr&btnG=Recherche+Google&meta=)", suivant de peu un article sans intérêt de la maison mère, le conglomérat BCE.
 
 En tant normal, je me dirais que c'est pas pertinent comme réponse et que par conséquent l'article pointé mériterait peut-être d'être déréférencé. Seulement voilà, si on l'a mis public, c'est bien pour faire chier Bell, du coup nous sommes très content qu'il sorte aussi haut.
 
@@ -18,7 +18,7 @@ Pourquoi tant de haine ? Parce que je n'aime pas leur situation de plus ou moins
 
 À cet égard, j'ai décidé de boycotter Bell et de ne même pas envisager utiliser leur service quelqu'il soit (téléphone, cell ou Internet). Ils voulaient me racoller, ils m'ont perdu pour un bout de temps. Je vous invite à faire de même contre Bell et tous les fatigants qui nous persécutent au téléphone.
 
-En plus, Bell, ils rêvent en couleur ! Dans un , je lisais récemment qu'ils voulaients des "maisons ultrabranchées" d'ici trois à cinq ans.
+En plus, Bell, ils rêvent en couleur ! Dans un [article du quotidien Le Devoir](http://ledevoir.com/2004/06/01/55847.html), je lisais récemment qu'ils voulaients des "maisons ultrabranchées" d'ici trois à cinq ans.
 
 On va relier le frigo à l'aspirateur pour qu'ils causent ensemble en Wifi (qu'auraient-ils à se dire d'ailleurs ?), le tout géré, on peut le parier, par du Windows. Vive la sécurité ! Moi je vous préviens tout de suite, je ne prends pas ! J'aurais trop peur de voir mon congélateur s'en prendre à mon chat dans un accès démense provoqué par le premier worm venu. Puis de toutes manières, comme je l'ai dit, je les boycotte. Je ne vais pas filer la gestion de ma baraque à des gens qui ne sont pas foutu de respecter mon droit à la tranquillité.
 

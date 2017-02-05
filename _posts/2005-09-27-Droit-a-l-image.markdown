@@ -10,11 +10,11 @@ categories:
 
 Des sujets refont surface au gré du hasard. Ces jours-ci c'est le droit à l'image.
 
-Je suis d'abord tombé par hasard sur ce  de Jean-Pierre Cloutier sur le droit de photographier des personnes dans la rue suite à la diffusion du  de Gilbert Duclos.
+Je suis d'abord tombé par hasard sur ce [billet](http://cyberie.qc.ca/jpc/2005/09/droit-affaire-duclos.html) de Jean-Pierre Cloutier sur le droit de photographier des personnes dans la rue suite à la diffusion du [documentaire](http://www.virage.ca/article.php3?id_article=142) de Gilbert Duclos.
 
-Le sujet est également revenu sur la table avec l'interdiction progressive de photographies au Louvre. Je ne comptais pas bloguer sur le sujet jusqu'à ce que je tombe via  sur cette  de profil Wikipedia d'une personne expliquant ses démarches pour essayer d'obtenir le droit de photographier le Louvre pour l'.
+Le sujet est également revenu sur la table avec l'interdiction progressive de photographies au Louvre. Je ne comptais pas bloguer sur le sujet jusqu'à ce que je tombe via [Tristan](http://standblog.org/) sur cette [page](http://fr.wikipedia.org/wiki/Utilisateur:Traroth/Photographier_librement_au_Mus%C3%A9e_du_Louvre) de profil Wikipedia d'une personne expliquant ses démarches pour essayer d'obtenir le droit de photographier le Louvre pour l'[encyclopédie libre](http://www.wikipedia.org/).
 
-Le plus croustillant se trouve à la fin quand les représentants du Louvre demandent 364.66€ TTC initial plus 91.16€ TTC/an supplémentaire pour cette  au nom du droit d'auteur de l'architecte (la photo ayant été prise par un contributeur qui l'a été laissé au domaine public).
+Le plus croustillant se trouve à la fin quand les représentants du Louvre demandent 364.66€ TTC initial plus 91.16€ TTC/an supplémentaire pour cette [photo-ci](http://en.wikipedia.org/wiki/Image:Paris.louvre.pyramid.750pix.jpg) au nom du droit d'auteur de l'architecte (la photo ayant été prise par un contributeur qui l'a été laissé au domaine public).
 
 ![Image]({{ site.url }}/images/pyramide-louvre_27-09-2005.jpg)
 <div class="photoattrib">La Pyramide du Louvre, sciemment diffusée</div>

@@ -37,7 +37,7 @@ Et là tout le monde de dire "un enfant c'est difficile, c'est normal, il est su
 En balade à Val-David
 
 
-Le but de dire que c'est un babi n'est pas de le stigmatiser ou de pouvoir lui dire le jour où il sera ado "tu sais, t'étais un babi puis c'était vraiment un calvaire". Le but est de savoir que ce genre de bébé a des besoins parfois par mal différents de la majorité. Exemple: la méthode d'allaitement habituellement préconisée (et relatée ) consiste habituellement à écraser la tête du bébé contre une mamelle bien juteuse jusqu'à ce qu'il boive. Sauf qu'un babi ne va pas aimer ça.
+Le but de dire que c'est un babi n'est pas de le stigmatiser ou de pouvoir lui dire le jour où il sera ado "tu sais, t'étais un babi puis c'était vraiment un calvaire". Le but est de savoir que ce genre de bébé a des besoins parfois par mal différents de la majorité. Exemple: la méthode d'allaitement habituellement préconisée (et relatée [ici]({{ site.url }}/2008/07/19/L-allaitement-maternel-en-6-actes)) consiste habituellement à écraser la tête du bébé contre une mamelle bien juteuse jusqu'à ce qu'il boive. Sauf qu'un babi ne va pas aimer ça.
 
 Autre exemple: laisser le bébé pleurer pour qu'il apprenne à s'apaiser tout seul. Notre retour de l'hopital après l'accouchement nous a montré que Monsieur peut hurler (je dis bien hurler, pas pleurer, hurler) non-stop pendant plusieurs heures. Donc nous n'essayons pas les méthodes préconisant de laisser pleurer le bébé... autant pour lui que pour nos tympans qui prient chaque jour que Dieu fait pour que tout cela cesse (oui, nos tympans sont très croyants, liberté de culte totale à la maison).
 

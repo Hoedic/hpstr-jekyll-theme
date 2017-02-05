@@ -12,7 +12,7 @@ Ebb et moi, nous ne sommes pas très cuisine. Bien qu'appréciant la bonne bouff
 
 Dernièrement nous avons souhaité nous mettre un peu plus sérieusement au four mais que faire ? Nous n'avons pas beaucoup de recettes de famille. Chercher des recettes sur Internet ? Elles sont généralement abominablement compliquées... enfin trop pour un simple repas du soir comme on s'en fait 7 fois par semaine.
 
-Alors ? Alors nous demandons aux amis et nous inventons, un peu. Ainsi avons nous récemment essayé un grattin de courgette et des lasagne gràce à Madame  qui fait grève du blog. Mais pourquoi ne pas profiter un peu de la blogosphère ! Je propose donc à qui veut bien de mettre des recettes sur votre blog et de m'envoyer un  ou un commentaire sur nos articles de cuisine. S'il y a assez de participants, je ferais une section spéciale. L'objectif : des recettes de tous les jours, simples et bonnes.
+Alors ? Alors nous demandons aux amis et nous inventons, un peu. Ainsi avons nous récemment essayé un grattin de courgette et des lasagne gràce à Madame [Leeloolène](http://leeloolene.free.fr/) qui fait grève du blog. Mais pourquoi ne pas profiter un peu de la blogosphère ! Je propose donc à qui veut bien de mettre des recettes sur votre blog et de m'envoyer un [message](../contact.html) ou un commentaire sur nos articles de cuisine. S'il y a assez de participants, je ferais une section spéciale. L'objectif : des recettes de tous les jours, simples et bonnes.
 
 ~~~~
 

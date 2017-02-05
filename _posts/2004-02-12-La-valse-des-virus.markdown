@@ -10,7 +10,7 @@ categories:
 
 Alors que je me disais hier qu'on arrivait vers la fin de MyDoom qui est programmé pour arrêter de se répliquer le 12 février, ce qui devrait faire baisser assez nettement le nombre de courriel que je reçois, voilà-t-y pas qu'on remet ça.
 
-Cette fois, il s'appelle ** et il présente un étrange prolongement de . En effet, DoomJuice utilise  un backdoor (ouverture d'une brèche de sécurité dans Windows (qui en est déjà truffé naturellement) permettant l'accès à distance) sur le port 3127 pour se répliquer. Ensuite, ce virus va s'amuser à attaquer les serveurs de Microsoft. Éventuellement, ça peut donner un accès quasi-illimité à votre ordinateur.
+Cette fois, il s'appelle *[DoomJuice](http://securityresponse.symantec.com/avcenter/venc/data/w32.hllw.doomjuice.b.html)* et il présente un étrange prolongement de [MyDoom]({{ site.url }}/2004/01/27/Le-virus-nouveau-est-arrive). En effet, DoomJuice utilise  un backdoor (ouverture d'une brèche de sécurité dans Windows (qui en est déjà truffé naturellement) permettant l'accès à distance) sur le port 3127 pour se répliquer. Ensuite, ce virus va s'amuser à attaquer les serveurs de Microsoft. Éventuellement, ça peut donner un accès quasi-illimité à votre ordinateur.
 
 En d'autres termes, vérifier encore que vous n'avez pas MyDoom, et si vous découvrez que vous être contaminé par ce dernier, vous avez possiblement DoomJuice, auquel cas il faut passer un coup d'antivirus avec les dernières mise-à-jour. Attention car ce virus-ci, comme je l'ai expliqué, ne se transmet pas par e-mail, il utilise une faille de sécurité pour s'immiscer "par derrière", donc même si vous filtrez bien vos courriels entrant prenez garde !
 

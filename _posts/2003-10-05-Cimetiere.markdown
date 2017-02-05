@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Petite balade cet après-midi dans le plus grand cimetière du Canada, ...
+Petite balade cet après-midi dans le plus grand cimetière du Canada, [Notre-Dame-des-Neiges](http://www.cimetierenddn.org/fr/default.asp)...
 
-Clin d'oeil à , qui nous a si souvent frénétiquement trimballés, pendant sa "lubie", dans les différents cimetières parisiens...  Exorcisait-elle les morts ?
+Clin d'oeil à [Leeloolène](http://leeloolene.free.fr/), qui nous a si souvent frénétiquement trimballés, pendant sa "lubie", dans les différents cimetières parisiens...  Exorcisait-elle les morts ?

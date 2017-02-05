@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Voilà,  et moi, nous en sommes maintenant officiellement à notre 4e été.
+Voilà, [Hoëdic](http://hoedic.ouvaton.org/) et moi, nous en sommes maintenant officiellement à notre 4e été.
 
 Pour fêter cela et nous reposer, nous partons demain pour la belle région de Charlevoix.  À dans une semaine !

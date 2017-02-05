@@ -10,15 +10,15 @@ categories:
 
 Je suis assez attristée, dernièrement, de voir tous les problèmes, réels ou supposés, que les gens éprouvent avec leurs sites webs et blogs.
 
-Ainsi, mon  est condamné au silence depuis plus d'une semaine pour cause de hacking intensif.
+Ainsi, mon [forum préféré](http://www.remede.org/) est condamné au silence depuis plus d'une semaine pour cause de hacking intensif.
 
- se voit enjoindre vulgairement de fermer boutique sur fond de menaces à peine voilées.
+[Jean-Philippe](http://studioxix.blogspot.com/) se voit enjoindre vulgairement de fermer boutique sur fond de menaces à peine voilées.
 
- préfère déménager pour préserver son anonymat.
+[Leeloolène](http://leeloolene.free.fr/) préfère déménager pour préserver son anonymat.
 
-Mon  ploie sous le spam sans même que je puisse l'effacer.
+Mon [ancien blog](http://ebb.monblogue.com/main.php) ploie sous le spam sans même que je puisse l'effacer.
 
-Un  , les commentaires se font bloquer ou restreindre, pour cause d'éléments problématiques ou encore de spam.
+Un [peu](http://stelladimare.oursin.net/carnet/) [partout](http://carnets.ixmedia.com/magellan/archives/006561.html#006561), les commentaires se font bloquer ou restreindre, pour cause d'éléments problématiques ou encore de spam.
 
 Nous-mêmes n'avons pas encore vraiment vécu d'expérience rafraîchissante avec notre blog ; peut-être grâce au fait qu'il n'est pas vraiment indexé par Google ?
 

@@ -14,7 +14,7 @@ Ai-je le choix ? :)
 
 1980 : Maman fait une grossesse ectopique, elle est sur loin point d'y rester mais j'en garde juste le souvenir flou d'une échographie.
 
-1983 : La douce vie d'un petit  qui va à l'école Charcot, rue de la Ferme, la semaine et fait du cheval le week-end, à la maison de campagne, à la Houssaie, près de la . L'équitation me vaudra tout de même une double fracture du bras gauche dont mon père se servira pour m'obliger à apprendre à écrire de la main droite, au prétexte que les gauchers écrivent mal.
+1983 : La douce vie d'un petit [Neuilléen-sur-seine](http://fr.wikipedia.org/wiki/Neuilly-sur-Seine) qui va à l'école Charcot, rue de la Ferme, la semaine et fait du cheval le week-end, à la maison de campagne, à la Houssaie, près de la [Ferrière-sur-Risle](http://www.normandieweb.org/27/conchesenouche/laferrieresurrisle/). L'équitation me vaudra tout de même une double fracture du bras gauche dont mon père se servira pour m'obliger à apprendre à écrire de la main droite, au prétexte que les gauchers écrivent mal.
 
 ![Image]({{ site.url }}/images/arbre-lichen_09-04-2005.jpg)
 

@@ -22,6 +22,6 @@ Alors toi, oui, toi qui me lis avec ton Internet Explorer tout pourri, pourquoi 
 
 Et sache, toi, lecteur, qu'avec Firefox, tu pourrais voir des choses sur mon blog que tu ne peux pas voir avec ton IE (comme c'est le cas sur de nombreux blog d'ailleurs).
 
-Alors tu vas prendre ta petite souris, aller sur le site de  et tu vas installer ce gentil navigateur !!!
+Alors tu vas prendre ta petite souris, aller sur le site de [Firefox](http://www.mozilla.org/products/firefox/) et tu vas installer ce gentil navigateur !!!
 
 *Ajout* : Ah oui, et cette version de Firefox gère également les feeds RSS/Atom... bon, ça ne remplace pas un vrai lecteur de feed mais pour les gens qui ne veulent pas en installer un et suivre quelques blogs par exemple...

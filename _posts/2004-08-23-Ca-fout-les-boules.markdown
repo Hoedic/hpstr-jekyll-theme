@@ -15,4 +15,4 @@ J'entre dans la cuisine après ma sieste quotidienne et là je me trouve agress�
 
 
 
-Maman Ebb a déposé pendant mon sommeil ce résidu d'une époque dépassée. Je suppose que c'est la conséquence des très bons mélanges du Juan d'... c'est malin ça !
+Maman Ebb a déposé pendant mon sommeil ce résidu d'une époque dépassée. Je suppose que c'est la conséquence des très bons mélanges du Juan d'[Étolane](http://voldemots.blogspot.com/)... c'est malin ça !

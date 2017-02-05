@@ -15,7 +15,7 @@ Je l'ai enfin trouvé ! George General d'Auto Reparation existe pour de vrai. Po
 
 
 
-Simplement parce que Jean-Benoît Nadeau en parle dans son livre ** à titre d'exemple pour l'anglicisation du français au Québec, non seulement pour le vocabulaire mais aussi pour la formulation.
+Simplement parce que Jean-Benoît Nadeau en parle dans son livre *[Les Français aussi ont un accent](http://www.amazon.fr/exec/obidos/ASIN/2228898368/171-9621319-5991453)* à titre d'exemple pour l'anglicisation du français au Québec, non seulement pour le vocabulaire mais aussi pour la formulation.
 
 Et moi, ça me fait toujours marrer de voir pour de vrai quelque chose que j'ai lu, surtout un nom aussi improbable !
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Du fait de mes sites web, notamment ceux sur le  et sur le , je reçois quasi-quotidiennement des e-mails de demande d'information voire, c'est en fait la majorité des cas, des demandes de visa comme si j'étais Immigration Canada.
+Du fait de mes sites web, notamment ceux sur le [Canada](../canada/) et sur le [Parc National de Yellowstone](../yellowstone/), je reçois quasi-quotidiennement des e-mails de demande d'information voire, c'est en fait la majorité des cas, des demandes de visa comme si j'étais Immigration Canada.
 
 Non seulement mon site sur le Canada n'a pas réellement l'air d'un site officiel du point de vue design, mais surtout il n'en a pas le contenu. Il suffit de lire quelques lignes avant de se précipiter sur la zone contact pour le comprendre. Mais bon, admettons qu'il s'agisse de personnes ne connaissant pas bien Internet, je suis prêt à tolérer.
 

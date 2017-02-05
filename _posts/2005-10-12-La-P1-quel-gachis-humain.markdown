@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un superbe texte chez Martin Winckler, offert par un parent français : .
+Un superbe texte chez Martin Winckler, offert par un parent français : ["Le gâchis humain de la sélection en médecine"](http://martinwinckler.com/article.php3?id_article=668).
 
 Tout, absolument tout ce que je pense, et depuis longtemps.
 

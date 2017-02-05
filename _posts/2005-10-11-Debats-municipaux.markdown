@@ -12,7 +12,7 @@ categories:
 
 Dynamique toujours renouvellée, le maire en place veut limiter le nombre de débats alors que le(s) challenger(s) veulent les multiplier.
 
-Apparamment (source : les communiqués de ), un près de 7 débats avaient eu lieu aux précédentes élections, seuls 2 auront lieu cette année, avec un seul opposant, Bourque, ce qui ne manque pas d'outré Projet Montréal dont il faut bien dire que c'est le seul autre parti d'envergure.
+Apparamment (source : les communiqués de [Projet Montréal](http://projetmontreal.org/)), un près de 7 débats avaient eu lieu aux précédentes élections, seuls 2 auront lieu cette année, avec un seul opposant, Bourque, ce qui ne manque pas d'outré Projet Montréal dont il faut bien dire que c'est le seul autre parti d'envergure.
 
 C'est certain que le maire en place se trouve être la cible, il doit défendre un bilan bien réel face à des prétendants qui se contentent de promettre. Pourtant, c'est le jeu démocratique ! Montréal, avec son conseil executif se réunissant à huis clos, la personnalité autocratique de Gérald Ier, un peu de transparence que diable !
 
@@ -20,7 +20,7 @@ C'est certain que le maire en place se trouve être la cible, il doit défendre 
 
 Je suis content de soulever un minimum d'intérêt pour Projet Montréal puisque deux amis venus tour à tour diner chez nous en ont parlé.
 
-L'un des deux, Catherine, me faisait remarquer que ce parti était visiblement anti-voiture et anti-banlieue (cf leur  électorale) et qu'à ce titre, même si elle allait (peut-être ?) voter pour, elle se voyait difficilement les défendre tant la position semble radicale.
+L'un des deux, Catherine, me faisait remarquer que ce parti était visiblement anti-voiture et anti-banlieue (cf leur [plateforme](http://projetmontreal.org/programme/) électorale) et qu'à ce titre, même si elle allait (peut-être ?) voter pour, elle se voyait difficilement les défendre tant la position semble radicale.
 
 C'est malheureusement vrai. C'est surtout trop vrai pour la banlieue, Richard Bergeron semblant limiter sa vision à l'île de Montréal.
 

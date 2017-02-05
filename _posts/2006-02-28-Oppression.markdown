@@ -8,11 +8,11 @@ categories:
 ---
 
 
- aborde dans une série d'articles le stress, maladie du XXIème siècle comme on l'entend souvent, mais est-ce le cas ?
+[The Gazette](http://www.canada.com/montrealgazette/) aborde dans une série d'articles le stress, maladie du XXIème siècle comme on l'entend souvent, mais est-ce le cas ?
 
-À lire certains , oui. La pression dans le milieu de travail est un fait... par endroits.
+À lire certains [témoignages](http://www.canada.com/montrealgazette/story.html?id=eb9c321c-364e-4435-adbc-7b781d041fcb&k=22077), oui. La pression dans le milieu de travail est un fait... par endroits.
 
-Pourtant il faut mettre les choses en perspective : le . 8 heures de plus par semaine que dans les années 60... malgré un taux d'emploi en explosion chez les femmes.
+Pourtant il faut mettre les choses en perspective : le [temps libre (leisure time) a tendance à augmenter](http://www.canada.com/montrealgazette/news/story.html?id=3fdb8d77-d178-4c7a-8ecc-15a90b27e511&p=3). 8 heures de plus par semaine que dans les années 60... malgré un taux d'emploi en explosion chez les femmes.
 
 Pourtant le stress, le manque de temps sont des valeurs à la hausse sur la même période. Alors ?
 
@@ -20,7 +20,7 @@ Depuis quelques années l'industrie du diverstissement s'est développée de man
 
 En fait, nous sommes nos propres bourreaux... et en éprouvons de la fierté en plus ! Le niveau d'occupation est désormais une preuve sociale d'importance. Le temps est maintenant une ressource plus importante que l'argent et a donc supplanté ce dernier comme critère d'élévation sociale. Je suis occupé donc je suis.
 
-Par voie de conséquence, consacrer du temps est également une forme d'engagement. Ainsi un cadre passe des heures folles pour montrer sa volonté de monter les echelons. Le pire étant que cette logique s'applique partout, même dans les jeux comme l'explique l'article  : passer des heures dans le jeu assure de monter les niveaux, indépendamment de la "qualité" du joueur.
+Par voie de conséquence, consacrer du temps est également une forme d'engagement. Ainsi un cadre passe des heures folles pour montrer sa volonté de monter les echelons. Le pire étant que cette logique s'applique partout, même dans les jeux comme l'explique l'article [World of Warcraft teaches the wrong things](http://www.gamasutra.com/features/20060222/sirlin_01.shtml) : passer des heures dans le jeu assure de monter les niveaux, indépendamment de la "qualité" du joueur.
 
 Pas étonnant qu'au milieu de tout cela, nombreuses soient les personnes à ressentir une oppression par manque de temps mais aussi une oppression par l'univers de possibles.
 

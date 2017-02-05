@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Il m'est toujours agréable d'écouter la musique de , qui vogue entre la douceur des paroles et le débordement d'énergie donnant envie de valser.  Adolenscente, j'ai découvert Goldman d'abord par les textes de ses chansons ; ce n'est que des lustres plus tard que sont venues s'y greffer, dans ma tête et mes oreilles, des notes et des airs (parfois avec déception, mais le plus souvent dans l'enchantement le plus total).
+Il m'est toujours agréable d'écouter la musique de [Jean-Jacques Goldman](http://enpassant.jean-jacques-goldman.com/), qui vogue entre la douceur des paroles et le débordement d'énergie donnant envie de valser.  Adolenscente, j'ai découvert Goldman d'abord par les textes de ses chansons ; ce n'est que des lustres plus tard que sont venues s'y greffer, dans ma tête et mes oreilles, des notes et des airs (parfois avec déception, mais le plus souvent dans l'enchantement le plus total).
 
 Je vous laisse aujourd'hui sur *Il changeait la vie *:
 

@@ -15,7 +15,7 @@ Youppi, l'arrondissement Ville-Marie (le centre-ville de Montréal) va changer s
  
 
 
-Dixit le designer des bancs en question dans .
+Dixit le designer des bancs en question dans [Le Devoir](http://www.ledevoir.com/2008/10/11/210268.html).
 
 Ceci n'est pas sans rappeler la chanson Saturne de Bénabar:
 

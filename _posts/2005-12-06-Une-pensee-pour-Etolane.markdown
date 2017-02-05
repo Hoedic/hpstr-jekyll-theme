@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Chère ,
+Chère [Etolane](http://voldemots.blogspot.com/),
 
 Juste un petit mot pour toi ici, parce que la vie n'est pas toujours facile, qu'elle s'acharne parfois sur certains et qu'elle comporte son lot de souffrances incompréhensibles.  Parce que le corps humain est fragile.
 

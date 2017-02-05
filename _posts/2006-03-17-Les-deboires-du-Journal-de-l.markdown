@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Depuis le début de ma médecine, je suis membre de l'.  Pour les étudiants, ça coûte seulement 15 $ par an, avec accès à plein de ressources Internet (des tas de livres très chers numérisés), des rabais, etc.  Et après, on est accroc pour quand le prix de la cotisation augmente ;)
+Depuis le début de ma médecine, je suis membre de l'[Association Médicale Canadienne](http://www.cma.ca/).  Pour les étudiants, ça coûte seulement 15 $ par an, avec accès à plein de ressources Internet (des tas de livres très chers numérisés), des rabais, etc.  Et après, on est accroc pour quand le prix de la cotisation augmente ;)
 
 En prime, je reçois aux deux semaines leur journal, le JAMC ou CMAJ.  Bon, ce n'est pas le New England, le JAMA, le Lancet ni le British Medical Journal, mais je pense que c'est tout de même l'une des grandes références de la scène médicale.  (D'ailleurs, je dois en avoir une pile à lire depuis le mois d'octobre, la honte...)
 

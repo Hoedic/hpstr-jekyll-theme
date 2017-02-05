@@ -18,7 +18,7 @@ De toute façon, je n'aime guère marcher seule ou fréquenter le métro aussi t
 
 Bref, il fallait s'en remettre.  Un petit samedi tranquille à faire quelques courses par-ci par-là.  La Grande Bibliothèque, le marché Jean-Talon...  Mes petits arrêts désormais habituels.  Et en bonus, un massage pour délasser mon cou particulièrement endolori ces temps-ci.
 
-Après un petit repas cuisiné maison et un dessert agrémenté des meilleurs fruits en ville, nous sommes sortis au parc Lafontaine pour profiter du Théâtre de Verdure, qui repassait quelques canons du festival  du printemps dernier.  Ce soir-là, on passait le film *Calypso @ Dirty Jim* relatant l'histoire et les grands noms de ce genre musical assez particulier et bien sympa des Caraïbes (en l'occurence, Trinidad et Tobago).  Une réalité qui m'était totalement inconnue jusqu'ici, le *Buena Vista Social Club* local.  Un excellent documentaire bien ficelé, de bons conteurs, et une belle découverte musicale que le Calypso.
+Après un petit repas cuisiné maison et un dessert agrémenté des meilleurs fruits en ville, nous sommes sortis au parc Lafontaine pour profiter du Théâtre de Verdure, qui repassait quelques canons du festival [Vues d'Afrique](http://www.vuesdafrique.org/activites/CL_programmation2006.php) du printemps dernier.  Ce soir-là, on passait le film *Calypso @ Dirty Jim* relatant l'histoire et les grands noms de ce genre musical assez particulier et bien sympa des Caraïbes (en l'occurence, Trinidad et Tobago).  Une réalité qui m'était totalement inconnue jusqu'ici, le *Buena Vista Social Club* local.  Un excellent documentaire bien ficelé, de bons conteurs, et une belle découverte musicale que le Calypso.
 
 À la fin de la représentation, les feux d'artifice (de l'Afrique du Sud) ont pris le relais.  Nous ne sommes pas descendus en bas du pont Jacques-Cartier mais avons préféré trouver une petite butte dans le parc nous permettant d'apercevoir les feux les plus hauts lancés.  Un moment en amoureux, devant la fontaine colorée du parc, en toute quiétude.  Un moment comme on en voudrait à longueur d'année, mais que seule la magie de l'été, la douceur du temps, l'esprit (faussement) en vacances permet...
 
@@ -32,7 +32,7 @@ Le soir, nous sommes ressortis au Théâtre de Verdure (c'est décidément géni
 
 ~~
 
-Dernièrement, j'ai emprunté des épisodes d' à la Grande Bibliothèque.  J'étais très impressionnée par cette série, étant petite, que je trouvais incroyablement bien faite.  Je voulais voir, rétrospectivement et avec mon regard critique d'adulte du XXIe sièce, si c'était si bien que ça.
+Dernièrement, j'ai emprunté des épisodes d'[Iniminimagimo](http://www.angelfire.com/wy/iniminimagimo4/index2.html) à la Grande Bibliothèque.  J'étais très impressionnée par cette série, étant petite, que je trouvais incroyablement bien faite.  Je voulais voir, rétrospectivement et avec mon regard critique d'adulte du XXIe sièce, si c'était si bien que ça.
 
 Eh bien franchement, pour une émission québécoise des années 80, j'ai trouvé ça drôlement bien foutu.  Des décors et des costumes de qualité, des histoires bien racontées, un langage élaboré, quelques effets spéciaux...  C'était super ce truc, je n'ai pas du tout honte d'avoir regardé ça !  (Contrairement à Passe-Partout...)
 

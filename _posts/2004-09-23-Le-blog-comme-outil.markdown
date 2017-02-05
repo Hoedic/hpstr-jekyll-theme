@@ -14,4 +14,4 @@ Ce matin je prenais ma douche et je réfléchissais à un projet que j'ai à ré
 
 Ce qui est ressorti de ma douche c'est la nécessité de mettre une personne responsable pour chaque partie du projet et de faire des mini-équipes croisées. Comme chaque élément dépend des autres, il faut aussi que l'information soit disponible facilement à tout le monde à travers une sorte de *knowledge base*. Solution : le blog.
 
- a souvent évoqué l'utilité du blog en contexte d'entreprise, j'en viens à croire que ça peut aussi être utile en contexte de projet, même "à l'école". Je vais surement proposer cette idée lors de notre réunion de planification, ce WE, mais un des membres semblait déjà intéressé. J'aurais surement l'occasion d'en reparler si ça fonctionne !
+[François](http://www.padawan.info/fr/) a souvent évoqué l'utilité du blog en contexte d'entreprise, j'en viens à croire que ça peut aussi être utile en contexte de projet, même "à l'école". Je vais surement proposer cette idée lors de notre réunion de planification, ce WE, mais un des membres semblait déjà intéressé. J'aurais surement l'occasion d'en reparler si ça fonctionne !

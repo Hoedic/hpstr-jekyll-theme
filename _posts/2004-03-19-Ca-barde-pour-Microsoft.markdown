@@ -10,7 +10,7 @@ categories:
 
 Pour faire suite à mon message sur Microsoft, il semblerait que le ton monte avec la Commission Européenne qui semble-t-il rompu les négociations et s'apprêterait à sortir une *décision forte*.
 
-Le  :
+Le [communiqué officiel](http://europa.eu.int/rapid/start/cgi/guestfr.ksh?p_action.gettxt=gt&doc=IP/04/365%7C0%7CRAPID&lg=Fr&display=) :
 
 <blockquote class="citation">
 **Déclaration du commissaire Monti sur l'affaire Microsoft**

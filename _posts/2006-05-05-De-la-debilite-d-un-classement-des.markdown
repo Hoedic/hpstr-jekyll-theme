@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La Presse a fait paraître cette semaine un .
+La Presse a fait paraître cette semaine un [classement des urgences du Québec](http://www.cyberpresse.ca/assets/jpg/CP30551.JPG).
 
 Je trouve ça débile et je vais vous dire pourquoi.  D'abord, les critères utilisés représentent mal la réalité.  Ensuite, je n'en ai vu aucune analyse intelligente et ce, où que ce soit.
 

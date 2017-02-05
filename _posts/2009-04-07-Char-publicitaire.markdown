@@ -14,7 +14,7 @@ En effet avec les prix du pétrole (avant leur dégringolade) chacun cherchait u
 
 Par ailleurs, des publicités bien faites pourraient même enjoliver les voitures dont les couleurs toutes pareilles sont d'un ennui mortel.
 
-Tout ceci pour finalement lire ce matin un  sur une  qui propose des prix défiants toute concurrence grâce à de la (voyante) publicité sur le véhicule.
+Tout ceci pour finalement lire ce matin un [article](http://monvolant.cyberpresse.ca/actualites/200904/07/01-844298-bientot-dans-une-rue-pres-de-chez-vous.php) sur une [firme de location/auto-partage](http://www.cityflitz.com/home/) qui propose des prix défiants toute concurrence grâce à de la (voyante) publicité sur le véhicule.
 
 Pourquoi pas ! Mais pourquoi se contenter seulement d'un parc de voitures de location ?
 

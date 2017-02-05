@@ -8,9 +8,9 @@ categories:
 ---
 
 
- ne cesse de me surprendre et me semble de plus en plus rapide ! Profitant du déménagement, j'ai essayé de rectifier une erreur que j'avais fait il y a quelques temps et qui mettait tous mes articles en "noindex" alors que je veux que certains soient indexables (et donc utilisables par Google), quand je leur mets un mot-clé particulier dans .
+[Google](http://www.google.ca/) ne cesse de me surprendre et me semble de plus en plus rapide ! Profitant du déménagement, j'ai essayé de rectifier une erreur que j'avais fait il y a quelques temps et qui mettait tous mes articles en "noindex" alors que je veux que certains soient indexables (et donc utilisables par Google), quand je leur mets un mot-clé particulier dans [Spip](http://www.spip.net/).
 
-Morale de l'histoire, en moins d'une semaine,  a généré 1200 hits (soit pas loin du nombre total de pages hébergées sur ce site) ! Pis, en rectifiant mes scripts, j'ai mis tous mes articles en "index", du coup notre moteur de recherche favori indexe toutes nos pages provoquant plus de 50 visites rien qu'aujourd'hui et des commentaires comme je n'en cherche pas particulièrement.
+Morale de l'histoire, en moins d'une semaine, [Googlebot](http://www.google.com/bot.html) a généré 1200 hits (soit pas loin du nombre total de pages hébergées sur ce site) ! Pis, en rectifiant mes scripts, j'ai mis tous mes articles en "index", du coup notre moteur de recherche favori indexe toutes nos pages provoquant plus de 50 visites rien qu'aujourd'hui et des commentaires comme je n'en cherche pas particulièrement.
 
 D'ailleurs certaines personnes attentives auront remarqué que nous avons supprimé quelques messages dont un qui était certes pertinent (pas un vulgaire troll) mais que nous avons jugé trop négatif à notre encontre. Comme l'indique le nom de domaine, c'est "MON" île, et par conséquent nous y appliquons une loi autoritaire et discretionnaire à 100%, c'est comme ça :)
 

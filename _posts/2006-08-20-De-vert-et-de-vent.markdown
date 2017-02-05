@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Nous quittons l'auberge Métis-sur-mer non sans satisfaction, mais sous un temps menaçant et même légèrement pluvieux. Les deux activités prévues de la journées, en plus de la route pour se rendre au  à une heure raisonnable, sont les  et les . Beaucoup à faire a priori, mais fidèles à notre habitude de vacances, nous sommes sur le pied de guerre et faisons l'ouverture des Jardins.
+Nous quittons l'auberge Métis-sur-mer non sans satisfaction, mais sous un temps menaçant et même légèrement pluvieux. Les deux activités prévues de la journées, en plus de la route pour se rendre au [Parc National de la Gaspésie](http://www.sepaq.com/pq/gas/fr/) à une heure raisonnable, sont les [Jardins de Métis](http://www.jardinsmetis.com/) et les [éoliennes de Cap-chat](http://www.eolecapchat.com/). Beaucoup à faire a priori, mais fidèles à notre habitude de vacances, nous sommes sur le pied de guerre et faisons l'ouverture des Jardins.
 
 Des jardins valant bien le jardin botanique de Montréal, peut-être en plus intime, en pleine Gaspésie, région froide et aride s'il en est, dans un coin pas particulièrement reconnu pour le tourisme, le concept peut sembler étonnant. Pourtant, ça marche, et plutôt bien. Alors que nous entrons, nous croisons principalement des jardiniers -les bus de vieux ne sont pas encore arrivés, c'est dire que nous sommes tôt.
 

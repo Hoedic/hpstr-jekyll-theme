@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Pour revenir rapidement sur la gestion des matières résiduelles, je vous invite à parcourir le  de La Presse sur le sujet.
+Pour revenir rapidement sur la gestion des matières résiduelles, je vous invite à parcourir le [dossier spécial](http://www.cyberpresse.ca/article/20070404/CPENVIRONNEMENT02/609300830/6579/CPENVIRONNEMENT02) de La Presse sur le sujet.
 
 Pour avoir travaillé dans le domaine et avoir participé à des consultations de la <acronym title="Communauté Métropolitaine de Montréal">CMM</acronym> sur le sujet, c'est un euphémisme de dire que ça n'avance pas vite. La Ville de Montréal se préoccupe surtout de savoir dans quel dépotoir elle va envoyer ses déchets et au niveau institutionnel c'est ni fait ni à faire comme disait mon connard de père.
 

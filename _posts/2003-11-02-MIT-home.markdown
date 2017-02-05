@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<a href="http://www.lemonde.fr/web/article/0,1-0@2-3266,36-340204,0.html" title="Le MIT à portée de clic">Le Monde</a> se fait aujourd'hui l'écho du lancement officiel du .
+<a href="http://www.lemonde.fr/web/article/0,1-0@2-3266,36-340204,0.html" title="Le MIT à portée de clic">Le Monde</a> se fait aujourd'hui l'écho du lancement officiel du [MIT OpenCourseWare](http://ocw.mit.edu/index.html).
 
 C'est un projet qui court au Massachussets Institute of Technology depuis un bon de temps et que j'étais allé voir il y a quelques années... alors qu'il n'y avait pas grand chose à y voir.
 

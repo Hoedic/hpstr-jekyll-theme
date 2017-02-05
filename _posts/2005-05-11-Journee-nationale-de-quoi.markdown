@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Hier était la . D'autant plus bizarre que c'est en soutien à la lutte contre le cancer du sein. Le principe : porter du denim (un jeans quoi), une petit ruban rose en forme d'étoile et donner 5$ pour la lutte contre le cancer.
+Hier était la [Journée Nationale du Denim](http://www.fondationcure.com/curefoundation/cure_fr/default.asp?disp=denim&flHead=ok). D'autant plus bizarre que c'est en soutien à la lutte contre le cancer du sein. Le principe : porter du denim (un jeans quoi), une petit ruban rose en forme d'étoile et donner 5$ pour la lutte contre le cancer.
 
 Moralité, hier tout le monde s'est pointé denim-causual alors que moi j'étais "normal", sans cravate puisque ces dernières étaient encore encartonnées. J'ai du passer pour le gars qui s'en fout.
 

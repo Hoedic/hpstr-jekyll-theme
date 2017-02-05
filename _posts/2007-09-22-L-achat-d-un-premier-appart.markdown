@@ -36,4 +36,4 @@ Depuis, nous passons d'un contentement à un autre. Là où nous croyions démé
 
 Le meilleur des mondes, quoi. C'est drôlement agréable d'être encore plus contents que prévu !
 
-P.S. Merci à  pour son aide et sa patience dans tout ce processus. Et pour avoir enduré nos multiples voltes-faces ;)
+P.S. Merci à [Sally](http://www.geocities.com/monde-de-sally/2007-09/20-09-2007.html) pour son aide et sa patience dans tout ce processus. Et pour avoir enduré nos multiples voltes-faces ;)

@@ -24,7 +24,7 @@ Autre découverte : c'est bien gentil de planter pleins de graines les unes à c
 
 
 
-Bon, sinon j'aimerais que les gens arrêtent de se plaindre de la température ! Oui, il fait chaud, mais on se plaint la moitié de l'année qu'il fait froid. Alors merde à la fin. Même moi que je ne supporte pas la chaleur habituellement, j'aime ça en ce moment : un petit 30°C avec un soleil assez doux, et pas trop de  à Montréal. Ok, dans les appartements il fait chaud et je comprends ceux qui bossent chez eux. Mais c'est bon pourtant. Moi le midi je vais faire une sieste dehors à l'ombre, 15/20 minutes... super. C'est tellement mieux que de rester cloitrer dans nos cubes climatisés (Les USA sont encore en train de faire chier leur peuple en voulant changer la date du changement d'heure été/hiver, tout ça pour économiser quelques heures d'éclairage dont il a été prouvé que ça a un impact faible, alors que baisser le niveau de climatisation aurait surement plus d'impact !) à fond et éclairés au néon ! Beurk
+Bon, sinon j'aimerais que les gens arrêtent de se plaindre de la température ! Oui, il fait chaud, mais on se plaint la moitié de l'année qu'il fait froid. Alors merde à la fin. Même moi que je ne supporte pas la chaleur habituellement, j'aime ça en ce moment : un petit 30°C avec un soleil assez doux, et pas trop de [smog](http://en.wikipedia.org/wiki/Smog) à Montréal. Ok, dans les appartements il fait chaud et je comprends ceux qui bossent chez eux. Mais c'est bon pourtant. Moi le midi je vais faire une sieste dehors à l'ombre, 15/20 minutes... super. C'est tellement mieux que de rester cloitrer dans nos cubes climatisés (Les USA sont encore en train de faire chier leur peuple en voulant changer la date du changement d'heure été/hiver, tout ça pour économiser quelques heures d'éclairage dont il a été prouvé que ça a un impact faible, alors que baisser le niveau de climatisation aurait surement plus d'impact !) à fond et éclairés au néon ! Beurk
 
 ![Image]({{ site.url }}/images/couloir-metro_21-07-2005.jpg)
 <div class="photoattrib">Couloir de métro</div>
@@ -32,4 +32,4 @@ Bon, sinon j'aimerais que les gens arrêtent de se plaindre de la température !
 
 
 
-Ce temps clément me permet aussi de me déplacer quasi uniquement en vélo depuis mon retour (l'achat de ma carte mensuelle de métro se trouvera surement être une pure perte...) Un jour, peut-être, je serais courageux et j'irais me balader à  puis aux  (qui malheureusement finissent à peine quelques jours avant le retour de Ebb, c'est bien dommage).
+Ce temps clément me permet aussi de me déplacer quasi uniquement en vélo depuis mon retour (l'achat de ma carte mensuelle de métro se trouvera surement être une pure perte...) Un jour, peut-être, je serais courageux et j'irais me balader à [Juste pour rire](http://www.hahaha.com/) puis aux [Franco](http://www.francofolies.com/) (qui malheureusement finissent à peine quelques jours avant le retour de Ebb, c'est bien dommage).

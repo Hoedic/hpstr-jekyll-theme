@@ -14,7 +14,7 @@ Mais qu'il est difficile, sur ce sujet, de savoir quel est l'avis des Américain
 
 Lors du second débat, un élément m'avait marqué sans pour autant déclencher des commentaires : Kerry avait dit que Bush détenait une entreprise en bois. Ce dernier avait répondu qu'il apprenait quelque chose et avait tourné en ridicule la remarque de Kerry. Je me demandais lequel "mentait", et ça me semblait assez important comme détail.
 
-Grâce à un  du quotidien Le Monde j'ai eu ma réponse puisque l'article liait , un site qui cherchant à vérifier les arguments, des deux cotés. Selon ce site, ce que je comprends comme étant une holding détenue par Bush, détient 50% d'une firme dans le bucheronnerie. Donc l'argument de Kerry est juste... mais bon...
+Grâce à un [article](http://www.lemonde.fr/web/article/0,1-0@2-3266,36-382762,0.html) du quotidien Le Monde j'ai eu ma réponse puisque l'article liait [FackCheck.org](http://factcheck.org/), un site qui cherchant à vérifier les arguments, des deux cotés. Selon ce site, ce que je comprends comme étant une holding détenue par Bush, détient 50% d'une firme dans le bucheronnerie. Donc l'argument de Kerry est juste... mais bon...
 
 ![Image]({{ site.url }}/images/stjoseph-nuit_13-04-2004.jpg)
 <div class="photoattrib">Oratoire Saint-Joseph</div>

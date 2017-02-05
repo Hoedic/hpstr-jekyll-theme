@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Alors si comme moi vous travaillez en ce lundi de Pâaaaques (les bourses américaines sont sans foi ni loi) et que vous passez dans le centre-ville de Montréal, vous aurez surement l'occasion de voir des , l'air hagard,  déambuler (somnambuler ?) à droite à gauche. Gars en T-shirt, fille en mini-jupe et moins si affinité, le tout par des températures avoisinant les 0°C (en fait avec le vent il fait même moins que zéro... surtout quand on n'est pas habillé).
+Alors si comme moi vous travaillez en ce lundi de Pâaaaques (les bourses américaines sont sans foi ni loi) et que vous passez dans le centre-ville de Montréal, vous aurez surement l'occasion de voir des [abrutis tout de blanc peu vêtus](http://www.balenblanc.com/), l'air hagard,  déambuler (somnambuler ?) à droite à gauche. Gars en T-shirt, fille en mini-jupe et moins si affinité, le tout par des températures avoisinant les 0°C (en fait avec le vent il fait même moins que zéro... surtout quand on n'est pas habillé).
 
 Y a pas à dire la techno rend con.
 

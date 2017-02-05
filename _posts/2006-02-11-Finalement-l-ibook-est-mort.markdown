@@ -16,4 +16,4 @@ Un ibook et et un ipod, achetés en même temps, été 2004, utilisés par deux 
 
 On va maintenant voir l'efficacité du support technique.
 
-Pour rire un peu concernant Apple : 
+Pour rire un peu concernant Apple : [Crash different](http://www.micheldumais.com/archives/2006/02/09/crash-different/)

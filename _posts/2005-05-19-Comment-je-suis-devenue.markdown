@@ -22,7 +22,7 @@ Quand je suis revenue ici, je n'en suis pas revenue de constater que pour un tau
 
 Finalement, on se trouve ici dans un contexte où le gouvernement fédéral fait tout pour nous retenir, plus ou moins contre notre gré, par exemple en faisant plein de publicité pour nous convaincre d'aimer ce pays.  Personnellement, quand j'élis un gouvernement, c'est pour qu'il me représente, pas pour qu'il me fasse de la pub et oriente mon opinion dans son intérêt !  Et certainement pas pour qu'il le fasse avec l'argent des contribuables, ou mieux, avec de l'argent corrompu.  L'acte de citoyenneté n'est pas équivalent à n'importe quel vulgaire acte de consommation.
 
-Bref, j'espère que les récents événements vont finir de dégoûter les Québécois de l'attitude du Canada envers eux, et les Canadiens anglais de l'attitude de leur pays par rapport à notre province.  D'ailleurs, il semble que ce soit déjà le cas et que certains , dans le *rest of Canada* (ROC), en viennent maintenant à cette conclusion : que la souveraineté du Québec serait non seulement inéluctable, mais aussi tout bonnement souhaitable.
+Bref, j'espère que les récents événements vont finir de dégoûter les Québécois de l'attitude du Canada envers eux, et les Canadiens anglais de l'attitude de leur pays par rapport à notre province.  D'ailleurs, il semble que ce soit déjà le cas et que certains [chroniqueurs réputés](http://qc.novopress.info/index.php?p=731), dans le *rest of Canada* (ROC), en viennent maintenant à cette conclusion : que la souveraineté du Québec serait non seulement inéluctable, mais aussi tout bonnement souhaitable.
 
 Et ça, je crois que c'est résolument nouveau, comme idée qui fait son chemin.
 

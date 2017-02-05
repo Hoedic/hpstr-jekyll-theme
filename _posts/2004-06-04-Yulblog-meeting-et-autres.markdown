@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Hier un nouveau  après une conférence de création d'entreprise. En fait nous ne sommes pas resté très longtemps, j'étais fatigué et je voulais me doucher avant de me coucher puisque ça faisait bien cinq jour que je n'avais pas vu du savon de près.
+Hier un nouveau [Yulblog](http://yulblog.org/) après une conférence de création d'entreprise. En fait nous ne sommes pas resté très longtemps, j'étais fatigué et je voulais me doucher avant de me coucher puisque ça faisait bien cinq jour que je n'avais pas vu du savon de près.
 
 En fait, Yulblog, c'est trop fréquent et pas assez fréquent. Trop fréquent parce qu'un mois, c'est rapide et on a vite fait de passer de l'un à l'autre. D'un autre coté j'aimerais connaître plus de monde, voir ceux que je commence à connaître un peu plus souvent. En fait hier j'aurais du rester plus longtemps aussi !
 

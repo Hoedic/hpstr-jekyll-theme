@@ -10,7 +10,7 @@ categories:
 
 Eh oui, cours d'anglais parce que je suis un gros nul qui ne sait pas aligner 3 mots en anglais !
 
-Non, c'est pas vrai. Pour un Français, mon niveau d'anglais peut être considéré comme bon, d'autant que j'ai eu l'occasion de le pratiquer à plusieurs reprises mais un peu rouillé malgré tout et avec un certain manque de vocabulaire. J'ai donc choisi un cours de *Business oral communication* de l', ça tue hein ? En fait, c'est surtout l'occasion de causer anglais en des termes peu usités quotidiennement.
+Non, c'est pas vrai. Pour un Français, mon niveau d'anglais peut être considéré comme bon, d'autant que j'ai eu l'occasion de le pratiquer à plusieurs reprises mais un peu rouillé malgré tout et avec un certain manque de vocabulaire. J'ai donc choisi un cours de *Business oral communication* de l'[Université de Montréal](http://umontreal.ca/), ça tue hein ? En fait, c'est surtout l'occasion de causer anglais en des termes peu usités quotidiennement.
 
 ![Image]({{ site.url }}/images/tshirt-udem-22-01-03.jpg)
 <div class="photoattrib">Université de Montréal</div>

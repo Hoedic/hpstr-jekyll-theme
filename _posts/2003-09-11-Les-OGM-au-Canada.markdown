@@ -10,7 +10,7 @@ categories:
 
 Le 3 septembre dernier, <a href="http://www.ledevoir.com/2003/09/03/35267.html" title="Des aliments bio portent des traces d'OGM">un article</a> du quotidien Le Devoir a fait beaucoup de bruit en annonçant qu'une enquête avait décelé des traces d'OGM dans des produits étiquetés bio.
 
-Le quotidien continue sur le sujet en publiant <a href="http://www.ledevoir.com/2003/09/09/35684.html" title="OGM: l'étiquetage reste au choix des fabricants">un nouvel article</a> en date du 9 septembre sur le projet de l' concernant l'étiquetage des aliments génétiquement modifiés. Le résultat des négociations est assez simple : on laisse les industriels faire comme il sentent, sachant qu'ils ont le droit d'utiliser la dénomination *sans OGM* pour des produits contenant 5% ou moins d'OGM.
+Le quotidien continue sur le sujet en publiant <a href="http://www.ledevoir.com/2003/09/09/35684.html" title="OGM: l'étiquetage reste au choix des fabricants">un nouvel article</a> en date du 9 septembre sur le projet de l'[Office des Normes Générales Canadiennes](http://www.pwgsc.gc.ca/) concernant l'étiquetage des aliments génétiquement modifiés. Le résultat des négociations est assez simple : on laisse les industriels faire comme il sentent, sachant qu'ils ont le droit d'utiliser la dénomination *sans OGM* pour des produits contenant 5% ou moins d'OGM.
 
 ![Image]({{ site.url }}/images/poire.gif)
 Qu'est-ce que tout cela signifie ? Est-ce grave, docteur ? À dire vrai, je ne sais pas trop, je ne suis pas spécialiste en biotechnologie, je m'intéresse juste au sujet. Cela amène toutefois quelques réflexions.

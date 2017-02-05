@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je l'ai dit hier, les commentaires c'est fantastiques ! Suite à un  de Ebb sur des histoires de ragnagna, une personne a ajouté un  stipulant qu'elle était "". Je n'ai pu contenir un éclat de rire en lisant ceci, tout en repensant immédiatement au dernier de Houellebecq. Le livre en question,  qui n'est finalement qu'un ramassis des Raéliens et du mouvement "ChildFree" (le terme est simplement repris dans le livre).
+Je l'ai dit hier, les commentaires c'est fantastiques ! Suite à un [billet]({{ site.url }}/2006/04/10/Grosse-nazerie) de Ebb sur des histoires de ragnagna, une personne a ajouté un [commentaire](http://www.mon-ile.net/carnet/blog1688.html#forum4295) stipulant qu'elle était "[ChildFree by choice](http://www.childfreebychoice.com/)". Je n'ai pu contenir un éclat de rire en lisant ceci, tout en repensant immédiatement au dernier de Houellebecq. Le livre en question, [La possibilité d'une île]({{ site.url }}/2006/03/19/La-possibilite-d-une-ile) qui n'est finalement qu'un ramassis des Raéliens et du mouvement "ChildFree" (le terme est simplement repris dans le livre).
 
 Dans le roman, ce groupe d'illuminés passe d'un rassemblement qui vit dans l'espoir d'une vie éternelle à travers le clonage (et qui n'a donc pas "besoin" de se reproduire) à une force sociale anti-enfant qui va jusqu'à faire de la publicité pour permettre à tous de découvrir l'horreur d'avoir un enfant.
 
@@ -23,6 +23,6 @@ Les raisons proposées pour ne pas avoir d'enfants ratissent large : volonté de
 
 Entendons-nous bien : que des personnes ne souhaitent pas d'enfants, je le comprends tout à fait. Douillet comme je suis, si j'étais une femme, la simple idée de l'accouchement suffirait surement à calmer toute envie ! Là où ça devient contrariant, c'est quand des gens viennent à se regrouper pour défendre et propager cette manière de voir... bande de casse-couilles !
 
-Ce genre de mouvement, qui me semble surtout répandu en Amérique du Nord (Possiblement en réaction au protestantisme ambiant très famille mêlé au syndrome de faire des assos pour un oui ou pour un non) s'accompagne de son lot de conneries comme l'usage excessif de méthode de stérilisation définitives autant pour la femme que pour l'homme. Des gars qui se font  à 23 ans, ça me semble complètement débile. Surtout quand c'est pour ensuite faire marche arrière parce que finalement on en veut, et ensuite se refaire vasectomiser parce qu'on décide qu'un seul ça suffit (exemple réel).
+Ce genre de mouvement, qui me semble surtout répandu en Amérique du Nord (Possiblement en réaction au protestantisme ambiant très famille mêlé au syndrome de faire des assos pour un oui ou pour un non) s'accompagne de son lot de conneries comme l'usage excessif de méthode de stérilisation définitives autant pour la femme que pour l'homme. Des gars qui se font [vasectomiser](http://fr.wikipedia.org/wiki/Vasectomie) à 23 ans, ça me semble complètement débile. Surtout quand c'est pour ensuite faire marche arrière parce que finalement on en veut, et ensuite se refaire vasectomiser parce qu'on décide qu'un seul ça suffit (exemple réel).
 
 Ces histoires me semblent vraiment ridicules mais il fallait que je m'exprime tellement le parallèle entre le livre de Houellebecq et ce mouvement m'a fait trésaillir.

@@ -10,7 +10,7 @@ categories:
 
 Depuis que Macromedia Flash intégre les vidéos et qu'un nombre croissant de foyers disposent d'une connexion haute vitesse, les annonceurs internet sont de plus en plus gourmands et utilisent désormais de manière régulière les vidéos.
 
-Certains sont créatifs. C'est le cas de la  (Une pub de Super Bowl qui peut également passer assez facilement en streaming avec une petite fenêtre et dont les sous-titres permettent de ne pas avoir le son. À mon goût un chef d'oeuvre d'annonce multi-medium) qui utilise une taille d'image minimale pour passer un clip drôle, même sans le son. Le message passe bien et incite à creuser un peu sans pour autant déranger.
+Certains sont créatifs. C'est le cas de la [pub Fedex](http://youtube.com/watch?v=n47qT0u88W8) (Une pub de Super Bowl qui peut également passer assez facilement en streaming avec une petite fenêtre et dont les sous-titres permettent de ne pas avoir le son. À mon goût un chef d'oeuvre d'annonce multi-medium) qui utilise une taille d'image minimale pour passer un clip drôle, même sans le son. Le message passe bien et incite à creuser un peu sans pour autant déranger.
 
 ![Image]({{ site.url }}/images/fedex.jpg)
 <div class="photoattrib">Capture d'écran de la publicité Fedex</div>

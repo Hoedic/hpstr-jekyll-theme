@@ -8,16 +8,16 @@ categories:
 ---
 
 
-Les cours que j'ai commencé à  sont vraiment très intéressants et les profs à la hauteur de ce qu'on peut attendre du niveau maîtrise et doc (avec énormément de boulot, mais on a ce qu'on mérite !). Alors que dernièrement j'avais un peu laché les questions environnementales du fait de la frustration que j'ai vécu quand j'ai travaillé dans ce milieu, petit à petit je retrouve mon intérêt pour ce sujet, mes quelques articles récents en témoignent, et les quelques cours que j'ai déjà eu amènent ou font ressurgir quelques concepts.
+Les cours que j'ai commencé à [Polytechnique](http://www.polymtl.ca/) sont vraiment très intéressants et les profs à la hauteur de ce qu'on peut attendre du niveau maîtrise et doc (avec énormément de boulot, mais on a ce qu'on mérite !). Alors que dernièrement j'avais un peu laché les questions environnementales du fait de la frustration que j'ai vécu quand j'ai travaillé dans ce milieu, petit à petit je retrouve mon intérêt pour ce sujet, mes quelques articles récents en témoignent, et les quelques cours que j'ai déjà eu amènent ou font ressurgir quelques concepts.
 
 ![Image]({{ site.url }}/images/couchesoleil-poly_04-09-2004.jpg)
 <div class="photoattrib">Montréal s'endort sous l'objectif attentif de mon appareil photo</div>
 
 
 
-Par exemple l'un de mes cours concerne la commercialisation des innovations technologiques. Il est donné par une experte en marketing et on ne met pas beaucoup de temps à comprendre que son métier consiste à être à l'affut des tendances de la société. À ce titre les questions environnementales et sociales sont revenues à plusieurs reprises dans ses exemples, citant entre autres la récente  comme preuve de cette tendance.
+Par exemple l'un de mes cours concerne la commercialisation des innovations technologiques. Il est donné par une experte en marketing et on ne met pas beaucoup de temps à comprendre que son métier consiste à être à l'affut des tendances de la société. À ce titre les questions environnementales et sociales sont revenues à plusieurs reprises dans ses exemples, citant entre autres la récente [Université du Nouveau Monde]({{ site.url }}/2004/08/26/La-couverture-mediatique-de-l-UNM) comme preuve de cette tendance.
 
-Il est évident que les questions environnementales vont bientôt se retrouver au coeur des stratégies marketing du fait d'une augmentation notable des alterconsommateurs(Rien à voir avec les altermondialistes. Voir l' du quotidien  à ce sujet.), déjà très nette en Europe.
+Il est évident que les questions environnementales vont bientôt se retrouver au coeur des stratégies marketing du fait d'une augmentation notable des alterconsommateurs(Rien à voir avec les altermondialistes. Voir l'[article](http://www.lemonde.fr/web/article/0,1-0@2-3234,36-372546,0.html) du quotidien [Le Monde](http://www.lemonde.fr/) à ce sujet.), déjà très nette en Europe.
 
 En France, on se voyait déjà des publicités vantant les mérites de tel produit ménagé qui n'endommage pas l'environnement ou tel truc qui consomme moins d'eau que la moyenne.
 
@@ -29,7 +29,7 @@ Dans certains cas il est possible de s'en remettre aux étiquettes, comme il est
 
 Pour la culture biologique, on peut s'en remettre à des labels, cependant ces derniers commencent à pulluler et tous ne sont pas de la même qualité semble-t-il. On commence à toucher aux limites du système.
 
-En matière d'OGM, en Europe la réglementation sur l'étiquetage est très clair. Ici, au Canada, ça commence à être autrement plus compliqué puisqu'il n'y a ni étiquetage obligatoire, ni traçabilité des ingrédients transgéniques qui se retrouvent presque partout. Il y a bien  qui produit un  mais est-ce vraiment pratique de faire ses courses avec ce guide à la main ? Peu de gens vont se fatiguer à consulter ce guide pour faire un choix de produit.
+En matière d'OGM, en Europe la réglementation sur l'étiquetage est très clair. Ici, au Canada, ça commence à être autrement plus compliqué puisqu'il n'y a ni étiquetage obligatoire, ni traçabilité des ingrédients transgéniques qui se retrouvent presque partout. Il y a bien [Greenpeace](http://greenpeace.ca/) qui produit un [guide des aliments OGM](http://www.greenpeace.ca/guideogm/index.php) mais est-ce vraiment pratique de faire ses courses avec ce guide à la main ? Peu de gens vont se fatiguer à consulter ce guide pour faire un choix de produit.
 
 En dehors de toute considération pro ou anti-OGM, la solution européenne semble la meilleure : traçabilité et étiquetage. Ensuite à chacun son choix. Face à cela, la politique nord-américaine visant à se désengager du domaine commercial va amener inévitablement des abus. Si la sensibilisation environnementale porte ses fruits et que les consommateurs deviennent plus demandant de ce point de vue, ça risque de se traduire principalement par un effort marketing, l'action environnementale demeurant en reste car nettement plus coûteuse !
 

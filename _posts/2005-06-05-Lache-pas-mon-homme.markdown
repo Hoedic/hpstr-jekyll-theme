@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Le  fait partie des événements qui lancent la saisons des activités d'été à Montréal qui se poursuit par de nombreux festivals.
+Le [tour de l'île de Montréal](http://www.velo.qc.ca/feria/) fait partie des événements qui lancent la saisons des activités d'été à Montréal qui se poursuit par de nombreux festivals.
 
-À l'invite de quelques personnes d', je me suis inscrit cette année au tour de l'île, une promenade d'une cinquantaine de kilomètres à laquelle entre 20.000 et 30.000 personnes étaient attendues. Moyen de sociabiliser un peu tout en voyant ce qu'est ce fameux tour !
+À l'invite de quelques personnes d'[iC](http://www.immigrer-contact.com/), je me suis inscrit cette année au tour de l'île, une promenade d'une cinquantaine de kilomètres à laquelle entre 20.000 et 30.000 personnes étaient attendues. Moyen de sociabiliser un peu tout en voyant ce qu'est ce fameux tour !
 
 ![Image]({{ site.url }}/images/tourile-mtl_05-06-2005.jpg)
 <div class="photoattrib">Tour de l'île 2005</div>

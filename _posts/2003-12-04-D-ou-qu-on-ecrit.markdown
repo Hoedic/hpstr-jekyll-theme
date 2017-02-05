@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'avais raté mon coup lors de la , mais , je ne vais pas me priver !
+J'avais raté mon coup lors de la [première occasion](http://www.martinepage.com/bloggersspot/bloggersspot_start.html), mais [cette fois-ci](http://carnets.ixmedia.com/magellan/archives/003336.html), je ne vais pas me priver !
 
 Voici d'où nous écrivons Ebb et moi.
 

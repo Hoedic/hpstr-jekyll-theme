@@ -11,4 +11,4 @@ categories:
 ![Image]({{ site.url }}/images/savane-a.jpg)
 
 
-De toutes manières tu sais bien que cette  est vaine !
+De toutes manières tu sais bien que cette [tentative crypto-anti-féline](http://embruns.net/logbook/2007/03/09.html#004732) est vaine !

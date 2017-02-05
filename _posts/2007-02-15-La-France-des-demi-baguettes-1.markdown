@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Article rédigé en écho à  de Winckler.
+Article rédigé en écho à [cette suggestion](http://martinwinckler.com/article.php3?id_article=858) de Winckler.
 
 J'avais 17 ans quand je suis arrivée à Nantes, en France, pour faire ma Première au lycée, en série scientifique.
 

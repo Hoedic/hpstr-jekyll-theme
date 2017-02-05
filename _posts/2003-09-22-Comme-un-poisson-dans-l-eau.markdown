@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme  le  si bien, nous avons repris la natation.  Ça ne paraît pas tellement étonnant de la part d'une , qui typiquement est entourée d'eau...  mais pour Hoëdic c'est important à la suite de son opération.
+Comme [Hoëdic](http://hoedic.ouvaton.org/) le [dit](http://hoedic.ouvaton.org/blog35.html) si bien, nous avons repris la natation.  Ça ne paraît pas tellement étonnant de la part d'une [île](http://ecohoedic.chez.tiscali.fr/), qui typiquement est entourée d'eau...  mais pour Hoëdic c'est important à la suite de son opération.
 
 Je me rappelle même que la première fois où nous nous sommes parlés, c'était par téléphone, et je l'appelais pour lui souhaiter que ladite intervention se passe bien...
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le 12 juin 2006, à 20h30,  a fait son entrée fracassante dans le monde, après un travail éprouvant pour sa maman (et son papa aussi, il faut le dire).  Comme quoi, un bébé, ça se mérite !
+Le 12 juin 2006, à 20h30, [Hugo](http://www.flickr.com/photos/thepretender/166680930/) a fait son entrée fracassante dans le monde, après un travail éprouvant pour sa maman (et son papa aussi, il faut le dire).  Comme quoi, un bébé, ça se mérite !
 
 Toutes nos félicitations à nos amis, qui feront des super parents et qui sont déjà beaux à voir.
 

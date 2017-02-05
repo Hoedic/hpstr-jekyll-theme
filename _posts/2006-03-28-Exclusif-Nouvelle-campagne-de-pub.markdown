@@ -14,7 +14,7 @@ categories:
 [Frygad] Est-ce qu'une fille peut bloquer les pop-ups pour toi ? Non.<br/>
 [Frygad] Est-ce que Firefox peut te montrer des filles nues ? Oui.<br/></blockquote>
 
-Laurent a fait un  vers ce  regroupant des perles IRC (Chat sur Internet pour les ignares), MSN et autres. Je viens de perdre mon heure de déjeuner dessus mais j'en ai les larmes aux yeux.
+Laurent a fait un [lien](http://embruns.net/logbook/2006/03/28.html#003497) vers ce [site](http://www.bashfr.org/) regroupant des perles IRC (Chat sur Internet pour les ignares), MSN et autres. Je viens de perdre mon heure de déjeuner dessus mais j'en ai les larmes aux yeux.
 
 Un autre petit pour la route :
 

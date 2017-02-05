@@ -12,4 +12,4 @@ Non pas moi ! Pas encore :)
 
 Non *I am Canadian*, c'est le slogan de Molson, la bière locale, la Budweiser de la frontière du nord et tout comme Bud, ils excellent sur le publicité.
 
-, trouvé via , est vraiment très bonne ! Si vous avez quelques bouts de bande passante dont vous ne savez pas quoi faire, profitez-en pour télécharger ce chef d'oeuvre d'auto-dérision.
+[Celle-ci](http://www.policelink.ca/IamCanadian.mpg), trouvé via [MQ](http://yvonet.com/), est vraiment très bonne ! Si vous avez quelques bouts de bande passante dont vous ne savez pas quoi faire, profitez-en pour télécharger ce chef d'oeuvre d'auto-dérision.

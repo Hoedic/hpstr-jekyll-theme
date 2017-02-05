@@ -10,7 +10,7 @@ categories:
 
 Encore deux longues semaines avant d'avoir enfin fini mon année scolaire.  Tout le monde est en "vacances" depuis longtemps, et moi je commence à en avoir bien marre.
 
-Je ne parlerai pas du déroulement des  d'hier, de leur injustice et de leur très mauvaise représentation de ce que nous avons réellement appris au cours de la session...  (On fait toujours systématiquement et sans se poser de question des examens physiques complets pendant une heure sur chaque patient, la session durant, et là, pouf, l'examen final consiste à se faire minuter comme des sprinters en 10 minutes pour tout faire de façon ultra ciblée et spécifique...)  Sans compter le manque d'entraînement des faux patients et des évaluateurs.  Des symptômes cérébelleux mimés ou pas mimés, ça n'indique pas la même chose du tout au futur médecin en devenir (et en examen final) ; en fait, ça change tout !
+Je ne parlerai pas du déroulement des [ECOS](http://mon-ile.net/carnet/blog469.html) d'hier, de leur injustice et de leur très mauvaise représentation de ce que nous avons réellement appris au cours de la session...  (On fait toujours systématiquement et sans se poser de question des examens physiques complets pendant une heure sur chaque patient, la session durant, et là, pouf, l'examen final consiste à se faire minuter comme des sprinters en 10 minutes pour tout faire de façon ultra ciblée et spécifique...)  Sans compter le manque d'entraînement des faux patients et des évaluateurs.  Des symptômes cérébelleux mimés ou pas mimés, ça n'indique pas la même chose du tout au futur médecin en devenir (et en examen final) ; en fait, ça change tout !
 
 Certes, l'objectif est sûrement que ça se rapproche de la tâche d'un médecin confirmé et chevronné.  Sauf que c'est quand même très artificiel.  Et qu'on n'est qu'en première année ; on a bien le temps d'apprendre à mieux cibler notre raisonnement et nos gestes cliniques, comme d'apprendre à gérer des symptômes aussi vagues que celui de "céphalée", et d'apprendre à aller vite...  Une étape à la fois !
 
@@ -22,13 +22,13 @@ Quant à moi, j'en suis ressortie avec l'impression de bien mal maîtriser mes h
 
 ***
 
-Je vais être Officier Local d'Échange par interim pour l' (l'International Federation of Medical Students' Associations) cet été.  Je vais aussi être "personne contact" pour un étudiant en médecine étranger qui sera en stage d'externat à Montréal.  Je me suis dit qu'à défaut de voyager dans les prochains mois, j'allais tout de même pouvoir m'ouvrir à une autre culture, et sûrement pratiquer mon anglais !
+Je vais être Officier Local d'Échange par interim pour l'[IFMSA](http://www.ifmsa.org/) (l'International Federation of Medical Students' Associations) cet été.  Je vais aussi être "personne contact" pour un étudiant en médecine étranger qui sera en stage d'externat à Montréal.  Je me suis dit qu'à défaut de voyager dans les prochains mois, j'allais tout de même pouvoir m'ouvrir à une autre culture, et sûrement pratiquer mon anglais !
 
 Avec un peu de chance, le poste d'Officiel Local d'Échange (OLÉ) m'incombera ensuite pour toute l'année, ce qui, par ricochet, augmenterait mes chances de pouvoir aller faire un stage à l'étranger moi-même !  (Devinez où je veux aller...)
 
-Parlant de projets et de médecine, mes démarches pour l' avancent, se précisent et sont très stimulantes, même si elles se font encore sans prise de contact ni demande officielle (trop tôt).  Je devrais pouvoir m'y mettre réellement à partir du mois d'août.  En attendant, je trouve des sites d'ONG et d'associations, médicales ou non, qui pourront m'aider à trouver le stage idéal, voire m'aider dans le financement !  Sans compter les documents de conseils divers et variés que j'ai dénichés.
+Parlant de projets et de médecine, mes démarches pour l'[Afrique](http://mon-ile.net/carnet/blog637.html) avancent, se précisent et sont très stimulantes, même si elles se font encore sans prise de contact ni demande officielle (trop tôt).  Je devrais pouvoir m'y mettre réellement à partir du mois d'août.  En attendant, je trouve des sites d'ONG et d'associations, médicales ou non, qui pourront m'aider à trouver le stage idéal, voire m'aider dans le financement !  Sans compter les documents de conseils divers et variés que j'ai dénichés.
 
-Faudrait vraiment que je trouve du temps pour discuter du Gabon (j'ai peut-être une piste là-bas !) avec  ; malheureusement, elle est débordée ces temps-ci.
+Faudrait vraiment que je trouve du temps pour discuter du Gabon (j'ai peut-être une piste là-bas !) avec [Leeloolène](http://leeloolene.net) ; malheureusement, elle est débordée ces temps-ci.
 
 ***
 
@@ -44,6 +44,6 @@ On progresse.  Un (petit) pas à la fois, à son rythme, avec beaucoup d'hésita
 
 J'ai mis à jour ICQ, qui fonctionnait très mal dernièrement...  Se peut-il qu'ils fassent en sorte que le service se mette à déconner complètement quand ils ont décidé qu'on devrait se mettre à jour ?  On verra bien si je vois une différence maintenant...
 
-J'ai aussi changé mon lecteur de fils RSS, de FeedReader (qui n'arrivait pas à lire de nombreux fils et qui plantait tout le temps), au profit de .  A priori, que du bon dans cette migration.  Je vous le conseille aussi, et il est gratuit.
+J'ai aussi changé mon lecteur de fils RSS, de FeedReader (qui n'arrivait pas à lire de nombreux fils et qui plantait tout le temps), au profit de [RssReader](http://www.rssreader.com/).  A priori, que du bon dans cette migration.  Je vous le conseille aussi, et il est gratuit.
 
 Et pendant ce temps, Hoedic fait des choses bien plus compliquées avec Fedora...!

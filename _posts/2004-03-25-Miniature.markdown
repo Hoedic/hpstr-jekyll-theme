@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme j'aime beaucoup le concept des  de chez , j'essaie de me creuser les méninges.
+Comme j'aime beaucoup le concept des [Miniatures](http://taian.akita.free.fr/index.php?/2004/03/24/165-MiniatureDuMercredi24Mars) de chez [Taian Akita blog](http://taian.akita.free.fr/), j'essaie de me creuser les méninges.
 
 J'ai pourtant l'impression de ne pas avoir reçu tant de compliments marquants dans ma vie.  Ce n'est pas que ma mère ne se mette pas un point d'honneur de m'encourager et de me féliciter, depuis toujours.  Ce n'est pas non plus qu'Hoedic ne soit pas gentil comme un ange avec moi, attentionné et adorable.
 

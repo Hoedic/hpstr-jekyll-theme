@@ -8,9 +8,9 @@ categories:
 ---
 
 
-C'est avec jubilation que j'ai regardé hier l'épisode 8 de la 15ème saison des Simpsons : "". Suite à une bagarre généralisée de bébés, une partie de la population de Springfield forme un lobby anti-enfant et demande le retrait de tous les avantages habituellement consentis aux parents (au détriment des *childless*).
+C'est avec jubilation que j'ai regardé hier l'épisode 8 de la 15ème saison des Simpsons : "[Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays](http://www.thesimpsons.com/episode_guide/1508.htm)". Suite à une bagarre généralisée de bébés, une partie de la population de Springfield forme un lobby anti-enfant et demande le retrait de tous les avantages habituellement consentis aux parents (au détriment des *childless*).
 
-Dans le même temps un  a commenté le précédent  sur le mouvement . Était-ce pour s'en prendre à moi ou à mon opinion sur le sujet ? Je ne sais pas mais je voulais quand même clarifier les choses : je comprends parfaitement que des personnes ne veuillent pas d'enfant... pendant longtemps l'idée d'en avoir me semblait parfaitement farfelue d'ailleurs. Et bien entendu, les enfants des autres, c'est souvent la plaie, surtout quand ça se met à chialer dans l'avion ou au ciné : "Mais qu'est-ce que ces criss de cons foutent avec leur morveux de 6 mois dans un avion !"
+Dans le même temps un [troll velu](http://www.mon-ile.net/carnet/blog1690.html#forum4308) a commenté le précédent [article]({{ site.url }}/2006/04/13/Vous-entrez-dans-une-zone) sur le mouvement [Childfree](http://en.wikipedia.org/wiki/Childfree). Était-ce pour s'en prendre à moi ou à mon opinion sur le sujet ? Je ne sais pas mais je voulais quand même clarifier les choses : je comprends parfaitement que des personnes ne veuillent pas d'enfant... pendant longtemps l'idée d'en avoir me semblait parfaitement farfelue d'ailleurs. Et bien entendu, les enfants des autres, c'est souvent la plaie, surtout quand ça se met à chialer dans l'avion ou au ciné : "Mais qu'est-ce que ces criss de cons foutent avec leur morveux de 6 mois dans un avion !"
 
 ![Image]({{ site.url }}/images/4559_96e3097b4c_z_d.jpg)
 <div class="photoattrib">Colimaçon / Wooden snail</div>
@@ -26,4 +26,4 @@ Comme d'habitude, je me rends compte que j'ai un wagon de retard puisque cette t
 <div class="photoattrib">Champlain</div>
 
 
-En attendant, si un jour j'en ai l'occasion, je lirai un livre comme  car je suis curieux de lire un argumentaire complet sur le sujet et voir le détail des plaintes de sans-enfant. En attendant, si vous ne savez pas quoi faire de votre journée, vous pouvez toujours consulter le site de , un mouvement pronant la non-reproduction de l'espèce humaine pour sauver la planète. Et c'est sérieux !
+En attendant, si un jour j'en ai l'occasion, je lirai un livre comme [The Baby Boon : How Family-Friendly America Cheats the Childless](http://www.amazon.com/gp/product/0743242645/) car je suis curieux de lire un argumentaire complet sur le sujet et voir le détail des plaintes de sans-enfant. En attendant, si vous ne savez pas quoi faire de votre journée, vous pouvez toujours consulter le site de [Voluntary Human Extinction Movement](http://vhemt.org/), un mouvement pronant la non-reproduction de l'espèce humaine pour sauver la planète. Et c'est sérieux !

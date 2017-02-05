@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La semaine dernière, nous sommes allés à la TOHU voir . Un beau spectacle, à la frontière de la danse et du cirque, avec les musiciens sur scène. Un peu gentillet par moments, mais beaucoup de poésie pour les yeux.
+La semaine dernière, nous sommes allés à la TOHU voir [*Le vertige du papillon*](http://www.tohu.ca/activites/calendrier.aspx?ID=144). Un beau spectacle, à la frontière de la danse et du cirque, avec les musiciens sur scène. Un peu gentillet par moments, mais beaucoup de poésie pour les yeux.
 
 
 ![Image]({{ site.url }}/images/4190_ef6a3e08ab_z_d.jpg)

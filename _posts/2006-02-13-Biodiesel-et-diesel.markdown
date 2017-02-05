@@ -8,17 +8,17 @@ categories:
 ---
 
 
-*Note préliminaire : je republie ici un article écrit dernièrement sur .*
+*Note préliminaire : je republie ici un article écrit dernièrement sur [Quotidien durable](http://quotidiendurable.com/news/444.shtml).*
 
 Les sciences environnementales ne sont pas des sciences exactes ; en conséquence de quoi, on peut rarement être certain de faire le "bon" choix. Voici les résultats d'une étude comparative entre le diesel et le biodiesel. Cette étude réalisée dans le cadre d'un cours de master n'a pas vocation à donner une réponse unique et définitive à la question des carburants et des politiques énergétiques, mais à faire réfléchir.
 
-Ce comparatif a été réalisé à l'aide de la méthode d' des produits qui vise à prendre en compte les impacts environnementaux de toutes les étapes du cycle de vie d'un produit, allant du prélèvement des ressources aux déchets et rejets provoqués. C'est une méthode assez difficile à mettre en place car longue et fastidieuse mais très pertinente dès qu'on parle environnement et impacts potentiels.
+Ce comparatif a été réalisé à l'aide de la méthode d'[analyse du cycle de vie](http://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie) des produits qui vise à prendre en compte les impacts environnementaux de toutes les étapes du cycle de vie d'un produit, allant du prélèvement des ressources aux déchets et rejets provoqués. C'est une méthode assez difficile à mettre en place car longue et fastidieuse mais très pertinente dès qu'on parle environnement et impacts potentiels.
 
 Pour comparer les deux carburants, le scénario supposait une utilisation dans des bus de transport en commun. Les données utilisées proviennent principalement de bases de données comme celle d'Eco-Invent, manipulées avec le logiciel SimaPro 6. Le biodiesel fut considéré comme provenant du soja, le diesel lui, de 4 sources de pétrole (offshore/onshore, proche/éloigné) réparties également.
 
-Comme le sous-entend le titre, le résultat du biodiesel n'est pas particulièrement reluisant. Au contraire, il aurait plutôt tendance à avoir des impacts environnementaux supérieurs au diesel. Certes, le biodiesel émet, à la combustion, moins de polluants atmosphériques que le diesel classique. C'est ce que montre une étude comme , qui est biaisée car ne comparant que la phase d'utilisation des carburants. Il manque la phase de production. C'est utile pour comparer les rejets atmosphériques, mais ce n'est pas une analyse du cycle de vie comme prétendu.
+Comme le sous-entend le titre, le résultat du biodiesel n'est pas particulièrement reluisant. Au contraire, il aurait plutôt tendance à avoir des impacts environnementaux supérieurs au diesel. Certes, le biodiesel émet, à la combustion, moins de polluants atmosphériques que le diesel classique. C'est ce que montre une étude comme [celle-ci](http://www.nrel.gov/docs/legosti/fy98/24089.pdf), qui est biaisée car ne comparant que la phase d'utilisation des carburants. Il manque la phase de production. C'est utile pour comparer les rejets atmosphériques, mais ce n'est pas une analyse du cycle de vie comme prétendu.
 
-Et le biodiesel de source agricole a des impacts importants car il requière beaucoup d'espace ainsi que des engrais. À titre de comparaison, en France, pour remplacer tous les carburants dérivés du pétrole par du biodiesel, il faudrait 604.000km2 de soja, la France ne fait que 550.000km2 de superficie (pour plus d'informations sur les biodiesel en général, se référer au site )
+Et le biodiesel de source agricole a des impacts importants car il requière beaucoup d'espace ainsi que des engrais. À titre de comparaison, en France, pour remplacer tous les carburants dérivés du pétrole par du biodiesel, il faudrait 604.000km2 de soja, la France ne fait que 550.000km2 de superficie (pour plus d'informations sur les biodiesel en général, se référer au site [Manicore](http://www.manicore.com/documentation/carb_agri.html))
 
 D'ailleurs, une telle analyse montre également que ce n'est pas la phase de consommation qui a pas le plus gros impact, mais bien celle de production ; qu'il s'agisse du diesel ou du biodiesel.
 

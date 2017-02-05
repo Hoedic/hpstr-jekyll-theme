@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Faute de pouvoir remplir ce blogue d'un contenu régulier, je profite de la "réédition" de mes photos pour faire une période photoblog -qui sera bien entendu entre-coupée de billets non-photoblog quand le coeur nous en dira. Réédition de mes photos qui étaient précédemment sous mon compte Flickr et que je vais republier sur notre . Et de me rappeler aussi qu'à une époque, je faisais autre chose que des photos de bébés, des photos qui me disent aussi sur ce que j'étais.
+Faute de pouvoir remplir ce blogue d'un contenu régulier, je profite de la "réédition" de mes photos pour faire une période photoblog -qui sera bien entendu entre-coupée de billets non-photoblog quand le coeur nous en dira. Réédition de mes photos qui étaient précédemment sous mon compte Flickr et que je vais republier sur notre [compte commun](http://www.flickr.com/photos/ebbtide/). Et de me rappeler aussi qu'à une époque, je faisais autre chose que des photos de bébés, des photos qui me disent aussi sur ce que j'étais.
 
 ~~
 
@@ -17,11 +17,11 @@ Automne à Otterburn Park - Octobre 2007
 ![Image]({{ site.url }}/images/jpg_3128849202_b8a4ae28a7.jpg)
 
 
-()
+([Lien Flickr](http://www.flickr.com/photos/ebbtide/3128849202/))
 
 Au moment de commenter cette première photo, je me rends compte combien ce retour dans le passé risque d'être un exercice périlleux. Mi-Octobre 2007, Monsieur n'était pas encore en chemin, mais pas loin. Au niveau du travail, un gros projet, mais à peine en suis-je certain temps j'ai du mal à croire que je suis allé marcher au Mont Saint-Hilaire dans les derniers jours dudit projet. 
 
-Que disait le blogue à  ?
+Que disait le blogue à [cette époque](http://mon-ile.net/carnet/archives.html?date=2007-10-31) ?
 
 Ce même blogue, dont c'est pourtant le rôle, ne m'informe guère plus que ma mémoire de notre vie à ce moment. Si ce n'est que c'est à cette époque que j'ai acheté mes nouveaux de bâtons de golf. D'ailleurs je regarde de plus en plus ce blogue de biais avec une interrogation latente: Est-ce moi qui ai fait ce site ? Le design, les petites passe-passe avec Spip ? Serais-je encore capable d'écrire un bout de HTML ? C'est là que je me rends compte que j'ai été absorbé dans ma propre vie tant ce qui me semblait aller de soi à une époque est désormais obscure !
 

@@ -14,7 +14,7 @@ Quelle ne fut pas alors ma surprise de me retrouver, dans la salle d'attente, ne
 
 Après quoi, nous sommes allés profiter de ce sursis d'été sur fond de couleurs enchanteresses sur la butte du centre-ville.
 
-Enfin, je viens de passer presque deux heures à jouer au docteur avec .  Avec mon stétho, on est bien d'accord...  Ben oui, mon premier patient à interviewer et à examiner m'attend mercredi et c'est un peu angoissant.
+Enfin, je viens de passer presque deux heures à jouer au docteur avec [Hoëdic](http://hoedic.ouvaton.org/).  Avec mon stétho, on est bien d'accord...  Ben oui, mon premier patient à interviewer et à examiner m'attend mercredi et c'est un peu angoissant.
 
 Sur ce, bonne nuit...
 

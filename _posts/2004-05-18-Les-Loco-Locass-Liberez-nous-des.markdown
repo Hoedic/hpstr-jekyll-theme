@@ -17,7 +17,7 @@ Maintenant la table est mise pour 4 ans à pâtir, à pâlir à vue d'œil, ahur
 
 [...]
 
-Et pour couper court au courroux populaire,  étouffe la foule et légifère, en tombeau ouvert, pis tout sourire, il sert la soupe populaire.
+Et pour couper court au courroux populaire, [Patapouf](http://www.destituonspatapouf.com/) étouffe la foule et légifère, en tombeau ouvert, pis tout sourire, il sert la soupe populaire.
 
 [...]
 
@@ -41,8 +41,8 @@ Si tu penses me faire taire, tu perds ton temps, j'suis intarissable.
 
 [...]*
 
-Elle est excellente non ?  Pour l'entendre, vous pouvez la  sur Internet librement.
+Elle est excellente non ?  Pour l'entendre, vous pouvez la [downloader](http://66.51.112.68/liberez-nous_des_liberaux_128.mp3) sur Internet librement.
 
 Il faut avoir du front tout le tour de la tête pour faire une chanson comme ça.
 
-Pardonnez-moi, je me détends, c'est mon  demain...
+Pardonnez-moi, je me détends, c'est mon [ECOS](http://mon-ile.net/carnet/blog469.html) demain...

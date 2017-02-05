@@ -27,6 +27,6 @@ AND HEY FREE SHIPPING! FOR THE LOVE OF GRETZKY TAKE HIS MAN AND RUN LIKE THE WIN
 
 Note that I do not own José. I hope never to own josé and if you bid on this you'll probably get nothing, which is about the same thing</blockquote>
 
-. Une nouvelle méthode pour procéder aux échanges dans les ligues professionnelles ?
+[Le lien](http://cgi.ebay.ca/Slightly-Used-Washed-up-Habs-Goalie-Jose-Theodore_W0QQitemZ7216762273QQcategoryZ79765QQrdZ1QqcmdZViewItem). Une nouvelle méthode pour procéder aux échanges dans les ligues professionnelles ?
 
 

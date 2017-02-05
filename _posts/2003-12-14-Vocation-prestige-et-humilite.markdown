@@ -8,7 +8,7 @@ categories:
 ---
 
 
- me faisait récemment remarquer qu'en effectuant une recherche avec pour mot-clé le terme "prestige", il avait vite fait de tomber sur un stéthoscope, symbole même de la médecine.
+[Magellan](http://carnets.ixmedia.com/magellan/archives/003353.html) me faisait récemment remarquer qu'en effectuant une recherche avec pour mot-clé le terme "prestige", il avait vite fait de tomber sur un stéthoscope, symbole même de la médecine.
 
 Je me souviens qu'à une époque, je soupçonnais mon subconscient (?) de m'avoir inspiré la "vocation" médicale pour toutes sortes de bien basses raisons.  L'argent, le prestige, la facilité, l'absence de réflexion sur les autres professions, l'imitation familiale, un parcours tout tracé, un emploi garanti.
 

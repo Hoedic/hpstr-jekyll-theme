@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Sortie typiquement québécoise de ce début de printemps, nous sommes allé à la *cabane à sucre*. Une bonne heure de route en direction du sud-ouest pour se retrouver en pleine forêt d'érables pour s'emplir de spécialités bucheronnes. Au menu beans, , saucisses, crêpes et tarte au sucre, le tout largement enduit de sirop d'érable, du vrai !
+Sortie typiquement québécoise de ce début de printemps, nous sommes allé à la *cabane à sucre*. Une bonne heure de route en direction du sud-ouest pour se retrouver en pleine forêt d'érables pour s'emplir de spécialités bucheronnes. Au menu beans, [oreilles de crisse](http://www.saveurs.sympatico.ca/ency_6/porc/oreille.htm), saucisses, crêpes et tarte au sucre, le tout largement enduit de sirop d'érable, du vrai !
 
 ![Image]({{ site.url }}/images/cabane-a-sucre1_28-03-2004.jpg)
 <div class="photoattrib">La sucrerie de la Montagne</div>

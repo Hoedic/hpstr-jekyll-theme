@@ -10,7 +10,7 @@ categories:
 
 Nous avons trouvé un nouvel appartement, plus grand et surtout mieux situé, grâce à ce blog, peut-être allons pouvoir louer le notre par ce même média ! :)
 
-Pour ceux qui sont intéressés, vous pouvez nous contacter par courriel : hoedic . Nous cherchons à faire une cession de bail pour le 1er mai, le loyer est de 674$/mois, quartier Cote-des-neiges, près de l'intersection cote-sainte-catherine et Victoria.
+Pour ceux qui sont intéressés, vous pouvez nous contacter par courriel : hoedic [at] mon-ile.net (remplacez le [at] par @). Vous trouverez également [quelques photos supplémentaire ici](http://www.mon-ile.net/images/index.php?album=appart). Nous cherchons à faire une cession de bail pour le 1er mai, le loyer est de 674$/mois, quartier Cote-des-neiges, près de l'intersection cote-sainte-catherine et Victoria.
 
 ![Image]({{ site.url }}/images/rideaux-12-07-2004.jpg)
 <div class="photoattrib">Tada !</div>

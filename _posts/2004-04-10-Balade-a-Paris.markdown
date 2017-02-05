@@ -31,7 +31,7 @@ Ensuite direction le coin de mon ancien chez moi, autour de La Madeleine où j'a
 
 
 
-Ensuite j'ai pris la direction de la Concorde et sur le chemin j'ai pu localiser de quel endroit le capitaine prend  de ses photos. Ensuite j'ai remonté les Tuileries pour arriver au Louvre où j'ai finalement pris la ligne 1 direction la Défense pour retrouver mon nouvel hébergeur à son boulot.
+Ensuite j'ai pris la direction de la Concorde et sur le chemin j'ai pu localiser de quel endroit le capitaine prend [certaines](http://biogue.com/2004_04/108.html) de ses photos. Ensuite j'ai remonté les Tuileries pour arriver au Louvre où j'ai finalement pris la ligne 1 direction la Défense pour retrouver mon nouvel hébergeur à son boulot.
 
 ![Image]({{ site.url }}/images/coincoin-louvre-10-04-2004.jpg)
 <div class="photoattrib">Un canard s'approche pour dire bonjour</div>

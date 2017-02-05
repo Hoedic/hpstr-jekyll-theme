@@ -24,7 +24,7 @@ Premier arrêt au Club Med à Sainte-Anne pour récupérer l'attirail du mariage
 
 
 
-Ensuite, nous avons filé en direction de Sainte-Rose et Deshaies.  Nous ne manquons pas de nous arrêter à la mairie pour s'assurer une dernière fois que tout est en règles, et pour se montrer le bout du nez.  Ensuite, nous déposons nos affaires au  que nous avons loué.  Tout va bien, même les traditions seront respectées : nous dormirons dans des lits simples séparés !  L'endroit est joli et agréable, mais nous n'avons pas trop le temps de nous y délasser.  Nous faisons un détour pour aller trouver le salon de coiffure pour le lendemain matin, et leur montrer ma chevelure folle et indisciplinable.  Cela n'a pas trop l'air de les stresser, tant mieux !
+Ensuite, nous avons filé en direction de Sainte-Rose et Deshaies.  Nous ne manquons pas de nous arrêter à la mairie pour s'assurer une dernière fois que tout est en règles, et pour se montrer le bout du nez.  Ensuite, nous déposons nos affaires au [bungalow](http://www.aquarelles-villas.com/) que nous avons loué.  Tout va bien, même les traditions seront respectées : nous dormirons dans des lits simples séparés !  L'endroit est joli et agréable, mais nous n'avons pas trop le temps de nous y délasser.  Nous faisons un détour pour aller trouver le salon de coiffure pour le lendemain matin, et leur montrer ma chevelure folle et indisciplinable.  Cela n'a pas trop l'air de les stresser, tant mieux !
 
 
 ![Image]({{ site.url }}/images/5347_82705f45a2_z_d.jpg)
@@ -38,7 +38,7 @@ Ensuite, nous avons filé en direction de Sainte-Rose et Deshaies.  Nous ne manq
 
 
 
-Nous repartons ensuite vaillamment vers Deshaies, histoire de localiser le lieu de réception (), saluer les propriétaires des lieux et leur confier du matériel décoratif et musical.  Sur le chemin, nous localisons la plage de Grande Anse et son point de vue, et j'hallucine même un trois mâts dans le joli petit port de la ville.  Arrêt inutile : il ne semble pas y être.  L'histoire nous dira que finalement, je ne l'avais probablement pas halluciné.
+Nous repartons ensuite vaillamment vers Deshaies, histoire de localiser le lieu de réception ([Tendacayou](http://www.tendacayou.com/)), saluer les propriétaires des lieux et leur confier du matériel décoratif et musical.  Sur le chemin, nous localisons la plage de Grande Anse et son point de vue, et j'hallucine même un trois mâts dans le joli petit port de la ville.  Arrêt inutile : il ne semble pas y être.  L'histoire nous dira que finalement, je ne l'avais probablement pas halluciné.
 
 
 ![Image]({{ site.url }}/images/7225_1ae0e672d3_z_d.jpg)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Las de faire le ménage, et surtout n'en ayant guère le temps, nous avons décidé avant l'été de faire appel à , un organisme à portée coopérative d'aide domestique.
+Las de faire le ménage, et surtout n'en ayant guère le temps, nous avons décidé avant l'été de faire appel à [Plumeau, Chiffon & Co.](http://www.plumeau.qc.ca/), un organisme à portée coopérative d'aide domestique.
 
 Après un processus assez long ponctué d'appréhensions de ma part, lié au risque de vol notamment, nous avons finalement un planning de ménage au rythme de 4 heures toutes les 4 semaines.
 

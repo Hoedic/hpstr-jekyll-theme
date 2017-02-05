@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme une catastrophe terrienne n'en attend pas une autre, vous serez heureux d'apprendre qu'en plus du réchauffement climatique un autre danger nous menace : la baisse d'intensité puis le  de la Terre.
+Comme une catastrophe terrienne n'en attend pas une autre, vous serez heureux d'apprendre qu'en plus du réchauffement climatique un autre danger nous menace : la baisse d'intensité puis le [renversement du champ magnétique](http://www.nytimes.com/2004/07/13/science/13magn.html?th) de la Terre.
 
 ![Image]({{ site.url }}/images/retournement-magnetique_13-07-2004.jpg)
 <div class="photoattrib">Retournement magnétique</div>

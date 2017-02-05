@@ -10,7 +10,7 @@ categories:
 
 Début de week-end occupé de notre coté !
 
-Nous avons commencé hier soir, vendredi, par un petit tour dans le , un coin dont nous ne sommes vraiment pas coutumier. C'était à l'occasion d'une rencontre avec un  arrivé au Québec le même jour que moi (mais pas au même aéroport). Nous avons découvert un "Bar lounge" (concept à la mode que je n'apprécie pas toujours) très agréable et assez abordable. J'y ai personnellement testé une margarita à la framboise, une salade poulet et coeur d'artichaud finement préparée et un tiramisu.
+Nous avons commencé hier soir, vendredi, par un petit tour dans le [Village](http://www.fact-index.com/v/vi/village_gai.html), un coin dont nous ne sommes vraiment pas coutumier. C'était à l'occasion d'une rencontre avec un [bloggeur Français](http://www.carnetsdimages.org/index.php?p=7) arrivé au Québec le même jour que moi (mais pas au même aéroport). Nous avons découvert un "Bar lounge" (concept à la mode que je n'apprécie pas toujours) très agréable et assez abordable. J'y ai personnellement testé une margarita à la framboise, une salade poulet et coeur d'artichaud finement préparée et un tiramisu.
 
 ![Image]({{ site.url }}/images/lounge-village_05-06-2004.jpg)
 <div class="photoattrib">Une margarita à la framboise</div>
@@ -26,7 +26,7 @@ Aujourd'hui, petit tour dans l'état de New-York pour aller faire de la randonn�
 
 
 
-J'ai vraiment été scié par l'infinie quantité de drapeaux américains. Partout, chez les gens bien entendu, mais aussi sur les poteaux électriques, en haut, en bas, à gauche, à droite. Ça me faisait penser à l' où Springfield est transformé en *Liberty Ville* et entièrement mise aux couleurs américaines, y compris les feux de signalisation.
+J'ai vraiment été scié par l'infinie quantité de drapeaux américains. Partout, chez les gens bien entendu, mais aussi sur les poteaux électriques, en haut, en bas, à gauche, à droite. Ça me faisait penser à l'[épisode des Simpsons](http://www.salebete.net/archives/000335.html) où Springfield est transformé en *Liberty Ville* et entièrement mise aux couleurs américaines, y compris les feux de signalisation.
 
 ![Image]({{ site.url }}/images/lyon-mountain_05-06-2004.jpg)
 <div class="photoattrib">Le sentier de Lyon Mountain (NY)</div>

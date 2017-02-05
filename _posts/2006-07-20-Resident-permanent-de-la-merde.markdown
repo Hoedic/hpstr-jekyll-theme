@@ -16,11 +16,11 @@ Fondamentalement, la seule différence entre un résident permanent et un citoye
 
 
 
-Ceci explique surement pourquoi le gouvernement Harper a décidé de  canadiens bloqués au Liban, ils ne risquent pas voter contre lui !
+Ceci explique surement pourquoi le gouvernement Harper a décidé de [ne pas rapatrier les résidents permanents](http://www.cyberpresse.ca/article/20060719/CPACTUALITES/607190583/5032/CPACTUALITES) canadiens bloqués au Liban, ils ne risquent pas voter contre lui !
 
 Update : l'importance de notre blogue n'est plus à remettre en cause ; quelques heures après la publication de cette nouvelle, un officiel du gouvernement a assuré que les résidents permanents seraient également rapatriés par les services canadiens. On était à 2 doigts d'une nouvelle grosse bourde du gouvernement. Reste à voir si les actes suivront.
 
-Update 2 : Finalement , les autres devront attendre pour connaître leur avenir.
+Update 2 : Finalement [seuls les résidents permanents accompagnant des "vrais" canadiens seront rapatriés](http://www.matin.qc.ca/canada.php?article=20060719230521), les autres devront attendre pour connaître leur avenir.
 
 Visiblement M. Cannon a essayé de faire désenfler la polémique en incluant les résidents permanents dans le rapatriement. Cependant ceux qui décident pour de vrai ont décidé de faire l'inverse suivant la logique du passeport. Le gouvernement ne sait visiblement pas sur quel pied danser dans cette histoire. Tout cela alors que les opérations de sauvetage sont en cours (on se demande dans quelle mesure ils reçoivent des ordres contradictoires sur le terrain).
 

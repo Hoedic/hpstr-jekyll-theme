@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Cette fois-ci, ce n'est pas de  dont il est question, mais bien de travail ! En effet j'ai de nouveau du travail, à défaut d'avoir un emploi.
+Cette fois-ci, ce n'est pas de [jeu de carte]({{ site.url }}/2003/11/16/Jouons-aux-cartes-au-boulot) dont il est question, mais bien de travail ! En effet j'ai de nouveau du travail, à défaut d'avoir un emploi.
 
 La différence ? C'est un contrat de seulement 3 semaines, donc pas de quoi sauter au plafond, mais ça paie, et un peu plus que mon stage, ce qui devrait me permettre d'amasser une coup' de millier de piasses (environ 2000$ quoi :) Ça ne se refuse pas !
 

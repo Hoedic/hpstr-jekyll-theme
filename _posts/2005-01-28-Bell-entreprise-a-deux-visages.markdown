@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Chose assez inhabituelle, une discussion sur le forum d' m'a fait sérieusement réfléchir (preuve que tout arrive). Ça concerne , entreprise téléphonique plus ou moins monopolistique (à peu près la même situation que France Telecom, mais n'appartenant pas à l'état). Les habitués des lieux nous ont déjà vu pester contre ce fournisseur dont nous sommes encore plus ou moins obligé de payer un abonnement et qui nous emmerde régulièrement au téléphone (quoiqu'ils ont arrêté dernièrement).
+Chose assez inhabituelle, une discussion sur le forum d'[immigrer-contact](http://immigrer-contact.com/) m'a fait sérieusement réfléchir (preuve que tout arrive). Ça concerne [Bell](http://bell.ca/), entreprise téléphonique plus ou moins monopolistique (à peu près la même situation que France Telecom, mais n'appartenant pas à l'état). Les habitués des lieux nous ont déjà vu pester contre ce fournisseur dont nous sommes encore plus ou moins obligé de payer un abonnement et qui nous emmerde régulièrement au téléphone (quoiqu'ils ont arrêté dernièrement).
 
-La question qui va s'en venir pour nous : allons-nous clore notre abonnement téléphonique au profit de l' de téléphonie IP de  (quand elle se rendra chez nous) ?
+La question qui va s'en venir pour nous : allons-nous clore notre abonnement téléphonique au profit de l'[offre](http://www.videotron.com/services/fr/telephonie/1.jsp) de téléphonie IP de [Videotron](http://www.videotron.com/) (quand elle se rendra chez nous) ?
 
 Étant donné que nous détestons Bell, nous souhaitons prendre un abonnement videotron pour s'en débarrasser. D'un autre coté, Bell c'est plus "sécuritaire" car ils ont des obligations à rencontrer au niveau des temps d'interruption, du fonctionnement en cas de panne de courant et j'en passe. Ça amène des frais supérieurs à ceux encourus par un fournisseurs d'accès internet qui peut se permettre d'être plus lent. Bref, Bell est quelque part désavantagé.
 

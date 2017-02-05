@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je continue ma  (qui va s'arrêter à trois, à moins d'un événement particulier) sur les fois où j'aurais pu mourir, enfin de loin quand même :)
+Je continue ma [mini-série]({{ site.url }}/2004/01/13/J-ai-vu-la-mort-1) (qui va s'arrêter à trois, à moins d'un événement particulier) sur les fois où j'aurais pu mourir, enfin de loin quand même :)
 
 La seconde fois donc, c'était en 1995 (bordel, presque 10 ans) je pense, je ne me rappelle plus exactement, j'étais seul chez moi, mes parents étaient en croisière dans les caraïbes me laissant aux affres de ma 1<sup>ère</sup>S que j'ai bien failli couler lamentablement, mais c'est une autre histoire.
 

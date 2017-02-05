@@ -14,10 +14,10 @@ Seul bémol au tableau, elle entame son entrée dans la mémorable phase du "non
 
 Ainsi, elle est maintenant impossible à mettre au lit.  Elle veut lire une histoire, puis une autre, et puis encore une autre, et quand elle finit par se résigner à ce que ce soit la dernière, elle veut ensuite amener "çaaa" avec elle dans le lit, et "çaaa" aussi, sans oublier "çaaa".
 
-(J'évoquais justement récemment ma  à me mettre au lit.  C'est le même principe.)
+(J'évoquais justement récemment ma [réluctance]({{ site.url }}/2003/12/09/Temps-et-souvenirs) à me mettre au lit.  C'est le même principe.)
 
 ***
 
-Pour ceux d'entre vous qui s'étonnent du niveau développemental et d'autonomie de cette enfant d'un an et demi plutôt éveillée et à la personnalité attachante, vous n'avez pas tort.  Je pense que la  employée par ses parents depuis la période prénatale n'y est pas étrangère.  Il faut aussi mentionner qu'elle fréquente, depuis l'automne, une prématernelle bien spéciale.  Ses parents, cherchant instamment à dénicher ce qui se fait de mieux pour elle, ont cette fois opté pour une académie appliquant la philosophie de .  Sans oublier, je l'imagine aisément, des soins quotidiens attentionnés et pleins d'amour.  Chose certaine, et cela ne fait aucun doute, Louise se développe visiblement - et explosivement - dans la plus grande harmonie !
+Pour ceux d'entre vous qui s'étonnent du niveau développemental et d'autonomie de cette enfant d'un an et demi plutôt éveillée et à la personnalité attachante, vous n'avez pas tort.  Je pense que la [méthode haptonomique]({{ site.url }}/2003/09/12/Louise-et-l-haptonomie) employée par ses parents depuis la période prénatale n'y est pas étrangère.  Il faut aussi mentionner qu'elle fréquente, depuis l'automne, une prématernelle bien spéciale.  Ses parents, cherchant instamment à dénicher ce qui se fait de mieux pour elle, ont cette fois opté pour une académie appliquant la philosophie de [Maria Montessori](http://www.montessori.qc.ca/f/curriculem.asp).  Sans oublier, je l'imagine aisément, des soins quotidiens attentionnés et pleins d'amour.  Chose certaine, et cela ne fait aucun doute, Louise se développe visiblement - et explosivement - dans la plus grande harmonie !
 
 (Je précise que ses parents ne font pas ces choix dans le but d'en faire un "petit génie" ou je ne sais quoi, comme cela se rencontre parfois.  Ils recherchent simplement la qualité dans ce qu'ils peuvent offrir à leur enfant, sans se contenter des services moyens de base.)

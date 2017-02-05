@@ -18,8 +18,8 @@ Les spameurs visent des penny-stocks (actions valant quelques cents) sur lequels
 
 ***
 
-J'ai trouvé cette  sur  qui ne fait, pour le coup, que republier une nouvelle de .
+J'ai trouvé cette [nouvelle](http://technaute.lapresseaffaires.com/nouvelles/texte_complet.php?id=81,12399,0,072006,1280428.html&ref=cyberpresse) sur [Cyberpresse Technaute](http://technaute.lapresseaffaires.com/) qui ne fait, pour le coup, que republier une nouvelle de [Silicon.fr](http://silicon.fr/).
 
-En creusant un peu, on peut trouver cet  de ZdNet à partir duquel l'article de silicon.fr a été très largement pompé sans citer la moindre source à quelque moment que ce soit (alors que ZDNet donne le lien direct vers l' qui a permis d'obtenir ce résultat par exemple.)
+En creusant un peu, on peut trouver cet [article](http://news.zdnet.co.uk/0,39020330,39277958,00.htm) de ZdNet à partir duquel l'article de silicon.fr a été très largement pompé sans citer la moindre source à quelque moment que ce soit (alors que ZDNet donne le lien direct vers l'[étude](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=897431) qui a permis d'obtenir ce résultat par exemple.)
 
 La question du pompage devient réellement critique et contrairement à ce que certains veulent bien dire, les blogues ne sont peut-être pas ceux qui montrent le mauvais exemple...

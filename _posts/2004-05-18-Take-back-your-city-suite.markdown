@@ -8,7 +8,7 @@ categories:
 ---
 
 
- nous fait l'honneur un très bon  sur sa vision des défusions québécoises (lire son article ainsi que  pour comprendre la notion de défusion).
+[Le capitaine](http://embruns.net/) nous fait l'honneur un très bon [article](http://embruns.net/quebec/001176.html) sur sa vision des défusions québécoises (lire son article ainsi que [celui-là]({{ site.url }}/2004/05/16/Take-back-your-city) pour comprendre la notion de défusion).
 
 Quelques petites remarques de bon goût au passage comme celle-ci :
 

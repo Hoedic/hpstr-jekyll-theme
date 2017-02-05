@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Journée un peu particulière aujourd'hui avec la  qui a touché le centre-ville pendant plusieurs heures, élément un peu problématique pour rouler une bourse *électronique*. Mais bon, avec l'aide des batteries et finalement d'une génératrice, le système a tenu la route. Drôle d'ambiance de devoir éteindre lumières et PC pour économiser l'électricité, un avant-goût d'un cataclysmes énergétique ?
+Journée un peu particulière aujourd'hui avec la [panne d'électricité](http://www.radio-canada.ca/regions/Montreal/2007/07/26/002-Panne-Centre-Ville.shtml) qui a touché le centre-ville pendant plusieurs heures, élément un peu problématique pour rouler une bourse *électronique*. Mais bon, avec l'aide des batteries et finalement d'une génératrice, le système a tenu la route. Drôle d'ambiance de devoir éteindre lumières et PC pour économiser l'électricité, un avant-goût d'un cataclysmes énergétique ?
 
 En attendant, quelques photos supplémentaires de nos vacances (principalement le Cambodge) : 
 

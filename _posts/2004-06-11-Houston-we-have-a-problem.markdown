@@ -10,7 +10,8 @@ categories:
 
 La politique tout de même. Paul Martin sera-t-il l'incarnation du raté des Libéraux ?
 
-Toujours est-il qu'après avoir été largement en tête, le Parti Libéral est passé second derrière... les Con-servateurs, 30% contre 34 selon un sondage  aujourd'hui. J'ai rarement vu tel renversement de situation (cf les courbes d'évolution d'intention de vote dans le pdf lié).
+Toujours est-il qu'après avoir été largement en tête, le Parti Libéral est passé second derrière... les Con-servateurs, 30% contre 34 selon un sondage [publié](http://www.ekos.com/admin/articles/11June2004PressReleaseb.pdf
+) aujourd'hui. J'ai rarement vu tel renversement de situation (cf les courbes d'évolution d'intention de vote dans le pdf lié).
 
 ![Image]({{ site.url }}/images/sondage-elections_11-06-2004.jpg)
 <div class="photoattrib">Ça commence à sentir mauvais !</div>

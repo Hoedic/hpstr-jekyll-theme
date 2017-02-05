@@ -14,7 +14,7 @@ Je vous ai déjà dit que j'ai une phobie de type sang-injections-accidents ?
 
 Comment ma phobie se manifeste-t-elle ?
 
-Par des  !  Et ça date de longtemps.  Petite, c'était les vaccins qui me faisaient faiblir.  Heureusement, plus maintenant !  Évidemment, il y a aussi les prises de sang qui me font encore tomber dans les vâpes.  Celles qu'on fait sur moi, pas celles auxquelles j'assiste, heureusement.  Ça, c'est pas de bol, parce que je dois souvent en avoir quand même.  En fait, si les infirmières ne faisaient pas éclater mes veines et n'étaient pas obligées de farfouiller, je pense que je ne m'évanouirais plus maintenant - à force je me désensibilise, mine de rien !
+Par des [syncopes vagales](http://www.doctissimo.fr/html/sante/encyclopedie/sa_841_syncopes.htm) !  Et ça date de longtemps.  Petite, c'était les vaccins qui me faisaient faiblir.  Heureusement, plus maintenant !  Évidemment, il y a aussi les prises de sang qui me font encore tomber dans les vâpes.  Celles qu'on fait sur moi, pas celles auxquelles j'assiste, heureusement.  Ça, c'est pas de bol, parce que je dois souvent en avoir quand même.  En fait, si les infirmières ne faisaient pas éclater mes veines et n'étaient pas obligées de farfouiller, je pense que je ne m'évanouirais plus maintenant - à force je me désensibilise, mine de rien !
 
 Aussi par le passé, les cours de secourisme étaient typiquement un terreau fertile à ce genre de réactions.  Et depuis que je suis en médecine, les occasions se multiplient, comme le cours d'hématologie.  De même que l'autopsie d'un foetus.  De même que les patients polytraumatisés à l'urgence.  De même que mes rats que je devais opérer en recherche l'autre été.  Et j'en passe.
 

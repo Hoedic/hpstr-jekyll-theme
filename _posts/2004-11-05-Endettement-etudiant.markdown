@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Mercredi 10 novembre, 15h : une  se tiendra au carré Berri, à Montréal, contre l'augmentation massive de l'endettement étudiant.
+Mercredi 10 novembre, 15h : une [manifestation](http://www.endettement.ca/) se tiendra au carré Berri, à Montréal, contre l'augmentation massive de l'endettement étudiant.
 
 Cette mesure prise au printemps par le gouvernement du Québec est particulièrement perverse et vicieuse, **sabrant sauvagement dans l'aide aux étudiants les plus démunis** et convertissant une importante partie de bourses en prêts étudiants.
 

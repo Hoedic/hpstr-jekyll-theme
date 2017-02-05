@@ -18,7 +18,7 @@ Grâce à ceci, tu pourras participer aux cours prénataux en ayant l'air au cou
 
 La deuxième étape consiste à soutenir votre femme dans ses choix. Dites-vous bien que de toutes manières, pour une étape aussi importante, il y a de bonnes chances pour qu'elle n'en fasse qu'à sa tête. Épidurale ou non, accouchement dans la baignoire à la maison ou en salle d'opération, c'est elle qui décide. Au mieux documentez-vous sur les avantages et inconvénients de ses choix pour ne pas être surpris. Par exemple, cela me semblait de la folie furieuse d'accoucher sans épidurale... puis finalement on finit par se convaincre des avantages et à faire face aux conséquences: une douleur abominable et des encouragements vaguement inutiles.
 
-Étant magnanime, voici un  qui explique les différentes alternatives durant l'accouchement. Inutile de trop compter sur les cours prénataux, ils sont biaisés. Par exemple certains diront que l'épidurale est incontournable et que c'est ridicule de souffrir alors qu'on peut l'éviter, d'autres que c'est inutile et que ça rallonge le travail. C'est à vous (à deux) de faire un choix et en priorité à madame.
+Étant magnanime, voici un [site](http://www.petitmonde.com/Doc/Article/Liste_des_interventions_medicales_durant_l_accouchement) qui explique les différentes alternatives durant l'accouchement. Inutile de trop compter sur les cours prénataux, ils sont biaisés. Par exemple certains diront que l'épidurale est incontournable et que c'est ridicule de souffrir alors qu'on peut l'éviter, d'autres que c'est inutile et que ça rallonge le travail. C'est à vous (à deux) de faire un choix et en priorité à madame.
 
 Dernière étape : l'accouchement en tant que tel. La seule et unique chose à faire est d'avoir mis quelques cierges à bruler à Notre-Dame-des-bons-accouchements et espérer que cela va aller vite. Ceci excepté, vous ne pouvez rien faire. Rien hormis quelques encouragements bien placés, et des massages sans réel effet. Remarquez que dans les faits, votre conjointe non plus n'y peut rien. Ça viendra quand ça viendra.
 
@@ -26,4 +26,4 @@ Parmi les nombreux conseils que j'ai entendu, il y avait que j'étais mieux de r
 
 En tout état de cause, si vous ne vous sentez pas capable, reculez d'un pas et asseyez-vous ; le personne médical en a suffisamment à gérer avec votre femme pour ne pas avoir à vous recoudre le crâne. Et enfin, que l'on parle de la grossesse ou de l'accouchement, dites-vous qu'à moment ou à un autre, ça finit par sortir !
 
-Dernier point que vous pouvez aborder avec votre femme: . Tous les hopitaux ne le font pas, mais si le votre le propose, c'est utile (et moins douloureux qu'une prise de sang).
+Dernier point que vous pouvez aborder avec votre femme: [le don de sang de cordon](http://www.hema-quebec.qc.ca/francais/cellulessouches/sangcordon.htm). Tous les hopitaux ne le font pas, mais si le votre le propose, c'est utile (et moins douloureux qu'une prise de sang).

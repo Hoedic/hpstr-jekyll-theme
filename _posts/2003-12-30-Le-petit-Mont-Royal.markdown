@@ -17,12 +17,12 @@ Le biodome étant fermé le lundi, nous n'avons pas pu y aller et avons donc opt
 
 C'est marrant comme endroit, ce petit bois, où les chiens sont légions alors qu'ils sont quasi-absents du reste de Montréal. Ça veut-il dire qu'il faut être riche pour avoir un chien ? Ou mieux, qu'avoir un chien fait devenir riche (ça serait beau ça, non ? ;)
 
-En revenant de ma balade j'ai découvert avec plaisir un petit mot doux d'un admirateur secret suite à un message de Ebb sur le  :
+En revenant de ma balade j'ai découvert avec plaisir un petit mot doux d'un admirateur secret suite à un message de Ebb sur le [sujet du bac de philo 2002]({{ site.url }}/2003/08/25/Sujet-du-bac-de-philo-en-2002) :
 
 <blockquote>*"merde sa me fait chier<br /> qu'y a pas les réponses<br /> sur ce site de daube"*</blockquote>
 
 J'aime beaucoup ça, la poésie, la synthaxe, tout y est. Merci à toi, admirateur secret qui malheureusement ne repassera surement jamais ici ! C'est à cause de ça que j'ai décidé de faire en sorte que seuls certains messages soient indexables par Google.
 
-Sieur  m'a donné une assez bonne idée en faisant en sorte que les articles que je désire publics (auxquels sera attribué un mot-clé particulier) aient le metatag voulu (*index*), les autres ayant une directive *noindex*.
+Sieur [MQ](http://yvonet.com/) m'a donné une assez bonne idée en faisant en sorte que les articles que je désire publics (auxquels sera attribué un mot-clé particulier) aient le metatag voulu (*index*), les autres ayant une directive *noindex*.
 
-Ce faisant, j'aurais juste souhaité savoir s'il y a dans la salle une personne ayant déjà pratiqué ainsi (certaines pages en *index* et d'autres en *noindex*), pour savoir si cela fonctionne correctement et si Google et ses petits compagnons écoutent ce qu'on leur dit (selon , tel n'est pas toujours le cas, ce qui m'inquiète un peu).
+Ce faisant, j'aurais juste souhaité savoir s'il y a dans la salle une personne ayant déjà pratiqué ainsi (certaines pages en *index* et d'autres en *noindex*), pour savoir si cela fonctionne correctement et si Google et ses petits compagnons écoutent ce qu'on leur dit (selon [robotstxt.org](http://www.robotstxt.org/wc/meta-user.html), tel n'est pas toujours le cas, ce qui m'inquiète un peu).

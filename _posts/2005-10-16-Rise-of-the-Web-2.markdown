@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un  bien rigolo pour voir de plus près les modes dans la blogosphère en se basant sur la fréquence de présence des mots voulus.
+Un [outil](http://www.blogpulse.com/trend) bien rigolo pour voir de plus près les modes dans la blogosphère en se basant sur la fréquence de présence des mots voulus.
 
 Ici les mots sont *Wiki*, *Web 2.0* et *Hype Cycle* sur les 6 derniers mois.
 
@@ -17,4 +17,4 @@ Ici les mots sont *Wiki*, *Web 2.0* et *Hype Cycle* sur les 6 derniers mois.
 
 
 
-Via 
+Via [IFTF](http://future.iftf.org/2005/10/blogpulse.html)

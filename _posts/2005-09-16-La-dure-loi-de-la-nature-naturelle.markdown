@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Au risque d'attrister ma môman ainsi que madame , les rats des arbres que sont les écureuils des villes québécoises devraient être exterminés jusqu'au dernier.
+Au risque d'attrister ma môman ainsi que madame [ÉtoileFilante](http://toilesfilantes.free.fr/blog/), les rats des arbres que sont les écureuils des villes québécoises devraient être exterminés jusqu'au dernier.
 
 Au début de l'été j'ai du mettre un grillage plastique sur mes cultures et mettre toutes mes balconnières coté rue parce que ces mouches à merde creusaient la moindre parcelle de terre meuble laissée accessible sur ma terrasse arrière (accessible par les arbres et un escalier.)
 

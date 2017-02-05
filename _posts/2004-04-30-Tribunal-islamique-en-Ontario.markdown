@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Alors que la question du voile bat encore son plein en France, l'Ontario vient d'accepter la mise en place d'un tribunal islamique selon .
+Alors que la question du voile bat encore son plein en France, l'Ontario vient d'accepter la mise en place d'un tribunal islamique selon [Courrier international](http://www.courrierinternational.com/article.asp?obj_id=22966).
 
-Je ne vais pas trop m'avancer sur le sujet car je ne connais pas les limites de ce projet, en revanche je m'interroge sur la couverture faite là-dessus... à savoir quasi-nulle. Je n'ai rien vu dans les medias québécois (la chronique des chiens écrasés est nettement plus interessante), alors que l'Ontario est tout de même notre voisin, ni dans les medias nationaux comme  que j'écoute assez régulièrement.
+Je ne vais pas trop m'avancer sur le sujet car je ne connais pas les limites de ce projet, en revanche je m'interroge sur la couverture faite là-dessus... à savoir quasi-nulle. Je n'ai rien vu dans les medias québécois (la chronique des chiens écrasés est nettement plus interessante), alors que l'Ontario est tout de même notre voisin, ni dans les medias nationaux comme [CBCNews](http://www.cbc.ca/news/) que j'écoute assez régulièrement.
 
 Pourtant ce n'est pas sans causer des interrogations au sein de la communauté musulmane où, même si ces tribunaux siègeront sur une base volontaires bi-partite, certain craignent des pressions pour passer par cette justice, au risque de se voir rejeter par la communauté sinon.
 

@@ -36,7 +36,7 @@ Malgré un fort pressentiment je prends le chemin de travail comme à chaque foi
 
 21h10: La marche coupe court, les douleurs sont trop fortes à présent. Dre Papillon se tord de douleur sous mes yeux. Nous entrons dans la phase tant redoutée de l'accouchement, cette douleur insupportable pour elle, cette incapacité à faire quoique ce soit qui la soulage pour moi. Malgré le peu de mots échangés, nous avons tous deux en tête la dernière dilatation, loin de l'objectif; il va sûrement falloir attendre encore un bout, rompre les membres, médicaliser l'accouchement.
 
-21h20: Nous demandons une péridurale à notre infirmière qui revient en panique : les anesthésistes sont pris d'un côté par des jumeaux et de l'autre par un césarienne d'urgence; impossible d'avoir quoique ce soit pour l'heure. Seule alternative, le , encore connu comme gaz hilarant. Après une panique pour installer l'affaire, Dre Papillon est loin d'être hilare. Malgré qu'elle soit plus détendue, elle se tortille encore de douleur à chaque contraction plus forte. De manière évidente, elle ne durera pas longtemps comme ça et la péridurale sera incontournable.
+21h20: Nous demandons une péridurale à notre infirmière qui revient en panique : les anesthésistes sont pris d'un côté par des jumeaux et de l'autre par un césarienne d'urgence; impossible d'avoir quoique ce soit pour l'heure. Seule alternative, le [Nitronox](http://fr.wikipedia.org/wiki/N2O), encore connu comme gaz hilarant. Après une panique pour installer l'affaire, Dre Papillon est loin d'être hilare. Malgré qu'elle soit plus détendue, elle se tortille encore de douleur à chaque contraction plus forte. De manière évidente, elle ne durera pas longtemps comme ça et la péridurale sera incontournable.
 
 21h35: Dre Papillon gémit et devient plus blême à chaque contraction. Entre deux inspirations dans son masque à Nitronox, elle glisse qu'elle ressent une puissante envie de pousser. L'infirmière sent qu'il est temps de passer à l'action. Tout en soutenant Dre Papillon, elle sonne une autre infirmière et lui glisse de manière inaudible pour moi des instructions visiblement pressantes. Mon inquiétude augmente, je demande penaud si on aura le temps pour une péri, j'obtiens un non de la tête. Tout semble maintenant se dérouler très vite. Est-ce que l'infirmière serait de nouveau sur le point de se faire jouer un tour dans la salle 7 ?
 
@@ -48,7 +48,7 @@ Alors que les préparatifs pour réaliser l'accouchement proprement dit ne sont 
 
 En une poussée, la tête se dégage en partie.
 
-22h00: Un seconde poussée et le Doc dégage le corps au complet, Monsieur est né et posé sur le ventre de sa maman. Entre temps il a eu le temps de pousser quelques cris stridents ce qui lui vaut un beau  de 9 9 9.
+22h00: Un seconde poussée et le Doc dégage le corps au complet, Monsieur est né et posé sur le ventre de sa maman. Entre temps il a eu le temps de pousser quelques cris stridents ce qui lui vaut un beau [apgar](http://www.medecine-et-sante.com/sexualitereproduction/apgar.html) de 9 9 9.
 
 Le personnel nous laisse rapidement entre nous 3. Monsieur est étonnamment éveillé; les yeux grands ouverts il cherche un sein qu'il finit par accrocher sans pouvoir en obtenir quoique soit. La pesée un peu plus tard donnera un point de 2.8kg, très honorable pour un petit 35 semaines.
 

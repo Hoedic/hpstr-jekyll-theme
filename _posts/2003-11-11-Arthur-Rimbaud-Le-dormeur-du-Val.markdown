@@ -26,4 +26,4 @@ Les parfums ne font pas frissonner sa narine ;<br />
 Il dort dans le soleil, la main sur sa poitrine<br />
 Tranquille. Il a deux trous rouges au côté droit.*
 
-La  sur la , une autre façon de ne jamais oublier.  Comme le dit si bien  : "La guerre, c'est une saloperie.  Même en Irak."
+La [poésie](http://ebb.monblogue.com/2003/9/2) sur la [guerre](http://ebb.monblogue.com/2003/10/31), une autre façon de ne jamais oublier.  Comme le dit si bien [navire](http://navire.net/) : "La guerre, c'est une saloperie.  Même en Irak."

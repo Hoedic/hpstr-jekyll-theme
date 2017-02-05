@@ -18,3 +18,4 @@ Mais bon, à défaut ça donne un bon coup de pied dans la fourmilière. Si la j
 
 J'avais bien aimé y a deux jours la réplique de l'avocat de Microsoft qui disait que Microsoft n'enfreignait pas les lois américaines et qu'à ce titre l'entreprise ne devrait pas être condamnée, c'est beau de rêver.
 
+[Le communiqué de presse officiel de la Commission Européenne](http://europa.eu.int/rapid/start/cgi/guestfr.ksh?p_action.gettxt=gt&doc=IP/04/382|0|RAPID&lg=FR&display=)

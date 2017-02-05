@@ -10,7 +10,7 @@ categories:
 
 Après la cohue infructueuse du (sur)lendemain de Noël, nous sommes retourné dans le coin commercial pour m'acheter ce que j'avais abandonné de chercher la veille à savoir un routeur.
 
-Nous sommes donc allé dans un gros  sur Sainte-Catherine où j'étais à peu près certain de trouver ce que je voulais. Aprés plusieurs propositions peu intéressantes du vendeur, il me propose un SMC moins cher avec un port imprimante (ce que n'avaient pas les autres). De plus on m'avait conseillé SMC. Preuve qu'il ne faut pas se fier aux vendeurs. Bon, c'est certain que j'aurais préféré un wi-fi mais ça quadruplait le prix (il faut acheter les cartes réseau qui vont avec).
+Nous sommes donc allé dans un gros [Tuture Shop](http://www.futureshop.ca/home.asp?newlang=FR&logon=&langid=EN&dept=0&WLBS=fsweb9) sur Sainte-Catherine où j'étais à peu près certain de trouver ce que je voulais. Aprés plusieurs propositions peu intéressantes du vendeur, il me propose un SMC moins cher avec un port imprimante (ce que n'avaient pas les autres). De plus on m'avait conseillé SMC. Preuve qu'il ne faut pas se fier aux vendeurs. Bon, c'est certain que j'aurais préféré un wi-fi mais ça quadruplait le prix (il faut acheter les cartes réseau qui vont avec).
 
 Ebb, dans la frénésie acheteuse du moment -il restait pas mal de monde à profiter des aubaines, a acheté une souris optique (sans boule en-dessous) et sans fil... faut dire qu'à 20$CAD, il aurait été dommage de s'en priver !
 

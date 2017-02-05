@@ -28,7 +28,7 @@ Faut-il refuser toute forme d'élimination ? Non à l'aggrandissement des sites 
 
 Prendre position en environnement c'est forcément faire preuve d'une démagogie toute politicienne.
 
-Les groupes environnementaux opposent à la construction d'incinérateurs à déchets ou de sites d'enfouissement la réduction à la source. Certes, la réduction à la source est une clé importante (rappelez-vous, le  dont j'ai déjà eu l'occasion de parler), mais on attendra jamais un niveau de production de déchets zéro.
+Les groupes environnementaux opposent à la construction d'incinérateurs à déchets ou de sites d'enfouissement la réduction à la source. Certes, la réduction à la source est une clé importante (rappelez-vous, le [3R-V]({{ site.url }}/2003/10/22/La-gestion-des-dechets-au-Quebec) dont j'ai déjà eu l'occasion de parler), mais on attendra jamais un niveau de production de déchets zéro.
 
 D'un autre coté, dire que l'incinérateur de Belledune ne pollue pas du tout nécessite aussi une bonne dose de mauvaise foi. Comme on nous le signalait récemment en cours, il y a des tas de produits dont nous n'avons pas connaissance des effets sur la santé humaine et sur l'environnement. Que se passe-t-il quand on les brule (même à très haute température) ? Bien y en a toujours une partie qui est vaporisée et se retrouve dans l'environnement... pour y faire quoi ? On ne le sait pas toujours !
 

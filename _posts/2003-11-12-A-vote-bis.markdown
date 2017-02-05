@@ -8,8 +8,8 @@ categories:
 ---
 
 
-Le mois dernier, <a href="http://www.pierrecarion.com/blog/archives/2003/10/082118.html" title="A voté">Pierre</a> causait sur les problématiques liées au système de *punch card* pour voter aux États-Unis. On nous parlais alors d'une modernisation du système notamment avec des bidules à écran tactile. Mais j'avais lu, notamment sur , que les bidules à écran tactile n'étaient pas si bien que ça.
+Le mois dernier, <a href="http://www.pierrecarion.com/blog/archives/2003/10/082118.html" title="A voté">Pierre</a> causait sur les problématiques liées au système de *punch card* pour voter aux États-Unis. On nous parlais alors d'une modernisation du système notamment avec des bidules à écran tactile. Mais j'avais lu, notamment sur [Transfert](http://www.transfert.net/a9332), que les bidules à écran tactile n'étaient pas si bien que ça.
 
- revient sur ce sujet avec des résultats d'élections partielles surprenants, une corrélation de cette surprises avec les endroits où on vote avec des bidules à écran tactile tout aussi étonnante, le tout parsemé de lignes de code des logiciels de traitement des votes qui laissent perplexes.
+[Thomas Cantaloube](http://www.cantaloube.com/) revient sur ce sujet avec des résultats d'élections partielles surprenants, une corrélation de cette surprises avec les endroits où on vote avec des bidules à écran tactile tout aussi étonnante, le tout parsemé de lignes de code des logiciels de traitement des votes qui laissent perplexes.
 
 Comme signalé dans le billet, c'est à prendre avec des pincettes. Mais bon, comment dire, ça commence à faire beaucoup de questions qui tournent autour des machines à vote électronique ! Après la Floride 2000, les machines électroniques 2004 ?

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-L'histoire de  est fantastique de fausseté.  Sûrement, quelqu'un va bientôt se déclarer responsable de toute l'arnaque (Bush, Rumsfeld ou un de leurs petits amis...), et tout le monde sera tellement extasié devant tant de courage et d'honnêteté que l'admistration s'en trouvera dispensée de se justifier réellement.
+L'histoire de [Jessica Lynch](http://ledevoir.com/2003/11/08/40202.html) est fantastique de fausseté.  Sûrement, quelqu'un va bientôt se déclarer responsable de toute l'arnaque (Bush, Rumsfeld ou un de leurs petits amis...), et tout le monde sera tellement extasié devant tant de courage et d'honnêteté que l'admistration s'en trouvera dispensée de se justifier réellement.
 
 Un peu comme certaines affirmations gratuites des derniers mois sur le sujet quelque peu galvaudé des "armes de destruction massives" : il suffit que Bush en réclame la paternité pour que, comme par enchantement, on oublie le fond de l'histoire et on loue la confession comme une prodigieuse fin en soi.
 

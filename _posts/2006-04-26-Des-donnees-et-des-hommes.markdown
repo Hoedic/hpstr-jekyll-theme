@@ -14,7 +14,7 @@ Ces données sont de tous ordres : environnementales, économiques, géographiqu
 
 Pourquoi former un groupe pour ça ? Les raisons sont nombreuses mais c'est principalement parce qu'il s'agit de données utiles à de nombreux niveaux et payés par nos taxes. Ça peut autant être utile aux citoyens qu'aux entreprises, ça peut influencer la démocratie autant que l'économie.
 
-J'aurai surement l'occasion de revenir sur le sujet. Avant de mettre le communiqué officiel du lancement, j'ajoute que  et moi allons d'ailleurs faire une  sur ce sujet lors d'une  au mois de mai. Ça commence fort ;)
+J'aurai surement l'occasion de revenir sur le sujet. Avant de mettre le communiqué officiel du lancement, j'ajoute que [Michael](http://mtl3p.ilesansfil.org/blog/) et moi allons d'ailleurs faire une [présentation](http://www.cllap.qc.ca/2006/modules/smartsection/item.php?itemid=12#b20) sur ce sujet lors d'une [conférence](http://www.cllap.qc.ca/2006/) au mois de mai. Ça commence fort ;)
 
 N'hésitez pas à faire circuler !
 
@@ -38,7 +38,7 @@ Fondateurs : Darin Barney, Marcus Bornfreund, Stéphane Couture, Patrick Dinnen,
 Pour participer :
 
 Liste de discussion - 
+[http://civicaccess.ca/mailman/listinfo/civicaccess-discuss_civicaccess.ca/](http://civicaccess.ca/mailman/listinfo/civicaccess-discuss_civicaccess.ca/)
 
-
-Adresse Web - 
+Adresse Web - [http://civicaccess.ca/](http://civicaccess.ca/)
 </blockquote>

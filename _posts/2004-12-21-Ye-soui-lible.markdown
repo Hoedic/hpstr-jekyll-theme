@@ -21,7 +21,7 @@ Le marathon n'est pas encore fini, demain sera une journée chargée et elle dev
 
 
 
-Hier, MQ  qu'avant d'arriver au Québec, il pensait que la vie se suspendait à -10°C... même si c'est pas le cas, c'est tout de même moins vigoureux. Avec un -25°C au thermomètre, -40 ressenti avec le vent, les passants se font moins nombreux. D'un jour à l'autres, ils passent d'un "simple" manteau d'hiver à l'état d'oignon sur pattes avec pour seul indice de vie humaine une paire d'yeux entre bonnet et échappe enturbanée.
+Hier, MQ [disait](http://www.yvonet.com/2004/12/19/281-TouchezPasLesOreilles.html) qu'avant d'arriver au Québec, il pensait que la vie se suspendait à -10°C... même si c'est pas le cas, c'est tout de même moins vigoureux. Avec un -25°C au thermomètre, -40 ressenti avec le vent, les passants se font moins nombreux. D'un jour à l'autres, ils passent d'un "simple" manteau d'hiver à l'état d'oignon sur pattes avec pour seul indice de vie humaine une paire d'yeux entre bonnet et échappe enturbanée.
 
 - 25, c'est frette en titi, et la vie s'arrête un peu quand même.
 
@@ -36,4 +36,4 @@ Sinon j'ai tout de même pris le temps d'aller voir le concert de Polémil Bazar
 
 ***
 
-Ah et puis dernier petit truc : j'ai installé  (avec ) sur mon site, et j'ai mis quelques petites photos parmi celles que j'apprécient dans ce que j'ai pris dernièrement. Ça se trouve . SimpleViewer est vraiment une petite appli très pratique et bien foutue pour faire une gallerie d'images. Habituellement je ne suis pas trop flash mais là vraiment super bien. Pas autant de contrôle qu'avec Flickr, mais c'est nettement plus léger et au moins c'est *chez nous* ;)
+Ah et puis dernier petit truc : j'ai installé [SimpleViewer](http://www.airtightinteractive.com/simpleviewer/) (avec [SimpleViewer Admin](http://www.redsplash.de/projects/simplevieweradmin/)) sur mon site, et j'ai mis quelques petites photos parmi celles que j'apprécient dans ce que j'ai pris dernièrement. Ça se trouve [ici](http://www.mon-ile.net/images/). SimpleViewer est vraiment une petite appli très pratique et bien foutue pour faire une gallerie d'images. Habituellement je ne suis pas trop flash mais là vraiment super bien. Pas autant de contrôle qu'avec Flickr, mais c'est nettement plus léger et au moins c'est *chez nous* ;)

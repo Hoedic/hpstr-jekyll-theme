@@ -8,13 +8,13 @@ categories:
 ---
 
 
-Depuis son arrivée au pouvoir, notre ami  ne démord pas de sa volonté de faire un  au gaz naturel dans la région du Suroît (pas très loin de Montréal). Le but n'étant pas forcément de combler les besoins en électricité du Québec, mais plutôt de vendre tout ceci à nos voisins dans le but d'obtenir encore plus de bénéfices de la vache-à-lait qu'est , l'EDF locale.
+Depuis son arrivée au pouvoir, notre ami [mouton insignifiant](http://www.assnat.qc.ca/fra/membres/notices/c/chaj5.shtml) ne démord pas de sa volonté de faire un [centrale](http://www.ledevoir.com/2004/01/20/45333.html) au gaz naturel dans la région du Suroît (pas très loin de Montréal). Le but n'étant pas forcément de combler les besoins en électricité du Québec, mais plutôt de vendre tout ceci à nos voisins dans le but d'obtenir encore plus de bénéfices de la vache-à-lait qu'est [Hydro-Québec](http://www.hydro.qc.ca/), l'EDF locale.
 
-Mais, alors que le Québec doit baisser d'environ 10% ses émissions de gaz à effet de serre d'ici 2010 dans le cadre du  qui de toutes manières n'entrera jamais en vigueur mais c'est pas grave, cette centrale représenterait à elle-seule une hausse de 3% de ces même émissions, l'équivalent de la mise en circulation de 500 000 voitures (eh oui, c'est beaucoup).
+Mais, alors que le Québec doit baisser d'environ 10% ses émissions de gaz à effet de serre d'ici 2010 dans le cadre du [protocole de Kyoto]({{ site.url }}/2003/11/04/Signature-ou-ratification) qui de toutes manières n'entrera jamais en vigueur mais c'est pas grave, cette centrale représenterait à elle-seule une hausse de 3% de ces même émissions, l'équivalent de la mise en circulation de 500 000 voitures (eh oui, c'est beaucoup).
 
 Alors si vous aussi vous n'être pas d'accord avec cette pratique qui consiste à saccager l'environnement pour combler le déficit chronique du Québec, vous pouvez signer la pétition là :
 
-
+[http://www.heritagestbernard.qc.ca/petition](http://www.heritagestbernard.qc.ca/petition)
 
 Et même aller manifester ici :
 

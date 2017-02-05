@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Ceux qui lisent aussi  savent que mon titre est de lui et qu'il est ironique.  Sinon, je viens de vous l'apprendre.
+Ceux qui lisent aussi [Jean-Philippe](http://www.rundom.com/jpberthold/) savent que mon titre est de lui et qu'il est ironique.  Sinon, je viens de vous l'apprendre.
 
-Je ne suis habituellement pas très versée dans la politique (sauf pour ma sympathie à , qui est plutôt apolitique, et éventuellement aux Verts, pour le principe), mais vraiment là, je ne comprends pas pourquoi ce premier ministre a été élu.  Peut-être parce qu'il cachait bien ses vues...
+Je ne suis habituellement pas très versée dans la politique (sauf pour ma sympathie à [D'abord solidaires](http://www.dabordsolidaires.ca/), qui est plutôt apolitique, et éventuellement aux Verts, pour le principe), mais vraiment là, je ne comprends pas pourquoi ce premier ministre a été élu.  Peut-être parce qu'il cachait bien ses vues...
 
 En ce moment, c'est le festival des conneries, et tous les jours il en sort une nouvelle, c'est hallucinant.  Aucun milieu n'est épargné : défusions, transports en commun, garderies, aide sociale, syndicats, retraites, sans oublier l'éducation et la santé...
 

@@ -8,11 +8,11 @@ categories:
 ---
 
 
-,  et  en ont parlé dernièrement.
+[Netlex](http://www.netlexfrance.com/weblogs/index.php?p=1220&c=1), [Hou-Hou Blog](http://www.rundom.com/houssein/index.php?query=hikikomori&amount=0&blogid=1) et [Karl](http://www.la-grange.net/2003/10/31.html#perdu) en ont parlé dernièrement.
 
 Pas besoin d'aller jusqu'au Japon pour rencontrer le phénomène.  Les statistiques y sont peut-être plus parlantes, mais le problème s'est déjà répandu mondialement à la vitesse du SRAS.
 
-J'en connais un, ici même, dans notre belle province, un jeune occidental hikikomori.  Sa vie, ce sont les jeux vidéo ; vous savez, justement, ceux qui proviennent du Japon.  Son univers, sa chambre emplie de consoles.  Un peu d'Internet et de films saupoudrés viennent s'y ajouter.  C'est tout.  Il n'a pas d'amis, il ne sort pas.  Il souffre de .  Il n'a pas d'ambition, pas de rêves.  Une "âme perdue à la dérive", comme l'exprime bien poétiquement Karl.  Sauf que ce n'est pas de la poésie, c'est bien réel.
+J'en connais un, ici même, dans notre belle province, un jeune occidental hikikomori.  Sa vie, ce sont les jeux vidéo ; vous savez, justement, ceux qui proviennent du Japon.  Son univers, sa chambre emplie de consoles.  Un peu d'Internet et de films saupoudrés viennent s'y ajouter.  C'est tout.  Il n'a pas d'amis, il ne sort pas.  Il souffre de [phobie sociale](http://www.psy.umontreal.ca/dept/CliniqueAnxieteSociale.html).  Il n'a pas d'ambition, pas de rêves.  Une "âme perdue à la dérive", comme l'exprime bien poétiquement Karl.  Sauf que ce n'est pas de la poésie, c'est bien réel.
 
 Nul besoin d'une société aussi spéciale que celle du Japon pour que les proches s'en trouvent désemparés, démunis, honteux...  Ce qui ne les empêche pas d'assimilier la situation à l'adolescence, en se disant que ça va passer.  Sans intervenir.  Ouvrant les yeux sur le problème seulement lorsqu'il commence à enfler dramatiquement, à ne plus pouvoir être ignoré passivement.
 

@@ -33,4 +33,4 @@ Ceci dit, ce doit être un vrai plaisir de faire ce métier. Déclencher ce qui 
 
 Toutefois, je ne m'explique toujours pas cet engouement pour ce groupe. Les chansons sont bien, mais pas non plus au point d'écraser d'autres groupes québécois comme Polémil Bazar, pourtant nettement moins connus. Une partie de la jeunesse québécoise se reconnaitrait-elle en eux ?
 
-(Plus de photos et en grand format )
+(Plus de photos et en grand format [ici](http://flickr.com/photos/hoedic/))

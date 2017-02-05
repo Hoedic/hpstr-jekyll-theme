@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Conserver ou détruire ? Instinctivement, j'en tendance à tout conserver, au cas où. Mais vient un moment où trop devient pas assez et l'entassement est alors inutile. Il faut donc savoir filtrer et traiter pour être en mesure de rappeler l'information ou l'élément nécessaire. C'est un peu sur ce sujet que Thierry chez  m'a  sur la piste du Memex dont j'avais déjà entendu parler.
+Conserver ou détruire ? Instinctivement, j'en tendance à tout conserver, au cas où. Mais vient un moment où trop devient pas assez et l'entassement est alors inutile. Il faut donc savoir filtrer et traiter pour être en mesure de rappeler l'information ou l'élément nécessaire. C'est un peu sur ce sujet que Thierry chez [FOO](http://formats-ouverts.org/) m'a [conduit](http://formats-ouverts.org/blog/2005/08/23/503-myosotis-classer-ou-detruire-les-donnees-) sur la piste du Memex dont j'avais déjà entendu parler.
 
-Le Memex est un concept développé par Vannevar Bush (Aucun lien, le Bush que nous connaissons tous est trop con pour avoir une telle ascendance) qui préfigure de l'ordinateur moderne et le lien l'hyperlien. Defidoc propose deux extraits ( et ) passionnants surtout si on les remet dans le contexte de leur publication : juillet 1945.
+Le Memex est un concept développé par Vannevar Bush (Aucun lien, le Bush que nous connaissons tous est trop con pour avoir une telle ascendance) qui préfigure de l'ordinateur moderne et le lien l'hyperlien. Defidoc propose deux extraits ([ici](http://www.defidoc.com/internet_intranet/ProphetieBush.htm) et [là](http://www.defidoc.com/internet_intranet/ProphetieBush2.htm)) passionnants surtout si on les remet dans le contexte de leur publication : juillet 1945.
 
 Plus que l'hypertexte, son *Memex* (pour *Memory Extended*) se veut un bureau qui agirait comme «*supplément intime et agrandi de sa mémoire*». C'est ainsi que je vois et veux mon tablet PC. Et si plusieurs des éléments qu'il propose se sont réalisés, d'autres sont seulement en chemin
 

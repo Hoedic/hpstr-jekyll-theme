@@ -48,7 +48,7 @@ Ensuite, bien, il fallait rentrer, alors autant prendre un autre chemin (puis Co
 
 
 
-Résultat, 3 heures et demie de pédale, quelques photos, pas mal de sueur et... d'odeurs (Ebb peut en témoigner), une certaine douleur du fessier et surtout une belle balade. Pour ceux que Montréal à vélo branche bien, la  commence bientôt avec son fameux tour de l'île (env. 40km), renseignez-vous !
+Résultat, 3 heures et demie de pédale, quelques photos, pas mal de sueur et... d'odeurs (Ebb peut en témoigner), une certaine douleur du fessier et surtout une belle balade. Pour ceux que Montréal à vélo branche bien, la [féria de vélo](http://www.velo.qc.ca/feria/feria2004.php) commence bientôt avec son fameux tour de l'île (env. 40km), renseignez-vous !
 
 ***
 

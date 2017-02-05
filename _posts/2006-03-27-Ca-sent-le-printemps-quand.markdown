@@ -8,7 +8,7 @@ categories:
 ---
 
 
-- Les ,
+- Les [premières mini sont de sortie](http://piette.blogspot.com/2006/03/cest-parti.html),
 -  Il y a plus d'une baston par *game* de hockey,
 -  Les avenues Mont-Royal et Saint-Denis sont noires de monde sans qu'il n'y ai de soldes,
 -  Les bottes à poils sont remplacées par les lunettes de soleil ridicules,

@@ -10,17 +10,17 @@ categories:
 
 Le Conseil doit rendre sa ou ses décisions ce soir, qui peut ensuite mettre 24-48h à être appliquée. Dans tous les cas, ça ne va pas régler le conflit, et peut-être même l'envenimer si ça mène à l'imposition d'une nouvelle loi spéciale, par exemple. Qui sait, peut-être s'en va-t-on vers la loi martiale, avec un militaire qui pointe une Kalachnikov sur la tête de chaque médecin spécialiste pour qu'il nous enseigne ! Bref, j'ai bien hâte de voir ça.
 
+[Impasse entre les médecins et Québec](http://www.ledevoir.com/2006/11/30/123908.html)
 
+[Impasse entre Québec et les spécialistes](http://www.cyberpresse.ca/article/20061130/CPACTUEL/611300714/1026/CPACTUALITES)
 
+[Le Conseil des services essentiels saisi de requêtes](http://www.cyberpresse.ca/article/20061130/CPACTUALITES/61130064/1026/CPACTUALITES)
 
+[Reprise des audiences](http://www.radio-canada.ca/nouvelles/Politique/2006/11/30/005-med-spec-30nov.shtml)
 
+[L'évaluation des écarts: état des lieux](http://www.radio-canada.ca/nouvelles/Politique/2006/11/30/004-medecin-remuneration.shtml) (très intéressant !)
 
-
-
-
- (très intéressant !)
-
-Update en soirée : 
+Update en soirée : [Décision reportée](http://www.radio-canada.ca/nouvelles/Politique/2006/11/30/007-conseil-services-a-vendredi.shtml)
 
 Extrait-choc : ''Selon les avocats du gouvernement, l'obstruction procédurale de la FMSQ met en péril « toute une cohorte de futurs médecins ».''
 

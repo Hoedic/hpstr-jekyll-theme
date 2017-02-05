@@ -12,4 +12,4 @@ Voilà, aujourd'hui, c'était mon premier cours. 20 minutes montre main pour fai
 
 C'est un des problèmes de l'aspect consumériste rendu même à l'université : les étudiants "font leurs courses" de cours pendant la permière semaine et donc les profs ne souhaitent pas commencer le contenu car 50% de personnes vont s'ajouter au second cours.
 
-Ah ! et Polytechnique est toujours aussi  !
+Ah ! et Polytechnique est toujours aussi [colorée]({{ site.url }}/2005/08/29/Fallait-pas-les-ingenieurs) !

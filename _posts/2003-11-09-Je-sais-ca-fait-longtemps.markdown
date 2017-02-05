@@ -10,4 +10,4 @@ categories:
 
 J'ai omis de lier l'article au moment de sa parution, je le fais maintenant parce qu'il en vaut la lecture...
 
-, chez .  Aménagement du territoire, villes nordiques, environnement - une vision globale sur un sujet quelque peu... d'actualité.
+[De vulgaires hiverniens](http://carnets.ixmedia.com/magellan/archives/003008.html), chez [Magellan](http://carnets.ixmedia.com/magellan/).  Aménagement du territoire, villes nordiques, environnement - une vision globale sur un sujet quelque peu... d'actualité.

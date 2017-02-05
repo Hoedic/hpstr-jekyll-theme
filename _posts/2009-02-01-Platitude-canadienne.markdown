@@ -10,15 +10,15 @@ categories:
 
 Plate, ajd. Québécisme - Se dit d'une chose sans intérêt et particulièrement ennuyeuse. "Le discours du Premier Ministre était plate en estie."
 
-Je me rappelle avoir lu une fois, probablement chez , quelque chose du genre "En politique canadienne, de tous les scénarios possibles c'est toujours le plus plate qui va se réaliser".
+Je me rappelle avoir lu une fois, probablement chez [Patrick](http://i.never.nu/), quelque chose du genre "En politique canadienne, de tous les scénarios possibles c'est toujours le plus plate qui va se réaliser".
 
-Le dernier article de Gil Coutemanche, titré , résume très bien cet état de fait local.
+Le dernier article de Gil Coutemanche, titré [La médiocrité](http://www.ledevoir.com/2009/01/31/230519.html), résume très bien cet état de fait local.
 
 Après avoir cru l'espace de quelques semaines à un scénario à l'européenne où un gouvernement minoritaire se ferait renverser par un coalition des partis d'opposition pour mettre en place un front commun contre la crise, nous voilà face à un soufflet trop cuit autour du quel tout le monde s'affaire à ses petites guéguerre habituelle.
 
 Je ne suis pas un expert en macro-économie et je suis malgré tout bien mal placé pour jouer le gérant d'estrade gouvernemental. Mais quand même il est dommage de voir le budget spécial anti-crise 2009 proposer des solutions identiques aux crises des 100 dernières années.
 
-Pourtant, ce n'est pas faute d'être dans un monde différent. Quand on parle d'infrastructures, pourquoi se limiter aux routes et viaducs ? Pourquoi ne pas soutenir plus clairement les infras informationnelles comme le  un Michael Geist ?
+Pourtant, ce n'est pas faute d'être dans un monde différent. Quand on parle d'infrastructures, pourquoi se limiter aux routes et viaducs ? Pourquoi ne pas soutenir plus clairement les infras informationnelles comme le [propose](http://www.michaelgeist.ca/content/view/3618/135/) un Michael Geist ?
 
 Bien entendu, c'était surement trop idéaliste d'espérer des fonds supplémentaires pour les transports en commun, et pourtant ce serait surement plus rentable et pérenne que de donner aux dinosaures automobiles à qui on n'impose même pas de contre-partie comme des normes anti-pollutions plus strictes.
 

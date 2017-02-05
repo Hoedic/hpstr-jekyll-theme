@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Nous avons profité du week-end, à nos yeux particulier puisque cela fait 5 ans que nous sommes ensemble, pour voyager vers le Noooord, en très grande banlieue de la ville de Québec, puisque nous étions invité par  et son homme dans leur petit nid, lui-même situé dans un coin charmant.
+Nous avons profité du week-end, à nos yeux particulier puisque cela fait 5 ans que nous sommes ensemble, pour voyager vers le Noooord, en très grande banlieue de la ville de Québec, puisque nous étions invité par [Étolane](http://voldemots.blogspot.com/) et son homme dans leur petit nid, lui-même situé dans un coin charmant.
 
 ![Image]({{ site.url }}/images/eto-fleur_15-08-2004.jpg)
 <div class="photoattrib">Un coin radieux</div>
@@ -36,7 +36,7 @@ Nous en avons également profité pour s'aventurer un peu plus loin, notamment �
 
 
 
-Je reste tout de même particulièrement étonné de la faune entourant ce lac en particulier et les lacs québécois en général. En effet, hormis quelques rares plages municipales, les bords de lacs sont généralement la propriété de riches propriétaires rendant ainsi l'accès à l'eau quasi-impossible pour le premier quidam venu. Les terrains valent une fortune (surement plus que dans les coins les plus chers de Montréal) et les baraques construites dessus encore plus. Tout le monde possède bateau,  voire hydravion, le québécois moyen faisant office de clochard.
+Je reste tout de même particulièrement étonné de la faune entourant ce lac en particulier et les lacs québécois en général. En effet, hormis quelques rares plages municipales, les bords de lacs sont généralement la propriété de riches propriétaires rendant ainsi l'accès à l'eau quasi-impossible pour le premier quidam venu. Les terrains valent une fortune (surement plus que dans les coins les plus chers de Montréal) et les baraques construites dessus encore plus. Tout le monde possède bateau, [seadoo](http://www.seadoo.com/) voire hydravion, le québécois moyen faisant office de clochard.
 
 ![Image]({{ site.url }}/images/eto-bateau_15-08-2004.jpg)
 <div class="photoattrib">Symbole d'une certaine aisance</div>
@@ -50,4 +50,4 @@ Je reste tout de même particulièrement étonné de la faune entourant ce lac e
 
 Enfin bref, étant proche de la plage municipale, nous avons pu profiter du bord du lac pendant toute la journée de dimanche. Cela m'a valu un très beau coup de soleil sur l'extérieur du mollet gauche. J'ai aussi eu le bonheur de découvrir un coup de soleil surprise sur le dessus du pied gauche aussi que sur la malléole qui va avec, très agréable quand on porte des chaussures.
 
-**Note** : D'autres belles photos à voir en suivant les liens d'Étolane dans son  consacré au même sujet :p
+**Note** : D'autres belles photos à voir en suivant les liens d'Étolane dans son [billet](http://voldemots.blogspot.com/2004/08/fourmis-des-villes-fourmis-des-bois.html) consacré au même sujet :p

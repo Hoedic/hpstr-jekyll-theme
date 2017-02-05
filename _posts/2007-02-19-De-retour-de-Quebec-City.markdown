@@ -14,7 +14,7 @@ Et là-bas l'hiver, c'est pas pour de faux !
 
 
 Vu :
--  
--  
--  
--  Quelques    (des vieux de la vieille)
+-  [Fernando Botero](http://www.mnba.qc.ca/Contenu.aspx?page=1805)
+-  [Tintin au Pérou](http://www.mcq.org/fr/mcq/expositions.php?idEx=w516)
+-  [L'hôtel de glace](http://www.icehotel-canada.com/)
+-  Quelques [menus](http://carnets.ixmedia.com/magellan/) [blogueurs](http://voldemots.blogspot.com/)  (des vieux de la vieille)

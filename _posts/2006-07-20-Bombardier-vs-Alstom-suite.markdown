@@ -9,7 +9,7 @@ categories:
 
 
 <blockquote class="citation">Le canadien Bombardier remporterait le contrat dit "du siècle" dans le monde ferroviaire - 4 milliards d'euros pour le renouvellement du matériel roulant de la SNCF en Ile-de-France - contre le Français Alstom.<br/>
-Source : </blockquote>
+Source : [Bombardier-Alstom: ennemis ou alliés ?](http://economie.blog.lemonde.fr/economie/2006/07/bombardieralsto.html)</blockquote>
 
 Encore une fois, l'argument du gouvernement Charest selon lequel c'est une pratique courante dans ce domaine d'attribuer des contrats sans appel d'offre est tout à fait fallacieux. Rappelons que Bombardier s'est vu attribué directement le renouvellement des rames de métro à Montréal, un contrat estimé à 1.2 milliards de pesetas canadiennes ; Alstom était le seul autre prétendant déclaré.
 
@@ -23,4 +23,4 @@ Après tous les efforts déployés par le gouvernement français pour sauver Als
 
 **Update** : Décidément ! Sur mes 3 derniers billets, 2 nécessitent des updates :( Retenue, retenue...
 
-Donc l'information venant du blog du monde est à prendre au conditionnel (d'ailleurs leur article est en partie au conditionnel) puisque la SNCF a démenti avoir officiellement choisi. Bombardier est le mieux-disant apparamment, mais la réponse sur l'attribution de ce contrat tombera en .
+Donc l'information venant du blog du monde est à prendre au conditionnel (d'ailleurs leur article est en partie au conditionnel) puisque la SNCF a démenti avoir officiellement choisi. Bombardier est le mieux-disant apparamment, mais la réponse sur l'attribution de ce contrat tombera en [fin septembre](http://bourse.lefigaro.fr/Actualite/Default.asp?Source=FI&NumArticle=58460).

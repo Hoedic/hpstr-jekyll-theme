@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Hier, je suis allée à  pour resigner mon contrat, étant donné un nouveau don que je viens de recevoir de la part de mon député.
+Hier, je suis allée à [Mer et Monde](http://www.monde.ca/) pour resigner mon contrat, étant donné un nouveau don que je viens de recevoir de la part de mon député.
 
 Il faut un témoin à la signature de ce contrat, alors j'accroche Martin, le coordonnateur, qui passait par là :
 

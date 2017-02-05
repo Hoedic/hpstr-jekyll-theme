@@ -15,7 +15,7 @@ categories:
 
 Hoedic et moi, je l'ai déjà laissé entendre, nous sommes connus par l'intermédiaire d'une petite "communauté" sur Internet qui s'est formée autour de la lecture de la trilogie des Fourmis (Bernard Werber).  Un livre qui change la vie, radicalement...
 
-J'avais 14 ans quand j'ai lu le premier tome, sur les conseils avisés de   réalisé par B, un Nantais de mon âge.  C'est alors la première extase d'avoir un correspondant dans un pays aussi lointain...
+J'avais 14 ans quand j'ai lu le premier tome, sur les conseils avisés de [Jean-Philippe](http://www.rundom.com/jpberthold/) [s'il avait su l'impact que cela aurait !].  J'ai alors fait une petite recherche avec pour mot-clé le terme "fourmis", et je suis tombée sur un [site](http://fourmiliere.belokan.free.fr/) réalisé par B, un Nantais de mon âge.  C'est alors la première extase d'avoir un correspondant dans un pays aussi lointain...
 
 J'apprends enfin ce qu'est le fameux "lycée" (dont le mot apparaît dans certaines de mes lectures sans que j'arrive à donner un âge aux personnages...), où se trouve la Bretagne (un pays ?  ah non ?  c'est pas en Grande-Bretagne ?  ah bon...), etc.  Après le mail vient la découverte d'ICQ (oui, ce sont mes débuts sur Internet, en même temps) et de l'IRC, avec #fourmis.  C'est là que j'apprends à connaître et aimer profondément (encore aujourd'hui) tout ce beau monde, surtout des Français mais aussi quelques Québécois.
 
@@ -23,7 +23,7 @@ Petit à petit se forme en mon esprit le projet fou d'aller voyager en France, c
 
 Mais la folie grandit en moi et sur un coup de tête, je décide à la fin de l'année d'annuler mon inscription.  Après tout, avec l'argent que j'ai mis de côté, je peux avantageusement organiser mon voyage moi-même et choisir chacune de mes destinations, ainsi que mes gentils hôtes ?  Je ne pense même pas que ce changement puisse importuner mes parents.  En fin de compte, il aura fallu bien me battre avec eux pour obtenir le droit de partir seule, l'été de mes 16 ans, pour un mois.  J'avais alors un petit ami, Québécois, qui a constitué mon argument-massue final : il m'accompagnera pour la dernière semaine de ce périple.  Les parents consentent, à défaut d'être complètement rassurés.
 
-À moi la France !  Le voyage s'organise petit à petit : Nantes avec Hoedic, Marseille avec B et A-F, Monaco avec R, et Paris chez .  Un programme exaltant...
+À moi la France !  Le voyage s'organise petit à petit : Nantes avec Hoedic, Marseille avec B et A-F, Monaco avec R, et Paris chez [Leeloolène](http://leeloolene.free.fr).  Un programme exaltant...
 
 C'est ainsi qu'un certain 19 juillet 1999, même pas un mois après son opération à l'épaule, je me retrouve nez à nez avec Hoedic, que j'ai du mal à retrouver sur le quai de la gare de Châteaudun.  Il faut voir que je n'avais en ma possession qu'une unique photo de lui, sur laquelle sa main cachait le bas de son visage.  Comment pouvais-je deviner qu'il portait la barbe ?  (Je me surprends alors à me demander la sensation que cela peu faire, d'embrasser cette bouche...)
 

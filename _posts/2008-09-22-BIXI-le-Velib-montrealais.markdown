@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ainsi, ce sera . Dommage pour mon VéloCité qui me plaisait bien, et ça ne me vaudra pas un abonnement d'un an gratuit au service inspiré des Velo'v et autres Velib'.
+Ainsi, ce sera [BIXI](http://bixi.ca/). Dommage pour mon VéloCité qui me plaisait bien, et ça ne me vaudra pas un abonnement d'un an gratuit au service inspiré des Velo'v et autres Velib'.
 
 Et après tout, qu'en aurais-je fait ? Et qu'en feront les Montréalais ? Paris et Montréal, ce n'est pas le même combat. Les Montréalais possèdent déjà des vélos dans une large proportion, il n'y a pas trop de limitation pour stationner les vélos ni pour circuler.
 

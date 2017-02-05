@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La paix ne pouvait pas durer au pays des maudits français au Québec. Après deux ans de bons et loyaux services, le webmaster d' a décidé de passer la main (ce que je comprends, c'est vraiment tannant de s'occuper d'un gros site comme ça, surtout qu'il y a peu de modos). Toutefois, je ne suis pas certain de tout comprendre. Déjà, il a mis le membership à 30$ et là, il explique qu'il va vendre le site et pour un montant pas mal élevé. Les propositions d'aider à la poursuite des activités sont repoussées du revers de la main genre "ne vous melez pas de ça les petits". J'ai du mal à comprendre où tout ceci va finir. En tant que modo du forum, je m'étonne de ne pas être tenu un peu plus au courant, mais bon...
+La paix ne pouvait pas durer au pays des maudits français au Québec. Après deux ans de bons et loyaux services, le webmaster d'[immigrer-contact](http://www.immigrer-contact.com/) a décidé de passer la main (ce que je comprends, c'est vraiment tannant de s'occuper d'un gros site comme ça, surtout qu'il y a peu de modos). Toutefois, je ne suis pas certain de tout comprendre. Déjà, il a mis le membership à 30$ et là, il explique qu'il va vendre le site et pour un montant pas mal élevé. Les propositions d'aider à la poursuite des activités sont repoussées du revers de la main genre "ne vous melez pas de ça les petits". J'ai du mal à comprendre où tout ceci va finir. En tant que modo du forum, je m'étonne de ne pas être tenu un peu plus au courant, mais bon...
 
 ***
 

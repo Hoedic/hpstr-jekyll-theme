@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ça faisait quelques semaines que j'utilisais  en beta mais à force de le bidouiller, de mettre des extensions pas faites pour, etc, j'en étais arrivé à une install instable avec plusieurs fonctionnalités inutilisables (comme la boîte de recherche).
+Ça faisait quelques semaines que j'utilisais [Firefox 2](http://www.mozilla.com/en-US/firefox/) en beta mais à force de le bidouiller, de mettre des extensions pas faites pour, etc, j'en étais arrivé à une install instable avec plusieurs fonctionnalités inutilisables (comme la boîte de recherche).
 
 J'ai donc profité de la livraison officielle pour réinstaller tout ça proprement et les progrès sont quand même au rendez-vous : plus rapide au lancement, une interface plus réactive et esthétique, certaines fonctionnalités comme la sauvegarde des tabs d'une session à l'autre. L'installation par défaut semble également régler le problème de boulémie de RAM dont souffrait les versions 1.5.
 
@@ -20,4 +20,4 @@ J'encourage donc tout le monde à passer à Firefox 2, c'est visiblement un bon 
 
 Quelques remarques :
 -  Pour que votre brouteur se rappelle des tabs d'une session à l'autre, il faut lui dire : Outils > option > Onglet général. Dans le menu déroulant "Au démarrage de Firefox", choisissez le dernier choix.
--  Pour fermer une tab, si vous voulez une unique croix placée tout à droite de la fenêtre au lieu d'être sur chaque tab, ça se passe 
+-  Pour fermer une tab, si vous voulez une unique croix placée tout à droite de la fenêtre au lieu d'être sur chaque tab, ça se passe [là](http://tech.cybernetnews.com/2006/07/09/how-to-tweak-firefox-20-beta-1/)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Encore un épisode hilarant de South Park (le ,  *Butt out*).
+Encore un épisode hilarant de South Park (le [710](http://www.southparkstudios.com/show/guide.html?season=7&min=2),  *Butt out*).
 
 L'action : les quatre garçons, après avoir vu à l'école une équipe "anti-cigarette" essaient de fumer (logique) et finissent par se faire prendre. Pour éviter la punition, ils mettent ça sur le dos de l'industrie du tabac qui les a *forcé* à travers la publicité.
 
@@ -17,11 +17,11 @@ L'action : les quatre garçons, après avoir vu à l'école une équipe "anti-ci
 
 
 
-Pour lutter contre ce fléau, les parents font appel à , un militant anti-fumée radical qui a fait interdire la cigarette un peu partout au pays. Ce dernier en fait, utilise les techniques les plus vicieuses (dont le mensonge bien entendu) pour faire interdire la cigarette, cette dernière étant montré comme... un droit pour chacun en fait.
+Pour lutter contre ce fléau, les parents font appel à [Rob Reiner](http://www.imdb.com/name/nm0001661/), un militant anti-fumée radical qui a fait interdire la cigarette un peu partout au pays. Ce dernier en fait, utilise les techniques les plus vicieuses (dont le mensonge bien entendu) pour faire interdire la cigarette, cette dernière étant montré comme... un droit pour chacun en fait.
 
 Ça fait bien entendu écho aux nombreux procès ces dernières années contre les entreprises du tabac comme quoi elles seraient responsables des cancers des poumons (certes, c'est incontestable) et auraient caché les dangers de la cigarette. Il me semble que ça fait un bout qu'on sait que la cigarette est dangereuse, non ?
 
-Cet épisode de South Park entre tout à fait dans l'actualité puisque les médias ont relayé récemment deux possibles  contre les grandes tabatières.
+Cet épisode de South Park entre tout à fait dans l'actualité puisque les médias ont relayé récemment deux possibles [poursuites collectives](http://montreal.cbc.ca/regionalnews/caches/qc_smoking20041104.html) contre les grandes tabatières.
 
 Difficile de prendre position à mes yeux car, comme toujours rien n'est blanc ou noir. Les campagnies de tabac ne sont pas non plus totalement innocentes : en mettant une forte charge de nicotine (addictive) dans les cigarettes light, elles font ce qu'il faut pour garder leur clientèle captive.
 

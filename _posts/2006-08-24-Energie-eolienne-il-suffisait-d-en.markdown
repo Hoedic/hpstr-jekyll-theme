@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Cela vaut bien un deuxième article plutôt qu'une update du  : dans la section Idées du quotidien Le Devoir en date d'aujourd'hui 24 août, un membre du Parti Vert  (ou)vertement les projets éoliens industriels qui se développent aujourd'hui.
+Cela vaut bien un deuxième article plutôt qu'une update du [précédent]({{ site.url }}/2006/08/24/Histoire-de-bananes-et-d-eoliennes) : dans la section Idées du quotidien Le Devoir en date d'aujourd'hui 24 août, un membre du Parti Vert [critique](http://www.ledevoir.com/2006/08/24/116532.html) (ou)vertement les projets éoliens industriels qui se développent aujourd'hui.
 
 Et c'est un assez bon exemple de ce que peut être une participation citoyenne constructive : il souligne l'impact environnemental des projets éoliens de très grande envergure sans pour autant s'y opposer catégoriquement.
 

@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Voilà, on sait  que la chirurgienne de Ste-Justine aurait vraisemblablement  en soignant un jeune patient...
+Voilà, on sait [maintenant]({{ site.url }}/2004/01/24/Les-medecins-et-le-sida) que la chirurgienne de Ste-Justine aurait vraisemblablement [attrapé le VIH](http://www.cyberpresse.ca/actualites/article/1,63,0,012004,566232.shtml) en soignant un jeune patient...
 
-C'est vrai que ça commence à faire beaucoup de parallèles avec le .
+C'est vrai que ça commence à faire beaucoup de parallèles avec le [Dr. Lucille Teasdale](http://edimage.ca/edimage/grandspersonnages/fr/carte_b06.html).
 
 N'empêche, je ne peux m'empêcher de penser qu'un travail, quel qu'il soit, ne mérite jamais qu'on y laisse sa peau...
 

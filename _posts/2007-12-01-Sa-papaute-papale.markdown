@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un peu comme , je n'ai pu m'empêcher de sursauter en  ce que Benedictus le XVIème du nom avait à dire. Du moins ce que Le Monde en relate car je ne suis pas pour lire ça. Ceux qui me connaissent savent d'ailleurs que le Pape est une de mes figures de prédilection.
+Un peu comme [Houssein](http://houblog.net/article/1506-exercice-papal), je n'ai pu m'empêcher de sursauter en [lisant](http://www.lemonde.fr/web/article/0,1-0@2-3214,36-984438@51-980235,0.html) ce que Benedictus le XVIème du nom avait à dire. Du moins ce que Le Monde en relate car je ne suis pas pour lire ça. Ceux qui me connaissent savent d'ailleurs que le Pape est une de mes figures de prédilection.
 
 Bref, je retire de la lecture d'Henri Tincq (et d'un parcours rapide du document original quand même) le mot espérance. Les espérances fallacieuses des idéologies athées comme titre l'article ou a contrario l'espérance de la foi. Ceci me renvoit à ma lecture actuelle, Comte-Sponville. Une de ses positions est que l'espoir ne fait qu'emprisonner notre vie et le présent.
 

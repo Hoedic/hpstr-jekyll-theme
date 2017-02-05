@@ -8,7 +8,7 @@ categories:
 ---
 
 
- reprend dans un de ses <a href="http://www.cyberpresse.ca/internet/article/1,150,1505,102003,476845.shtml" title="Les internautes n'aiment pas les pourriels">articles</a> une étude menée par le Pew Institute qui relate que le pourriel (ou spam ou e-mail non sollicité ou publicité pornographique qui arrive dans votre boîte et dont vous n'avez que faire) non seulement n'est pas du tout apprécié par les internautes mais que ça mine la confiance des utilisateurs pour ce qui est de l'utilisation des e-mails et d'internet en général.
+[Cyberpresse](http://www.cyberpresse.ca/) reprend dans un de ses <a href="http://www.cyberpresse.ca/internet/article/1,150,1505,102003,476845.shtml" title="Les internautes n'aiment pas les pourriels">articles</a> une étude menée par le Pew Institute qui relate que le pourriel (ou spam ou e-mail non sollicité ou publicité pornographique qui arrive dans votre boîte et dont vous n'avez que faire) non seulement n'est pas du tout apprécié par les internautes mais que ça mine la confiance des utilisateurs pour ce qui est de l'utilisation des e-mails et d'internet en général.
 
 Et c'est vrai qu'on ne peut être que dépité de constater d'abord le contenu de la *chose* mais aussi les montagnes d'ingénuosités développées pour passer au travers des filtres. La dernière méthode en date consiste à mettre des trémas sur toutes les voyelles pour éviter le filtrage par mot-clé ce qui donne *"Frëe vïagrä för äll"* ou *"Ënlärge yöur pënir wïthoüt sürgëry"*.
 
@@ -16,7 +16,7 @@ Même les dernières découvertes scientifiques sont mise à contributions. Par 
 
 Un ami m'a récemment fait part du fait que le filtre d'outlook 2003 était particulièrement efficace et qu'il ne recevait plus un seul spam. Je ne sais pas sur quoi se fait se filtre, mais nul doute que les spammeurs professionnels trouveront une parade. C'est le jeu du chat et de la souris et tout ceci risque de se finir par un filtrage par expéditeur : seuls les expéditeurs connus par le destinataire seront autorisés ce qui représent la fin du courriel tel qu'on l'entend. Le spam aura ainsi tellement parasité son hote que ce dernier ne sera plus viable et tout le monde y perdra. C'est bien dommage.
 
-Qu'à cela ne tienne : il suffit d'aller parasiter d'autres hôtes ! C'est ainsi que je lisais hier (mais je ne sais plus où, ce qui est bien dommage), que certains ont désormais pris pour cible les systèmes de commentaires des weblogues pour diffuser leur verbiage porno-publicitaire. On n'arrête pas le progrès ! Je pense que je vais me mettre au développement d'un bot qui poste automatiquement des spams sur des systèmes comme  et , je suis certain que je vais devenir millionnaire !
+Qu'à cela ne tienne : il suffit d'aller parasiter d'autres hôtes ! C'est ainsi que je lisais hier (mais je ne sais plus où, ce qui est bien dommage), que certains ont désormais pris pour cible les systèmes de commentaires des weblogues pour diffuser leur verbiage porno-publicitaire. On n'arrête pas le progrès ! Je pense que je vais me mettre au développement d'un bot qui poste automatiquement des spams sur des systèmes comme [blogger](http://new.blogger.com/home.pyra) et [movable type](http://www.movabletype.org/), je suis certain que je vais devenir millionnaire !
 
 Mais puisqu'on vous dit qu'on en veut pas de vos pourriels dégoutants, puisqu'on se fatigue à mettre des filtres, c'est qu'ils sont voués à être supprimés immédiatement ! Alors pourquoi insister ?!? puisqu'on vous a dit NON! Mais y a rien à faire, ils comprennent pas ces vilains spammeurs. 
 

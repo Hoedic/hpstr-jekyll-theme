@@ -14,7 +14,7 @@ Face à ce constat j'ai mis en place des leurres, des contre-mesures pour isoler
 
 Sauf que ça ne marche pas. La notion de lien est constitutive d'Internet mais n'y est en aucun cas circonscrite. Les personnes connues online sont également des connaissances réelles et inversement. Quelle idée alors de se présenter sous diverses formes ? Quand utiliser l'une ? Pas l'autre ? C'est quoi ce nom ? Étonnamment je n'ai pas eu beaucoup de réflexions sur le sujet mais surement ai-je eu l'air fou aux yeux de certains.
 
-Du coup c'est avec intérêt que j'ai parcouru un  récent de Karl dans lequel il aborde la question de l'identité numérique et ce qu'il définit comme l'opposé de cette identité, une opacité numérique ou plus directement une certaine forme d'anonymat.
+Du coup c'est avec intérêt que j'ai parcouru un [billet](http://www.la-grange.net/2009/02/20/identites-numeriques) récent de Karl dans lequel il aborde la question de l'identité numérique et ce qu'il définit comme l'opposé de cette identité, une opacité numérique ou plus directement une certaine forme d'anonymat.
 
 
 ![Image]({{ site.url }}/images/7801_8a0f6f0608_z_d.jpg)

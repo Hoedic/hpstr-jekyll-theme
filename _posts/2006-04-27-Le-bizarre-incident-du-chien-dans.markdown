@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Récemment, un ami m'a prêté ce , et grand bien lui en fu.  J'en ai vraiment adoré la lecture et je vous le recommande chaudement.
+Récemment, un ami m'a prêté ce [petit livre](http://www.amazon.fr/exec/obidos/ASIN/2266142836/403-4012426-4206846), et grand bien lui en fu.  J'en ai vraiment adoré la lecture et je vous le recommande chaudement.
 
-Le narrateur est un jeune "différent", puisqu'il est autiste.  C'est très intéressant d'être invité à penser comme lui.  Le tout est très réaliste et me rappelle immanquablement les multiples aventures de .  La façon de penser, de réagir, les peurs irraisonnées.  Évidemment ce n'est pas la même situation, mais il y a clairement des parallèles que l'on peut faire.
+Le narrateur est un jeune "différent", puisqu'il est autiste.  C'est très intéressant d'être invité à penser comme lui.  Le tout est très réaliste et me rappelle immanquablement les multiples aventures de [Lou](http://www.a-lou.com/fr/bloglou/index.php).  La façon de penser, de réagir, les peurs irraisonnées.  Évidemment ce n'est pas la même situation, mais il y a clairement des parallèles que l'on peut faire.
 
 L'histoire m'a aussi beaucoup fait penser à mon frère avec ses problèmes de phobie sociale.  Bien sûr, ça n'a rien à voir avec l'attitude d'un autiste (qui se sent mieux lorsqu'il est seul), alors que mon frère, lui, est malheureux de ne pas arriver à socialiser.  Mais ça m'a fait réfléchir à ce qu'une peur intense peut faire faire.  Tout en réalisant que ce n'est pas forcément une victoire que d'agir mué par une telle force.
 

@@ -12,17 +12,17 @@ Pour ceux qui viennent de se réveiller, la France a *encore* gagné. Pas de pho
 
 ***
 
-Je voulais souligner l'existence du site de , vraiment bien fait et surtout entièrement géré par Internet. Quel progrès ! La semaine dernière encore, un amie est venue avec AlloStop et il a fallu trouver un moment, durant son court séjour, pour aller payer ces gens. Such a pain in the ass... Nous lui avons prestement conseillé de changer.
+Je voulais souligner l'existence du site de [covoiturage AmigoExpress](http://www.covoiturage.amigoexpress.com/), vraiment bien fait et surtout entièrement géré par Internet. Quel progrès ! La semaine dernière encore, un amie est venue avec AlloStop et il a fallu trouver un moment, durant son court séjour, pour aller payer ces gens. Such a pain in the ass... Nous lui avons prestement conseillé de changer.
 
 ![Image]({{ site.url }}/images/4752_7cadbf68a5_z_d.jpg)
 <div class="photoattrib">Metro saturé</div>
 
 
-Par ailleurs, j'ai découvert avec plaisir que le fondateur d'AmigoExpress avait un . Un entrepreneur qui a ça dans le sang, tout en restant proche des questions environnementales. Belle découverte.
+Par ailleurs, j'ai découvert avec plaisir que le fondateur d'AmigoExpress avait un [blog](http://www.blog.amigoexpress.com/). Un entrepreneur qui a ça dans le sang, tout en restant proche des questions environnementales. Belle découverte.
 
 ***
 
-Ah oui, pour revenir sur le foot. Je viens de regarder le 20h de France2 sur RDI. 20 minutes consacré au foot. Sérieusement. Franchement ! La terre va-t-elle s'arrêter de tourner si l'équipe de France perd ? Contrairement à d', je me prends volontier au jeu et à espérer une victoire dimanche, mais faut pas exagérer non plus...
+Ah oui, pour revenir sur le foot. Je viens de regarder le 20h de France2 sur RDI. 20 minutes consacré au foot. Sérieusement. Franchement ! La terre va-t-elle s'arrêter de tourner si l'équipe de France perd ? Contrairement à d'[autre](http://embruns.net/), je me prends volontier au jeu et à espérer une victoire dimanche, mais faut pas exagérer non plus...
 
 ![Image]({{ site.url }}/images/7593_22c088d543_z_d.jpg)
 <div class="photoattrib">Plant</div>
@@ -34,7 +34,7 @@ Et 4 morts par-dessus le marché. Mais ça, on en a juste parlé 30 secondes à 
 
 ***
 
-Je suis en formation ces temps-ci. . Ça rigole pas !
+Je suis en formation ces temps-ci. [UML](http://www.uml.org/). Ça rigole pas !
 
 Bordel mais c'est quoi 3 semaines de congé par an ?
 

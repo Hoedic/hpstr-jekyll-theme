@@ -10,11 +10,11 @@ categories:
 
 Bon, je suis sur une bonne lancée ce soir, je continue.
 
-Aujourd'hui, je suis allé fermer mon compte chez  (BMO). Pourquoi donc ?
+Aujourd'hui, je suis allé fermer mon compte chez [Banque de Montréal](http://www.bmo.com/) (BMO). Pourquoi donc ?
 
 Je pense en avoir déjà parlé, mais je ne suis pas certain alors vais expliquer brièvement. En tant qu'immigrant, j'ai pas droit à une carte de crédit avant d'avoir démontré à quel point je suis un très bon client. Un jour, BMO Mastercard m'envoie un courrier à moi, personnellement, pour me permettre d'obtenir une carte de crédit. Comme je le craignais, c'est un refus. Ça c'est pas grave, ce qui commence à m'énerver, c'est que par la suite je reçois deux nouveaux courriers me proposant d'obtenir la carte de crédit qu'on m'a refusé. Là, ça commence à m'énerver.
 
-Puis, vient le moment où je franchis le seuil de  et là on me donne une Visa sur le champ. Non seulement BMO m'a refusé une carte stupidement (et c'est utile ici une carte de crédit, pas de location de voiture durant les fêtes sans ça) mais surtout leur service consommateur/marketing a été minable. Ça me suffit pour prendre mes cliques et mes claques et tout déménager.
+Puis, vient le moment où je franchis le seuil de [Desjardins](http://www.desjardins.com/fr/) et là on me donne une Visa sur le champ. Non seulement BMO m'a refusé une carte stupidement (et c'est utile ici une carte de crédit, pas de location de voiture durant les fêtes sans ça) mais surtout leur service consommateur/marketing a été minable. Ça me suffit pour prendre mes cliques et mes claques et tout déménager.
 
 Aujourd'hui, donc, au lieu simplement d'aller à un guichet pour fermer mon compte, je prends un rendez-vous pour expliquer à un directeur financier pourquoi je quitte, pourquoi ma *blonde* va sûrement en faire de même et en quoi je risque de leur faire une mauvaise pub auprès des immigrants, dont certains sont porteur de pleins d'euros.
 

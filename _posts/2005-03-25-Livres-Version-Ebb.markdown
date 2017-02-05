@@ -8,7 +8,7 @@ categories:
 ---
 
 
-, c'est un petit malin, il sait bien qu'en nous renvoyant la balle, il gagne un 2-pour-1 !
+[Eor](http://eorarbleizmor.free.fr/index.php?2005/03/23/59-livres), c'est un petit malin, il sait bien qu'en nous renvoyant la balle, il gagne un 2-pour-1 !
 
 *Combien de livres lisez-vous par an ?*
 
@@ -80,4 +80,4 @@ Les romans de Bernard Werber : La trilogie des *fourmis*, *Les Thanatonautes*, *
 
 Mais la mémoire est courte, sélective, et la capacité de s'enthousiasmer, variable selon les périodes de la vie ;)
 
-Je passe le flambeau à mon bon ami et tout nouveau blogueur,  :)
+Je passe le flambeau à mon bon ami et tout nouveau blogueur, [smarties](http://neeweb.sytes.net/sites/smarties/) :)

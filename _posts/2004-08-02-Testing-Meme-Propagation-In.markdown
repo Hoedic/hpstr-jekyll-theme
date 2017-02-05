@@ -12,7 +12,7 @@ categories:
 
 This posting is a community experiment that tests how a meme, represented by this blog posting, spreads across blogspace, physical space and time. It will help to show how ideas travel across blogs in space and time and how blogs are connected. It may also help to show which blogs are most influential in the propagation of memes. The dataset from this experiment will be public, and can be located via Google (or Technorati) by doing a search for the GUID for this meme (below).
 
-The original posting for this experiment is located at:  (Permalink: http://novaspivack.typepad.com/nova_spivacks_weblog/2004/08/a_sonar_ping_of.html) ~~ results and commentary will appear there in the future.
+The original posting for this experiment is located at: [Minding the Planet](http://novaspivack.typepad.com/nova_spivacks_weblog/2004/08/a_sonar_ping_of.html) (Permalink: http://novaspivack.typepad.com/nova_spivacks_weblog/2004/08/a_sonar_ping_of.html) ~~ results and commentary will appear there in the future.
 
 Please join the test by adding your blog (see instructions, below) and inviting your friends to participate - the more the better. The data from this test will be public and open; others may use it to visualize and study the connectedness of blogspace and the propagation of memes across blogs.
 
@@ -24,7 +24,7 @@ To add your blog to this experiment, copy this entire posting to your blog, and 
 
 REQUIRED FIELDS (Note: Replace the answers below with your own answers)
 
-(1) I found this experiment at URL: 
+(1) I found this experiment at URL: [http://www.padawan.info/weblog/testing_meme_propagation_in_blogspace_add_your_blog.html](http://www.padawan.info/weblog/testing_meme_propagation_in_blogspace_add_your_blog.html)
 
 (2) I found it via : News feeder
 
@@ -38,7 +38,7 @@ REQUIRED FIELDS (Note: Replace the answers below with your own answers)
 
 OPTIONAL SURVEY FIELDS (Replace the answers below with your own answers):
 
-(7) My blog is hosted by: 
+(7) My blog is hosted by: [Ouvaton](http://ouvaton.coop/)
 
 (8) My age is: 26
 
@@ -48,10 +48,10 @@ OPTIONAL SURVEY FIELDS (Replace the answers below with your own answers):
 
 (11) I use the following RSS/Atom reader software: Straw
 
-(12) I use the following software to post to my blog: 
+(12) I use the following software to post to my blog: [Spip](http://www.spip.net/)
 
 (13) I have been blogging since (day, month, year): 07/09/03
 
-(14) My web browser is: 
+(14) My web browser is: [Firefox](http://www.mozilla.org/products/firefox/)
 
 (15) My operating system is: Linux Fedora Core 2

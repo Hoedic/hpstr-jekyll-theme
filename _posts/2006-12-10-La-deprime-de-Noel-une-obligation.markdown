@@ -24,4 +24,4 @@ Personnellement, j'aimais bien, en France, cette façon qu'ont les gens de parti
 
 Quant aux cadeaux, comme j'ai une famille élargie composée de Picsou, Séraphin et autres Harpagon, je ne fait d'échange qu'avec les personnes significatives dans ma vie, et elles se comptent sur les doigts de la main. Et offrir aux gens qu'on aime, ce n'est pas une corvée, c'est même plutôt plaisant (surtout quand on s'y prend en avance) !
 
-En attendant, notre salon est devenu très "ambiance" avec le grand sapin naturel qui sent bon jusque dans l'escalier, que nous avons tout décoré (merci à ) et illuminé !
+En attendant, notre salon est devenu très "ambiance" avec le grand sapin naturel qui sent bon jusque dans l'escalier, que nous avons tout décoré (merci à [Dix mille villages](http://www.dixmillevillages.ca/)) et illuminé !

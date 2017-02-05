@@ -25,4 +25,4 @@ Tout ceci n'est pas sans me rappeler cette fameuse blague de la réaction du Fra
 
 N'empêche, encore une fois, Montréal n'a vraiment été prévue pour la neige. Ainsi, il faudrait des espaces pour mettre la neige. Les ruelles devraient être plus larges  pour la tasser sur le cotés. Les stationnements des arrières-cours aussi pour ne avoir à tout balancer dans la ruelle. Bref, une ville pas faite pour...
 
-En attendant nous avons une petite pensée pour nous  qui vivent dans le bois et que je me dis que finalement, une souffleuse à neige, c'est peut-être pas une mauvaise idée ! ;)
+En attendant nous avons une petite pensée pour nous [amis](http://voldemots.blogspot.com/) qui vivent dans le bois et que je me dis que finalement, une souffleuse à neige, c'est peut-être pas une mauvaise idée ! ;)

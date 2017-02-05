@@ -8,4 +8,4 @@ categories:
 ---
 
 
-Excellent : les  du journal  !
+Excellent : les [carnets web](http://www.ledevoir.com/blog/) du journal [Le Devoir](http://www.ledevoir.com/) !

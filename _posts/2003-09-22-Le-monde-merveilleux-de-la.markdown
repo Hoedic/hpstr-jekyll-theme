@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai déjà partagé mes impressions sur l'été que j'ai passé à faire des  sur des rats.  Je refuse bien entendu de remettre ça dans un an.
+J'ai déjà partagé mes impressions sur l'été que j'ai passé à faire des [expériences](http://ebb.monblogue.com/2003/8/12/) sur des rats.  Je refuse bien entendu de remettre ça dans un an.
 
 Alors aujourd'hui, je suis allée rencontrer Dre. R., la femme de mon prof de nutrition, qui travaille dans le labo d'un grand hôpital.  Elle a un accent français (oui, encore, **soupir**).
 

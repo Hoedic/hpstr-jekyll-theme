@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Contrairement à , je ne change pas de travail... du moins pas pour le moment. La  a quelque peu évoluée : avec une "contre-proposition" (du moins un proposition d'augmentation qui s'est passablement bonnifiée en 2 semaines) à laquelle s'ajoute une prime de fin d'année qui était déjà sur le tapis, je vais rester dans la boîte où je suis.
+Contrairement à [d'autres](http://yvonet.com/Ca-y-est-c-est-confirme), je ne change pas de travail... du moins pas pour le moment. La [situation](http://www.mon-ile.net/carnet/blog1458.html) a quelque peu évoluée : avec une "contre-proposition" (du moins un proposition d'augmentation qui s'est passablement bonnifiée en 2 semaines) à laquelle s'ajoute une prime de fin d'année qui était déjà sur le tapis, je vais rester dans la boîte où je suis.
 
 Un peu à contre-coeur toutefois ; je demeure légèrement en-deça de l'offre que j'ai eu par le client de mon actuelle boîte et surtout je profite de nombre d'avantages sociaux en moins... c'est la différence entre une grosse et une petite boîte.
 

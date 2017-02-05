@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La photographie, c'est vraiment un super passe-temps !  Je dois avouer être complètement obnubilée, ces temps-ci, par la découverte de l'univers de , sa facilité d'utilisation, son aspect communautaire...  Je découvre des photos magnifiques des quatre coins du monde et ça m'enchante totalement.  Regardez en particulier  (via ), ses photos sont à tomber en bas de sa chaise !
+La photographie, c'est vraiment un super passe-temps !  Je dois avouer être complètement obnubilée, ces temps-ci, par la découverte de l'univers de [Flickr](http://www.flickr.com), sa facilité d'utilisation, son aspect communautaire...  Je découvre des photos magnifiques des quatre coins du monde et ça m'enchante totalement.  Regardez en particulier [phitar](http://www.flickr.com/photos/phitar/) (via [Etolane](http://voldemots.blogspot.com/)), ses photos sont à tomber en bas de sa chaise !
 
 Et avec le printemps, la chaleur et les rayons du soleil, j'ai de plus en plus de plaisir à sortir mon propre appareil-photos au moindre prétexte, pour tenter de prendre de jolis clichés, de mieux maîtriser mon appareil et de m'améliorer.
 

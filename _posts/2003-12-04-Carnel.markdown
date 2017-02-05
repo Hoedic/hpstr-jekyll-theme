@@ -8,7 +8,7 @@ categories:
 ---
 
 
-L'autre jour j'ai lu un post de  qui n'en revenait pas de l'utilisation du terme carnet pour un blog.
+L'autre jour j'ai lu un post de [Zerotom](http://66.46.177.46/zerotom/archives/006447.php) qui n'en revenait pas de l'utilisation du terme carnet pour un blog.
 
 Je dois avouer que j'aimais bien le terme blog initialement mais depuis quelques temps, j'y suis devenu allergique (allez comprendre pourquoi).
 
@@ -20,4 +20,4 @@ Bon, c'est vrai, ça sonne un peu kernel, mais on pourrait aussi parler de carn�
 
 Nan ? Bon, d'accord j'arrête. Désolé.
 
-Ceci dit, j'ai été agréablement surpris de voir un auteur du quotidien Le Monde utiliser le terme courriel dans un  (article lamentable par ailleurs, je ne comprends pas que le monde s'abaisse à écrire ça, mais bon).
+Ceci dit, j'ai été agréablement surpris de voir un auteur du quotidien Le Monde utiliser le terme courriel dans un [article](http://www.lemonde.fr/web/article/0,1-0@2-3230,36-344443,0.html) (article lamentable par ailleurs, je ne comprends pas que le monde s'abaisse à écrire ça, mais bon).

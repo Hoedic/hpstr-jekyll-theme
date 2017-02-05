@@ -10,7 +10,7 @@ categories:
 
 Alors que le 30 juin, date du transfert de pouvoir aux irakiens, s'approche petit à petit, les chances de voir l'Irak se stabiliser semblent diminuer. Comme souvent, le pays occupant donne l'impression d'avoir constitué un gouvernement fantoche dont la reconnaissance auprès de la population sera limité.
 
-D'ores et déjà, le retrait de la cohalition de Falloujah se  par la prise du pouvoir par les extrêmistes islamistes. En sera-t-il de même à la grandeur du pays ? Difficile à prédire, mais il n'est pas impensable de voir une telle situation de reproduire dans d'autres villes.
+D'ores et déjà, le retrait de la cohalition de Falloujah se [traduit](http://fr.news.yahoo.com/040526/5/3tnu9.html) par la prise du pouvoir par les extrêmistes islamistes. En sera-t-il de même à la grandeur du pays ? Difficile à prédire, mais il n'est pas impensable de voir une telle situation de reproduire dans d'autres villes.
 
 Cette guerre a réussi le tour de force de faire se réaliser ce qu'elle était supposée empêcher à savoir permettre aux extrêmistes et possiblement à des réseaux proches d'Al-Qaida d'entrer sur la scène irakienne.
 

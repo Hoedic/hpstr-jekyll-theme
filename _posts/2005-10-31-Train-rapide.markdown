@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Amazon.com pour le livre . 
+Amazon.com pour le livre [*The City After the Automobile*](http://www.amazon.com/gp/product/0813335450/). 
 
 Amazon offre des expressions qui sont les signatures d'un livre car peu fréquentes ailleurs, ces expressions sont présentées sous le titre *"Statistically Improbable Phrases"* (étonnament, pas de TM, pour Trade Mark, avec cette dénommination), en bas de la page.
 

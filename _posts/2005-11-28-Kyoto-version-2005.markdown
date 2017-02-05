@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Bien que l'information ne soit pas aussi présente qu'on pourrait l'espérer dans les médias, c'est aujourd'hui que débute Kyoto +8, la  qui se déroule à Montréal jusqu'au 9 décembre.
+Bien que l'information ne soit pas aussi présente qu'on pourrait l'espérer dans les médias, c'est aujourd'hui que débute Kyoto +8, la [Conférence des nations unies sur les changements climatiques](http://www.montreal2005.gc.ca/) qui se déroule à Montréal jusqu'au 9 décembre.
 
-Malheureusement je n'aurais absolument pas le temps de suivre ce qui se dit, mais je me permets d'office d'être très sceptiques sur les résultats. Ceci dit, effort louable, une partie des discussions sera  sur Internet !
+Malheureusement je n'aurais absolument pas le temps de suivre ce qui se dit, mais je me permets d'office d'être très sceptiques sur les résultats. Ceci dit, effort louable, une partie des discussions sera [retransmise](http://www.montreal2005.gc.ca/default.asp?lang=Fr&n=A074A9A6-1) sur Internet !
 
 Cette conférence sera surement l'occasion de voir au grand jour l'opposition Québec vs. Rest of Canada (ROC) en terme de réduction des gaz à effet de serre (GES). Pour ceux qui ne connaissent pas la situation, le Québec, avec toutes ses centrales hydro-électrique, argue qu'il n'a pas à faire d'effort pour baisser sa production de GES car il a déjà fait des efforts dans le passé en construisant ses centrales.
 
@@ -24,4 +24,4 @@ Au milieu de tout ça, le gouvernement actuel, Libéral, vient de se faire train
 
 Voilà, la table est mise.
 
-Update : le Devoir a un article assez complet sur .
+Update : le Devoir a un article assez complet sur [la situation Québec/Ottawa sur la réduction des GES](http://www.ledevoir.com/2005/11/28/96349.html).

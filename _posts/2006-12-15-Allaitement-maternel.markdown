@@ -10,7 +10,7 @@ categories:
 
 Pourquoi vous parler d'un sujet si évident, si ennuyeux, si connu de tous et dont on a déjà fait mille fois le tour ?
 
-Parce qu'on a oublié des recoins, pardi, et que c'est loin d'être terminé ! À preuve ce  qui nous dépeint la situation qui prévaut toujours en France.
+Parce qu'on a oublié des recoins, pardi, et que c'est loin d'être terminé ! À preuve ce [texte désolant](http://www.interdits.net/2006nov/leche.htm) qui nous dépeint la situation qui prévaut toujours en France.
 
 C'est ce que j'ai appris dans mon stage de santé publique. Je vais donc vous en parler, d'un point de vue *populationnel*. Je ne cherche à culpabiliser personne, qu'on se comprenne bien !
 
@@ -40,6 +40,6 @@ En passant : ce n'est pas un objectif impossible ! En Suède/Norvège, les mère
 
 Quant au féminisme, car c'est un argument auquel je suis sensible... Être moderne et féministe, ce n'est pas synonyme de jeter à la poubelle tout ce qui relève des spécificités féminines, au contraire. C'est le revendiquer et le vivre librement, y compris dans sa potentialité biologique, dans sa totalité. Il y a mille et une autres manières de permettre au papa de développer un lien privilégié avec son bébé.
 
-C'est drôle, parce qu'en Afrique, . La norme, c'est l'allaitement maternel. Mais en cas de VIH de la mère, il y a un risque non négligeable de transmission du virus au bébé. C'est pour ça que certaines mères se demandent si elles ne devraient pas donner un substitut à leur bébé, au risque de se faire stigmatiser dans leur communauté. En réalité, l'usage de substituts en Afrique comporte de tels risques, en plus de ceux déjà évoqués (contamination de l'eau potable, mauvaise conservation, mauvaise dilution...), que l'OMS recommande tout de même l'allaitement au sein là-bas, même aux mères avec le VIH, c'est dire !
+C'est drôle, parce qu'en Afrique, [c'est le contraire](http://www.afrik.com/article10781.html). La norme, c'est l'allaitement maternel. Mais en cas de VIH de la mère, il y a un risque non négligeable de transmission du virus au bébé. C'est pour ça que certaines mères se demandent si elles ne devraient pas donner un substitut à leur bébé, au risque de se faire stigmatiser dans leur communauté. En réalité, l'usage de substituts en Afrique comporte de tels risques, en plus de ceux déjà évoqués (contamination de l'eau potable, mauvaise conservation, mauvaise dilution...), que l'OMS recommande tout de même l'allaitement au sein là-bas, même aux mères avec le VIH, c'est dire !
 
-Pour terminer, un  très positif et très recherché sur l'expérience d'une maman en allaitement.
+Pour terminer, un [beau texte](http://despecadilles.com/blog2/2006/12/lallaitement.html) très positif et très recherché sur l'expérience d'une maman en allaitement.

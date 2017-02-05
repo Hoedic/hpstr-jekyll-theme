@@ -8,15 +8,15 @@ categories:
 ---
 
 
-Alors que l'ouragan  fait tourner la tête à bien des gens aux États-Unis (et plus encore), moi ce sont les tourbillons de la vie qui m'aspirent...
+Alors que l'ouragan [Isabel](http://fr.news.yahoo.com/030918/202/3eij7.html) fait tourner la tête à bien des gens aux États-Unis (et plus encore), moi ce sont les tourbillons de la vie qui m'aspirent...
 
-J'ai encore eu une journée de folie hier.  Chaque mercredi, je dois traverser la moitié de la ville alourdie du poids de mes bouquins (chers ** et ) et de mes instruments médicaux pour me rendre à un lointain hôpital et me plonger dans cette fameuse *médecine clinique*.  C'est là que je vais apprendre à examiner un patient, mais aussi à réaliser une entrevue correctement, à rassembler tous les éléments nécessaires à la rédaction d'une bonne histoire de cas, et ultimenent en arriver à poser des diagnostics et établir des plans de traitement.
+J'ai encore eu une journée de folie hier.  Chaque mercredi, je dois traverser la moitié de la ville alourdie du poids de mes bouquins (chers *[Bates](http://www.amazon.com/exec/obidos/ASIN/0781735114/qid=1063908946/sr=2-1/ref=sr_2_1/104-5774038-3023955)* et [*Silverman*](http://www.amazon.com/exec/obidos/tg/detail/-/1857751892/qid=1063909244/sr=1-2/ref=sr_1_2/104-5774038-3023955?v=glance&amp;s=books)) et de mes instruments médicaux pour me rendre à un lointain hôpital et me plonger dans cette fameuse *médecine clinique*.  C'est là que je vais apprendre à examiner un patient, mais aussi à réaliser une entrevue correctement, à rassembler tous les éléments nécessaires à la rédaction d'une bonne histoire de cas, et ultimenent en arriver à poser des diagnostics et établir des plans de traitement.
 
 Le fameux raisonnement clinique est une tâche bien plus difficile qu'il n'y paraît et qui, pour être honnête, me fait bien peur.  Aucun patient ne vit les symptômes comme un autre, ni ne les exprime de la même manière.  Et chaque corps est différent...  Pire que ça : une même maladie est loin de toujours se présenter de la même manière.  Il faut donc savoir lire entre les lignes, interpréter.  Il faut aussi pouvoir poser des hypothèses au fur et à mesure et les confronter à la réalité décrite par le patient et à celle que l'on observe à l'examen.  Il faut...  développer tellement de compétences que j'en ai le vertige.
 
 Ça me fait bien rire de repenser à mon père qui me *méprise* d'être en médecine.  Il trouve qu'il suffit d'être un *perroquet* et que seule la mémoire importe (cette dernière étant bien évidemment une faculté abjecte...).  J'aimerais bien le voir, lui, devant un patient qui ne trouve qu'à dire "Docteur, je ne me sens pas bien...".
 
-Ce qui est étrange aussi, c'est que l'examen physique qu'on nous apprend à faire, je n'en ai jamais reçu de semblable.  Il est d'une complétude bien insolite comparativement à cette entité pâle, distincte et éloignée que constitue "l'examen " (ou ** si vous préférez, c'est la même chose).
+Ce qui est étrange aussi, c'est que l'examen physique qu'on nous apprend à faire, je n'en ai jamais reçu de semblable.  Il est d'une complétude bien insolite comparativement à cette entité pâle, distincte et éloignée que constitue "l'examen [*RAMQ*](http://www.ramq.gouv.qc.ca/crc/)" (ou *[Sécu](http://www.securite-sociale.fr/)* si vous préférez, c'est la même chose).
 
 Amusant aussi de constater à quel point il est désormais admis que la somatisation agit dans bien des cas comme processus biopsychosocial.  Pourquoi ne le dit-on jamais au patient, que c'est son stress ou ses soucis qui le rendent malade ?  Il ne le prendra pas mal...  Tout peut se dire avec un peu de tact.
 

@@ -15,4 +15,4 @@ Parce qu'une sacoche d'iBook peut avoir bien d'autres utilités :
 
 
 
-On remarquera que Safran a perdu ses poils blancs sur la gueule... et le vétérinaire qui disait que ce  n'avait rien à voir avec l'antibiotique qu'elle prenait a ce moment-là, ça fait une drole de coincidence tout de même !
+On remarquera que Safran a perdu ses poils blancs sur la gueule... et le vétérinaire qui disait que ce [mouchetage]({{ site.url }}/2004/05/07/Bizarre) n'avait rien à voir avec l'antibiotique qu'elle prenait a ce moment-là, ça fait une drole de coincidence tout de même !

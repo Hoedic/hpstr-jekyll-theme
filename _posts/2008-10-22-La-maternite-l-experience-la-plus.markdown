@@ -24,7 +24,7 @@ Plusieurs des difficultés liées à l'allaitement étaient en fait directement 
 
 Au-delà de l'allaitement, il y a ce bébé qui semble souvent mal dans sa peau... qui a besoin d'être rassuré énormément, mais qui est souvent inaccessible à nos interventions.
 
-Un , c'est un bébé qui veut être dans les bras tout le temps, à l'éveil comme au sommeil, mais qui en même temps n'aime pas se blottir. Qui a tendance à se raidir constamment, à se cambrer, à se jeter la tête vers l'arrière. Il faut le prendre face au monde, et être constamment en mouvement. Il ne tolère pas que l'on reste immobile ou que l'on s'assoit.
+Un [bébé aux besoins intenses](http://www.askdrsears.com/html/5/T050400.asp), c'est un bébé qui veut être dans les bras tout le temps, à l'éveil comme au sommeil, mais qui en même temps n'aime pas se blottir. Qui a tendance à se raidir constamment, à se cambrer, à se jeter la tête vers l'arrière. Il faut le prendre face au monde, et être constamment en mouvement. Il ne tolère pas que l'on reste immobile ou que l'on s'assoit.
 
 Il est à la fois hypertonique (le plus souvent raide comme une barre de fer) et hypersensible, devenant très vite hyperstimulé, agité. Il passe en un éclair de la bonne humeur à la crise.
 

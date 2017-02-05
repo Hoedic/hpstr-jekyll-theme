@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Voilà, il est enfin prêt, ce blog tant attendu : celui de Pingrouin/Petit Potam, un ami de longue date et aussi l'élu du coeur de .
+Voilà, il est enfin prêt, ce blog tant attendu : celui de Pingrouin/Petit Potam, un ami de longue date et aussi l'élu du coeur de [Leeloolène](http://leeloolene.net).
 
-Il vient de commencer, il est tout neuf et tout beau.  Alors allez y jeter un petit , ça vaut le détour !  En plus, il utilise SPIP aussi ;)
+Il vient de commencer, il est tout neuf et tout beau.  Alors allez y jeter un petit [coup d'oeil](http://www.legalion.net/blog/), ça vaut le détour !  En plus, il utilise SPIP aussi ;)

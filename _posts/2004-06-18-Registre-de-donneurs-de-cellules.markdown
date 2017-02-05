@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je suis en train de passer les différentes étapes pour apparaître sur le .  Ben oui, à défaut de pouvoir  régulièrement...
+Je suis en train de passer les différentes étapes pour apparaître sur le [registre de donneurs de cellules souches](http://www.hema-quebec.qc.ca/F/donneur/fe3c.htm).  Ben oui, à défaut de pouvoir [donner du sang](http://mon-ile.net/carnet/blog668.html) régulièrement...
 
 De quoi s'agit-il exactement ?
 

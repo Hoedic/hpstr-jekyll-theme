@@ -21,4 +21,4 @@ Comme vous pouvez le remarquer sur le premier graphe, notre fréquentation a fai
 
 On peut voir sur le second graphique l'effet qu'a eu le choix de bloquer l'indexation en février. Depuis ça remonte tranquillement. Je pense qu'on peut tabler sur une cinquantaine de lecteurs réguliers mais c'est tout de même super difficile à jauger.
 
-Sinon, globalement, on peut considérer que la fréquentation globale du domaine  est presque 3 fois plus élevée puisque nos sites sur le  et sur le  attirent à peu près autant de visiteurs (bien que bizarrement ils sortent moins bien sur Google ces derniers temps, je ne comprends pas très bien pourquoi) plus mes squelettes Spip et autres.
+Sinon, globalement, on peut considérer que la fréquentation globale du domaine [mon-ile.net](http://mon-ile.net/) est presque 3 fois plus élevée puisque nos sites sur le [Canada](http://mon-ile.net/canada/) et sur le [Chaos](http://mon-ile.net/chaos/) attirent à peu près autant de visiteurs (bien que bizarrement ils sortent moins bien sur Google ces derniers temps, je ne comprends pas très bien pourquoi) plus mes squelettes Spip et autres.

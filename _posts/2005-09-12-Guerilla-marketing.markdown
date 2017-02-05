@@ -10,7 +10,7 @@ categories:
 
 Marre de la pub ? Ben c'est pas fini !
 
- y va d'une entrevue avec le directeur de , une agence de marketing alternatif dont on entend assez régulièrement parler ces temps-ci. On remarquera le ton ouvert de la discussion : l'invité ne se cache pas de son objectif et des méthodes utilisées et le résultat n'en est que plus intéressant.
+[Internet actu](http://www.internetactu.net/) y va d'une entrevue avec le directeur de [Tribeca](http://www.tribeca.fr/), une agence de marketing alternatif dont on entend assez régulièrement parler ces temps-ci. On remarquera le ton ouvert de la discussion : l'invité ne se cache pas de son objectif et des méthodes utilisées et le résultat n'en est que plus intéressant.
 
 Tel qu'expliqué le but de ce marketing alternatif est d'obtenir une relations de qualité avec des personnes ciblées. Fini le spot publicitaire ; ça se passe dans la rue et vise à entrer en contact avec des personnes souvent en suscitant leur intérêt. Ça passe aussi par le marketing viral qui présente souvent l'avantage de passer par et vers des personnes qui ont intérêt dans le sujet.
 

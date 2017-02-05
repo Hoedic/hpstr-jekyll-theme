@@ -8,7 +8,7 @@ categories:
 ---
 
 
-- Quand on ouvre le four, dans la cuisine, systématiquement, Bagheera  (comme sur la vidéo) ;
+- Quand on ouvre le four, dans la cuisine, systématiquement, Bagheera [miaule](http://mon-ile.net/carnet/blog788.html) (comme sur la vidéo) ;
 
 -  Quand on ouvre la porte du balcon, Bagheera ne peut sortir sans effectuer ce même miaulement particulier au moment de passer le pas de la porte ;
 

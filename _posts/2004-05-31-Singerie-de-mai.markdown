@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Après plusieurs mois sans avoir participé aux , me voilà de retour sur le sujet *Quand n'étiez-vous pas vous-même ?*
+Après plusieurs mois sans avoir participé aux [singeries](http://www.martinepage.com/blog/2004/05/singeries-de-mai.html), me voilà de retour sur le sujet *Quand n'étiez-vous pas vous-même ?*
 
 Difficile d'y répondre car je me demande moi-même quel est le vrai moi. J'ai pris l'habitude au fil du temps, surtout entre le collège et la fin de mes études d'ingé, de changer d'apparence de nombreuses fois, à intervalles courts, et avec le comportement qui va avec.
 

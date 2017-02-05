@@ -8,7 +8,7 @@ categories:
 ---
 
 
-À la lecture du  de Neige, je ne peux m'empêcher quelques réflexions.
+À la lecture du [billet](http://www3.sympatico.ca/rpoulin/blogmain/medecin.htm) de Neige, je ne peux m'empêcher quelques réflexions.
 
 Certes, dans un lointain passé, les médecins écoutaient beaucoup plus les malades.  Mais il faut voir que la médecine de cette époque avait bien peu à voir avec celle d'aujourd'hui, en ce sens qu'elle ne comprenait même pas le fonctionnement du corps humain (connaissance qui nous apparaît maintenant bien minimale) et savait encore moins traiter les pathologies (appliquant des remèdes à tout va sans se questionner sur leur pertinence).  Alors mise à part l'écoute, qui a en soi un effet positif, la médecine ne pouvait pas s'appuyer sur grand-chose de concret.
 
@@ -28,4 +28,4 @@ C'est en se basant sur cette alliance thérapeutique entre le médecin et son pa
 
 Peut-être suffit-il d'aller voir de jeunes médecins pour observer cette différence ?  Mon moniteur de médecine clinique est un chirurgien (et dieu seul sait que ces spécialistes ne sont pas réputés pour leurs habiletés communicationnelles...) qui a été apprêté à la sauce de ces nouvelles réformes.  Vous devriez voir la douceur et l'attention avec laquelle il s'adresse aux malades...
 
-Concernant le billet sur le  (désolée pour ton amie, ça n'a pas dû être facile...), il m'a semblé y lire une simple application de la justice proportionnelle nécessaire dû au fait de la restriction des ressources.  Je ne parle même pas du manque d'argent/d'infirmières, mais bien du manque de matière première : les organes disponibles pour transplantation.  La situation décrite me semble empreinte de douceur et de bon sens.  Sans compter qu'il y a aussi ici des considérations de l'ordre de l'archanement thérapeutique (qui ne peut être exigé par la famille et le malade)...  On est loin de certaines considérations inhumaines, purement économique, comparant le coût des soins aux sidéens par rapport à une absence de soins que j'ai déjà eu l'horreur de lire !
+Concernant le billet sur le [cancer](http://www3.sympatico.ca/rpoulin/blogmain/cancer.htm) (désolée pour ton amie, ça n'a pas dû être facile...), il m'a semblé y lire une simple application de la justice proportionnelle nécessaire dû au fait de la restriction des ressources.  Je ne parle même pas du manque d'argent/d'infirmières, mais bien du manque de matière première : les organes disponibles pour transplantation.  La situation décrite me semble empreinte de douceur et de bon sens.  Sans compter qu'il y a aussi ici des considérations de l'ordre de l'archanement thérapeutique (qui ne peut être exigé par la famille et le malade)...  On est loin de certaines considérations inhumaines, purement économique, comparant le coût des soins aux sidéens par rapport à une absence de soins que j'ai déjà eu l'horreur de lire !

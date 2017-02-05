@@ -8,16 +8,16 @@ categories:
 ---
 
 
-Hier nous sommes allé voir le spectacle  du . Autant le dire tout de suite : rien de transcendant. Moins spectaculaire et moins poétique que .
+Hier nous sommes allé voir le spectacle [Corteo](http://www.cirquedusoleil.com/CirqueDuSoleil/fr/showstickets/corteo/intro/intro.htm) du [Cirque du Soleil](http://www.cirquedusoleil.com). Autant le dire tout de suite : rien de transcendant. Moins spectaculaire et moins poétique que [Varekai](http://www.cirquedusoleil.com/CirqueDuSoleil/fr/showstickets/varekai/intro/intro.htm).
 
 ![Image]({{ site.url }}/images/cirque-corteo_29-04-2005.jpg)
 <div class="photoattrib">Le final</div>
 
 
 
-Parfois je me demande s'ils ne se sont pas centrés sur la machine à fric que représente pour eux les spectacles à . Ce serait dommage.
+Parfois je me demande s'ils ne se sont pas centrés sur la machine à fric que représente pour eux les spectacles à [Vegas](http://www.zumanity.com/). Ce serait dommage.
 
-Pour les montréalais, je conseille plutôt le spectacle de fin d'année de l' qui est presque aussi bien... mais pour beaucoup moins cher ;)
+Pour les montréalais, je conseille plutôt le spectacle de fin d'année de l'[École nationale de cirque](http://www.enc.qc.ca/index.asp) qui est presque aussi bien... mais pour beaucoup moins cher ;)
 
 
 ![Image]({{ site.url }}/images/8782_479ed66c98_z_d.jpg)

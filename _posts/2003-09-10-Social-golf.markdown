@@ -22,7 +22,7 @@ Participer à ce genre d'événement, c'est aussi se rendre compte de l'utilité
 
 Pour ma part, cette journée m'a un peu cassé mon envie de jouer au golf !
 
-**Ajout** : Je viens de lire l'article de  et cela me fait penser à une autre chose que j'ai remarqué aujourd'hui. Sur la bonne centaine de convives, pas une seule minorité visible... avec mon accent français, je faisais sûrement partie, à défaut, de la faible minorité audible.
+**Ajout** : Je viens de lire l'article de [Kicou sur son départ de la ville de Québec](http://blog.kicou.com/a279.html) et cela me fait penser à une autre chose que j'ai remarqué aujourd'hui. Sur la bonne centaine de convives, pas une seule minorité visible... avec mon accent français, je faisais sûrement partie, à défaut, de la faible minorité audible.
 
 Ça me change fortement de mon quartier d'immigrants et de l'école du coin où seuls 3 élèves sur approximativement 300 sont québécois de souche.
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-, malgré son déroulement quelque peu chaotique fut un véritable succès : ladite choucroute nous a tenu tous les soupers du dimanche au vendredi suivant inclusivement, à l'exception du mercredi car nous étions... tannés :)
+[Le projet "choucroute"]({{ site.url }}/2009/02/01/Deformation-professionnelle), malgré son déroulement quelque peu chaotique fut un véritable succès : ladite choucroute nous a tenu tous les soupers du dimanche au vendredi suivant inclusivement, à l'exception du mercredi car nous étions... tannés :)
 
 Si j'en crois Wikipédia, la moyenne annuelle française de mangeage de choucroute (le choux préparé seul) est de 900g. Ainsi avec nos deux conserves de 850g dans la recette, nous avons fait notre devoir pour rapprocher le Québec de la France en terme de consommation de choucroute.
 

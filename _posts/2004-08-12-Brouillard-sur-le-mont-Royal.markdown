@@ -12,6 +12,6 @@ Lundi soir, après le départ d'amis, je faisais la vaisselle devant une fenêtr
 
 Ensuite, je suis sortie dehors pour descendre notre bac de recyclage.  J'ai constaté que Côte-des-Neiges était enveloppé d'un épais brouillard, qui avait dû tomber fort rapidement et qui s'est dissipé tout aussi vite.  La chose est suffisamment rare pour que je m'en sois étonnée et que j'en aie fait part à Hoedic.  Entre l'humidité et le smog, je supposais cependant la chose plausible.
 
-C'est alors que, ce matin, en sortant de chez moi, je tombe sur *La Presse*, livrée pour des voisins, dans l'entrée de l'immeuble, qui m'apprend en une que ledit brouillard consistait en fait en un ****.
+C'est alors que, ce matin, en sortant de chez moi, je tombe sur *La Presse*, livrée pour des voisins, dans l'entrée de l'immeuble, qui m'apprend en une que ledit brouillard consistait en fait en un **[nuage de gaz toxique échappé d'une usine](http://www.radio-canada.ca/nouvelles/Index/nouvelles/200408/11/002-NUAGE.shtml)**.
 
 Délicieux, n'est-ce pas ?

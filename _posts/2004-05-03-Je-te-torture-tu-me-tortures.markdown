@@ -8,7 +8,7 @@ categories:
 ---
 
 
-On commence à y voir un  concernant les allégations de torture dans un centre de détention en Irak tenu par les américains.
+On commence à y voir un [peu plus clair](http://www.nytimes.com/2004/05/02/international/middleeast/02ABUS.html) concernant les allégations de torture dans un centre de détention en Irak tenu par les américains.
 
 Notre ami George Bush disait hier que ces révélations concernant ces actes de torture le dégoutaient, ne reflétant en aucun cas la méthode préconisée par le commandement militaire et étaient, quoiqu'il en soit, un cas unique.
 
@@ -24,4 +24,4 @@ Inutile de dire combien les militaires américains, en se comportants ainsi, son
 
 Ces photos qui viennent de sortir, en plus des probables rumeurs qui devaient malgré tout s'échapper de ces prisons dans la population irakienne, ont surement porté un très dur coup à la crédibilité des américains, surement déjà assez basse, accréditant encore plus l'idée de force d'occupation -barbare de surcroît. On peut difficilement s'attendre à une amélioration de la situation.
 
-Hier,   les raisons pour lesquelles il était difficile pour les américains, même anti-guerre, de souhaiter un retrait malgré le coût humain. Encore une fois, j'ai l'impression que l'administration républicaine utilise les bonnes intentions de l'opinion pour rester en Irak dans leur intérêt.
+Hier, [Édouard](http://www.salebete.net/) [évoquait](http://www.salebete.net/archives/000318.html) les raisons pour lesquelles il était difficile pour les américains, même anti-guerre, de souhaiter un retrait malgré le coût humain. Encore une fois, j'ai l'impression que l'administration républicaine utilise les bonnes intentions de l'opinion pour rester en Irak dans leur intérêt.

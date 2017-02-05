@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je regardais récemment une vidéo montrant les , groupe québécois fétiche, en concert à l' à Paris.  (Quoi ?  Vous êtes Parisien et vous n'y êtes pas allé ?  Honte sur vous !)
+Je regardais récemment une vidéo montrant les [Cowboys Fringants](http://www.cowboysfringants.com/), groupe québécois fétiche, en concert à l'[Élysée Montmartre](http://www.elyseemontmartre.com/) à Paris.  (Quoi ?  Vous êtes Parisien et vous n'y êtes pas allé ?  Honte sur vous !)
 
 Faut-il le préciser, les Cowboys font de la musique très québécoise, couleur locale, sur des airs dérivés de rigodons, sur des thèmes locaux.  Et avec un gros accent.  Aucun de leur CD n'est commercialisé en France.
 

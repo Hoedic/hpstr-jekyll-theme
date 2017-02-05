@@ -23,4 +23,4 @@ Le problème dans l'affaire actuel, c'est que certains photos sont remplacées p
 
 **Update 2** : Ah, c'est revenu. Alors, est-ce un problème de cache comme annoncé ? Franchement j'ai vu quelques photos assez... crues. Est-ce un piratage ou effectivement des photos un peu crues qui se sont retrouvées à de droles d'endroit ?
 
-**Update 3** -  : &#8220;*We want everyone to understand that there are no permanent problems with any data, we have not been "hacked" and you don't need to do anything in order to have your photos return to normal.*&#8221;
+**Update 3** - [Explication finale](http://blog.flickr.com/) : &#8220;*We want everyone to understand that there are no permanent problems with any data, we have not been "hacked" and you don't need to do anything in order to have your photos return to normal.*&#8221;

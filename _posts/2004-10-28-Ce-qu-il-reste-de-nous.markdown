@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Aujourd'hui, je suis allée voir le fameux documentaire intitulé **, portant sur la situation au Tibet.
+Aujourd'hui, je suis allée voir le fameux documentaire intitulé *[Ce qu'il reste de nous](http://www.onf.ca/cequilrestedenous/)*, portant sur la situation au Tibet.
 
 ![Image]({{ site.url }}/images/whatremainsofus4a.jpg)
 <div class="photoattrib">Ce qu'il reste de nous</div>

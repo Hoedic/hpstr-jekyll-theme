@@ -23,5 +23,5 @@ Ajouts :
 
 <blockquote class="citation">Histoire de l'oeil, le grand livre subversif de Georges Bataille publié en 1928 sous le pseudonyme de Lord Auch et clandestinement jusqu'en 1967 tant les fantasmes, la frénésie sexuelle, les meurtres, les profanations, les transgressions, l'obscénité et l'érotisme irriguent somptueusement ses pages jusqu'à l'insupportable.
 
-Pierre Assouline, ,  
+Pierre Assouline, [Playboy aime Bataille](http://passouline.blog.lemonde.fr/livres/2006/05/playboy_aime_ba.html),  [La république des livres](http://passouline.blog.lemonde.fr/)
 </blockquote>

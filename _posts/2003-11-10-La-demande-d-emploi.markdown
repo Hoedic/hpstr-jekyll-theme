@@ -21,4 +21,4 @@ Surtout, il ne sait pas trop encore ce qu'il veut faire.  Mais est-ce un crime d
 
 En tout cas, j'espère que ça va s'améliorer, sinon il va falloir s'en aller.  Parce que je ne veux pas dire, mais le système de santé québécois actuel ne donne pas trop envie de s'y attarder non plus...  Mon oncle est à la limite du surmenage, si ce n'est déjà fait ; il est sûrement le dernier généraliste qui accepte encore de nouveaux patients dans sa banlieue et toute la région avoisinnante.  Entre la clinique privée, les hospitalisations, la clinique externe, les remplacements, les gardes, et mon grand-père lourdement handicapé qu'il maintient à domicile, ils vont me le déchirer en mille miettes.  Il est de ses âmes saintes et généreuses qui passent inaperçues dans leur sacrifice...
 
-.]
+[P.S.  J'ai changé mon titre, en référence à une pièce de [Michel Vinaver](http://www.lemonde.fr/web/article/0,1-0@2-3246,36-341832,0.html).]

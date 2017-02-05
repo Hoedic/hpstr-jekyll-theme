@@ -22,5 +22,5 @@ Quelles sont donc ces tâches et ces projets qui traînent éternellement dans m
 
 ...
 
-* Me <br />
-* 
+* Me [marier](http://mon-ile.net/carnet/blog659.html)<br />
+* [Avoir un enfant](http://mon-ile.net/carnet/blog418.html)

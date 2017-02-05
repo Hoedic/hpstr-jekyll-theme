@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Oui, ça y est, nous avons chacun un compte . Nous sommes trop cool maintenant ! Merci  ;)
+Oui, ça y est, nous avons chacun un compte [Gmail](http://gmail.google.com/). Nous sommes trop cool maintenant ! Merci [Leeloo](http://leeloolene.free.fr/) ;)
 
 ![Image]({{ site.url }}/images/gmail1_15-06-2004.png)
 

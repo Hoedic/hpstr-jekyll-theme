@@ -72,7 +72,7 @@ Mon coeur est fou de joie d'avoir retrouvé son amoureux.  Mes mains ont dû mal
 
 
 
-Pour ceux qui sont intéressés, les photos de mon voyage sont en ligne : le  surtout, mais aussi ,  et ...
+Pour ceux qui sont intéressés, les photos de mon voyage sont en ligne : le [Sénégal](http://www.flickr.com/photos/ebbtide/sets/726468/) surtout, mais aussi [Paris](http://www.flickr.com/photos/ebbtide/sets/467389/), [Lille](http://www.flickr.com/photos/ebbtide/sets/467371/) et [Nantes](http://www.flickr.com/photos/ebbtide/sets/467376/)...
 
 
 ![Image]({{ site.url }}/images/5569_b84507940d_z_d.jpg)

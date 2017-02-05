@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Il y a de nombreuses facettes à la recherche.  J'ai déjà parlé de ce qu'avait impliqué pour moi le fait d'endosser le rôle de .  Mais encore, il y a les recherches fondamentale, appliquée ou clinique.  Avec des pipettes, des rats, des dossiers ou des gens.
+Il y a de nombreuses facettes à la recherche.  J'ai déjà parlé de ce qu'avait impliqué pour moi le fait d'endosser le rôle de [chercheuse](http://ebb.monblogue.com/2003/8/12/).  Mais encore, il y a les recherches fondamentale, appliquée ou clinique.  Avec des pipettes, des rats, des dossiers ou des gens.
 
 J'ai la chance d'avoir un double point de vue sur la recherche, parce que je suis aussi le sujet d'une étude.  On teste sur moi un vaccin contre un type de cancer, fréquent et mortel (que de pléonasmes).  Il va sans dire que j'y trouve des motivations personnelles.  D'abord, le fait d'être membre d'une étude me garantit un bon suivi médical.  Ensuite, je trouve le but recherché plus que louable et j'espère sincèrement que ce vaccin marchera.  Sans compter que j'aime bien voir comment ça se passe de l'intérieur, toutes ces procédures !  Et certes, je ne dis pas non à la petite rétribution financière offerte.  Ça me motive au moins à retourner me faire piquer - peut-être qu'à la longue, je finirai par être immunisée contre la peur des prises de sang et ce sera déjà un bon acquis.
 

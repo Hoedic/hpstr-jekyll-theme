@@ -8,7 +8,7 @@ categories:
 ---
 
 
-*Build Absolutly Nothing Anywhere Near Anybody*, ou encore . Cet acrynome, un descendant du réputé NIMBY (Not in my backyard) qualifie les activistes qui s'opposent systématiquement à tout et plus particulièrement aux développements du milieu de vie.
+*Build Absolutly Nothing Anywhere Near Anybody*, ou encore [BANANA](http://en.wikipedia.org/wiki/BANANA). Cet acrynome, un descendant du réputé NIMBY (Not in my backyard) qualifie les activistes qui s'opposent systématiquement à tout et plus particulièrement aux développements du milieu de vie.
 
 Contrairement au NIMBY, qui ne demande finalement qu'à vivre sans un dépotoire, une ligne haute tension ou une centrale nucléaire dans son jardin, le BANANA, au nom du monde entier, veut s'assurer que rien n'arrivera, jamais, où que ce soit.
 
@@ -16,7 +16,7 @@ Un peu de sérieux maintenant.
 
 **L'opposition faite religion**
 
-Un parfait exemple de BANANA-group, c'est , une fédération d'associations opposées au développement de l'éolien industriel. À lire leur site, l'énergie éolienne est nocive, fatale au genre humain ainsi qu'aux volatiles, bref, à éviter en toute situation. Loin de moi l'idée de dire que l'éolien est parfait, j'y reviendrai, mais j'ai du mal à croire que des éoliennes puissent être plus problématiques qu'une centrale nucléaire.
+Un parfait exemple de BANANA-group, c'est [Vent de colère](http://www.ventdecolere.org/), une fédération d'associations opposées au développement de l'éolien industriel. À lire leur site, l'énergie éolienne est nocive, fatale au genre humain ainsi qu'aux volatiles, bref, à éviter en toute situation. Loin de moi l'idée de dire que l'éolien est parfait, j'y reviendrai, mais j'ai du mal à croire que des éoliennes puissent être plus problématiques qu'une centrale nucléaire.
 
 En fait, nous faisons face à un groupe d'individus qui ne voulant pas voir des éoliennes près de chez eux, n'hésitent pas à discréditer par tous les moyens une solution d'avenir et en de nombreux points supérieures aux alternatives.
 
@@ -34,7 +34,7 @@ Quant à l'esthétique, personnellement j'aime. Mais ce que je retiens surtout, 
 
 Pour ce qui est des oiseaux, les éoliennes font nettement moins de victimes que les voitures, les cables à haut-tension, les gratte-ciels... ou encore les chasseurs. S'il est impressionnant de montrer une photo d'un oiseau coupé par une éolienne ça n'a pas pour autant valeur statistiques. D'ailleurs, les pales tournent finalement assez lentement (20 tours minutes, un tour toutes les 3 secondes, à vitesse nominale).
 
-Enfin, en terme de risque d'accidents, là encore c'est limité, tout au plus l'éolienne peut-elle tomber ; rien à avoir avec le  ou Tchernobyl.
+Enfin, en terme de risque d'accidents, là encore c'est limité, tout au plus l'éolienne peut-elle tomber ; rien à avoir avec le [déluge du Saguenay](http://fr.wikipedia.org/wiki/D%C3%A9luge_du_Saguenay) ou Tchernobyl.
 
 Pour ce qui est des avantages de l'éolien, c'est là qu'il faut prendre quelques précautions. C'est effectivement une source d'énergie variable et ceci a des implications importantes. L'éolien nécessite de la co-génération, avec du thermique ou de l'hydraulique pour compenser le manque de vent. Ceci signifie qu'à mesure que l'on contruit de l'éolien, il peut s'avérer nécessaire de construire du thermique (selon les conditions).
 

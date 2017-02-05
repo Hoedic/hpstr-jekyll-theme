@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Hier soir, c'était théatre et nous nous sommes donc rendu au  pour assister à une représentation de Tristan et Yseult.
+Hier soir, c'était théatre et nous nous sommes donc rendu au [TNM](http://www.tnm.qc.ca/) pour assister à une représentation de Tristan et Yseult.
 
 Déjà je craignais un peu pour l'histoire, ayant déjà lu en cours de français, il y a fort longtemps, une des versions, ce qui m'avait mortellement ennuyé ; le seul bénéfice que j'en avait tiré était la découverte du mot philtre ainsi, peut-être, je ne suis pas certain, que la découverte du principe de la ceinture de chasteté.
 

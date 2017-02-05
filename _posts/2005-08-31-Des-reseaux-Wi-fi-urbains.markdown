@@ -8,7 +8,7 @@ categories:
 ---
 
 
-L'actualité est forte autour des projets de mise en place de connexion internet sans-fil (type wifi ou wimax) à la grandeur des villes.  fait figure de leader parmi les grandes villes. Face à cela des alternatives citoyennes comme à  ou à  essaient depuis longtemps de promouvoir ce mouvement.
+L'actualité est forte autour des projets de mise en place de connexion internet sans-fil (type wifi ou wimax) à la grandeur des villes. [Philadelphie](http://www.phila.gov/wireless/) fait figure de leader parmi les grandes villes. Face à cela des alternatives citoyennes comme à [Montréal](http://www.ilesansfil.org/tiki-index.php) ou à [Seattle](http://www.seattlewireless.net/) essaient depuis longtemps de promouvoir ce mouvement.
 
 Les questions que ça soulève sont variées et c'est pas juste une problématique technologique. Parmi les avantages cités, on trouve assez logiquement la dynamique des villes qui cherchent à attirer les entreprises et se montrant comme technologiques et rendant l'information disponible partout. La question de la sécurité est également avancée en permettant aux agents municipaux, pompiers et policiers d'accéder très rapidement à un grand nombre de données. Enfin certains projets comme celui de Philadelphie vont même plus loin en parlant de redistribuer les (éventuels) bénéfices pour rendre la technologie plus présente dans les milieux défavorisés et permettre également de retisser la vie de quartier.
 
@@ -21,7 +21,7 @@ Pourtant je ne vois pas que des avantages dans le fait de voir des municipalité
 
 -  Sur l'avantage technologique des villes, je suis d'accord mais n'y a-t-il pas mieux à faire des millions ainsi mis en jeu ? Dans le contexte des centre-villes américains réduits à des tours à bureaux et de gigantesques stationnements, ne devrait-on pas investir ceci plus utilement, dans les transports en commun par exemple ? Dans cette direction, il est démontré que la qualité des transports en commun aide le dynamisme d'une ville et fait partie des éléments que regardes les entreprises avant de d'installer une antenne importante ; en est-il de même pour le wifi ?
 
--  Pour l'aspect sécurité, j'ai un peu peur de voir, comme présenté pour le cas de , RI, des données personnes accessibles par Wifi, un réseau par défaut peu sécuritaire (et même avec sur SSH ou autres, j'ai un peu des craintes) ;
+-  Pour l'aspect sécurité, j'ai un peu peur de voir, comme présenté pour le cas de [Providence](http://muniwireless.com/applications/811), RI, des données personnes accessibles par Wifi, un réseau par défaut peu sécuritaire (et même avec sur SSH ou autres, j'ai un peu des craintes) ;
 
 -  Quand je vois les difficultés d'entretien simplement des routes à Montréal, j'éprouve des doutes sur la capacité de la Ville de Montréal à maintenir un tel réseau. Sans parler de la nécessité d'assistance aux usagers et tous les aspects de gestion avec les clients qui dépassent la dimension classique d'une municipalité ;
 
@@ -31,7 +31,7 @@ Le seul élément qui me ferait hésiter serait de l'offrir à un coût faible m
 
 Pour autant, les réseaux de wifi urbains semblent désormais inévitables car la demande est là et va grossir. Quelles sont les avenues restantes ?
 
-Les projets comme  représentent bien entendu une voie royale. Cela permet d'avoir un accès gratuit en se basant sur le phénomène contributif. En plus d'être un moyen d'accéder à Internet, c'est l'occasion de voir si ce modèle contributif venant d'Internet peut s'appliquer à la vraie vie. Par ailleurs, la créativité et l'enthousiasme des promoteurs de ces projets permettent d'entrevoir des développement technologiques amenant de réels progrès dans l'accès sans-fil. Au lieu de se lancer dans la construction de son propre réseau, une ville devrait plutôt investir dans de telles initiatives.
+Les projets comme [Île sans fil](http://www.ilesansfil.org/) représentent bien entendu une voie royale. Cela permet d'avoir un accès gratuit en se basant sur le phénomène contributif. En plus d'être un moyen d'accéder à Internet, c'est l'occasion de voir si ce modèle contributif venant d'Internet peut s'appliquer à la vraie vie. Par ailleurs, la créativité et l'enthousiasme des promoteurs de ces projets permettent d'entrevoir des développement technologiques amenant de réels progrès dans l'accès sans-fil. Au lieu de se lancer dans la construction de son propre réseau, une ville devrait plutôt investir dans de telles initiatives.
 
 Et si ces projets s'avèrent ne pas être pérennes ? Si, par exemple, les géants des télécommunication arrivent à faire interdire ce type de projet (ça me ferait mal mais bon) ?
 

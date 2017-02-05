@@ -8,7 +8,7 @@ categories:
 ---
 
 
-En voyant la  que voue JR (Monsieur ) aux États-Unis, et en pensant à Karl qui se délecte en son  adoré, j'en reviens moi-même à mes vieilles amours et je repense à la France.
+En voyant la [passion](http://jrfiles.typepad.com/about.html) que voue JR (Monsieur [Douze Lunes](http://douzelunes.blogspot.com/)) aux États-Unis, et en pensant à Karl qui se délecte en son [Japon](http://www.la-grange.net/2003/11/09.html) adoré, j'en reviens moi-même à mes vieilles amours et je repense à la France.
 
 Et qu'est-ce que je me suis amusée...:
 

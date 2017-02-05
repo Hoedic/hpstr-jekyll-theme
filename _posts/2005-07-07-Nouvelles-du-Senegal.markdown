@@ -18,4 +18,4 @@ Niveau travail, Ebb est dans un dispensaire assez bien, grand et propre, mais un
 
 L'humeur semblait assez bonne (contrairement à la mienne depuis mon retour) ce qui est assez encourageant. Certes ce n'est pas facile mais c'est sur de nombreux points (un peu) moins pire que ce qu'elle anticipait.
 
-Note : Radio-Canada a fait une  sur le Sénégal récemment. Le pays y est montré comme un bon élève au niveau économique mais qui manque cruellement de personnel qualifié aussi bien pour faire tourner l'économie que pour les soins de santé, ce qui a pour conséquence, parmi d'autre, une très haut taux de mortalité lors des accouchement.
+Note : Radio-Canada a fait une [série de reportage](http://www.radio-canada.ca/url.asp?/actualite/v2/tj22h/index.shtml) sur le Sénégal récemment. Le pays y est montré comme un bon élève au niveau économique mais qui manque cruellement de personnel qualifié aussi bien pour faire tourner l'économie que pour les soins de santé, ce qui a pour conséquence, parmi d'autre, une très haut taux de mortalité lors des accouchement.

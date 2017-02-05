@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Inspiré par 
+Inspiré par [Lithium](http://lostinanywhere.free.fr/index.php?/2004/05/12/410-MiniatureDuMercredi12Mai)
 
 En fait, je vais faire la miniature à l'envers car les profs qui m'ont le plus marqué le firent plutôt dans le mauvais sens.
 

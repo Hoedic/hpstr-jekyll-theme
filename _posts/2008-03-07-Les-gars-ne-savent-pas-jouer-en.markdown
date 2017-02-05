@@ -16,7 +16,7 @@ Ce n'est pas un hasard !
 
 Le cliché au début du match était que le prof allait se faire mitrailler. La bonne blague. Le prof s'est effectivement fait mitrailler de tirs puissants mais lointains, imprécis avec des dizaines de personnes sur le chemin. À coté de ça les filles tiraient à 1 ou 2 mètres, seules devant le but.
 
-Parce qu'un vrai gars, un , ça ne va quand même faire une passe, surtout pas à un mâle non-alpha, un loser. Non, l'Homme s'amène à distance de tir et shoote comme un bourrin... et le gardien l'arrête facilement trois fois sur quatre. Après s'être fait contrer, le Leader... que dis-je, les Leaders ne vont tout de même pas s'abaisser à se replier en défense ou à couvrir consciencieusement un attaquant femelle qui ne sait pas tirer, c'est pour les losers la défense... surtout à 2 défenseurs contre 5 attaquants.
+Parce qu'un vrai gars, un [mâle alpha](http://en.wikipedia.org/wiki/Alpha_%28biology%29), ça ne va quand même faire une passe, surtout pas à un mâle non-alpha, un loser. Non, l'Homme s'amène à distance de tir et shoote comme un bourrin... et le gardien l'arrête facilement trois fois sur quatre. Après s'être fait contrer, le Leader... que dis-je, les Leaders ne vont tout de même pas s'abaisser à se replier en défense ou à couvrir consciencieusement un attaquant femelle qui ne sait pas tirer, c'est pour les losers la défense... surtout à 2 défenseurs contre 5 attaquants.
 
 Parce que oui, une femelle moyenne ça tire difficilement à plus de 7 mètres au waterpolo, ça ne sait pas décocher un plomb avec rebond qui mystifie tout le monde. Mais à deux femelles à l'attaque, seules à moins de deux mètres du but, ben ça marque à tout les coups.
 

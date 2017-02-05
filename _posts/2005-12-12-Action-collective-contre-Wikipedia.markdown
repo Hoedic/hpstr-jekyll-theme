@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un site nommé  vient de voir le jour et vise à rassembler des cas en vue d'une action collective contre l'encyclopédie en ligne.
+Un site nommé [wikipediaclassaction.org](http://www.wikipediaclassaction.org/) vient de voir le jour et vise à rassembler des cas en vue d'une action collective contre l'encyclopédie en ligne.
 
 Ça promet !
 
@@ -17,6 +17,6 @@ Un site nommé  vient de voir le jour et vise à rassembler des cas en vue d'une
 
 
 
-Entre nous ça n'a rien d'étonnant et les questions éthiques allaient bien finir par rattraper . Surement n'est-ce que le fait de quelques individus qui ont, volontairement ou non, ajoutés des conneries, mais ça pourrait remettre en cause l'ensemble. Un beau débat et possiblement une belle jurisprudence en vue dans quelques années si ça va plus loin.
+Entre nous ça n'a rien d'étonnant et les questions éthiques allaient bien finir par rattraper [wikipedia](http://wikipedia.org/). Surement n'est-ce que le fait de quelques individus qui ont, volontairement ou non, ajoutés des conneries, mais ça pourrait remettre en cause l'ensemble. Un beau débat et possiblement une belle jurisprudence en vue dans quelques années si ça va plus loin.
 
-**
+*[Via Digg](http://digg.com/)*

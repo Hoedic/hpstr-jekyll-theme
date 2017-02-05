@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je viens de recevoir (enfin, je ne l'ai pas sous les yeux, ma maman me l'a seulement lue au téléphone) une lettre du .  (Oui, je n'ai pas peur, moi, d'écrire à des gens comme ça à la mi-janvier - mais voyez, on me répond mi-avril !).
+Je viens de recevoir (enfin, je ne l'ai pas sous les yeux, ma maman me l'a seulement lue au téléphone) une lettre du [Ministère (français) des Affaires sociales, du Travail et de la Solidarité](http://www.travail.gouv.fr/).  (Oui, je n'ai pas peur, moi, d'écrire à des gens comme ça à la mi-janvier - mais voyez, on me répond mi-avril !).
 
 Ainsi, il semblerait que la France soit en train de revoir sa politique concernant l'obtention du droit de pratique pour les médecins étrangers hors-UE.  (En effet, il n'y a plus de problème intra-UE et un médecin européen peut visser sa plaque où bon lui semble sans rendre de comptes à qui que ce soit...)  Les nouvelles démarches exclueraient le ridicule passage par la P1 nécessitant la réussite du fameux et bien horrible concours.  À la place, il faudrait réussir des épreuves de vérification des connaissances dans diverses matières, ce qui me paraît bien plus... honorable.  Toutes les modalités ne sont pas encore mises en place, mais qu'ils prennent leur temps, je suis encore loin d'être diplômée !
 
@@ -16,7 +16,7 @@ Ceux qui me connaissent comprendront la portée d'une telle nouvelle...  Je pour
 
 ***
 
-Décidément, c'est une grande journée.  J'attendais depuis des mois (littéralement) l'annuaire des membres de la , ceci dans le but de fournir une banque de données à Hoëdic dans ses recherches d'emploi.  Il m'a été livré par un coursier cet après-midi, après que l'on m'ait prévenu ce matin même !
+Décidément, c'est une grande journée.  J'attendais depuis des mois (littéralement) l'annuaire des membres de la [Chambre de commerce et d'industrie française au Canada](http://www.ccfcmtl.ca/), ceci dans le but de fournir une banque de données à Hoëdic dans ses recherches d'emploi.  Il m'a été livré par un coursier cet après-midi, après que l'on m'ait prévenu ce matin même !
 
 ***
 

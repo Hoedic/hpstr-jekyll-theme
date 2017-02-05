@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Histoire de perpétuer une  qu'elle est bien et de rendre à la posternité notre emploi du temps de parents à temps plein d'un enfant de 6 mois, voici un rapport de gendarmerie en bonne et due forme pour le dimanche 28 décembre, dernier jour de mon congé d'une semaine.
+Histoire de perpétuer une [coutume](http://embruns.net/logbook/2003/08/19.html) qu'elle est bien et de rendre à la posternité notre emploi du temps de parents à temps plein d'un enfant de 6 mois, voici un rapport de gendarmerie en bonne et due forme pour le dimanche 28 décembre, dernier jour de mon congé d'une semaine.
 
 &#8212;
 
@@ -80,7 +80,7 @@ Histoire de perpétuer une  qu'elle est bien et de rendre à la posternité notr
 
 7h29 : Nouveau contact sur Flickr. Il faudrait vraiment que je ferme mon compte inactif.
 
-7h30 : Blogoliste. Seul Karl a écrit.  intéressant ceci dit. Ma vie est plus facile depuis que j'ai restreint ma liste à 9 blogues (au lieu d'un soixantaine).
+7h30 : Blogoliste. Seul Karl a écrit. [Billet](http://www.la-grange.net/2008/12/27/chocs-culturels) intéressant ceci dit. Ma vie est plus facile depuis que j'ai restreint ma liste à 9 blogues (au lieu d'un soixantaine).
 
 7h34 : Les news. Plate.
 
@@ -148,7 +148,7 @@ Histoire de perpétuer une  qu'elle est bien et de rendre à la posternité notr
 
 10h02 : Fin de la sieste. Allaitement.
 
-10h08 : Trouvé ce . Peut-être vais-je trouver un script qui fait ce que je veux avec Del.icio.us, m'évitant ainsi de le développer moi-même.
+10h08 : Trouvé ce [site](http://www.econsultant.com/delicious-by-function/index.html). Peut-être vais-je trouver un script qui fait ce que je veux avec Del.icio.us, m'évitant ainsi de le développer moi-même.
 
 10h10 : Le monstre pleurniche au sein. Il semble vouloir l'autre.
 
@@ -174,7 +174,7 @@ Histoire de perpétuer une  qu'elle est bien et de rendre à la posternité notr
 
 11h15 : Retour à la maison. L'Animal émet des bruits de mécontentement. Femme me le tend pour que je m'en occupe.
 
-11h18 : Un petit coup de  avec une feuille de papier froissée dans la bouche. Merci Youtube.
+11h18 : Un petit coup de [Titou le Lapinou](http://www.youtube.com/watch?v=7EpCEPFpRA8) avec une feuille de papier froissée dans la bouche. Merci Youtube.
 
 11h30 : Nouvelle feuille de papier à bouffer pour Monsieur. La précédente était trempe.
 

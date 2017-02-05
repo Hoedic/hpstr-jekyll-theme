@@ -8,7 +8,7 @@ categories:
 ---
 
 
-(Enfin) vu : le documentaire . J'ai mis un certain temps à mettre la main dessus à la  la plus près de chez moi. C'est le désagrément de vivre dans un quartier branché où les gens sont même au courant des petits documentaires qui sortent ! Un magnifique petit film tourné tourné tout au long d'une année scolaire dans une classe de première année d'un quartier immigrant de Montréal.
+(Enfin) vu : le documentaire [*La classe de madame Lise*](http://www.f3m.ca/classe_madame_lise.html). J'ai mis un certain temps à mettre la main dessus à la [Boîte noire](http://www.boitenoire.com/) la plus près de chez moi. C'est le désagrément de vivre dans un quartier branché où les gens sont même au courant des petits documentaires qui sortent ! Un magnifique petit film tourné tourné tout au long d'une année scolaire dans une classe de première année d'un quartier immigrant de Montréal.
 
 Lu (enfin, presque fini) : *La cause des enfants* de Françoise Dolto. Son point de vue sur l'enfant, plus petit mais égal de l'adulte, est très inspirant et respectueux. Il s'agit aussi d'un être de langage auquel il ne faudrait pas oublier de parler !
 
@@ -18,15 +18,15 @@ Encore : mine de rien et en toute discrétion, les médecins spécialistes recom
 
 Découvert avec horreur : les décorations de Noël, déjà, dans les magasins et dans le Quartier latin !
 
-Arrosé : mon anthurium qui est en pleine forme. La mini  reçue de miss Leeloolène par mains interposées. J'espère qu'elle passera l'hiver mais je me permets d'en douter, avec les chattes qui passent leur temps à la piétiner !
+Arrosé : mon anthurium qui est en pleine forme. La mini [Kalanchoé Cranté](http://leeloolene.free.fr/index.php?2006/08/20/728-encore-une-belle-reussite) reçue de miss Leeloolène par mains interposées. J'espère qu'elle passera l'hiver mais je me permets d'en douter, avec les chattes qui passent leur temps à la piétiner !
 
 Fait : l'ouverture de la Grande Bibliothèque, à 10h le matin. Il y a vraiment la cohue dehors !
 
-Entendu parler : de , la navigatrice française qui a commencé par faire la traversée de l'Atlantique Nord et du Pacifique à la rame, et qui est miantenant en train de faire le tour du monde à l'envers à la voile en solitaire. Entreprise très impressionnante. Évidemment, on entend peu parler de ce type d'exploits, qui plus est par une jeune femme, ici...
+Entendu parler : de [Maud Fontenoy](http://www.maudfontenoy.com/), la navigatrice française qui a commencé par faire la traversée de l'Atlantique Nord et du Pacifique à la rame, et qui est miantenant en train de faire le tour du monde à l'envers à la voile en solitaire. Entreprise très impressionnante. Évidemment, on entend peu parler de ce type d'exploits, qui plus est par une jeune femme, ici...
 
 Écouté : le dernier CD d'Émilie Simon, *Végétal*. Méritera sûrement quelques écoutes.
 
-Dans les journaux : En une du Devoir de samedi dernier, entrevue avec Boris Cyrulnik. 
+Dans les journaux : En une du Devoir de samedi dernier, entrevue avec Boris Cyrulnik. [Sommes-nous tous égaux devant le bonheur ?](http://www.ledevoir.com/2006/10/28/121568.html)
 
 Je finis le stage d'urgence vendredi (en me sentait un peu plus médecin qu'avant quand même, si si), pour entamer la médecine communautaire lundi. Ça me fait bâiller d'avance...
 

@@ -14,7 +14,7 @@ Intéressant. En voilà une qui a déjà tout compris à sa future profession. I
 
 ~~
 
-Foglia  que le souci de la gastro, dans la population comme dans les médias, frôle la psychose.
+Foglia [trouve](http://www.cyberpresse.ca/article/20070111/CPOPINIONS/701110649/5034/CPOPINIONS) que le souci de la gastro, dans la population comme dans les médias, frôle la psychose.
 
 Je ne suis pas d'accord.
 

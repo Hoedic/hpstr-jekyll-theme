@@ -8,7 +8,7 @@ categories:
 ---
 
 
-On le  depuis hier, la sombre histoire d' est en réalité un vilain mensonge. Il n'y a pas eu de groupe de <acronym title="Racaille en verlan">caillera</acronym>, ni de victime, c'est un mensonge de bout en bout.
+On le [sentait](http://www.lemonde.fr/web/article/0,1-0@2-3226,36-372408,0.html) depuis hier, la sombre histoire d'[agression dans le RER](http://www.lemonde.fr/web/article/0,1-0@2-3224,36-372294,0.html) est en réalité un vilain mensonge. Il n'y a pas eu de groupe de <acronym title="Racaille en verlan">caillera</acronym>, ni de victime, c'est un mensonge de bout en bout.
 
 Personnellement je retiens surtout le commentaire de <acronym title="Dominique Strauss-Kahn">DSK</acronym>, à savoir que si cette affaire "se révélait après coup ne pas s'être passée comme on nous le raconte, ce qui est sûr, c'est qu'il y en a eu vingt avant". La question que je me pose c'est pourquoi celle-ci a fait tant de bruit.
 

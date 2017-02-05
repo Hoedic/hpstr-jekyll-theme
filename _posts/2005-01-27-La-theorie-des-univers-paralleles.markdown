@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le concours  nous a permis, à Hoedic et à moi, de confronter nos deux points de vue divergents.
+Le concours [A Fistful of Euros](http://fistfulofeuros.net/afoeawards.php) nous a permis, à Hoedic et à moi, de confronter nos deux points de vue divergents.
 
 Selon moi, il existe dans la blogosphère de nombreux "univers parallèles".  Dans celui où nous sommes, il y a des stars.  Mais dans d'autres univers parallèles, ce sont d'autres stars qui sévissent !  Alors à mon humble avis, peu de monde est capable d'avoir une vraie vue d'ensemble surs toutes les stars de tous les univers parallèles.  Donc un vrai concours me semble quasiment impossible à faire.  On est toujours biaisé par son propre univers parallèle.
 

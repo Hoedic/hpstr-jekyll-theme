@@ -10,7 +10,7 @@ categories:
 
 Le dollar Canadien a brièvement atteint le niveau du dollar US et c'est reparti pour un tour à savoir si c'est bon ou non plus l'économie canadienne. Oui nous sommes plus riches, mais nous sommes moins compétitifs. Il faut baisser  les taux d'intérêt disent certains, continuer ainsi clament les autres, etc.
 
-L'économie n'est pas une science exacte, tout le monde le sait, mais il semble évident que le Canada souffre du "".
+L'économie n'est pas une science exacte, tout le monde le sait, mais il semble évident que le Canada souffre du "[Dutch disease](http://en.wikipedia.org/wiki/Dutch_disease)".
 
 Ce terme fait référence à un paradoxe pour la première fois analysé aux Pays-bas suite à la découverte de gaz. L'économie des ressources naturelles profita d'un boom mais le reste du pays s'en trouva plus mal. L'analyse qui en est fait est que l'afflux de capitaux étrangers dans les ressources naturelles fait monter la devise du pays, rendant ainsi les autres secteurs non compétitifs. 
 

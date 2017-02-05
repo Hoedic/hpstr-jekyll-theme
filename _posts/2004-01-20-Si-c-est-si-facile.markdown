@@ -16,6 +16,6 @@ On centralise ainsi la démarche : ceci évite à chacun de mettre en place des 
 
 Enfin, ça ferait prendre au gouvernement sa responsabilité dans un retour en arrière monumental qui, selon l'interprétation juridique, la jurisprudence et les réglements qui suivront, pourrait amener la France à un niveau équivalent à la Chine en terme de liberté d'expression...
 
-Et je reviens encore une fois sur le cas Ouvaton : lorsque j'ai rédigé mon article hier, le communiqué de presse n'était que très partiel, il a été  depuis, même si ça restera flou jusqu'à la prochaine audience, le 26 janvier.
+Et je reviens encore une fois sur le cas Ouvaton : lorsque j'ai rédigé mon article hier, le communiqué de presse n'était que très partiel, il a été [complété](http://ouvaton.coop/extranet.html?id=70) depuis, même si ça restera flou jusqu'à la prochaine audience, le 26 janvier.
 
 C'est à mon avis une preuve évidente de ce qui attend les hébergeurs et fournisseurs d'accès. Déjà Métrobus met un entêtement sans borne à poursuivre Ouvaton, imaginez une seconde ce que ce sera avec la LEN où les hébergeurs pourront être poursuivis pour leurs moindres faits et gestes (t'as agi trop tard ? Boum, le tribunal ! T'as agi inutilement ? Boum, le tribunal).

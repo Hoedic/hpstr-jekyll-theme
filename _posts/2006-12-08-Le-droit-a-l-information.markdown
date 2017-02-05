@@ -18,7 +18,7 @@ Et un hébergeur absolument injoignable avec un service technique et à la clien
 
 Entre-temps, nous avions mis la main sur nos archives jusqu'à fin juillet grâce à un agrégateur RSS qui garde en mémoire les 100 derniers messages (mille fois mercis à lui !) et il ne restait qu'un trou d'environ deux semaines. Et nous avions rerouté les e-mails vers un autre serveur. Donc nous étions à demi rassurés, mais avec beaucoup de pain sur la planche pour tout remettre en marche !
 
-J'avais aussi ouvert ce  sur le serveur  de , qui m'a rendu un fier service, car j'avais vraiment un urgent besoin de crier sur tous les toits mon indignation dans le conflit actuel (malgré la totale inutilité de la chose, ça défoule). Ce service de blog m'a semblé très efficace, facile d'utilisation, convivial, joli et complet, et il m'a même permis de découvrir DotClear. Mais évidemment, on se sent mieux chez soi, avec toutes ses archives en place :)
+J'avais aussi ouvert ce [blog temporaire](http://drepapillon.blogomed.com) sur le serveur [blogomed](http://www.blogomed.com/) de [Remède](http://www.remede.org/), qui m'a rendu un fier service, car j'avais vraiment un urgent besoin de crier sur tous les toits mon indignation dans le conflit actuel (malgré la totale inutilité de la chose, ça défoule). Ce service de blog m'a semblé très efficace, facile d'utilisation, convivial, joli et complet, et il m'a même permis de découvrir DotClear. Mais évidemment, on se sent mieux chez soi, avec toutes ses archives en place :)
 
 Maintenant, on va tout de même travailler à archiver toutes nos affaires comme il faut, et trouver un hébergeur plus fiable et moins lointain. On va aussi revoir un peu notre design, peut-être, un jour !
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Revenons du  après avoir assisté à sa mise en scène de la célèbre  de Molière.  En Première, j'avais décidé de compenser mon manque flagrant de culture en lisant presque tout Molière (emprunté de la bibliothèque - pardon au "CDI" - de mon lycée nantais).  Les *Précieuses ridicules* étaient portées disparues de la collection.  Voilà enfin ce tort réparé.
+Revenons du [TNM](http://www.tnm.qc.ca/) après avoir assisté à sa mise en scène de la célèbre [pièce](http://www.voir.ca/artsdelascene/artsdelascene.aspx?iIDArticle=28144) de Molière.  En Première, j'avais décidé de compenser mon manque flagrant de culture en lisant presque tout Molière (emprunté de la bibliothèque - pardon au "CDI" - de mon lycée nantais).  Les *Précieuses ridicules* étaient portées disparues de la collection.  Voilà enfin ce tort réparé.
 
 Je déplore seulement l'ajout malvenu et prétentieux d'un prologue et d'un épilogue (à saveur révolutionnaire et anachronique) à l'oeuvre.
 

@@ -8,9 +8,9 @@ categories:
 ---
 
 
-En voyant le film , certains éléments m'avaient semblé étonnant et pour le moins monté pour mettre en avant la thèse défendue.
+En voyant le film [Fahrenheit 9/11](http://www.michaelmoore.com/index_main.php), certains éléments m'avaient semblé étonnant et pour le moins monté pour mettre en avant la thèse défendue.
 
-Ebb m'a envoyé hier une critique du film de Moore titrée ** de Dave Kopel. Je ne sais pas qui est ce personnage mais il ne semble pas forcément être un pro-Bush acharné d'après le reste de son web et l'introduction de son article.
+Ebb m'a envoyé hier une critique du film de Moore titrée *[Fifty-nine Deceits in Fahrenheit 9/11](http://www.davekopel.org/Terror/Fiftysix-Deceits-in-Fahrenheit-911.htm)* de Dave Kopel. Je ne sais pas qui est ce personnage mais il ne semble pas forcément être un pro-Bush acharné d'après le reste de son web et l'introduction de son article.
 
 Personnellement je vous conseille la lecture de document bien qu'assez long.
 

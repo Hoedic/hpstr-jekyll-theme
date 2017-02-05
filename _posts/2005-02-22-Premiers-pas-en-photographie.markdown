@@ -8,14 +8,14 @@ categories:
 ---
 
 
-J'ai enfin reçu mon tout nouvel (et premier !) appareil-photos numérique, commandé chez  (Magasin en ligne que je recommande d'ailleurs à tous les Canadiens pour ses bons prix et sa totale transparence en ce qui concerne les frais de douanes.).
+J'ai enfin reçu mon tout nouvel (et premier !) appareil-photos numérique, commandé chez [ecost](http://www.ecost.com) (Magasin en ligne que je recommande d'ailleurs à tous les Canadiens pour ses bons prix et sa totale transparence en ce qui concerne les frais de douanes.).
 
 ![Image]({{ site.url }}/images/IMG_0017.jpg)
 <div class="photoattrib">Hôpital Notre-Dame enneigé</div>
 
 
 
-Après de profondes hésitations, j'ai fini par opter pour le modèle juste un peu supérieur à ce qu'avait Hoedic avant la tragique perte du sien.  Une valeur sûre, finalement.  Me voici donc l'heureuse propriétaire d'un .
+Après de profondes hésitations, j'ai fini par opter pour le modèle juste un peu supérieur à ce qu'avait Hoedic avant la tragique perte du sien.  Une valeur sûre, finalement.  Me voici donc l'heureuse propriétaire d'un [Canon A85](http://www.dpreview.com/reviews/specs/Canon/canon_a85.asp).
 
 ![Image]({{ site.url }}/images/IMG_0020.jpg)
 <div class="photoattrib">Lierres grimpantes</div>

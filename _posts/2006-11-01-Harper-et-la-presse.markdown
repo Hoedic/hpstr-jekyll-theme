@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un   (via ) sur la querelle entre le gouvernement Harper et la .
+Un [excellent article](http://journalism.nyu.edu/pubzone/weblogs/pressthink/2006/10/31/harper_basen.html)  (via [David Akin](http://davidakin.blogware.com/blog/_archives/2006/10/31/2462659.html)) sur la querelle entre le gouvernement Harper et la [Tribune de la presse parlementaire canadienne](http://www.gallery-tribune.ca/).
 
 Pour remettre le contexte, Stephen Harper a décidé que la tribune était biaisée contre lui et que de nombreux organes de presse étaient un filtre déformant son message. Par voie de conséquence, il a décidé de choisir les journalistes pouvant s'exprimer lors des séances de questions (ces derniers devant s'inscrire préalablement sur une liste ; liste qui fut boycottée)
 
@@ -18,6 +18,6 @@ Pour remettre le contexte, Stephen Harper a décidé que la tribune était biais
 
 L'objectif ultime est donc de casser la sorte de monopole sur l'information parlementaire de la gallerie de la presse tout en permettant au gouvernement de communiquer plus directement avec le bon peuple, grâce aux media locaux et à 'ternet notamment. Et selon l'auteur de l'article, c'est mission accomplie.
 
-En effet  a cassé le boycott dans lequel s'était lancé la presse parlementaire, obligeant tous les autres à suivre le mouvement, redéfinissant ainsi complètement la relation entre le gouvernement et la presse (et donc les Canadiens).
+En effet [CanWest](http://www.canwestglobal.com/) a cassé le boycott dans lequel s'était lancé la presse parlementaire, obligeant tous les autres à suivre le mouvement, redéfinissant ainsi complètement la relation entre le gouvernement et la presse (et donc les Canadiens).
 
-Par ailleurs, l'article en question rejoint largement  sur le sujet à savoir que ce n'est pas parce qu'Harper suit des stratégies "à la Bush" (Ce dernier s'en est également pris à la presse américaine) que c'est son petit chien, bien au contraire. D'abord Harper est nettement plus fin et subtile dans son approche, par ailleurs il est nettement plus cohérent et conscient de ce qu'il fait. Enfin l'objectif final n'est pas toujours le même, comme c'est le cas pour les relations avec la presse. Même si je n'aime pas sa politique, il faut tout de même donner à Harper d'être un animal politique très rusé.
+Par ailleurs, l'article en question rejoint largement [mon opinion]({{ site.url }}/2006/10/07/Le-gouvernement-Harper-sous-son) sur le sujet à savoir que ce n'est pas parce qu'Harper suit des stratégies "à la Bush" (Ce dernier s'en est également pris à la presse américaine) que c'est son petit chien, bien au contraire. D'abord Harper est nettement plus fin et subtile dans son approche, par ailleurs il est nettement plus cohérent et conscient de ce qu'il fait. Enfin l'objectif final n'est pas toujours le même, comme c'est le cas pour les relations avec la presse. Même si je n'aime pas sa politique, il faut tout de même donner à Harper d'être un animal politique très rusé.

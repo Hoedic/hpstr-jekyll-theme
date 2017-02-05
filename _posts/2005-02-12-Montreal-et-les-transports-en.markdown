@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Au mois de Décembre 2004, la  publiait une étude intéressante traitant du .
+Au mois de Décembre 2004, la [Chambre de commerce du Montréal métropolitain](http://www.ccmm.qc.ca/) publiait une étude intéressante traitant du [transport en commun comme moteur économique](http://www.ccmm.qc.ca/documents/memoires/2004_2005/CCMM_TransportCommun_etude.pdf).
 
 Cette étude va dans le sens d'une autre étude plus ancienne qui établissait une corrélation entre le niveau de développement des transports en commun d'une ville et son dynamisme notamment économique.
 
@@ -26,4 +26,4 @@ Pourtant les transports en commun sont aussi :
 
 Bref, les arguments ne manquent pas et bien d'autres encore sont développés dans l'étude en question. Le résultat est que, grosso modo avec tous les avantages générés, un gouvernement rentre dans ses frais en investissant massivement dans les transports en commun. Alors que les gouvernement fédéral, provincial et municipaux rechignent à un investir, il serait intéressant d'y réfléchir à deux fois.
 
-Petit coup de pub au passage : un nouveau parti politique s'est récemment créé à l'échelle municipale, il s'agit de . Leur objectif est d'intégrer l'aspect développement durable au sein de la métropole québécoise, notamment en aidant les transports en commun. L'une des propositions phare est d'ailleurs la mise en place de plusieurs lignes de tramway ce qui serait sans doute une excellent idée ! Je vous laisse avec deux articles tirés du quotidien Le Devoir,  et , concernant cette initiative, possiblement le premier parti politique auquel je vais adhérer de toute ma vie. L'objectif, les élections municipales de novembre.
+Petit coup de pub au passage : un nouveau parti politique s'est récemment créé à l'échelle municipale, il s'agit de [Projet Montréal](http://www.projetmontreal.org/). Leur objectif est d'intégrer l'aspect développement durable au sein de la métropole québécoise, notamment en aidant les transports en commun. L'une des propositions phare est d'ailleurs la mise en place de plusieurs lignes de tramway ce qui serait sans doute une excellent idée ! Je vous laisse avec deux articles tirés du quotidien Le Devoir, [ici](http://www.bidon.ca/article96.html) et [là](http://www.bidon.ca/article150.html), concernant cette initiative, possiblement le premier parti politique auquel je vais adhérer de toute ma vie. L'objectif, les élections municipales de novembre.

@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Pour reprendre l'idée d', la machine à remonter le temps :
+Pour reprendre l'idée d'[Olivier](http://www.carnetsdimages.org/index.php?p=7&pb=448&debut=0), la machine à remonter le temps :
 
-- 1980 : Mes parents sont tout justes mariés et je suis encore à l'état de projet, ou d'essais peut-être ?  La future famille s'installe en , où mon père travaille dans les mines.
+- 1980 : Mes parents sont tout justes mariés et je suis encore à l'état de projet, ou d'essais peut-être ?  La future famille s'installe en [Abitibi](http://www.bonjourquebec.com/francais/regions/abitibi.html), où mon père travaille dans les mines.
 
 - 1985 : J'ai 2 ans, j'habite Rouyn-Noranda où je suis née.  Il paraît que je parle déjà comme une adulte.  Je viens de gagner un petit frère, et ma mère fait tout ce qu'il faut pour ruiner sa santé (ce qui arriva forcément)...
 

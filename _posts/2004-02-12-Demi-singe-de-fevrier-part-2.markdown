@@ -8,7 +8,7 @@ categories:
 ---
 
 
-*Suite du *
+*Suite du [premier épisode]({{ site.url }}/2004/02/12/Demi-singe-de-fevrier-part-1)*
 
 Finalement, nous passons les hauts-fonds de trafalgar sans encombre, bien que la mer y était effectivement plus formée. Finalement, profitant que la côte s'éloigne un peu et que les vents perdent en vigueur, nous virons pour dégager le génois que nous enroulons à moitié pour le reste du trajet qui doit nous amener à Lagos. Vagues et vents sont stables, mais on ne peut pas parler de conditions faciles. Toutefois, à cette vitesse, nous rejoindrons notre étape de mi-parcours en 24h au lieu des 48 initialement prévues. Le soleil se couche, je fais de même après toutes ces émotions.
 
@@ -36,6 +36,6 @@ La traversée du Golfe de Gascogne se fait en 2 jours, sur les chapeaux de roue,
 
 Le voyage aura duré en tout 2 semaines. Quelques jours après notre retour, mon père contact la station météo de Gibraltar et cette dernière lui annonce qu'en ce 21 juillet 1995, il n'y avait pas plus de 10 noeuds de vent !
 
-En petit bonus, un site avec des belles photos : 
+En petit bonus, un site avec des belles photos : [gréements.com](http://www.greements.com/)
 
 Certains, comme Édouard, semblent croire que ce fut une expérience horrible, pourtant je meurs d'envie de naviguer de nouveau. Ce fut pour moi une expérience de vie sans pareil. Sur un bateau, la vie n'est plus la même !

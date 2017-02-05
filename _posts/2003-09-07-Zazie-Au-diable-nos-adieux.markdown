@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Une belle chanson d'amour, pleine de subtils jeux de mots, qui m'a souvent longuement réconfortée pendant les interminables moments de séparation d'avec mon île, ...  Il faut connaître la douce voix de  et ses rythmes apaisants pour en profiter pleinement.
+Une belle chanson d'amour, pleine de subtils jeux de mots, qui m'a souvent longuement réconfortée pendant les interminables moments de séparation d'avec mon île, [Hoëdic](http://hoedic.ouvaton.org/)...  Il faut connaître la douce voix de [Zazie](http://madeinweb.free.fr/) et ses rythmes apaisants pour en profiter pleinement.
 
 *Je ne vais plus dans les églises<BR>Je préfère de loin mes évangiles<BR>Lorsque ce sont tes mains<BR>Qui me les lisent ! Je suis à ta cause acquise<BR>J'aime et j'envoie au diable nos adieux*
 

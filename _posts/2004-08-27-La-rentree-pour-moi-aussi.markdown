@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Eh oui, après Ebb, c'était à mon tour de prendre le sentier des classes,  dans mon cas pour une maîtrise en management de la technologie.
+Eh oui, après Ebb, c'était à mon tour de prendre le sentier des classes, [Polytechnique Montréal](http://www.polymtl.ca/) dans mon cas pour une maîtrise en management de la technologie.
 
 ![Image]({{ site.url }}/images/poly-mtl_26-08-2004.jpg)
 <div class="photoattrib">Polytechnique Montréal</div>
@@ -21,6 +21,6 @@ De plus ce premier cours m'a confirmé dans l'intérêt de ce type de formation.
 
 Ça fait bizarre de retomber dans le monde étudiant. Là encore, pour ce qui est de mes cours en environnement, c'était toujours à partir de 18h30 au mieux, les étudiants ayant majoritairement déserté l'université à cette heure. Au contraire aujourd'hui j'ai commencé à 16h (ça demeure des cours du soir) ce qui m'a permis de baigner dans une atmosphère estudiantine densément peuplée.
 
-Malgré tout on se demande ce qu'ils sont aller percher cette école (presque) en haut du Mont-Royal ! Surement le besoin de se sentir au-dessus de l' (à laquelle est affiliée Polytechnique pourtant). C'est certain, ça donne une vue magnifique sur la moitié <strike>sud</strike> nord de l'île de Montréal et j'anticipe de beaux clichés cet hiver (rien à faire aujourd'hui avec la brume qu'il y avait), mais en attendant ça nécessite de faire un peu de grimpette... un exercice dont on se passerait avec les températures actuelles ! (ça sera pas forcément mieux quand il fera -20°C...)
+Malgré tout on se demande ce qu'ils sont aller percher cette école (presque) en haut du Mont-Royal ! Surement le besoin de se sentir au-dessus de l'[Université de Montréal](http://umontreal.ca/) (à laquelle est affiliée Polytechnique pourtant). C'est certain, ça donne une vue magnifique sur la moitié <strike>sud</strike> nord de l'île de Montréal et j'anticipe de beaux clichés cet hiver (rien à faire aujourd'hui avec la brume qu'il y avait), mais en attendant ça nécessite de faire un peu de grimpette... un exercice dont on se passerait avec les températures actuelles ! (ça sera pas forcément mieux quand il fera -20°C...)
 
 Enfin bref, un premier cours pas trop violent qui a duré 3/4 d'heure histoire de faire les présentations et de recevoir quelques lectures à parcourir d'ici deux semaines. La suite, ben, lundi prochain mais pour le moment ça s'annonce très positivement.

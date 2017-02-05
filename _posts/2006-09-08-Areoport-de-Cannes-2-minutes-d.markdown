@@ -30,4 +30,4 @@ Tout cela pour que celui qui devait me prendre à Antibe-la-belle arrive avec 30
 
 Note : durant ce séjour, j'ai eu le loisir de lire Don Quichotte ce qui n'a pas manqué de me faire découvrir que des aventures extraordinaires m'attendaient à chaque coin de rue et qu'en tant que redresseur de tort et défenseur des opprimés, je me devais d'affronter (et vaincre) les pires forces sataniques, ce que j'ai fait avec courage. Gare à vous, mécréants, mon bras ne faiblira pas !
 
-* Les plus perspicaces auront reconnus la référence au film , qui se passe sur la croisette.
+* Les plus perspicaces auront reconnus la référence au film [La cité de la peur](http://www.allocine.fr/film/fichefilm.html?cfilm=9400), qui se passe sur la croisette.

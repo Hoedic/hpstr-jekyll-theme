@@ -16,7 +16,7 @@ Pourtant, les médias n'avaient pu s'empêcher de titrer, devant l'accusation en
 
 Suicide assisté et euthanasie active n'ont conceptuellement, éthiquement et légalement parlant, absolument rien à voir, et il n'avait jamais été question d'euthanasie active dans cette affaire !
 
-En ce moment, il y a aussi une .  La mère voudrait qu'on lui donne tous les soins possibles pour qu'il survive.  La cour tranche que non.  Et vlan !  on nous parle encore d'euthanasie.
+En ce moment, il y a aussi une [histoire de bébé malade](http://www.radio-canada.ca/url.asp?/nouvelles/Index/nouvelles/200410/22/005-euthanasie_Britaniques.shtml).  La mère voudrait qu'on lui donne tous les soins possibles pour qu'il survive.  La cour tranche que non.  Et vlan !  on nous parle encore d'euthanasie.
 
 Il s'agit ici d'euthanasie passive, qui n'a elle non plus rien à voir avec l'euthanasie active !  L'euthanasie passive, c'est l'abstention ou la cessation de traitement, et ça se pratique parfaitement.  Il faut ajouter à tout cela d'indissociables questions de justice distributive, de proportionnalité des soins et de répartition de la charge des coûts de santé.  Personne ne peut exiger du corps médical des soins jugés exceptionnels et acharnés.
 

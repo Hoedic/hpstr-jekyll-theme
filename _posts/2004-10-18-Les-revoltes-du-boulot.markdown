@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai bien apprécié l' du NouvelObs que pointait Karl dans  de ses posts.
+J'ai bien apprécié l'[article](http://www.nouvelobs.com/articles/p2081/a249807.html) du NouvelObs que pointait Karl dans [un](http://www.la-grange.net/2004/10/12.html#boulot) de ses posts.
 
 Les rebelles du boulot de plus en plus nombreux... rien d'étonnant en fait. Ce qui ressort le plus de cet article, ça ne surprendra personne non plus, c'est le manque de considération des "patrons" à l'égard des employés, les employés Kleenex. 
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Suite à ma  d'hier, et ne sachant guère comment faire sauter mon cadenas, j'ai appelé la ville de Montréal pour voir ce qu'ils pouvaient faire pour moi. Ces derniers me renvoient aux Services de Police de la Ville de Montréal.
+Suite à ma [déveine]({{ site.url }}/2005/07/25/Cassee-la-cle) d'hier, et ne sachant guère comment faire sauter mon cadenas, j'ai appelé la ville de Montréal pour voir ce qu'ils pouvaient faire pour moi. Ces derniers me renvoient aux Services de Police de la Ville de Montréal.
 
 On me dit alors qu'on m'envoie une voiture de police dont on ne savait pas s'ils auraient de quoi faire sauter mon cadenas (en fait je ne vois pas la police se trimballer en permanence avec une grosse tenaille.)
 

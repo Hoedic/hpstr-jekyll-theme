@@ -20,7 +20,7 @@ Finalement hier on a aussi évoqué le phénomène du retour...  Évidemment, to
 
 Par contre, cette description n'a pas manqué de me rappeler ce que j'ai vécu en revenant de 2 ans de vie en France.  S'ennuyer du pays, prendre conscience qu'on a changé, qu'une distance s'est installée avec nos amis et notre famille, qu'on est devenu un "hybride culturel" ; se sentir seul et incompris dans son propre pays, se demander si on sera capable de vivre ici à nouveau, résister à se réintégrer...  Je me rends compte que ce que j'ai vécu en revenant de France était assez fort tout de même.  J'ai l'impression d'avoir réagi de façon bien plus excessive qu'Hoedic lui-même, qui immigrait pourtant !
 
-Et j'entrevois ainsi un peu mieux ce que ça a dû être pour , ses grandes migrations, j'ai l'impression de mieux la comprendre...
+Et j'entrevois ainsi un peu mieux ce que ça a dû être pour [Leeloolène](http://leeloolene.free.fr), ses grandes migrations, j'ai l'impression de mieux la comprendre...
 
 C'est fou de réaliser tout cela seulement maintenant !
 

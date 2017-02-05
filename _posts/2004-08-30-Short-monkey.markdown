@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Un  bien étrange, surtout pour moi qui n'ai pas du tout l'oreille musicale !
+Un [singe d'août](http://www.martinepage.com/blog/2004/08/il-est-revenu-le-temps-du-singe.html) bien étrange, surtout pour moi qui n'ai pas du tout l'oreille musicale !
 
 Disons qu'une chanson que j'aime bien, ça se traduit, comme beaucoup de monde, par le fait que je vais la chantonner. Le fait est que je chante très mal et très faux, ce qui me vaut régulièrement des réflexions désagréables... notamment de la part de ceux qui font un peu de musique.
 

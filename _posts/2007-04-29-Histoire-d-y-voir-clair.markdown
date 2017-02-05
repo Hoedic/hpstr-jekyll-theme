@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Il y  qui aiment tellement lunettes qu'ils en porteraient presque sans en avoir besoin.
+Il y [en a](http://mon-ile.net/carnet/Pas-de-flash-SVP.html) qui aiment tellement lunettes qu'ils en porteraient presque sans en avoir besoin.
 
 Moi, c'est l'inverse. Je suis myope depuis longtemps, mais "entre deux eaux", et je m'en suis sortie sans porter de lunettes pendant des années. C'est sûr que souvent, je me frustre à ne pas voir les noms de rues sur les panneaux et les numéros sur les maisons d'en face. Ou les écriteaux sur de quelconques affiches. Ou encore, je ne reconnais pas quelqu'un que je connais faute de bien distinguer ses traits, dans la rue... Bonjour les malentendus !
 

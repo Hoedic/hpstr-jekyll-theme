@@ -12,7 +12,7 @@ Finalement, nous sommes allé faire un tour au festival de Jazz, malgré notre p
 
 D'un autre coté, ce n'était pas notre objectif initial. Nous souhaitions justement éviter la foule de l'événement final.
 
-Notre objectif initial était Juste pour rire. Seulement notre organisatrice en chef, en la personne de Ebb, n'avait pas pris en compte que le festival d'humour était tout fermé hier soir. Du coup, étant en centre-ville, ayant fait venir <strike>Akélia</strike> , nous nous sommes rabattu sur le festival de Jazz dont le grand événement final était une fusion entre Jazz et Cirque du Soleil, le premier fêtant ses 25 ans, le second ses 20 ans.
+Notre objectif initial était Juste pour rire. Seulement notre organisatrice en chef, en la personne de Ebb, n'avait pas pris en compte que le festival d'humour était tout fermé hier soir. Du coup, étant en centre-ville, ayant fait venir <strike>Akélia</strike> [Akelia](http://akelia.net/), nous nous sommes rabattu sur le festival de Jazz dont le grand événement final était une fusion entre Jazz et Cirque du Soleil, le premier fêtant ses 25 ans, le second ses 20 ans.
 
 ![Image]({{ site.url }}/images/fest-jazz_12-07-2004.jpg)
 <div class="photoattrib">La scène tout au fond</div>

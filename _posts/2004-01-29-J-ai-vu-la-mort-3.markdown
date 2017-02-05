@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ou, *quand je me suis pris pour *l'.
+Ou, *quand je me suis pris pour *l'[homme qui tombe à pic](http://www.canalgimi.com/spip/article.php3?id_article=557).
 
 Quand j'étais petit, je voulais être cascadeur, chacun son truc :) Ça a commencé assez tôt quand, à l'age de 6 ans, sous la mauvaise influence d'un ami, je sautai sur un canapé marron très 70's du haut de la mezzanine du premier étage de notre maison de campagne en Normandie.
 

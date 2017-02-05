@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Google est en train d'annoncer à la  (Z'ont été rapides à faire une conférence sur le sujet :)) le lancement d'un  **en ligne**.
+Google est en train d'annoncer à la [Web 2.0 conference](http://www.web2con.com/) (Z'ont été rapides à faire une conférence sur le sujet :)) le lancement d'un [agrégateur "RSS"](http://www.google.com/reader/things/tour) **en ligne**.
 
-Récemment sur la liste de diffusion , des personnes se plaignaient de ne pouvoir relever leur e-mail des hotspots (Cette limitation est principalement le fait des fournisseurs d'accès comme Videotron qui bloque le SMTP si on utilise pas leur serveur, mais c'est également pour éviter que certains spammeurs utilisent la connexion ISF) et ils se sont fait répondre d'ouvrir un compte hotmail ou gmail.
+Récemment sur la liste de diffusion [d'Ile sans Fil](http://www.ilesansfil.org), des personnes se plaignaient de ne pouvoir relever leur e-mail des hotspots (Cette limitation est principalement le fait des fournisseurs d'accès comme Videotron qui bloque le SMTP si on utilise pas leur serveur, mais c'est également pour éviter que certains spammeurs utilisent la connexion ISF) et ils se sont fait répondre d'ouvrir un compte hotmail ou gmail.
 
 Mais bordel de merde, laissez-moi mes données !
 

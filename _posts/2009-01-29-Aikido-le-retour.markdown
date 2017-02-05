@@ -12,7 +12,7 @@ Depuis le début de l'année, je me suis remis à l'aikido. J'avais possiblement
 
 Par ailleurs le dit dojo est loin d'être surpeuplé, contrairement au précédent, et la forte concentration de ceintures noires permet d'avoir des pratiques très constructives.
 
-Plusieurs personnes me demandent en quoi consistent l'Aikido. Le plus simple serait de référer à la page  en français qui est très complète. Trop presque. Mais je peux y aller de mon petit speech.
+Plusieurs personnes me demandent en quoi consistent l'Aikido. Le plus simple serait de référer à la page [Wikipedia](http://fr.wikipedia.org/wiki/A%C3%AFkido) en français qui est très complète. Trop presque. Mais je peux y aller de mon petit speech.
 
 
 ![Image]({{ site.url }}/images/4414_eb1f55e343_z_d.jpg)

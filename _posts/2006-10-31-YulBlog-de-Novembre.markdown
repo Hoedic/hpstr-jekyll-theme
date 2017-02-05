@@ -8,6 +8,6 @@ categories:
 ---
 
 
-<blink>**Rappel**</blink>(Oh que c'est kitsch du texte "blink" qui flachouille =)): Yulblog, la rencontre des blogueux de Montréal, c'est ce mercredi, .
+<blink>**Rappel**</blink>(Oh que c'est kitsch du texte "blink" qui flachouille =)): Yulblog, la rencontre des blogueux de Montréal, c'est ce mercredi, [même endroit que d'habitude](http://yulblog.org/first_premier.html).
 
 (Tout le monde est le bienvenu, on ne mord pas, on essaie de ne pas parler que de trucs geeks et heuuu, y a même des femelles humaines, si si... enfin quelques unes)

@@ -20,7 +20,7 @@ Grâce aux transports en commun de l'été, pour me rendre sur mon lieu de stage
 
 -  *Life of Pi* (Yann Martel), un très bon roman, abordant des thèmes religieux, animaliers, marins et de l'intérêt de la vérité pure et brute... ; bref, variés !  Joliment écrit et à lire, je vous le conseille chaudement.
 
--  *Pour libérer l'homme de l'homme* (Jean-Philippe Berthold), il s'agit du premier livre écrit et publié par .  Hétéroclite et surprenant.
+-  *Pour libérer l'homme de l'homme* (Jean-Philippe Berthold), il s'agit du premier livre écrit et publié par [monsieur Berthold](http://www.bertholdien.net/blogue/).  Hétéroclite et surprenant.
 
 -  *L'Iliade* (Homère), le grand classique remis au goût du jour par le film Troie (qui ne s'inspire vraiment pas de l'oeuvre).  Écrit de façon un peu lourde et chiante à lire, il faut dire ce qui est...  Mais je suis contente d'enfin connaître les plus fins détails de l'histoire.  Vais-je m'attaquer à *L'Odyssée* maintenant, sûrement plus rempli de péripéties ?  Parce que bon, la guerre, la guerre et la guerre, c'était un peu limité quand même...
 

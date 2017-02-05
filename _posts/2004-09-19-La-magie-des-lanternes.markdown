@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Hier soir, délaissant notre trop prenant travail, nous avons décidé de nous rendre au  pour profiter de l'exposition  qui se tient dans le Jardin de Chine.
+Hier soir, délaissant notre trop prenant travail, nous avons décidé de nous rendre au [Jardin botanique](http://www2.ville.montreal.qc.ca/jardin/jardin.htm) pour profiter de l'exposition [La magie des lanternes](http://www2.ville.montreal.qc.ca/jardin/propos/lanternes.htm) qui se tient dans le Jardin de Chine.
 
-Nous avons eu quelque peu peur voyant le métro rempli à raz bord et se décharger à la même station que nous. Tout ce monde allait-il se rendre aux lanternes ? Pire, il s'agissait en grande partie de djeunz bruyants et habillés vulgairement. Heureusement on s'est vite rendu compte qu'ils prenaient le chemin du  où se déroulait un  (ce qui expliquait aussi la vulgarité ambiante). Ceci dit, je préfère les savoir à s'abrutir devant des motards se mutilant les uns après les autres qu'à nous faire chier pendant toute la soirée. Malgré tout, alors que nous étions sur le retour, un de ces dégénérés profonds a failli nous écraser en sortant comme un malade d'un stationnement souterrain avec sa  vrombissante.
+Nous avons eu quelque peu peur voyant le métro rempli à raz bord et se décharger à la même station que nous. Tout ce monde allait-il se rendre aux lanternes ? Pire, il s'agissait en grande partie de djeunz bruyants et habillés vulgairement. Heureusement on s'est vite rendu compte qu'ils prenaient le chemin du [Stade olympique](http://www.rio.gouv.qc.ca/index.jsp) où se déroulait un [événement de motocross à la con](http://www.montrealmotocross.com/) (ce qui expliquait aussi la vulgarité ambiante). Ceci dit, je préfère les savoir à s'abrutir devant des motards se mutilant les uns après les autres qu'à nous faire chier pendant toute la soirée. Malgré tout, alors que nous étions sur le retour, un de ces dégénérés profonds a failli nous écraser en sortant comme un malade d'un stationnement souterrain avec sa [Mustang](http://www.fordvehicles.com/cars/mustang/index.asp) vrombissante.
 
 ![Image]({{ site.url }}/images/vasque-olympique_19-09-2004.jpg)
 <div class="photoattrib">La vasque olympique</div>

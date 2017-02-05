@@ -38,4 +38,4 @@ En tout cas, ça m'a fait bien plaisir de la revoir !  Je me rends compte à que
 
 Je suis un peu triste du départ de Pauline Marois.  Je l'ai toujours bien aimée et je trouvais qu'elle aurait fait une super leader du Parti Québécois, voire une excellente première femme à diriger la province.  Mais les Québécois préfèrent les jeunes tape-à-l'oeil qui consomment de la cocaïne aux femmes entre-deux-âges fortes de décennies d'expérience...  Il me semble qu'elle n'aura jamais eu la reconnaissance qu'elle méritait.
 
-Mais je ne sais pas pourquoi je vous parle de ça alors que je suis maintenant membre du nouveau parti .  Est-ce à dire que moi aussi, je préfère ce qui est neuf et brillant ? ;)
+Mais je ne sais pas pourquoi je vous parle de ça alors que je suis maintenant membre du nouveau parti [Québec solidaire](http://www.quebecsolidaire.net/le-parti/qui-sommes-nous).  Est-ce à dire que moi aussi, je préfère ce qui est neuf et brillant ? ;)

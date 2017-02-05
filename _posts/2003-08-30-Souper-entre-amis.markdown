@@ -8,4 +8,4 @@ categories:
 ---
 
 
-Hier soir, tout le monde était là (chose rare), chez S, pour souhaiter un bon départ à L.  Il nous quitte pour 4 mois au cours desquels il va d'abord aller vadrouiller en Turquie et en Russie, avant d'aller étudier l'histoire à .  Bon voyage et bon séjour en Angleterre !
+Hier soir, tout le monde était là (chose rare), chez S, pour souhaiter un bon départ à L.  Il nous quitte pour 4 mois au cours desquels il va d'abord aller vadrouiller en Turquie et en Russie, avant d'aller étudier l'histoire à [Oxford](http://www.ox.ac.uk/).  Bon voyage et bon séjour en Angleterre !

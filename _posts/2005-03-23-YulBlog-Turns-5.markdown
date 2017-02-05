@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Samedi c'était  spéciale . 75 personnes, 75 bloggers dans un 3&1/2 transformé en . Malheureusement je n'ai eu le temps de parler qu'à 6, 7 personnes peut-être. De nombreux visages connus mais pas eu le temps de leur parler, dommage.
+Samedi c'était [YulBlog](http://yulblog.org/) spéciale [5 ans](http://yulblog.org/fifth.html). 75 personnes, 75 bloggers dans un 3&1/2 transformé en [galerie](http://zekesgallery.blogspot.com/). Malheureusement je n'ai eu le temps de parler qu'à 6, 7 personnes peut-être. De nombreux visages connus mais pas eu le temps de leur parler, dommage.
 
 ![Image]({{ site.url }}/images/yulblog5_22-03-2005.jpg)
 <div class="photoattrib">Zeke's gallery... pleine à craquer</div>

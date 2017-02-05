@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Nous sommes coutumiers des mois de février difficiles. L'année dernière à pareille date nous étions en pleine . (Non pas que nous étions déprimés de nous être mariés, mais plutôt d'être revenus de Guadeloupe alors que nous coulions des journées paisibles sur cette île paradisiaque.)
+Nous sommes coutumiers des mois de février difficiles. L'année dernière à pareille date nous étions en pleine [déprime post-mariage]({{ site.url }}/2006/02/01/Lobotomise). (Non pas que nous étions déprimés de nous être mariés, mais plutôt d'être revenus de Guadeloupe alors que nous coulions des journées paisibles sur cette île paradisiaque.)
 
-Ce retour se soldait également par un , un , le tout agrémenté d'un terrible stage de chirurgie pour Femme qui nous contraignait à des horaires insupportables pour nous deux.
+Ce retour se soldait également par un [iPod mini mort]({{ site.url }}/2006/02/16/L-operation-de-la-derniere-chance), un [iBook en berne]({{ site.url }}/2006/02/11/Finalement-l-ibook-est-mort), le tout agrémenté d'un terrible stage de chirurgie pour Femme qui nous contraignait à des horaires insupportables pour nous deux.
 
 ![Image]({{ site.url }}/images/traces-ski.jpg)
 <div class="photoattrib">skilaufen</div>

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Profitant récemment de la venue de France de la Grand-Maman de Monsieurs, nous avons fait deux sorties très appréciables : le restaurant , à deux pas de chez nous, et une nuit en amoureux à l'hotel Le Germain avec une souper dans le restaurant des lieux, le .
+Profitant récemment de la venue de France de la Grand-Maman de Monsieurs, nous avons fait deux sorties très appréciables : le restaurant [La Chronique](http://www.lachronique.qc.ca/), à deux pas de chez nous, et une nuit en amoureux à l'hotel Le Germain avec une souper dans le restaurant des lieux, le [Laurie Raphaël](http://www.hotelgermain.com/fr/laurieraphael.asp).
 
 Plus tard, une collègue me demande pourquoi moi, un Français, je dépense des sommes assez élevées pour aller dans des restaurants français alors que je pourrais surement me cuisiner des plats tout aussi bons.
 

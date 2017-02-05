@@ -12,7 +12,7 @@ Non, je ne parle pas de la jolie place de même nom dans la Ville Lumière.
 
 Je parle de la fac, Paris-IX, je crois, pour être précis.
 
-Avant toute chose, il faut absolument lire cet  du Monde, même s'il est d'apparence assez sobre.
+Avant toute chose, il faut absolument lire cet [article](http://www.lemonde.fr/web/article/0,1-0@2-3226,36-354476,0.html) du Monde, même s'il est d'apparence assez sobre.
 
 Avec tous les débats actuels sur les frais de scolarité au Québec, j'ai eu l'occasion de me rappeler certaines différences avec le système scolaire post-secondaire français (que je n'ai jamais fréquenté) et d'en tirer certaines conclusions.
 

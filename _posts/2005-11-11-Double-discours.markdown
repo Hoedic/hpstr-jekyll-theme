@@ -10,7 +10,7 @@ categories:
 
 Le biodiesel, bien, pas bien... difficile à dire. Je pourrais vous proposer des résultats tangibles sur le sujet prochainement (quand j'aurais fini mon analyse du cycle de vie comparative en biodiesel et diesel).
 
-En attendant, on peut toujours se pencher sur le discours qui l'entoure. Regardons un article de Wired : **, ou comment chauffer sa maison au biodiesel.
+En attendant, on peut toujours se pencher sur le discours qui l'entoure. Regardons un article de Wired : *[Biodiesel Keeps Home Fire Burning](http://www.wired.com/news/planet/0,2782,69524,00.html)*, ou comment chauffer sa maison au biodiesel.
 
 L'argumentation pour l'utilisation du biodiesel est très environnementale : combustion moins polluante, énergie renouvelable, utilisation de déchets comme l'huile de friture, tout y passe.
 

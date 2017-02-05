@@ -8,11 +8,11 @@ categories:
 ---
 
 
-La nouvelle fait le tour des fils de presse : le Canada c'est mal, c'est plus du tout *le plusse beau pays du monde*. C'est le pays qui pirate le plus la belle chanson de la musique. Dommage pour les producteurs français qui essaient dernièrement de faire croire que l'Hexagone tenait la tête à ce chapitre, obligeant ainsi les artistes à se prostituer sur .
+La nouvelle fait le tour des fils de presse : le Canada c'est mal, c'est plus du tout *le plusse beau pays du monde*. C'est le pays qui pirate le plus la belle chanson de la musique. Dommage pour les producteurs français qui essaient dernièrement de faire croire que l'Hexagone tenait la tête à ce chapitre, obligeant ainsi les artistes à se prostituer sur [des sites douteux](http://lestelechargements.com/).
 
 Il faut bien dire que quand il s'agit de faire passer une nouvelle loi sur le droit d'auteur, rien ne vaut une bonne annonce catastrophiste à souhait.
 
-Si on regarde cet  (ou ) on cherche la preuve que le Canada est le plus vilain pays de la terre en terme de téléchargements. Pas le moindre comparatif, à peine un chiffre du nombre de téléchargements (estimés). Derrière ces articles (qui se ressemblent étonnament) on se dit qu'il y a possiblement un communiqué de presse de la CRIA dont l'objectif est de favoriser une législation "anti-contournement" de moyens de protection (type DADVSI donc). 
+Si on regarde cet [article](http://technaute.lapresseaffaires.com/nouvelles/texte_complet.php?id=81,12399,0,032006,1250893.html&ref=cyberpresse) (ou [celui-ci](http://www.variety.com/article/VR1117939142?categoryid=1043&cs=1)) on cherche la preuve que le Canada est le plus vilain pays de la terre en terme de téléchargements. Pas le moindre comparatif, à peine un chiffre du nombre de téléchargements (estimés). Derrière ces articles (qui se ressemblent étonnament) on se dit qu'il y a possiblement un communiqué de presse de la CRIA dont l'objectif est de favoriser une législation "anti-contournement" de moyens de protection (type DADVSI donc). 
 
 ![Image]({{ site.url }}/images/5177_940a4e94d6_z_d.jpg)
 <div class="photoattrib">Iguane</div>

@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Rah, brouteur de merde, ça fait 3 fois que je recommence ce billet. Bon, alors là j'utilise , un navigateur plein de buzz que je voulais quand même en parler.
+Rah, brouteur de merde, ça fait 3 fois que je recommence ce billet. Bon, alors là j'utilise [Flock](http://www.flock.com/), un navigateur plein de buzz que je voulais quand même en parler.
 
-Pour commencer quelles sont les extraordinaires  de ce brouteur attendu par la Terre entière :
+Pour commencer quelles sont les extraordinaires [fonctionnalités](http://www.flock.com/fiveways/togetstarted/13.php) de ce brouteur attendu par la Terre entière :
 
-**Gestion de bookmark** : Flock intégre . Pratique dans la mesure ou la gestion par tag est utile. Cependant peu ergonomique quand on entasse les tags. Ensuite la structure par répertoire a aussi ses avantages. Enfin ça fait que les bookmarks sont en ligne, chose que je n'aime pas toujours, j'aime bien garder mes choses à l'image de  (je me demande si Flock ne garde pas une copie locale de favoris, mais j'ai pas trouvé ou encore). Le marquage des pages est facile, le tagging est plus poussif. Par ailleurs, l'ouverture de nouvelles pages à partir de la liste de favoris est pas pratique non plus.
+**Gestion de bookmark** : Flock intégre [del.icio.us](http://del.icio.us/). Pratique dans la mesure ou la gestion par tag est utile. Cependant peu ergonomique quand on entasse les tags. Ensuite la structure par répertoire a aussi ses avantages. Enfin ça fait que les bookmarks sont en ligne, chose que je n'aime pas toujours, j'aime bien garder mes choses à l'image de [Karl](http://www.la-grange.net/2005/10/07.html#fake-freedom) (je me demande si Flock ne garde pas une copie locale de favoris, mais j'ai pas trouvé ou encore). Le marquage des pages est facile, le tagging est plus poussif. Par ailleurs, l'ouverture de nouvelles pages à partir de la liste de favoris est pas pratique non plus.
 
 **Intégration d'outils de blogging et de Flickrrrr** : il est possible de poster directement des billets à partir d'une interface de rédactions intégrée à la bête. Intéressant sauf qu'il faut Wordpress ou Blogger, donc j'ai pas pu essayer. Flock peut aussi se connecter à Flickr pour intégrer des flicky photo à nos posts. J'aurais préféré pouvoir uploader directement mes photos (je sais un truc existe déjà pour ça). Bref, des idées intéressantes que je ne peux pas utiliser.
 

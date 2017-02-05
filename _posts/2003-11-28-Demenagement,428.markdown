@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Sur une idée de  et un coup de tête, nous sommes en train d'organiser la fusion de  blog avec celui d'Hoëdic.  Un "deux pour un" pour les lecteurs, finalement.  Des sujets qui vont s'entrecouper parfois, certes, comme nos vies s'entremêlent déjà si intimement ; et d'autres plus complémentaires, chacun dans notre sphère, avec nos intérêts et nos défis propres.
+Sur une idée de [Neige](http://neiges.blogspot.com/) et un coup de tête, nous sommes en train d'organiser la fusion de [ce](http://ebb.monblogue.com/) blog avec celui d'Hoëdic.  Un "deux pour un" pour les lecteurs, finalement.  Des sujets qui vont s'entrecouper parfois, certes, comme nos vies s'entremêlent déjà si intimement ; et d'autres plus complémentaires, chacun dans notre sphère, avec nos intérêts et nos défis propres.
 
 Il y a des aménagements à faire, alors je ne sais pas trop quand ce sera effectif.
 

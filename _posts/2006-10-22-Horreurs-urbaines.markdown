@@ -16,7 +16,7 @@ Ils gâchent le paysage urbain. Un européen arrivant au Québec peut difficilem
 
 Seulement un quart des nouvelles installations sont enterrées !
 
-Et le Devoir  que personne ne s'en occupe vraiment. Apprécions la réponse fournie par une conseillère *stratégique* d'Hydro-Québec, grand responsable de tout ce bordel et régulièrement incité à faire quelque chose (notamment depuis le  de 1998) :
+Et le Devoir [révèle](http://www.ledevoir.com/2006/10/21/121029.html) que personne ne s'en occupe vraiment. Apprécions la réponse fournie par une conseillère *stratégique* d'Hydro-Québec, grand responsable de tout ce bordel et régulièrement incité à faire quelque chose (notamment depuis le [Grand Verglas](http://fr.wikipedia.org/wiki/Grand_verglas_de_1998) de 1998) :
 
 <blockquote class="citation">
 «Hydro-Québec appuie les demandes d'enfouissement du réseau de distribution. Il s'agit toutefois d'une solution

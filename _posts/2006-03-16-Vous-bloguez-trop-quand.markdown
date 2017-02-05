@@ -8,4 +8,4 @@ categories:
 ---
 
 
-Lorsqu'il arrive une  à une personne connue (ou pas), vous êtes certains que cette personne a un blogue et va y réagir dans la minute qui suit.
+Lorsqu'il arrive une [tuile](http://www.lemonde.fr/web/article/0,1-0@2-3226,36-750967,0.html) à une personne connue (ou pas), vous êtes certains que cette personne a un blogue et va y réagir dans la minute qui suit.

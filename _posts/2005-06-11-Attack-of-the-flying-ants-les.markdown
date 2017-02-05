@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Chose promise, chose due, voici deux photos de nos hyménoptères vespoidea formicidae préférés. Ceci dit c'est sympa en , mais en chair et en <strike>os</strike> pattes, c'est moins drôle !
+Chose promise, chose due, voici deux photos de nos hyménoptères vespoidea formicidae préférés. Ceci dit c'est sympa en [livre](http://www.amazon.fr/exec/obidos/ASIN/B00005RHOP/), mais en chair et en <strike>os</strike> pattes, c'est moins drôle !
 
 ![Image]({{ site.url }}/images/fourmis_12-06-2005.jpg)
 <div class="photoattrib">Flying Antz</div>

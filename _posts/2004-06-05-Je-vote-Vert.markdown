@@ -12,21 +12,21 @@ Eh oui, je les trouve pas mal moins fous que les autres !  Leurs valeurs sont au
 
 5-6 % de la population canadienne a l'intention de voter comme moi le 28 juin prochain.
 
-Alors je suis fort mécontente d'avoir d'abord entendu dire que le  aurait sa place - fort justifiée au demeurant - à la table du débat des chefs (les 14 et 15 juin), puis que ça lui a été refusé.
+Alors je suis fort mécontente d'avoir d'abord entendu dire que le [Parti Vert](http://www.partivert.ca/) aurait sa place - fort justifiée au demeurant - à la table du débat des chefs (les 14 et 15 juin), puis que ça lui a été refusé.
 
 Les Verts aussi ont leur rôle à jouer au Canada, sûrement grandissant, et j'aimerais bien les entendre défendre leurs idéaux et se frotter aux autres partis !
 
-Une action est encore possible pour tenter de contrer cette censure incompréhensible.  Je transmets ici un communiqué des Verts (via ) :
+Une action est encore possible pour tenter de contrer cette censure incompréhensible.  Je transmets ici un communiqué des Verts (via [le blogue bertholdien](http://www.bertholdien.net/blogue/)) :
 
 <blockquote class="citation">Vous avez peut-être entendu dire que Jim Harris, le chef du Parti Vert du Canada, a été exclu du débat télévisé des chefs.
 
-Pourtant, nous avons officiellement 300 candidats et nous prévoyons en avoir 308, ce qui ferait de nous les quatrièmes dans l'histoire du Canada à être représentés dans l'ensemble des circonscriptions. Pourtant, nous atteignons 6 % dans les sondages nationaux. Pourtant, il y a une place à la table des débats vu la fusion du Parti progressiste et de l'Alliance canadienne. Nous vous invitons à consulter notre site web () et à télécharger la « lettre aux diffuseurs » pour savoir à quel point être invité au débat nous tient à cœur.
+Pourtant, nous avons officiellement 300 candidats et nous prévoyons en avoir 308, ce qui ferait de nous les quatrièmes dans l'histoire du Canada à être représentés dans l'ensemble des circonscriptions. Pourtant, nous atteignons 6 % dans les sondages nationaux. Pourtant, il y a une place à la table des débats vu la fusion du Parti progressiste et de l'Alliance canadienne. Nous vous invitons à consulter notre site web ([www.partivert.ca](http://www.partivert.ca)) et à télécharger la « lettre aux diffuseurs » pour savoir à quel point être invité au débat nous tient à cœur.
 
 Plusieurs d'entre vous nous ont déjà fait connaître leur mécontentement à propos de la situation. Nous vous demandons maintenant de nous aider. Nous pensons qu'un envoi massif de preuves de soutien pourrait renverser cette décision. Nous pouvons encore intégrer Jim Harris au débat et transmettre notre message aux électeurs canadiens. Or, les délais sont serrés : les débats étant prévus pour les 14 et 15 juin, il nous faut agir dès maintenant.
 
 Plusieurs diffuseurs ont pris part à la décision d'exclure Jim Harris des débats. Vous trouverez les coordonnées des principaux responsables ci-dessous. Veuillez lire les modèles de lettres ci-joints et transmettez-en le message aux personnes concernées et au CRTC, par téléphone, par télécopieur, par courrier ou par courriel, afin de faire savoir que vous désirez voir Jim Harris participer aux débats. Rappelez-vous que, dans ce genre de correspondance, il importe de demeurer le plus courtois possible. En outre, plus votre lettre sera personnelle, plus elle aura d'effet. Les lettres écrites à la main et les cartes postales sont à privilégier; les télécopies valent mieux que les courriels.
 
-Si vous envoyez des commentaires par courrier électronique, veuillez envoyer une copie carbone (CC) à , ce qui nous permettra de savoir combien de personnes ont répondu à l'appel. Nous ne pouvons garantir de réponse rapide aux messages envoyés à cette adresse. Cependant, si vous désirez obtenir plus de renseignements sur la situation, vous pouvez nous joindre par téléphone, au 1-866-868-3447, ou par courriel, à l'adresse .
+Si vous envoyez des commentaires par courrier électronique, veuillez envoyer une copie carbone (CC) à [debates@greenparty.ca](debates@greenparty.ca), ce qui nous permettra de savoir combien de personnes ont répondu à l'appel. Nous ne pouvons garantir de réponse rapide aux messages envoyés à cette adresse. Cependant, si vous désirez obtenir plus de renseignements sur la situation, vous pouvez nous joindre par téléphone, au 1-866-868-3447, ou par courriel, à l'adresse [info@greenparty.ca](info@greenparty.ca).
 
 Finalement, nous vous demandons de bien vouloir faire circuler ce courriel parmi vos connaissances, en les encourageant à s'adresser aussi aux diffuseurs. Un gros merci de nous tous!
 
@@ -78,30 +78,30 @@ DIFFUSEURS
 CTV Personne-ressource : Joanne MacDonald<br />
 Téléphone : 416-332-5000<br />
 Télécopieur : 416-332-6314<br />
-Courriel : <br />
-Commentaires : 
+Courriel : [jmacdonald@ctv.ca](jmacdonald@ctv.ca)<br />
+Commentaires : [fanmail@ctv.ca](fanmail@ctv.ca)
 
 CBC TV<br />
 Personne-ressource : Arnold Amber<br />
 Téléphone : 416-205-7847<br />
 Télécopieur : 416-205-5620<br />
-Courriel : <br />
-Ombudsman : 
+Courriel : [arnold_amber@cbc.ca](arnold_amber@cbc.ca)<br />
+Ombudsman : [ombudsman@cbc.ca](ombudsman@cbc.ca)
 
 Global TV<br />
 Personne-ressource : Peter Kent<br />
 Téléphone : 416-446-5487<br />
-Courriel : <br />
-Commentaires : 
+Courriel : [pkent@globaltv.ca](pkent@globaltv.ca)<br />
+Commentaires : [globalnews.tor@globaltv.com](globalnews.tor@globaltv.com)
 
 Radio-Canada<br />
 Personne-ressource : Renaud Gilbert [ombudsman]<br />
 Téléphone : 514-597-4757<br />
-Courriel : 
+Courriel : [ombudsman@radio-canada.ca](ombudsman@radio-canada.ca)
 
 TVA<br />
-Courriel : <br />
-Contact en ligne : <br />
+Courriel : [nouvelles@tva.ca](nouvelles@tva.ca)<br />
+Contact en ligne : <br />[http://preprod.tva.ca/contactez-nous/stations.shtml](http://preprod.tva.ca/contactez-nous/stations.shtml)
 
 AUTRES LIENS
 
@@ -109,19 +109,19 @@ CRTC [SVP envisager la possibilité de déposer une plainte]<br />
 Personne-ressource : William Howard<br />
 Téléphone : 877-249-2782<br />
 Télécopieur : 819-994-0218<br />
-Courriel : <br />
-Site Web : 
+Courriel : [info@crtc.gc.ca](info@crtc.gc.ca)<br />
+Site Web : [http://www.crtc.gc.ca/](http://www.crtc.gc.ca/)
 
 Association canadienne des radiodiffuseurs<br />
-Personne-ressource : Sandra Graham <br />
+Personne-ressource : Sandra Graham [affaires publiques] <br />Courriel : [sgraham@cab-acr.ca](sgraham@cab-acr.ca)<br />
 Téléphone : 613-233-4035<br />
 Télécopieur : 613-233-6961<br />
-Site Web : 
+Site Web : [http://www.cab-acr.ca/](http://www.cab-acr.ca/)
 
 Conseil canadien des normes de la radiodiffusion<br />
 Téléphone : 866-696-4718<br />
 Télécopieur : 613-233-4826<br />
-Courriel : <br />
-Site Web : </blockquote>
+Courriel : [plaintes@ccnr.ca](plaintes@ccnr.ca)<br />
+Site Web : [http://www.cbsc.ca/](http://www.cbsc.ca/)</blockquote>
 
 Personnellement, j'ai déjà spammé tout ce beau monde...  

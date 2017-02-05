@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Peu de choses à raconter.  En gros : famille et jeux de cartes, vélo, tennis, piscine, randonnée, un peu de magasinage à St-Sauveur (décevantes ces "factories" d'ailleurs) et une journée de pure détente au .
+Peu de choses à raconter.  En gros : famille et jeux de cartes, vélo, tennis, piscine, randonnée, un peu de magasinage à St-Sauveur (décevantes ces "factories" d'ailleurs) et une journée de pure détente au [Spa Ofuro](http://www.spaofuro.com/).
 
 ![Image]({{ site.url }}/images/Cefl2.jpg)
 <div class="photoattrib">Le Riverain</div>

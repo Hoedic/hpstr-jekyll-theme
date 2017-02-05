@@ -15,7 +15,7 @@ Dans la série Microsoft décide de la vérité pour vous, voici ce que dit dés
 
 Bien entendu, en entreprise, il s'agit d'une licence Windows XP "genuine", payée enregistrée et tout le kit.
 
-**Update** : Microsoft aurait déjà  à cause de la mise à jour qui fait la vérification de l'"authenticité" de Windows... et produit cet horrible popup.
+**Update** : Microsoft aurait déjà [2 procès au cul](http://technaute.lapresseaffaires.com/nouvelles/texte_complet.php?id=81,12399,0,072006,1285316.html&ref=nouvelles) à cause de la mise à jour qui fait la vérification de l'"authenticité" de Windows... et produit cet horrible popup.
 
 Visiblement les faux-positifs (Windows authentiques affichant ce popup) sont assez nombreux. Les procès eux, se basent sur le fait que Microsoft aurait installé un spyware/espiongiciel et que des données confidentielles seraient transférées sans  l'accord des utilisateurs.
 

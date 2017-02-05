@@ -21,7 +21,7 @@ J'installe Netscape, et je vais voir notre site, et là *"AAAAAAAAAAAAAAHHHHhhhh
 
 Bon, mais alors, comment qu'on fait ? Est-ce qu'on prend en compte Netscape 4.x pour faire notre truc ? Et peut-on espérer faire quelque chose en CSS qui a du sens avec Netscape ?
 
-Malgré tout j'ai trouvé des pages avec du CSS qui n'étaient pas toutes grises, celle de  par exemple, mais la mise en page n'est plus trop au rendez-vous. Pour les sites professionnels, nombreux sont ceux qui n'utilisent pas de CSS ni même de version HTML claire, mais ils sont généralement correctement affichés. Mentions spéciales à Libé et Le Monde qui ne s'ouvrent pas !
+Malgré tout j'ai trouvé des pages avec du CSS qui n'étaient pas toutes grises, celle de [Karl](http://www.la-grange.net/) par exemple, mais la mise en page n'est plus trop au rendez-vous. Pour les sites professionnels, nombreux sont ceux qui n'utilisent pas de CSS ni même de version HTML claire, mais ils sont généralement correctement affichés. Mentions spéciales à Libé et Le Monde qui ne s'ouvrent pas !
 
 Visiblement l'incorporation du fichier .css avec un @import fonctionne très mal (d'ailleurs, je me demande encore pourquoi j'ai fait comme ça !), mais c'est le support css qui est plus généralement en cause.
 

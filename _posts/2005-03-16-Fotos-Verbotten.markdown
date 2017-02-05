@@ -24,4 +24,4 @@ C'est un employé d'entretien qui a joué ses petits chefs. La prochaine fois un
 
 Qui sait, peut-être reviendrai-je avec une prune de 250$ un de ces quatre puisque c'est ainsi qu'on traite les malfrats de mon genre. Stupide.
 
-Update : je viens de parcourir les  de la STM et je n'ai vu aucune mention des photos, alors à moins que quelqu'un ne me prouve le contraire... En revanche je suis en infraction et risque une poursuite pénale parce que j'ai un couteau suisse sur moi.
+Update : je viens de parcourir les [réglements](http://stm.info/en-bref/reglements.htm) de la STM et je n'ai vu aucune mention des photos, alors à moins que quelqu'un ne me prouve le contraire... En revanche je suis en infraction et risque une poursuite pénale parce que j'ai un couteau suisse sur moi.

@@ -10,7 +10,7 @@ categories:
 
 Je suis incroyablement feignant sur l'écriture en ce moment, c'est mal ! Avant-hier, mercredi, j'ai passé une entrevue d'embauche. Rien d'exceptionnel en soit. J'avais dernièrement décidé d'arrêter de chercher activement du boulot pour déstresser un peu et me consacrer à ma future maîtrise à Polytechnique Montréal qui commencera la semaine prochaine. Mais là il s'agit d'une entreprise avec qui je suis en relation depuis plusieurs mois et où j'ai une bonne amie contact en interne. Pour information ça s'est bien passé mais difficile de dire le résultat que je peux espérer.
 
-Cet entretien se passait cette fois aussi à Saint-Laurent, loin de tout transport en commun, j'ai donc de nouveau pris une tuture . Une fois passé la "joie" de se déplacer avec Communauto, je réalise l'aspect très chiant de l'automobile.
+Cet entretien se passait cette fois aussi à Saint-Laurent, loin de tout transport en commun, j'ai donc de nouveau pris une tuture [Communauto](http://communauto.com/). Une fois passé la "joie" de se déplacer avec Communauto, je réalise l'aspect très chiant de l'automobile.
 
 Et en la matière, je me permettrais de dire que les montréalais conduisent franchement mal ! Le pire demeure les camions. Parce que sérieusement, quand un camion essaie de me doubler dans le traffic alors que je roule déjà à 70 dans une zone à 50 en déboitant de tous les sens et en me tassant sur une voie, c'est vraiment n'importe quoi.
 

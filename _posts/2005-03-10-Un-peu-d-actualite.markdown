@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Lundi, mon association étudiante s'est prononcée **contre** toute forme de grève étudiante, ce qui se trouve être totalement à contre-courant de la  dans la province.
+Lundi, mon association étudiante s'est prononcée **contre** toute forme de grève étudiante, ce qui se trouve être totalement à contre-courant de la [tendance actuelle](http://www.greve.qc.ca/) dans la province.
 
 Personnellement, je ne suis même pas allée à l'AG, parce que c'est trop long et procédural et que j'étais trop fatiguée.  En fait, surtout parce que je n'ai pas d'opinion.
 

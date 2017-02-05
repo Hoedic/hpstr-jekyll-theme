@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'me disais bien ça que semblait grouiller de gros cons autour du Palais des congrès ces derniers jours, c'est le .
+J'me disais bien ça que semblait grouiller de gros cons autour du Palais des congrès ces derniers jours, c'est le [salon de l'auto](http://www.salon-auto.com/).
 
 ![Image]({{ site.url }}/images/tunnel.jpg)
 <div class="photoattrib">Rue Saint-Jacques</div>

@@ -10,7 +10,7 @@ categories:
 
 Alors je vais seulement vous raconter ce qui se passe un peu ces temps-ci.
 
-Vendredi dernier nous avons devancé un peu notre soirée TNM pour aller voir la pièce , un Feydeau.  Un bijou, un délice.  Je ne connaissais pas du tout ce dramaturge et j'ai été enchantée.  Il faut dire que je me trouvais dans un état humoristique aigu ce soir-là après la lecture des blogs de  et de celui de .  Alors j'avais déjà des crampes dans le ventre à force de rire quand on est sortis de l'appart...
+Vendredi dernier nous avons devancé un peu notre soirée TNM pour aller voir la pièce ["L'Hôtel du libre-échange"](http://www.tnm.qc.ca/fr/programme/saison_03_04/hotel.html), un Feydeau.  Un bijou, un délice.  Je ne connaissais pas du tout ce dramaturge et j'ai été enchantée.  Il faut dire que je me trouvais dans un état humoristique aigu ce soir-là après la lecture des blogs de [Pas folle](http://pasfolle.blogspot.com/) et de celui de [Jean-Philippe](http://www.bertholdien.net/blogue/).  Alors j'avais déjà des crampes dans le ventre à force de rire quand on est sortis de l'appart...
 
 Ensuite on a passé le week-end chez ma maman, j'ai fait remplacer mes lunettes pour mieux voir au tableau à la fac, avec l'aide du bon goût d'Hoedic en la matière.  Lui a fini de faire réparer ses dents.  Notre chatte orientale (la noire aux yeux verts) a développé une toux bizarre qui s'est ensuite muée en éternuements intempestifs.  Au point de ne plus manger, de ne plus miauler, d'être léthargique, d'avoir le poil terne.  Je ne sais pas trop ce qu'elle a, va peut-être falloir l'amener voir un véto, j'attends de voir comment ça évolue.
 

@@ -14,11 +14,11 @@ Le résultat est que j'avais l'impression de regarder une discussion d'un autre 
 
 Le jour où le réveil sonnera (il a surement sonné pour les plus réalistes), certains risquent d'avoir un bon mal de cheveux!
 
-Toujours sur le sujet des U.S.A, sur l'économie, deux  récents dans Le Devoir ont attiré m'ont attention, comparant le crise actuelle non pas à celle de 1929, mais à celle de 1873 qui a débutée par... des prêts hypothécaires pourris.
+Toujours sur le sujet des U.S.A, sur l'économie, deux [articles](http://www.ledevoir.com/2008/10/15/210627.html) récents dans Le Devoir ont attiré m'ont attention, comparant le crise actuelle non pas à celle de 1929, mais à celle de 1873 qui a débutée par... des prêts hypothécaires pourris.
 
 <div class="citation">La Grande Dépression débute le vendredi 9 mai 1873 à Vienne où la Bourse s&#8217;effondre sous le poids de la spéculation, provoquant la faillite de plusieurs banques viennoises, sous le poids des emprunts hypothécaires. La récession est rapide : les banques européennes manquent de liquidités et ne se font plus confiance, rendant les prêts interbancaires extrêmement coûteux.
 
-Source: </div>
+Source: [Wikipedia](http://fr.wikipedia.org/wiki/Grande_D%C3%A9pression_1873_%C3%A0_1896)</div>
 
 Ça vous rappelle quelque chose ?
 

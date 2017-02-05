@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je viens de télécharger  (je fais comme , je francise tout maintenant :), histoire d'essayer. Ça fait depuis que toute ma liste de contact ICQ est passée sous MSN que je cherche un remplaçant pour le messager de Microsoft qui est en plus un gros bousin qui ne veut rien entendre.
+Je viens de télécharger [Parle Google ](http://www.google.com/talk/) (je fais comme [Édouard](http://www.salebete.net/), je francise tout maintenant :), histoire d'essayer. Ça fait depuis que toute ma liste de contact ICQ est passée sous MSN que je cherche un remplaçant pour le messager de Microsoft qui est en plus un gros bousin qui ne veut rien entendre.
 
 Alors je m'essaie, on verra bien. À défaut l'interface est vraiment très sobre, c'est agréable.
 

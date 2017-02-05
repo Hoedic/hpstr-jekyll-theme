@@ -8,14 +8,14 @@ categories:
 ---
 
 
-Les , le pendant québécois de l'événement de , ont commencé jeudi dernier et hier nous sommes allé au premier de deux concerts payant que nous avons pris, à savoir la prestation de  au .
+Les [Francofolies de Montréal](http://www.francofolies.com/), le pendant québécois de l'événement de [La Rochelle](http://www.francofolies.fr/), ont commencé jeudi dernier et hier nous sommes allé au premier de deux concerts payant que nous avons pris, à savoir la prestation de [Yann Tiersen](http://www.yanntiersen.com/) au [Spectrum](http://www.spectrumdemontreal.ca/spectrum/).
 
 ![Image]({{ site.url }}/images/yann-tiersen_30-07-2004.jpg)
 <div class="photoattrib">Yann Tiersen</div>
 
 
 
-Yann Tiersen est connu depuis qu'il a signé la bande son du film  et plus récemment de . Premier étonnement, la salle était vraiment bien remplie et dans ce café cabaret plus une place assise potable n'était disponible 30mn avant le début du concert quand nous sommes arrivé. Nous avons donc opté pour la position verticale au pied de la scène.
+Yann Tiersen est connu depuis qu'il a signé la bande son du film [Le Fabuleux Destin d'Amélie Poulain](http://www.imdb.com/title/tt0211915/) et plus récemment de [Goodbye Lenin](http://www.imdb.com/title/tt0301357/). Premier étonnement, la salle était vraiment bien remplie et dans ce café cabaret plus une place assise potable n'était disponible 30mn avant le début du concert quand nous sommes arrivé. Nous avons donc opté pour la position verticale au pied de la scène.
 
 Deuxième constatation, Yann Tiersen nous a servi une prestation pas mal plus électrisante que ses interprétations de bande son ou même de ce qu'il avait fait au centenaire des associations loi 1901 à Paris. Toujours avec un semblant de gêne et un sourire timide une fois de temps en temps, il n'en était pas moins déchaîné. Véritable homme-orchestre jouant simultanément du piano et de l'accordéon il sait aussi faire sortir d'un violon des sonorités heu... qu'on n'attend pas spécialement d'un violon.
 
@@ -28,4 +28,4 @@ Bien que certaines interprétations étaient inattendues et qu'il manquait une v
 
 
 
-En sortant, nous avons voulu déambuler au milieu des concerts extérieurs et éventuellement voir la prestation de  mais une violente averse qui refusait de cesser nous amener à fuire vers le métro. On se réessaiera ce soir alors que nous serons aux Franco pour voir  (la question : aura-t-il son éternel veston noir rayé blanc ?)
+En sortant, nous avons voulu déambuler au milieu des concerts extérieurs et éventuellement voir la prestation de [Yann Perreau](http://www.yannperreau.com/) mais une violente averse qui refusait de cesser nous amener à fuire vers le métro. On se réessaiera ce soir alors que nous serons aux Franco pour voir [Thomas Fersen](http://www.totoutard.com/artistes.php?idArtiste=fersen) (la question : aura-t-il son éternel veston noir rayé blanc ?)

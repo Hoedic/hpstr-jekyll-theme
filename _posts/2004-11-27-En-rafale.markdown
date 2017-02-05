@@ -10,27 +10,27 @@ categories:
 
 **Blogues événementiels**
 
- a clairement pris le virage blogue en faisant une publicité continue sur leur page d'accueil sur les différents blogues journalistiques qu'ils hébergent. Concept intéressant dans le lot : des blogues spécifiques à certains événements. Après  sur les élections présidentielles (et qui continue même après), voici , un blog à quatre mains, un pro (Olivier Duhamel) et un anti (Paul Alliès) constitution européenne. Cette utilisation ponctuelle du blog montre une nouvelle fois l'intérêt de ce très puissant outil de diffusion de l'information.
+[LeMonde.fr](http://www.lemonde.fr/) a clairement pris le virage blogue en faisant une publicité continue sur leur page d'accueil sur les différents blogues journalistiques qu'ils hébergent. Concept intéressant dans le lot : des blogues spécifiques à certains événements. Après [Big Picture](http://clesnes.blog.lemonde.fr/) sur les élections présidentielles (et qui continue même après), voici [Europe : pour ou contre la constitution](http://constitution.blog.lemonde.fr/), un blog à quatre mains, un pro (Olivier Duhamel) et un anti (Paul Alliès) constitution européenne. Cette utilisation ponctuelle du blog montre une nouvelle fois l'intérêt de ce très puissant outil de diffusion de l'information.
 
 **Intelligent Design**
 
-C'est le "nouveau" mouvement anti-darwiniste qui tend à remplacer le créationnisme classique. Un très bon  de Wired sur le sujet (via  et ) montre la force de ce mouvement qui se détache de l'aspect religieux pour simplement dire qu'une complexité comme on la retrouve chez l'humain ne peut pas être le fruit de l'évolution et qu'il faut donc un designer...
+C'est le "nouveau" mouvement anti-darwiniste qui tend à remplacer le créationnisme classique. Un très bon [article](http://www.wired.com/wired/archive/12.10/evolution.html) de Wired sur le sujet (via [Édouard](http://www.salebete.net/) et [Pierre](http://www.pierrecarion.com/blog/)) montre la force de ce mouvement qui se détache de l'aspect religieux pour simplement dire qu'une complexité comme on la retrouve chez l'humain ne peut pas être le fruit de l'évolution et qu'il faut donc un designer...
 
 Ils ont déjà réussi à faire apposer sur certains livres de biologie que l'évolutionnisme n'est qu'une théorie (comprendre sans fondement réel).
 
-Petit hic pour l'article de Wired : les pubs Google en bas de page pointent vers des sites créationnistes comme  et , ce qui est un peu ballot quand on veut dénoncer ces théories !
+Petit hic pour l'article de Wired : les pubs Google en bas de page pointent vers des sites créationnistes comme [Creation Design](http://www.creationdesign.org/) et [The Evolution Cruncher](http://www.evolutioncruncher.us/), ce qui est un peu ballot quand on veut dénoncer ces théories !
 
 **10 raisons de blogger**
 
- de tenir un carnet chez Vu d'ici. Je me retrouve dans plusieurs de ces raisons.
+[Dix bonnes raisons](http://vudici.typepad.com/montreal/2004/11/10_reasons_why_.html) de tenir un carnet chez Vu d'ici. Je me retrouve dans plusieurs de ces raisons.
 
 <blockquote class="citation">*'With the raw materials in my blog, my mom could actually construct an accurate picture of who I am. This is fucking serious.' - The Onion*</blockquote>
 
 **Ça bouge à Montréal**
 
-Via  j'ai découvert  et  qui vise à promouvoir les accès wifi semi-protégés dans Montréal, initiative intéressante. Toujours au même endroit j'ai trouvé un projet de . Faut bien dire que Montréal (et le Québec en général) me semble très prolifique en blogue, c'est certain que cette initiative pourrait être un succès.
+Via [Patrick](http://i.never.nu/) j'ai découvert [WifiDog](http://www.ilesansfil.org/wiki/WiFiDog) et [Île sans fil](http://ilesansfil.org/) qui vise à promouvoir les accès wifi semi-protégés dans Montréal, initiative intéressante. Toujours au même endroit j'ai trouvé un projet de [Montreal social software conference](http://topicexchange.com/t/montreal_social_software_conference/about). Faut bien dire que Montréal (et le Québec en général) me semble très prolifique en blogue, c'est certain que cette initiative pourrait être un succès.
 
-J'ai également (re)découvert par un courriel qui a parcouru pas mal de chemin l'existence du collectif .
+J'ai également (re)découvert par un courriel qui a parcouru pas mal de chemin l'existence du collectif [W3Québec](http://w3qc.org/).
 
 Tout ceci en fait donc des choses à suivre !
 

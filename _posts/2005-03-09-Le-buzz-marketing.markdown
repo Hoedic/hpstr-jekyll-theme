@@ -17,7 +17,7 @@ Assez discrètement, le monde de la publicité évolue énormément en ce moment
 
 
 
-C'est ainsi que certains aficionados réalisent de véritables spots publicitaires comme ce fut le cas d'un  d'iPod dont le clip a fait le tour du monde. Plus généralement, grâce aux blogs, notamment, il est possible de publiciser certains produits : par une revue positive que j'ai fait, j'ai vanté la qualité de l'appareil photo numérique que j'ai acheté ; au contraire j'ai descendu à plusieurs reprises certains produits ou services, en donnant parfois des alternatives. C'est le bouche à oreille, mais puissance 10 !
+C'est ainsi que certains aficionados réalisent de véritables spots publicitaires comme ce fut le cas d'un [fan](http://www.wired.com/news/mac/0,2125,66001,00.html) d'iPod dont le clip a fait le tour du monde. Plus généralement, grâce aux blogs, notamment, il est possible de publiciser certains produits : par une revue positive que j'ai fait, j'ai vanté la qualité de l'appareil photo numérique que j'ai acheté ; au contraire j'ai descendu à plusieurs reprises certains produits ou services, en donnant parfois des alternatives. C'est le bouche à oreille, mais puissance 10 !
 
 Mais les marketeurs sont rapides à saisir les tendances... c'est leur rôle. Certains ont donc compris le potentiel du buzz, ainsi on risque d'assister à une manipulation de la publicité personnelle.
 
@@ -26,8 +26,8 @@ Mais les marketeurs sont rapides à saisir les tendances... c'est leur rôle. Ce
 
 
 
-Deux articles récent du Monde (malheureusement vérouillés) (Faut absolument que je pense à sauver et organiser correctement les articles que je lis et qui m'intéressent) présentent l'utilisation qui peut en être faite. Le plus récent  des bénévoles qui contre des peanuts (des démonstrateurs, des versions d'essai, etc.) promettent de diffuser un message publicitaire massif. Où est la limite entre la dévotion (cas de l'iPod) et l'asservissement volontaire ?
+Deux articles récent du Monde (malheureusement vérouillés) (Faut absolument que je pense à sauver et organiser correctement les articles que je lis et qui m'intéressent) présentent l'utilisation qui peut en être faite. Le plus récent [montre](http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=890957) des bénévoles qui contre des peanuts (des démonstrateurs, des versions d'essai, etc.) promettent de diffuser un message publicitaire massif. Où est la limite entre la dévotion (cas de l'iPod) et l'asservissement volontaire ?
 
-Le second  comment il est possible d'obtenir de l'information sur les internautes et leur faire passer un message alors qu'ils sont les plus ouverts. Ça se fait notamment par le soutien de sites amateurs en leur fournissant des outils plus puissants tant qu'ils continuent à véhiculer un message positif. C'est aussi de la manipulation d'information, de vrais-faux sites référant d'autres sites encore plus faux (on peut aller assez loin tout en restant très crédible).
+Le second [explique](http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=888657) comment il est possible d'obtenir de l'information sur les internautes et leur faire passer un message alors qu'ils sont les plus ouverts. Ça se fait notamment par le soutien de sites amateurs en leur fournissant des outils plus puissants tant qu'ils continuent à véhiculer un message positif. C'est aussi de la manipulation d'information, de vrais-faux sites référant d'autres sites encore plus faux (on peut aller assez loin tout en restant très crédible).
 
 Étant donné que les publicitaires n'arrivent plus à accéder à notre attention par les médias classiques (télé, affiches, etc.) ni plus récents comme les pub en ligne, ils sont amenés à changer et à chercher des méthodes ayant un impact beaucoup plus forts. Ils s'en prennent donc à la sphère personnelle en transformant certaines personnes en hommes sandwich banalisés.

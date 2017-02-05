@@ -40,4 +40,4 @@ Dans le même ordre d'idées, si les normes du travail en France sont trop figé
 
 Peut-être qu'économiquement, la France n'a pas le choix d'en arriver là.  Je ne suis pas très calée en économie.  Peut-être que ce n'est qu'un premier pas vers un monde du travail de plus en plus "flexible", là-bas comme partout ailleurs.  Mais je continue de penser que la précarité d'emploi est davantage un fléau qu'un avantage.  Avec tous les effets vicieux que cela peut avoir sur les vies humaines.
 
-Un très bon  à lire chez el ryu (attention, c'est long).
+Un très bon [texte allégorique](http://elryu.blogspot.com/2006/03/le-cpe-lpreuve-de-la-longueur-des.html) à lire chez el ryu (attention, c'est long).

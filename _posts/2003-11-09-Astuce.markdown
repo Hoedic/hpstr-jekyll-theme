@@ -8,8 +8,8 @@ categories:
 ---
 
 
- m'a fait part d'une astuce pour accéder plus agréablement à mon blog.  Il suffit d'utiliser cette  plutôt que .
+[Karl](http://www.la-grange.net/) m'a fait part d'une astuce pour accéder plus agréablement à mon blog.  Il suffit d'utiliser cette [adresse-ci](http://ebb.monblogue.com/main.php) plutôt que [celle-là](http://ebb.monblogue.com/).
 
 Évidemment, cette tactique élimine la bannière de pub, ce qui n'est pas très gentil pour l'hébergeur...  À vous de faire selon votre conscience sachant cela !
 
-Je ne sais pas s'il y a parfois des pop-ups qui vous sautent au visage, mais il existe aussi de bonnes solutions à ce petit désagrément : le navigateur  ou encore la .
+Je ne sais pas s'il y a parfois des pop-ups qui vous sautent au visage, mais il existe aussi de bonnes solutions à ce petit désagrément : le navigateur [Mozilla](http://www.mozilla.org/) ou encore la [Google Toolbar](http://toolbar.google.com/).

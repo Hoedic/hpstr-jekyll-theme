@@ -8,6 +8,6 @@ categories:
 ---
 
 
-La politique réserve toujours ses meilleures surprises pour les campagnes électorales. Quel heureux hasard donc d'apprendre dans les deux semaines précédents une élection majeure qu'un  et qu'un .
+La politique réserve toujours ses meilleures surprises pour les campagnes électorales. Quel heureux hasard donc d'apprendre dans les deux semaines précédents une élection majeure qu'un [représentant républicain anti-gay et anti-pédophile est gay et a de sérieux penchants pédophiles](http://en.wikipedia.org/wiki/Mark_Foley_scandal) et qu'un [pasteur anti-gay proche de Bush est gay](http://permanent.nouvelobs.com/etranger/20061104.FAP2160.html).
 
 L'électorat conservateur religieux représente le point d'interrogation des fameuses élection de mi-mandat américaines qui voit le remplacement du congrès, du tiers du sénat et des 2/3 des gouverneurs. En montrant que deux de leurs représentants sont en fait des faux-culs qui vont l'inverse de ce qu'ils prêchent, les soutiens démocrates déstabilisent la base républicaine religieuse. A Dieu la mobilisation assurée. Ajoutez à cela quelques blogueurs-mouche-à-merde pour assurer le hype autour des ragots et la raclée républicaine est prête à servir. À consommer à partir du 7 novembre.

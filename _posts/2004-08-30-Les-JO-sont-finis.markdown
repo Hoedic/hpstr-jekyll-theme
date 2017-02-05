@@ -8,11 +8,11 @@ categories:
 ---
 
 
-À l'instar du , je souhaite dire un mot sur certains athlètes qui me semblent exceptionnels et dont on a trop peu parlé.
+À l'instar du [caméléon nordique](http://cameleon551.blogspot.com/2004/08/un-exploit-olympique-sous-silence.html), je souhaite dire un mot sur certains athlètes qui me semblent exceptionnels et dont on a trop peu parlé.
 
 Je suis d'accord avec lui en ce qui concerne le plongeur Philippe Comtois, qui a fini 13e au classement.  Cela, après avoir subi il y a quelques années un terrible accident à la suite duquel il a même dû réapprendre à marcher.  Quand je l'ai vu à la télé, franchement, j'ai trouvé qu'il avait l'air incroyablement heureux de son classement.  Une victoire personnelle.  C'est plus agréable à voir qu'une 4e place après laquelle un athlète est obligé d'être malheureux, les larmes aux yeux, faute de médaille...
 
-Dans la même lignée, un mot sur la pongiste .  C'est une fille de mon âge, qui vient de Repentigny et qui était dans ma classe au primaire.  Aujourd'hui, elle étudie en médecine elle aussi.  Personnellement, je lui lève mon chapeau, car ces études me prennent à peu près tout mon temps.  Elle, elle trouve le moyen de s'entraîner à un sport de haut niveau, de courir les compétitions de ping-pong du monde entier et de participer aux JOs de Sydney et d' en parallèle.  Tout un exploit quand on y pense !
+Dans la même lignée, un mot sur la pongiste [Marie-Christine Roussy](http://www.radio-canada.ca/athenes/athletes/fiche.asp?id=464&sport=55&rech=Marie-Christine-Roussy).  C'est une fille de mon âge, qui vient de Repentigny et qui était dans ma classe au primaire.  Aujourd'hui, elle étudie en médecine elle aussi.  Personnellement, je lui lève mon chapeau, car ces études me prennent à peu près tout mon temps.  Elle, elle trouve le moyen de s'entraîner à un sport de haut niveau, de courir les compétitions de ping-pong du monde entier et de participer aux JOs de Sydney et d'[Athènes](http://www.athens2004.com/en/ParticipantBiography?pid=1719795&rsc=TTW002000) en parallèle.  Tout un exploit quand on y pense !
 
 ***
 
@@ -28,7 +28,7 @@ Quant à moi, j'espère que j'aurai un jour l'occasion d'assister à des JOs !
 
 ***
 
-Dans un tout autre ordre d'idées, j'ai vu que la Grèce songeait à devenir un pays membre de la .  J'en profite pour vous partager mon expérience francophone avec une Grecque, puisque j'ai eu la chance de parrainer une étudiante grecque en stage d'externat à Montréal pendant l'été.
+Dans un tout autre ordre d'idées, j'ai vu que la Grèce songeait à devenir un pays membre de la [Francophonie](http://agence.francophonie.org/).  J'en profite pour vous partager mon expérience francophone avec une Grecque, puisque j'ai eu la chance de parrainer une étudiante grecque en stage d'externat à Montréal pendant l'été.
 
 Il faut savoir que le Québec est très frileux et complexé sur la question française, plus que tout autre région du monde.  Au point qu'il est impératif, dans les critères d'admission aux stages internationaux, que les étudiants en médecine étrangers maîtrisent le français.
 

@@ -10,7 +10,7 @@ categories:
 
 Profitant de mon réseau 'ternet qui marche à plein et que j'ai pu configurer correctement mon routeur pour fonctionner avec des logiciels P2P, je me fais quelques plaisirs.
 
-Bon, j'ai commencé par un peu de musique en téléchargeant 2-3 pièces de Bénabar et A.F.I pour voir si c'est bien (ça l'est). Ensuite je me suis lancé dans du plus gros download avec des vidéos. D'abord un épisode d'Escaflowne en  (avec 2 bandes sonores - jap et anglais, et des sous-titres activables, ca vaut bien un DVD, le pied) puis hier en téléchargeant le premier épisode de .
+Bon, j'ai commencé par un peu de musique en téléchargeant 2-3 pièces de Bénabar et A.F.I pour voir si c'est bien (ça l'est). Ensuite je me suis lancé dans du plus gros download avec des vidéos. D'abord un épisode d'Escaflowne en [Ogg Vorbis](http://www.vorbis.com/) (avec 2 bandes sonores - jap et anglais, et des sous-titres activables, ca vaut bien un DVD, le pied) puis hier en téléchargeant le premier épisode de [Ken le survivant](http://www.cybercombatclub.com/anime_mangas_divx_nohentai_repertoire/fr_hokuto_no_ken_fist_northstar_ken_survivant/anime_mangas_hokuto_no_ken_survivant.htm).
 
 Pour ceux qui ne sont pas de ma génération et ne sont pas Français, faut que je vous raconte ce que c'est, Ken le survivant, car c'est vraiment une émission culte. C'est donc une série animée tirée d'un manga japonais (comme beaucoup de choses que j'ai regardé durant ma jeunesse). Cette série passait vers 16h, dans le Club Dorothée (autre émission mythique), un programme pour enfant, pour jeunes enfants (Ken est passé quand j'avais 11 ans, mais je regardais ce genre d'émission à l'age de 4 ans).
 

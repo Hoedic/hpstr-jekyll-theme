@@ -8,7 +8,7 @@ categories:
 ---
 
 
-C'était enfin hier : le  !
+C'était enfin hier : le [concert des Red Hot Chili Peppers](http://www.mon-ile.net/carnet/blog1737.html) !
 
 La première remarque c'est la capacité de changement du Centre Bell qui en d'autres temps est la salle officielle de l'équipe de Hockey de Mourial.
 
@@ -38,7 +38,7 @@ D'ailleurs, Anthony Kiedis, le chanteur, commence à ressembler à Iggy Pop, c'e
 
 
 
-Seul point négatif : deux poufs devant nous. Deux pauvres connes au comportement   gigotant en tous sens, poussant des cris de jouissance insensés à croire qu'elles s'étaient foutu un dildo dans le cul avant de venir et se jetant l'une sur l'autre en multiples accolades au début de chaque chanson qu'elles aimaient. Impossible dans ses conditions de regarder le spectacle en position assise comme le 3/4 de ceux qui nous entouraient (hormis pour les tounes qui bougent). Et ces connasses ont même eu le culot de dire qu'elles ne pouvait pas s'asseoir. Même debout, il était difficile de prendre de photos à cause de leurs bras frénétiques qui passaient de le champ en permanence. À coté de ça elles avaient la place de faire ce qu'elles voulaient puisque la rangée devant et leurs voisins étaient bien sagement assis. Total de manque de respect (elles faisaient clairement chier 4-5 persones à elles seules.)
+Seul point négatif : deux poufs devant nous. Deux pauvres connes au comportement [histrionique](http://www.dicopsy.com/trouble-personnalite-histrionique.htm)  gigotant en tous sens, poussant des cris de jouissance insensés à croire qu'elles s'étaient foutu un dildo dans le cul avant de venir et se jetant l'une sur l'autre en multiples accolades au début de chaque chanson qu'elles aimaient. Impossible dans ses conditions de regarder le spectacle en position assise comme le 3/4 de ceux qui nous entouraient (hormis pour les tounes qui bougent). Et ces connasses ont même eu le culot de dire qu'elles ne pouvait pas s'asseoir. Même debout, il était difficile de prendre de photos à cause de leurs bras frénétiques qui passaient de le champ en permanence. À coté de ça elles avaient la place de faire ce qu'elles voulaient puisque la rangée devant et leurs voisins étaient bien sagement assis. Total de manque de respect (elles faisaient clairement chier 4-5 persones à elles seules.)
 
 
 ![Image]({{ site.url }}/images/7632_97b6c336ce_z_d.jpg)

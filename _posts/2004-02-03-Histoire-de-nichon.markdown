@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Je vais faire plaisir à Monsieur  (cf son commentaire ) qui semblait très intéressé par cette . En fait je pouvais difficilement ne rien dire sur le sujet. Bizarrement, ma télé était allumée durant la mi-temps du Super-Bowl car j'étais intéressé à regarder les pubs  que je n'ai même pas regardé en définitive. Du coup, ma télé a possiblement montré Justin Timberlake découvrant, devant plus de 100 millions de spectateurs ébahis, un sein de Janet Jackson et je ne l'ai même pas vu, quelle déveine !
+Je vais faire plaisir à Monsieur [Yvonet](http://yvonet.com/) (cf son commentaire [ici]({{ site.url }}/2004/02/02/Y-z-ont-gagne)) qui semblait très intéressé par cette [histoire](http://www.nytimes.com/2004/02/03/sports/football/03HALF.html). En fait je pouvais difficilement ne rien dire sur le sujet. Bizarrement, ma télé était allumée durant la mi-temps du Super-Bowl car j'étais intéressé à regarder les pubs [Bud](http://www.budweiser.com/budweiser-ads.html) que je n'ai même pas regardé en définitive. Du coup, ma télé a possiblement montré Justin Timberlake découvrant, devant plus de 100 millions de spectateurs ébahis, un sein de Janet Jackson et je ne l'ai même pas vu, quelle déveine !
 
-Ce que je trouve fantastique dans cette histoire c'est la réaction que cela provoque aux États-Unis. Globalement j'essaie de ne pas sombrer dans toute généralisation abusive mais là ça donne vraiment l'impression d'être l'hystérie collective en excuses et attaques. Comme le dit , ça fait pas mal plus de bruit que tout ce qui peut se passer concernant l'Irak en ce moment.
+Ce que je trouve fantastique dans cette histoire c'est la réaction que cela provoque aux États-Unis. Globalement j'essaie de ne pas sombrer dans toute généralisation abusive mais là ça donne vraiment l'impression d'être l'hystérie collective en excuses et attaques. Comme le dit [Sale Bête](http://www.salebete.net/archives/000232.html¸), ça fait pas mal plus de bruit que tout ce qui peut se passer concernant l'Irak en ce moment.
 
-Je vous laisse aller voir chez  la tête du  incriminé (en plus on ne voit rien) et je vous sers un florilège des paroles qui ont suivi :
+Je vous laisse aller voir chez [Magellan](http://carnets.ixmedia.com/magellan/) la tête du [nichon](http://carnets.ixmedia.com/magellan/archives/004104.html) incriminé (en plus on ne voit rien) et je vous sers un florilège des paroles qui ont suivi :
 <ul>
 <li>*"Comme des millions d'Américains, je m'étais installé en famille devant la télévision pour un moment de fête, mais elle a été gâchée par un numéro sans classe, vulgaire et déplorable. Les enfants, les parents et les citoyens de notre pays méritent mieux"*, Michael Powell, Président de la FCC,</li>
 <li>*"Je présente mes excuses à quiconque a été offensé, y compris l'audience, MTV et CBS et la NFL"*, Janet Jackson,</li>
@@ -21,7 +21,7 @@ Je vous laisse aller voir chez  la tête du  incriminé (en plus on ne voit rien
 
 C'est juste un sein quand même, zut. Ceci dit, maintenant je comprends pourquoi certains se choquent tant en voyant des filles nues dans toutes les publicités françaises et s'offusquent de la pratique répandue du topless sur nos plages.
 
-Autant de bruit pour si peu. je leur conseille de jeter un coup d'oeil à l' de Gustave Courbet, ils risquent d'être autrement plus choqués et pourtant c'est une référence culturelle et historique (chose que ne deviendra jamais Janet Jackson).
+Autant de bruit pour si peu. je leur conseille de jeter un coup d'oeil à l'[Origine du Monde](http://www.ava.qc.ca/ecrits/chroniques/Courbet.html) de Gustave Courbet, ils risquent d'être autrement plus choqués et pourtant c'est une référence culturelle et historique (chose que ne deviendra jamais Janet Jackson).
 
 Regardant à l'occasion des clips musicaux à la TV, il me semble que c'est beaucoup beaucoup plus explicite, même si moins dénudé, qu'un sein. Et si ces clips très explicites, avec de la pétasse en chaleur en veux-tu en voilà, marchent aussi bien, c'est que le (jeune) public y trouve son compte.
 

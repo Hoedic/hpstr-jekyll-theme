@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Comme le signalait  le week-end dernier,  est l'un des rares grand fournisseur d'accès Internet au Canada à s'être dit près à travailler avec la <acronym title="Canadian Recording Industry Association">CRIA</acronym> qui souhaite faire la chasse aux "pirates" comme sa consoeur américaine la <acronym title="Recording Industry Association of America">RIAA</acronym>.
+Comme le signalait [Kicou](http://www.yvonet.com/2004/03/14/118-CriaTryingToForceIspsToDiscloseCustomersInfo.html) le week-end dernier, [Vidéotron](http://www.videotron.com) est l'un des rares grand fournisseur d'accès Internet au Canada à s'être dit près à travailler avec la <acronym title="Canadian Recording Industry Association">CRIA</acronym> qui souhaite faire la chasse aux "pirates" comme sa consoeur américaine la <acronym title="Recording Industry Association of America">RIAA</acronym>.
 
 Craignant de voir la situation en arriver au point où en sont certains hébergeurs de sites Internet qui ferment des sites et transmettent des données confidentielles sur simple lettre d'huissier, j'ai écris un courriel au service à la clientèle Vidéotron en leur demandant sous quelles conditions ils comptaient participer à la traque de la CRIA.
 

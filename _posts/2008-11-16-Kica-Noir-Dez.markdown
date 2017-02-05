@@ -8,7 +8,7 @@ categories:
 ---
 
 
-En parcourant une de mes bonnes sources d'infos locales, je suis tombé sur  avec qui je me sens souvent en désaccord.
+En parcourant une de mes bonnes sources d'infos locales, je suis tombé sur [une chronique de Rima Elkouri](http://www.cyberpresse.ca/opinions/chroniqueurs/rima-elkouri/200811/14/01-800609-noir-desir-noir-malaise.php) avec qui je me sens souvent en désaccord.
 
 Sujet: Le retour du groupe Noir Désir et surtout de son chanteur Bertrand Cantat, sorti de prison.
 

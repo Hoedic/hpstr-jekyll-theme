@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Il y a eu, la semaine dernière, une série d'articles très intéressante dans , signée Alain Dubuc.  Il y explique en particulier les différences entre les systèmes de santé français et québécois.
+Il y a eu, la semaine dernière, une série d'articles très intéressante dans [La Presse](http://www.cyberpresse.ca), signée Alain Dubuc.  Il y explique en particulier les différences entre les systèmes de santé français et québécois.
 
 Il faut dire ce qui est, du point de vue du patient, la France est un paradis.  Le système est bien huilé et les ressources sont abondantes.  On est traité rapidement et dans de bonnes conditions.  On a des services à domicile, par exemple.  Ici, ça ressemble plutôt à l'enfer, à côté de ça.  Pourquoi ?
 

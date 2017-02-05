@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Dernier opus de la saga "ma citoyenneté canadienne". J'ai reçu hier mes documents officiels ce qui m'assure de ma citoyenneté et me permettra de voter aux prochaines élections provinciales pour  !
+Dernier opus de la saga "ma citoyenneté canadienne". J'ai reçu hier mes documents officiels ce qui m'assure de ma citoyenneté et me permettra de voter aux prochaines élections provinciales pour [Québec Solidaire](http://www.quebecsolidaire.net/) !
 
-Eh oui, j'en profite pour sortir de placard, comme Femme, mais notre position surprendra-t-elle les gens puisque nous sommes finalement des parfaits représentants de la gogauche du Plateau, nan c'est vrai quoi. Ah et  aussi !
+Eh oui, j'en profite pour sortir de placard, comme Femme, mais notre position surprendra-t-elle les gens puisque nous sommes finalement des parfaits représentants de la gogauche du Plateau, nan c'est vrai quoi. Ah et [j'emmerde Dumont](http://houblog.net/article/1274-pourquoi-je-meprise-l-adq) aussi !
 
-Je tiens quand même à expliquer brièvement pourquoi je vote pour QS : leurs idées sont intéressantes. Oui, les propositions peuvent sembler utopistes(Mais  est-ce plus utopique que de promettre la fin des listes d'attente en hôpitaux ou la souveraineté du Québec ?), certaines le sont peut-être mais d'autres sont très bonnes. En fait, pour le tour que j'ai fait des différentes plateformes électorales (, , ), celle de Québec Solidaire est celle qui a le plus de propositions qui a) sortent de ce qui se fait depuis des années b) me semblent pouvoir faire une différence pour le mieux.
+Je tiens quand même à expliquer brièvement pourquoi je vote pour QS : leurs idées sont intéressantes. Oui, les propositions peuvent sembler utopistes(Mais [étendre la durée des congés](http://www.quebecsolidaire.net/batir-ensemble) est-ce plus utopique que de promettre la fin des listes d'attente en hôpitaux ou la souveraineté du Québec ?), certaines le sont peut-être mais d'autres sont très bonnes. En fait, pour le tour que j'ai fait des différentes plateformes électorales ([PLQ](http://www.plq.org/sub/programme/), [PQ](http://campagne.pq.org/?menu=5&q=node/620), [QS](http://ques.koumbit.org:8080/files/Engagements%20%C3%A9lectoraux.pdf)), celle de Québec Solidaire est celle qui a le plus de propositions qui a) sortent de ce qui se fait depuis des années b) me semblent pouvoir faire une différence pour le mieux.
 
 ![Image]({{ site.url }}/images/racines.jpg)
 <div class="photoattrib">Prendre racine</div>

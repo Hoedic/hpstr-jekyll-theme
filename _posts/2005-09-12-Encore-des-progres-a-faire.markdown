@@ -10,6 +10,6 @@ categories:
 
 <blockquote class="citation">Je me souviens d'une scène à l'UMD : le psychiatre était entré dans ma chambre avec six ou sept autres médecins. En me tournant le dos, il a demandé à voix haute ce que signifiait "pédé comme un phoque" . Après avoir donné l'explication, ils sont partis en riant.
 
-Source : Lemonde.fr, </blockquote>
+Source : Lemonde.fr, [Guillaume "n'arrivait pas à parler", alors, à 17 ans, il a craqué](http://www.lemonde.fr/web/article/0,1-0@2-3226,36-687414,0.html)</blockquote>
 
 Ouaip, bien y a encore des progrès à faire... Je suppose que ce type d'article fait suite à une statistique montrant que les jeunes homosexuels sont 13 fois plus "à risque" de faire une tentative de suicide que les hétéros du même age...

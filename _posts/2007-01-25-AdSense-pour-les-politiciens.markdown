@@ -8,7 +8,7 @@ categories:
 ---
 
 
- (et précédemment ) rapportait hier l'utilisation de Ad Sense par un député québécois,  (c'est décidemment l'année des Stéphane ;)
+[Le Devoir](http://www.ledevoir.com/2007/01/24/128480.html) (et précédemment [Voir](http://voir.ca/actualite/actualite.aspx?iIDArticle=45571)) rapportait hier l'utilisation de Ad Sense par un député québécois, [Stéphane Bergeron](http://www.stephanebergeron.com/) (c'est décidemment l'année des Stéphane ;)
 
 Ma première interrogation était de savoir quel en était l'objectif. La réponse évidente : se faire de la pub. Ça me laisse perplexe de la part d'un député en poste, mais passons.
 
@@ -20,7 +20,7 @@ Ok, moi j'ai un petit blogue, je ne suis pas un député et j'atteins assez faci
 
 Toutefois, si on se fie aux commentaires laissés sur ce qui fait office de blogue, on se rend bien compte que son site ne provoque pas les foules (et pourtant, c'est un des députés québécois les plus versés dans le domaine et avec le site, le plus... le plusse mieux mettons).
 
-Mais bon, comparez ça à un  (mon idole en la matière, il faut bien le dire), c'est pas la même chose. Ce dernier est constamment autour de 30 commentaires et dépasse régulièrement les 100 ! (Et 1027 liens selon Technorati contre une dizaine pour Bergeron)
+Mais bon, comparez ça à un [Garth Turner](http://www.garth.ca/weblog/) (mon idole en la matière, il faut bien le dire), c'est pas la même chose. Ce dernier est constamment autour de 30 commentaires et dépasse régulièrement les 100 ! (Et 1027 liens selon Technorati contre une dizaine pour Bergeron)
 
 Certes, ça lui coute pas mal plus que 5$ par jour en temps passé à Garth Turner, mais c'est extrêmement efficace (on pourra toujours critiquer certains points mais passons aussi pour l'heure). 
 

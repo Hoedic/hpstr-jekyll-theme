@@ -10,11 +10,11 @@ categories:
 
 Un article publié ce matin me choque énormément.  En gros, un parti de l'opposition au fédéral, le Bloc québécois, propose des modifications au régime de l'assurance-emploi (le chômage).
 
- n'évoque que des belles choses avec lesquelles on ne peut qu'être d'accord.  Une gestion autonome de la caisse, un assouplissement des conditions, une bonification du régime en durée et en pourcentage.  C'est fabuleux !
+[L'article](http://www.cyberpresse.ca/actualites/article/article_complet.php?path=/actualites/article/1,63,0,112004,843072.php) n'évoque que des belles choses avec lesquelles on ne peut qu'être d'accord.  Une gestion autonome de la caisse, un assouplissement des conditions, une bonification du régime en durée et en pourcentage.  C'est fabuleux !
 
 Ce qui est choquant dans l'affaire, c'est surtout que toutes ces mesures ne soient pas déjà en place depuis longtemps.  C'est la peur que cette réforme ne passe jamais, n'émanant que d'un parti de l'opposition.
 
-Pour rappel, voici une des trois  de mon groupe à l' de l', l'été dernier : 
+Pour rappel, voici une des trois [propositions](http://www.uinm.qc.ca/prop52.html) de mon groupe à l'[Université d'été](http://www.uinm.qc.ca/index1.html) de l'[Institut du Nouveau Monde](http://www.inm.qc.ca/), l'été dernier : 
 
 "Adapter les Normes du travail au monde d'aujourd'hui
 

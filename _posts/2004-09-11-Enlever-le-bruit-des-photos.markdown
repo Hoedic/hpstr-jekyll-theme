@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Grâce à David (David, va être temps que tu te fasses un blogue si tu veux que je puisse mettre un lien vers quelque chose qui t'appartient quand je te cite !), l'ami des tous petits, j'ai fait la découverte de  et des logiciels de réduction du bruit en général.
+Grâce à David (David, va être temps que tu te fasses un blogue si tu veux que je puisse mettre un lien vers quelque chose qui t'appartient quand je te cite !), l'ami des tous petits, j'ai fait la découverte de [Neat Image](http://www.neatimage.com/) et des logiciels de réduction du bruit en général.
 
 Je dois bien dire que c'est extrêmement performant notamment pour les photos prises avec une faible exposition ou une sensibilité élevée pour les appareils de moyenne qualité.
 
@@ -30,4 +30,4 @@ Les puristes diront bien entendu que c'est de la triche, ce qui est un peu vrai 
 
 Version "home" téléchargeable gratuitement, version pro achetable.
 
-Neat marche bien avec Wine sous Linux. Sinon , un programme Java, donc multi-plateforme, fonctionne aussi assez bien mais ne permet pas de récupérer des filtres par appareil photo et j'ai pas vu de mode batch.
+Neat marche bien avec Wine sous Linux. Sinon [AbsoluteDeNoiser](http://absolutedenoiser.free.fr/), un programme Java, donc multi-plateforme, fonctionne aussi assez bien mais ne permet pas de récupérer des filtres par appareil photo et j'ai pas vu de mode batch.

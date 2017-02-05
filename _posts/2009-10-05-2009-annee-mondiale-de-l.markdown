@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Difficile pour moi de passer sous silence cette initiative de faire du 400ème anniversaire des premières observations astronomiques l. D'autant que je suis récemment retombé dans mon vice à la suite de la publication des  de Hubble "refurbished".
+Difficile pour moi de passer sous silence cette initiative de faire du 400ème anniversaire des premières observations astronomiques l['année mondiale de l'astronomie](http://www.iau.org/public_press/iya/). D'autant que je suis récemment retombé dans mon vice à la suite de la publication des [images](http://www.nasa.gov/mission_pages/hubble/multimedia/ero/index.html) de Hubble "refurbished".
 
 En fin de Terminale j'étais assez proche de m'inscrire à un programme d'astrophysique tant mes lectures sur le sujet me passionnaient. Je fus découragé par une discussion à propos du peu de débouchés de la chose et m'orientai donc en école d'ingé histoire de devenir riche et célèbre. Je profitai cependant de mes nombreux temps libres en prépa pour poursuivre mon instruction sur le sujet.
 

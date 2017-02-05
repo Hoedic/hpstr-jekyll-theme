@@ -12,9 +12,9 @@ Quel sera la prochaine révolution technologique ? On se pose souvent la questio
 
 Quel est l'un des principaux problèmes lié à la mobilité des systèmes informatiques ? L'affichage. Et avec les technologies actuelles, ce ne sera pas résolu. Soit on a droit à un écran de taille raisonnable mais ça se promène mal, soit, sur un PDA ou un cel., l'écran est ridiculement petit on ne voit rien dessus.
 
-La solution réside dans les... lunettes ! C'est ma vision (c'est le cas de le dire) inspirée par des articles lus il y a longtemps dans la regrettée revue  ainsi que dans . Mais au-delà du simple affichage, les lunettes peuvent changer notre vie.
+La solution réside dans les... lunettes ! C'est ma vision (c'est le cas de le dire) inspirée par des articles lus il y a longtemps dans la regrettée revue [Futur(e)s](http://www.pressotech.com/fiches/fiche_mag.php3?id=510) ainsi que dans [S&V](http://www.science-et-vie.com/). Mais au-delà du simple affichage, les lunettes peuvent changer notre vie.
 
-Imaginons des lunettes capables de projeter des images sur les verres. Des verres que l'on peut controler pour être plus ou moins opaques sur certaines zones grâce à des cristaux liquides. Lorsque qu'opacifiés, on a un véritable écran haute qualité (enfin quand la technologie sera au point :p) tandis qu'avec des verres transparents on peut profiter d'une .
+Imaginons des lunettes capables de projeter des images sur les verres. Des verres que l'on peut controler pour être plus ou moins opaques sur certaines zones grâce à des cristaux liquides. Lorsque qu'opacifiés, on a un véritable écran haute qualité (enfin quand la technologie sera au point :p) tandis qu'avec des verres transparents on peut profiter d'une [réalité augmentée](http://en.wikipedia.org/wiki/Augmented_reality).
 
 Équipons maintenant nos lunettes d'une connectivité Bluetooth, les applications sont sans bornes. Avec ça, les lunettes peuvent communiquer avec le PDA, le cellulaire, la laptop, bientôt le micro-onde et la chaine hi-fi. Via le cellulaire, équipé de GPS, les lunettes peuvent nous dire où nous sommes et comment se rendre n'importe où nous souhaitons. Alors que Nintendo s'escrime à mettre deux écrans sur une console de jeu portable, ce système permettrait de jouer n'importe où "grandeur nature".
 

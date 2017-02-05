@@ -45,10 +45,10 @@ Bref, je suis très content de pouvoir continuer à faire du vélo en ce moment.
 
 En conclusion, l'utilisation du vélo est réaliste l'hiver. Pas pour n'importe qui bien entendu, mais quiconque à l'aise sur sa selle et pas trop trop frileux. D'ailleurs dans certains pays scandinaves le vélo demeure très utile l'hiver. Ici, à Montréal, rien n'est fait pour les cyclistes l'hiver et les conducteurs perdent totalement leurs réflexes alors que les pistes cyclables n'existent plus. Pourtant je croise en moyenne 4 ou 5 autre cyclistes chaque jour, preuve que je ne suis pas le seul.
 
-J'ai ajouté un petit supplément d'information .
+J'ai ajouté un petit supplément d'information [ici]({{ site.url }}/2007/01/30/Montreal-winter-biking-Ajout).
 
 Deux liens utiles :
--  
--  
+-  [Ice biking](http://www.icebike.com/)
+-  [Pédaler l'hiver](http://www.mec.ca/Main/content_text.jsp?rnav=info&FOLDER%3C%3Efolder_id=2534374302881789&CONTENT%3C%3Ecnt_id=10134198674067519&bmUID=1157857248659&bmLocale=fr_CA)
 
-Par ailleurs j'ai obtenu des conseils très précieux chez  où deux vendeurs avec qui j'ai discuté étaient d'anciens messagers à vélo qui connaissent donc très bien la question (et qui offre un très bon service par ailleurs.)
+Par ailleurs j'ai obtenu des conseils très précieux chez [La Cordée](http://www.lacordee.com/) où deux vendeurs avec qui j'ai discuté étaient d'anciens messagers à vélo qui connaissent donc très bien la question (et qui offre un très bon service par ailleurs.)

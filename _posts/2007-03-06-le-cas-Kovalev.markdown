@@ -12,6 +12,6 @@ Parce que merde, moi aussi j'ai bien le droit d'écrire à propos du hockey, ét
 
 <blockquote class="citation">Dans le temps [en 1942], on savait que ce que des joueurs de hockey peuvent avoir à dire ne revêt strictement aucun intérêt sur le plan de l'information générale; dommage que l'idée se soit perdue en chemin et que l'on cultive maintenant le contraire.
 
-Jean Dion, </blockquote>
+Jean Dion, [Et puis euh - Le hockey est éternel](http://www.ledevoir.com/2007/03/06/133674.html)</blockquote>
 
 Et oui, je maintiens ma prédiction que le Ca'anien va atteindre la finale de la Coupe Stanley... et perdre.

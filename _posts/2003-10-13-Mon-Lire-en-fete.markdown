@@ -9,7 +9,7 @@ categories:
 
 
 <DIV> </DIV>
-<DIV>Je crains que l'opération "" ne soit vouée à évoquer éternellement pour moi l' (*cf* le drôle de lien dans ma colonne de gauche).</DIV>
+<DIV>Je crains que l'opération "[Lire en fête](http://www.lire-en-fete.culture.fr/)" ne soit vouée à évoquer éternellement pour moi l'[Atelier Imaginaire](http://www.atelier-imaginaire.com/) (*cf* le drôle de lien dans ma colonne de gauche).</DIV>
 <DIV> </DIV>
 <DIV>[Septembre 2001]</DIV>
 <DIV>Je reçois, par contacts interposés, une étrange lettre d'invitation de cet Atelier, que je ne connais ni d'Ève ni d'Adam, qui m'a été envoyée à Nantes alors que j'habite maintenant Paris.  Avec tous ces cafouillis, c'est déjà la date limite.  Je n'ai pas le temps de réfléchir ; je réponds précipitamment sur le coup de l'émotion et de la tentation.  Par la suite, je me demande s'il ne s'agit pas d'un vaste canular...</DIV>
@@ -25,7 +25,7 @@ categories:
 <DIV> </DIV>
 <DIV>Jamais vu ça ; je suis comblée, j'hallucine.  Le contexte est unique, foisonnant.  La magie a opéré, c'est l'émerveillement.  On se tourne vers l'art, vers le beau, on retrouve sa source intérieure et on fait le plein d'espérance, dans ce contexte historique d'horreurs innomables.  On en revient chamboulé pour toujours, empli de tant de choses à partager.</DIV>
 <DIV> </DIV>
-<DIV>C'est suite à ma participation au  que j'ai eu droit à ce "cadeau" fantastique et à toutes ces rencontres marquantes et mémorables.  On est plus d'une centaine de jeunes de toute la France et d'ailleurs.  Il faut noter l'ampleur d'un tel événement, empreint d'altruisme et de générosité ; c'est plus qu'invraisemblable.</DIV>
+<DIV>C'est suite à ma participation au [Concours général](http://ebb.monblogue.com/2003/8/25/) que j'ai eu droit à ce "cadeau" fantastique et à toutes ces rencontres marquantes et mémorables.  On est plus d'une centaine de jeunes de toute la France et d'ailleurs.  Il faut noter l'ampleur d'un tel événement, empreint d'altruisme et de générosité ; c'est plus qu'invraisemblable.</DIV>
 <DIV> </DIV>
 <DIV>Une personne, surtout, derrière tout ça.  C'est son rêve, son labeur acharné, année après année, son engagement, son dévouement ; son refus du compromis, aussi, et son désir de renouvellement, à chaque fois.  Il s'appelle Guy Rouquet ; l'Atelier, c'est son bébé.</DIV>
 <DIV> </DIV>

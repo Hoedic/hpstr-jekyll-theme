@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Aujourd'hui, au bureau, alors que j'étais en train de manger mon plat de  réchauffé, je naviguais sur internet jusqu'à atterrir sur le site de , un des principaux quotidiens québécois. Je passe au travers des dernières infos et tombe sur un article de la colonne de droite intitulé *""*. Parisien dans l'âme, je me décide à lire ce qui s'y dit, histoire de voir quelle est l'optique d'un québécois (bien je la connaisse  assez bien.)
+Aujourd'hui, au bureau, alors que j'étais en train de manger mon plat de [Hamburger Helper](http://www.bettycrocker.com/products/prod_hamburgerhelper.asp) réchauffé, je naviguais sur internet jusqu'à atterrir sur le site de [La Presse](http://www.cyberpresse.ca/), un des principaux quotidiens québécois. Je passe au travers des dernières infos et tombe sur un article de la colonne de droite intitulé *"[Paris la première fois](http://www.cyberpresse.ca/voyage/article/1,158,1844,022004,584605.shtml)"*. Parisien dans l'âme, je me décide à lire ce qui s'y dit, histoire de voir quelle est l'optique d'un québécois (bien je la connaisse [déjà](http://mon-ile.net/carnet/blog531.html) assez bien.)
 
 Le ton est vaguement humoristique et commence par louer la splendeur des monuments. Mais ça dégénère très vite :
 
@@ -22,7 +22,7 @@ Mais oui, rions de bon coeur, hahaha, c'est sur le ton de la joke, hahaha, que c
 
 De toute évidence Aleksi K. Lepage, ce journaleux de bas étage, qui avoue lui-même ne pas être allé plus loin que Hull dans toute sa vie, ne s'est rendu là que pour confirmer ce qu'il s'imaginait de Paris, clichés compris. Car c'est bien de clichés que s'abreuve ce gratte-papier, d'ailleurs il aurait très pu écrire cet article en restant confortablement chez lui, c'eut été pareil, et j'espère bien qu'il ne fut pas payer pour débiter ses sottises. Car c'est bien le plus gros cliché de tous qu'il réchauffe sous nous yeux ébahis : "Paris serait la plus belle ville du monde sans les parisiens".
 
-Qu'on joue sur la susceptibilité des québécois est tout bonnement inacceptable. Il suffit de voir la vive émotion provoquée par  et plus récemment par  pour se rendre compte qu'on ne rit pas impunément du Québec, c'est une crime de lèse majesté. En revanche, la France, hahaha, on peut bien en rire un peu, hahaha, ils sont tellement arrogants, et puis c'est à la blague, on les aime bien quand même, hahaha.
+Qu'on joue sur la susceptibilité des québécois est tout bonnement inacceptable. Il suffit de voir la vive émotion provoquée par [Don Cherry](http://www.ledevoir.com/2004/02/06/46761.html) et plus récemment par [Conan O'Brien](http://www.matin.qc.ca/canada.php?article=20040217170109) pour se rendre compte qu'on ne rit pas impunément du Québec, c'est une crime de lèse majesté. En revanche, la France, hahaha, on peut bien en rire un peu, hahaha, ils sont tellement arrogants, et puis c'est à la blague, on les aime bien quand même, hahaha.
 
 Oui, mais l'émission de Conan O'Brien, c'était également à la blague, et son émission n'est pas réputée faire dans la dentelle, à coté de ça, La Presse est un quotidien d'information. Bref, amis québécois, faites ce que je dis, pas ce que je fais !
 

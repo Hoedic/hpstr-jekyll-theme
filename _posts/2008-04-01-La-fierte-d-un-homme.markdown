@@ -19,4 +19,4 @@ Certains diront que c'est exagéré, que c'est trop beau, trop tôt pour ce béb
 
 Mais que voulez-vous, nous sommes vraiment très fiers d'avoir acheté une poussette :)
 
-**Note:** Pour ceux qui ne l'auraient pas encore compris, après le , ce blog est en passe de virer en mode "bébé", ce qui est finalement la même chose sauf que c'est moins poilu et que ça sent plus mauvais. Et puis après tout que croyiez-vous, que ça servait à dire des choses intéressantes un blog ?!
+**Note:** Pour ceux qui ne l'auraient pas encore compris, après le [mode "chat"](http://www.mon-ile.net/carnet/Anti-blogue-sans-chat.html), ce blog est en passe de virer en mode "bébé", ce qui est finalement la même chose sauf que c'est moins poilu et que ça sent plus mauvais. Et puis après tout que croyiez-vous, que ça servait à dire des choses intéressantes un blog ?!

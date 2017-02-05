@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Moi aussi je vais donner mon feed back sur l'émission  concernant la déception des Français qui ont immigré au Québec (dispo sur internet en deux parties,  et ).
+Moi aussi je vais donner mon feed back sur l'émission [Enjeux](http://www.radio-canada.com/actualite/enjeux/) concernant la déception des Français qui ont immigré au Québec (dispo sur internet en deux parties, [ici](http://www.radio-canada.ca/Medianet/CBFT/Enjeux200406082100_1.asx) et [là](http://www.radio-canada.ca/Medianet/CBFT/Enjeux200406082100_2.asx)).
 
 Mon moment de choix : le sous-ministre du MRCI disant que seuls 16% des Français s'en vont durant les 8 premières années et qu'il y a un niveau de satisfaction et d'enraciment important.
 

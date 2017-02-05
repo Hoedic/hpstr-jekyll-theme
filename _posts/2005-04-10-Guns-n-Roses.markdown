@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le week-end dernier je suis tombé par hasard sur une émission de  traitant de la carrière du groupe Guns n' Roses.
+Le week-end dernier je suis tombé par hasard sur une émission de [Musique Plus](http://www.musiqueplus.com/) traitant de la carrière du groupe Guns n' Roses.
 
 Eh bien je peux dire qu'à l'époque, en Seconde, en plus de draguer une conne moche, j'avais des goûts musicaux de chiotte. En effet j'ai téléchargé les Greatest Hits des Guns et c'est pas terrible.
 

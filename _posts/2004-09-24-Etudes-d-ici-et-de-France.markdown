@@ -10,7 +10,7 @@ categories:
 
 Ebb m'a conseillé de faire un article pour comparer les études ici et en France. C'est une idée assez judicieuse bien que je ne sois pas au même niveau. Je vais quand même m'executer bien qu'il risque d'y avoir quelques biais.
 
-Voici les expériences que j'ai vécu dans chaque pays au niveau "universitaire". En France, Math Sup et Math Spé intégrées à une école d'ingé et l'école d'ingé en question de niveau moyen, l' (avec un site web vraiment ignoble). Ici, à Montréal, j'ai fait des cours de maîtrise en environnement à l' et actuellement des cours de maîtrise en génie à l' (dépendant de l'UdeM).
+Voici les expériences que j'ai vécu dans chaque pays au niveau "universitaire". En France, Math Sup et Math Spé intégrées à une école d'ingé et l'école d'ingé en question de niveau moyen, l'[ICAM](http://www.icam.fr/) (avec un site web vraiment ignoble). Ici, à Montréal, j'ai fait des cours de maîtrise en environnement à l'[UdeM](http://umontreal.ca/) et actuellement des cours de maîtrise en génie à l'[École Polytechnique](http://polymtl.ca/) (dépendant de l'UdeM).
 
 ![Image]({{ site.url }}/images/transfo-arbre_23-09-2004.jpg)
 <div class="photoattrib">En direction de mes cours</div>

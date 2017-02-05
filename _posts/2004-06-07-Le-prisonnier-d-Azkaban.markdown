@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Eh oui, faisant figure de véritable fanatique - ce que je ne suis pourtant pas du tout - je suis allée voir le dernier , et ce, dès le jour de sa sortie.  En effet, je ne rate plus l'occasion maintenant d'accompagner mon frère au cinéma quand l'occasion se présente.
+Eh oui, faisant figure de véritable fanatique - ce que je ne suis pourtant pas du tout - je suis allée voir le dernier [Harry Potter et le prisonnier d'Azkaban](http://www.harrypotter.com/), et ce, dès le jour de sa sortie.  En effet, je ne rate plus l'occasion maintenant d'accompagner mon frère au cinéma quand l'occasion se présente.
 
 Je craignais un peu, sans oser l'avouer, être le seul grand bébé dans la salle.  Pas du tout, il n'y avait étonnamment pratiquement que des adultes !
 

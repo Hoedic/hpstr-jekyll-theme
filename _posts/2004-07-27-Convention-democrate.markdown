@@ -29,16 +29,16 @@ Pourtant ça ne donne vraiment pas l'impression de clareté qu'on souhaiterait v
 
 ***
 
-Sur un sujet connexe, le documentaire "", traitant de la partialité avec laquelle Fox produit les nouvelles dans l'intérêt des Républicains est  en DVD au prix de 9.95$US.
+Sur un sujet connexe, le documentaire "[Outfoxed, Rupert Murdoch's war on journalism](http://www.outfoxed.org/)", traitant de la partialité avec laquelle Fox produit les nouvelles dans l'intérêt des Républicains est [disponible](http://www.outfoxed.org/Buy.php) en DVD au prix de 9.95$US.
 
 ![Image]({{ site.url }}/images/fox-pravda_27-07-2004.jpg)
 <div class="photoattrib">Fox = Pravda ?</div>
 
 
 
-Comme pour beaucoup, il n'est pas question pour moi de l'acheter (j'ai pas le sou pour ça) mais rassurez-vous, il est déjà disponible sur tous les bons  réseaux de téléchargement (Personnellement, malgré ses 700MB, je l'ai téléchargé en 35mn sur le réseau Bittorrent à partir de  (rubrique "movies" sous-catégorie "Documentary").).
+Comme pour beaucoup, il n'est pas question pour moi de l'acheter (j'ai pas le sou pour ça) mais rassurez-vous, il est déjà disponible sur tous les bons  réseaux de téléchargement (Personnellement, malgré ses 700MB, je l'ai téléchargé en 35mn sur le réseau Bittorrent à partir de [http://suprnova.org/](http://suprnova.org/) (rubrique "movies" sous-catégorie "Documentary").).
 
-Je connais pas la position des auteurs du documentaire mais j'espère qu'ils ont le même  que Micheal Moore à savoir que ce documentaire, c'est avant tout de l'information qui doit circuler et qu'à ce titre il est acceptable de les échanger. Personnellement je n'ai pas pour habitude de télécharger les films, j'ai plus pour habitude d'aller les voir au ciné, mais pour le coup, je n'hésite pas à me servir et aux vus des , ça vaut le détour !
+Je connais pas la position des auteurs du documentaire mais j'espère qu'ils ont le même [point de vue](http://www.boingboing.net/2004/01/06/michael_moore_endors.html) que Micheal Moore à savoir que ce documentaire, c'est avant tout de l'information qui doit circuler et qu'à ce titre il est acceptable de les échanger. Personnellement je n'ai pas pour habitude de télécharger les films, j'ai plus pour habitude d'aller les voir au ciné, mais pour le coup, je n'hésite pas à me servir et aux vus des [trailers](http://www.outfoxed.org/Clips.php), ça vaut le détour !
 
 ***
 
@@ -47,4 +47,4 @@ Je connais pas la position des auteurs du documentaire mais j'espère qu'ils ont
 
 
 
-Tiens, puis pour conclure :  Vraiment excellent :)
+Tiens, puis pour conclure : [http://www.jibjab.com/](http://www.jibjab.com/) Vraiment excellent :)

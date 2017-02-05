@@ -10,7 +10,7 @@ categories:
 
 Selon toutes probabilités, je ne vais pas renouveler mon abonnement Flickr qui expire en avril. Il ne serait même pas étonnant que je ferme mon compte purement et simplement, s'il m'est possible de récupérer aisément les photos qui sont hébergées dessus.
 
-La raison de ce retrait se fond en partie dans ce texte déniché par Dre Papillon : . Mon problème  c'est qu'en fait, je n'accroche pas du tout aux sites sociaux. Je suis un asocial primate.
+La raison de ce retrait se fond en partie dans ce texte déniché par Dre Papillon : [Flickr: autour des photos, le jeu de société](http://mainblanche.over-blog.net/article-4876920.html). Mon problème  c'est qu'en fait, je n'accroche pas du tout aux sites sociaux. Je suis un asocial primate.
 
 Flickr, au début, c'était la lune mielleuse ; je découvrais la photo numérique et sur un joli site, il était possible de se faire des tas de potes qui allaient te dire que tes photos sont magnifiques même quand elles sont médiocres. Pour peu, il serait presque possible d'être célèbre.
 

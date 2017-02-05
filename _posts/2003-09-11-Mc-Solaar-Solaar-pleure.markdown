@@ -10,7 +10,7 @@ categories:
 
 ![Image]({{ site.url }}/images/saule.jpg)
 
-On a tous des musiques associées à certains lieux et périodes chronologiques de notre vie.  Même si je ne raffole pas du rap, du hip-hop ni d'ailleurs de , c'est *Solaar pleure* qui m'a bercée aux alentours du "9/11" en 2001, à Paris.  J'étais à la fois révoltée, torturée et exaltée, et cette douloureuse chanson était l'exutoire rêvé pour mon trop-plein d'émotions en effervescence.  Surtout le cri, à la fin.
+On a tous des musiques associées à certains lieux et périodes chronologiques de notre vie.  Même si je ne raffole pas du rap, du hip-hop ni d'ailleurs de [Mc Solaar](http://solaarsystem.miroir.i-puzzle.ws/fr/public/index.asp), c'est *Solaar pleure* qui m'a bercée aux alentours du "9/11" en 2001, à Paris.  J'étais à la fois révoltée, torturée et exaltée, et cette douloureuse chanson était l'exutoire rêvé pour mon trop-plein d'émotions en effervescence.  Surtout le cri, à la fin.
 
 C'était un peu normal d'être blessée, après avoir vu à la télé des vraies personnes se jetant main dans la main d'une tour en flammes...
 

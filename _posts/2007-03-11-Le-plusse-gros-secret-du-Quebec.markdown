@@ -16,6 +16,6 @@ Le taux de chômage est de 5% aux USA (le plein emploi) alors qu'il est toujours
 
 Pourquoi le Québec qui n'a aucun problème démographique (150 naissances pour 100 décès en 2006) , qui compte une population jeune (à peine 14% de personnes âgées contre 20% au Japon) et un taux de chomage élevé, accueille-t-il 5 fois plus d'immigrants per capita qu'aux USA???
 
-Source: un  dans Le Devoir en ligne</blockquote>
+Source: un [commentaire](http://www.ledevoir.com/2007/03/09/commentaires/0703090657180.html) dans Le Devoir en ligne</blockquote>
 
-Visiblement,  n'est pas le seul à avoir des difficultés avec les immigrants !
+Visiblement, [Christian Raymond](http://www.radio-canada.ca/nouvelles/electionsQc2007/2007/03/10/007-candidat-adq.shtml) n'est pas le seul à avoir des difficultés avec les immigrants !

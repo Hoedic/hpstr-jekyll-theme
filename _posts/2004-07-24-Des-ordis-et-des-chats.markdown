@@ -19,7 +19,7 @@ Qu'on aille pas dire que je ne suis pas ouvert d'esprit après ! ;)
 
 ***
 
-Je suis tranquillement en train de jouer sur mes ordinateurs et j'entends Ebb me dire d'un ton paniqué un truc du genre "Y a un bout de  qui lui ressort par la gueule !"
+Je suis tranquillement en train de jouer sur mes ordinateurs et j'entends Ebb me dire d'un ton paniqué un truc du genre "Y a un bout de [Bagheera]({{ site.url }}/2003/08/25/Bagheera,174) qui lui ressort par la gueule !"
 
 Je me retourne et je vois effectivement ce qui a tout l'air d'un bout de boyau ressortir de sa gueule sur 5cm. Sachant que le chat en question ne filait pas bien depuis quelques jours ça ne m'étonne guère mais c'est un peu la panique.
 

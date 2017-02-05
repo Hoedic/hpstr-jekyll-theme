@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Aujourd'hui se tenait au Tribunal de Grande Instance de Paris la seconde audience opposant la régie publicitaire  à l'hébergeur internet coopératif .
+Aujourd'hui se tenait au Tribunal de Grande Instance de Paris la seconde audience opposant la régie publicitaire [Métrobus](http://www.ratp.fr/groupe_ratp/espaces_vie/lieux_vivants/148.shtml) à l'hébergeur internet coopératif [Ouvaton](http://ouvaton.coop/).
 
-Bref rappel du précédent épisode : Ouvaton a hébergé un site de  (qui a déménagé depuis), des activistes anti-pub appelant régulièrement à tagguer les publicités dans le métro. En référé (mode de comparution le plus rapide), Métrobus obtient du tribunal qu'Ouvaton fournisse les informations des webmasters du site Stopub (ce qui ne refusait pas de faire Ouvaton si un tribunal jugeait la requête valable) mais n'arrive pas à faire condamner l'hébergeur.
+Bref rappel du précédent épisode : Ouvaton a hébergé un site de [Stopub](http://www.stopub.tk/) (qui a déménagé depuis), des activistes anti-pub appelant régulièrement à tagguer les publicités dans le métro. En référé (mode de comparution le plus rapide), Métrobus obtient du tribunal qu'Ouvaton fournisse les informations des webmasters du site Stopub (ce qui ne refusait pas de faire Ouvaton si un tribunal jugeait la requête valable) mais n'arrive pas à faire condamner l'hébergeur.
 
 Récemment, Métrobus demandait une nouvelle audience prétextant que les données fournies par Ouvaton prêtaient *«volontairement à confusion»*. De ce fait, Métrobus voulaient obtenir plus de données (avec un huissier pour relever les données), un condamnation de 5 000 euros d'amende pour *«résistance abusive»* ainsi qu'une révision de fait de la jurisprudence obligeant les fournisseurs d'accès à vérifier les données fournies par les personnes souscrivant un hébergement internet.
 
@@ -25,14 +25,14 @@ Cette demande de modification est d'autant plus déplacée que Métrobus a, grâ
 Alexis Braud, président de la coop, semblait positif à la sortie du tribunal, mais il n'est jamais possible de présager de la décision finale.
 
 Deux articles sur le sujet pour le moment :
--  
--  
+-  [01net](http://www.01net.com/article/230743.html)
+-  [Tf1.fr](http://news.tf1.fr/news/multimedia/0,,1625159,00.html)
 
 
-Le  Ouvaton sur le sujet <strike>(pas à jour concernant les derniers événements pour l'heure)</strike>.
+Le [dossier](http://metrobus.ouvaton.coop/) Ouvaton sur le sujet <strike>(pas à jour concernant les derniers événements pour l'heure)</strike>.
 
 ***
 
-Autre petite nouvelle juridico-technologique : l' s'est arrangée à l'amiable. Le firme de Redmond a obtenu du jeune canadien de 17 ans Mike Row qu'il transfert son nom de domaine à Microsoft en échange d'une formation, d'un abonnement à MSDN, d'un voyage à Redmond pour le Research Tech Fest de Microsoft et une X-box garnie de quelques jeux. C'est tout de même mieux que les 10$ proposés initialement !
+Autre petite nouvelle juridico-technologique : l'[affaire MikeRowSoft.com](http://www.zdnet.fr/actualites/internet/0,39020774,39138072,00.htm?feed) s'est arrangée à l'amiable. Le firme de Redmond a obtenu du jeune canadien de 17 ans Mike Row qu'il transfert son nom de domaine à Microsoft en échange d'une formation, d'un abonnement à MSDN, d'un voyage à Redmond pour le Research Tech Fest de Microsoft et une X-box garnie de quelques jeux. C'est tout de même mieux que les 10$ proposés initialement !
 
-Le nouveau site est , 3752 visiteurs au moment où je passe, peu de sites peuvent se vanter d'une telle fréquentation !
+Le nouveau site est [http://www.mikeroweforums.com/](http://www.mikeroweforums.com/), 3752 visiteurs au moment où je passe, peu de sites peuvent se vanter d'une telle fréquentation !

@@ -58,4 +58,4 @@ Repas du midi : Le Héron. Franchement catastrophique. Il aura fallu 45 minutes 
 
 Repas du soir : Restaurant Le Barlicoco. Nous y sommes arrivés alors que tout le monde était parti. Bonne cuisine, simple mais avec de bons ingrédients, un peu cher malgré tout, comme partout en Gaspésie finalement...
 
-Dodo : . Difficile de faire plus kitsch, mais l'ensemble est cohérent. Cette vaste demeure est couverte de bois à l'intérieur, plafond compris. Les chambres sont qualifiées par leur couleur, ce qui laisse présager du choc visuel (encore heureux, nous n'avons pas hérité de la chambre rose). Cependant l'accueil est très bon et le petit déjeuner était aussi délicieux (cuisine maison de A à Z).  À recommander !
+Dodo : [Gîte du Patrimoine](http://www.bbcanada.com/8354.html). Difficile de faire plus kitsch, mais l'ensemble est cohérent. Cette vaste demeure est couverte de bois à l'intérieur, plafond compris. Les chambres sont qualifiées par leur couleur, ce qui laisse présager du choc visuel (encore heureux, nous n'avons pas hérité de la chambre rose). Cependant l'accueil est très bon et le petit déjeuner était aussi délicieux (cuisine maison de A à Z).  À recommander !

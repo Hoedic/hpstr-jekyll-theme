@@ -10,7 +10,7 @@ categories:
 
 **Opération *Un toit pour un libéral* **
 
-Du fait l'inévitable victoire de Dubya et de la  des libéraux américains qui suite à cette réélection seront traqués comme des talibans, en plus ne plus pouvoir regarder leurs concitoyens bushistes dans les yeux, je propose de lancer une campagne de soutien aux libéraux américains en leur proposant un toit hors du territoire des U.S.A.
+Du fait l'inévitable victoire de Dubya et de la [situation insoutenable](http://embruns.net/logbook/2004/10/31.html#001619) des libéraux américains qui suite à cette réélection seront traqués comme des talibans, en plus ne plus pouvoir regarder leurs concitoyens bushistes dans les yeux, je propose de lancer une campagne de soutien aux libéraux américains en leur proposant un toit hors du territoire des U.S.A.
 
 Vivant dans un pays où il fait bon vivre, le Canada, à deux pas des États-Unis, dans une province mitoyenne à l'état de New-York, je me propose donc d'accueillir gracieusement pour 150$US/jour un ou deux gauchistes américains.
 

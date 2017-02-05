@@ -23,6 +23,6 @@ Quelques nouvelles "fonctionnalités" (là encore j'aurais souhaité en faire d'
 -  Un "vite dit", histoire de raconter brièvement ce qui ne nécessite pas un article,
 -  Un article du blog d'il y a un an... histoire de se rappeler (c'est un truc que j'aime bien ça ;))
 -  Une zone culture avec généralement les films, resto et autres trucs "culturels" que nous avons essayé (c'est tiré au hasard),
--  Une image du blog au hasard... pour ceux qui ont  et tout autre navigateur compatible, l'image prend sa taille normale quand on passe la souris dessus, pour les autres, ben... tant pis, mouhahaha !
+-  Une image du blog au hasard... pour ceux qui ont [Firefox](http://www.mozilla.org/products/firefox/) et tout autre navigateur compatible, l'image prend sa taille normale quand on passe la souris dessus, pour les autres, ben... tant pis, mouhahaha !
 
 **Note :** Oui, la blogoliste est plantée mais je verrai ça demain parce que là... dodo !

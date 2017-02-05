@@ -12,4 +12,4 @@ categories:
 
 Un peu quand même, surtout si on peut inclure les gens qu'on aime dans la définition...  Depuis jeudi, c'est "festival du cancer" au programme, et je peux vous dire que je me sens à la fois déprimée et terrorisée.  Le pire, c'est que je ne réussis même pas à me rassurer en relativisant : il n'y a rien à relativiser, les statistiques de morbidité et de mortalité sont effarantes et parlent d'elles-mêmes.
 
-Au-delà des statistiques, il y a tous ces  que l'on perd immanquablement dans la bataille...  Une petite pensée pour  et pour  dans leur combat.
+Au-delà des statistiques, il y a tous ces [proches](http://ebb.monblogue.com/2003/8/16) que l'on perd immanquablement dans la bataille...  Une petite pensée pour [Anne](http://archet.net/journal/) et pour [Jolie-Mé](http://www.leblogueur.com/instantdeuphorie/) dans leur combat.

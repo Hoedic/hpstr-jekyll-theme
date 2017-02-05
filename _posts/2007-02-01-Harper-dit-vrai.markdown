@@ -11,7 +11,7 @@ categories:
 <blockquote class="citation"> 
 «Kyoto est essentiellement un complot socialiste qui vise à soutirer des fonds aux pays les plus riches.»
 
- Stephen Harper en 2002</blockquote>
+[Dixit](http://www.ledevoir.com/2007/01/31/129295.html) Stephen Harper en 2002</blockquote>
 
 De la belle politique constructive comme on l'aime : à ma droite on fait feu à la télé, à ma gauche on répond en ressortant un papier qui devait traîner dans des tiroirs depuis un certain temps.
 
@@ -26,4 +26,4 @@ Bref, le mot de trop est peut-être le «complot socialiste».
 
 ***
 
-Lors de la nomination du Nouveau Ministre de l'Environnement du Nouveau Gouvernement du Canada, j'avais relaté qu'il était réputé pour être un pitbull. C'est .
+Lors de la nomination du Nouveau Ministre de l'Environnement du Nouveau Gouvernement du Canada, j'avais relaté qu'il était réputé pour être un pitbull. C'est [vrai](http://www.youtube.com/watch?v=yy49c9XaehU).

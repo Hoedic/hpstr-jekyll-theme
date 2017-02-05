@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Hier nous avons de nouveau profité de notre abonnement  (mais non je ne fais pas de matraquage publicitaire) pour nous rendre cette fois aux  (Je vais faire mon gros chieur mais parfois je ne comprends pas certains designers web. Quel est l'intérêt, sur le site de la , de foutre un javascript à la con pour accéder à la page de chaque parc ? Au résultat on demeure sur l'URL de la page d'accueil et c'est impossible de lier une page précise. Ça rend aussi l'indexation impossible pour Google... ça en devient presque inutile de faire un site web !). Il s'agit d'un petit parc à quelques minutes de Montréal, quelques îles proches de la rive sud du Saint-Laurent.
+Hier nous avons de nouveau profité de notre abonnement [Communauto](http://www.communauto.com/) (mais non je ne fais pas de matraquage publicitaire) pour nous rendre cette fois aux [au parc des îles de Boucherville](http://www.sepaq.com/) (Je vais faire mon gros chieur mais parfois je ne comprends pas certains designers web. Quel est l'intérêt, sur le site de la [SEPAQ](http://www.sepaq.com/), de foutre un javascript à la con pour accéder à la page de chaque parc ? Au résultat on demeure sur l'URL de la page d'accueil et c'est impossible de lier une page précise. Ça rend aussi l'indexation impossible pour Google... ça en devient presque inutile de faire un site web !). Il s'agit d'un petit parc à quelques minutes de Montréal, quelques îles proches de la rive sud du Saint-Laurent.
 
 ![Image]({{ site.url }}/images/canal-boucherville_29-08-2004.jpg)
 <div class="photoattrib">Le canal principal</div>
@@ -39,4 +39,4 @@ Une bonne sortie pour s'évader du béton de la ville et respirer de l'air frais
 
 Sur le chemin du retour nous nous sommes arrêtés au parc Bellerive, sur l'île de Montréal cette fois, qui nous donnait une belle vue sur le parc d'où nous venions, de l'autre coté du Saint-Laurent. Le parc en lui-même n'a rien d'exceptionnel : beaucoup de pelouse et une piste cyclable, un plaisir pour les riverain.
 
-Puis une petit frayeur alors qu'en sortant d'une station essence j'ai pris une rue à contre-sens... c'eut été dommage de massacrer la belle  de  !
+Puis une petit frayeur alors qu'en sortant d'une station essence j'ai pris une rue à contre-sens... c'eut été dommage de massacrer la belle [Toyota Echo](http://www.toyota.ca/cgi-bin/WebObjects/WWW.woa/1/wo/Home.Vehicles.Go.Echo) de [Communauto](http://www.communauto.com/) !

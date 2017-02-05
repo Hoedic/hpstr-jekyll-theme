@@ -12,16 +12,16 @@ Bloguer, c'est pas facile tous les jours. Deuxième suspension du compte d'hébe
 
 Les esprits observateurs auront remarqués un changement d'ordre esthétique.
 
-D'abord, merci à  qui nous a inspiré notre nouveau nom ! Fini l'anachronisme entre nos noms et le nom du site.
+D'abord, merci à [P-A-Piette](http://piette.blogspot.com/) qui nous a inspiré notre nouveau nom ! Fini l'anachronisme entre nos noms et le nom du site.
 
-L'inspiration vient de plusieurs sources. La première fut le thème  trouvé chez  pour qui j'ai une petit pensée en cette fin d'année.
+L'inspiration vient de plusieurs sources. La première fut le thème [4U Hemingway](http://testrun.colorfulblog.com/) trouvé chez [Goudy](http://www.goudy.ca/carnet/) pour qui j'ai une petit pensée en cette fin d'année.
 
 ![Image]({{ site.url }}/images/boule-noel.jpg)
 <div class="photoattrib">Un appartement dans une boule</div>
 
 
 
-Certains éléments de  m'ont également inspirés, notamment pour ce qui est des . Je m'étais récemment . Une des choses que j'avais en tête était de mettre des photos dans un format plus grand avec une meilleure mise en valeur, ce que Karl fait toujours très bien au gré de ses évolutions.
+Certains éléments de [Karl de La Grange de Dubost](http://www.la-grange.net/) m'ont également inspirés, notamment pour ce qui est des [photos](http://www.la-grange.net/2006/05/31.html). Je m'étais récemment [plaint de Flickr]({{ site.url }}/2006/12/18/Adios-Flickr). Une des choses que j'avais en tête était de mettre des photos dans un format plus grand avec une meilleure mise en valeur, ce que Karl fait toujours très bien au gré de ses évolutions.
 
 À plusieurs reprises par le passé, j'avais essayé de mettre du rose dans mes thèmes. Jusqu'ici je n'avais jamais réussi à trouver un équilibre qui me plaise. Cette fois-ci, en partant de la couleur d'une de nos orchidées, j'ai brodé un ensemble qui ne me déplait pas.
 

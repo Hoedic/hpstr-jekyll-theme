@@ -14,16 +14,16 @@ Mais j'ai tout de même envie de vous faire connaître quelques-uns de mes talen
 
 Il y en a deux qui s'ajoutent à mes grands favoris, ce sont :
 
-- , et
-- .
+- [Reinhard Pantke](http://www.flickr.com/photos/bike-around-the-world/), et
+- [awfulsara](http://www.flickr.com/photos/awfulsara/).
 
 Il y a aussi :
 
--  pour ses photos de fleurs,
--  pour ses voyages extraordinaires,
-- ,
-- , et
-- .
+- [Sandra Mora](http://www.flickr.com/photos/ospohlminhas/) pour ses photos de fleurs,
+- [Dey](http://www.flickr.com/photos/dey/) pour ses voyages extraordinaires,
+- [azmuskoka](http://www.flickr.com/photos/zelcam/),
+- [ahmedzahid](http://www.flickr.com/photos/ahmedzahid/), et
+- [alterednate](http://www.flickr.com/photos/alternate/).
 
 En attendant, j'aurais une commande spéciale pour les photographes parisiens !
 

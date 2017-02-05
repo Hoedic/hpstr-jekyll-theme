@@ -8,13 +8,13 @@ categories:
 ---
 
 
-J'hallucine : la Société des Transports de Montréal vient de changer la date de fin des travaux sur l'escalier roulant dans notre station pour la 3e fois.  Commencés au printemps dernier, il  s'achever en juin, puis en août, puis en octobre.  Nous sommes rendus en décembre là.
+J'hallucine : la Société des Transports de Montréal vient de changer la date de fin des travaux sur l'escalier roulant dans notre station pour la 3e fois.  Commencés au printemps dernier, il [devaient originellement](http://mon-ile.net/carnet/blog1015.html) s'achever en juin, puis en août, puis en octobre.  Nous sommes rendus en décembre là.
 
 Je ne comprends pas trop comment on peut aussi mal prévoir son coup.  Mais je comprends très bien que ce soit interminable : ils n'y travaillent jamais !
 
 ~~
 
-L'autre soir, je fais part à Hoedic du fait que *Polémil Bazar* a déjà été comparé aux *Têtes Raides*, et que par conséquent j'aimerais bien découvrir aussi ce groupe français.  Il me dit alors qu'il a plusieurs de leurs mp3s sur son .
+L'autre soir, je fais part à Hoedic du fait que *Polémil Bazar* a déjà été comparé aux *Têtes Raides*, et que par conséquent j'aimerais bien découvrir aussi ce groupe français.  Il me dit alors qu'il a plusieurs de leurs mp3s sur son [iPod mini]({{ site.url }}/2004/07/29/iPod-Mini).
 
 Voilà qu'on se retrouve tous les deux dans le lit, avec une extrémité des écouteurs chacun à l'oreille, à déplorer de ne pas pouvoir l'écouter tout simplement dans la mini-chaîne stéréo (qui ne prend que les CDs de musique).
 

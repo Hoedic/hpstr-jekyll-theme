@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Vendredi soir dernier, avec Hoedic, nous sommes allés au cinéma pour voir le dernier film du réalisateur sénégalais Sembene Ousame (Pour ceux qui ont de la suite dans les idées, c'est aussi l'auteur du ...), .  Le film a été récipiendaire du prix *Un certain regard* à Cannes 2004.  Il a été tourné en bambara (la langue du Mali), au Burkina Faso, et est sous-titré en français.
+Vendredi soir dernier, avec Hoedic, nous sommes allés au cinéma pour voir le dernier film du réalisateur sénégalais Sembene Ousame (Pour ceux qui ont de la suite dans les idées, c'est aussi l'auteur du [livre que je lisais dernièrement](http://mon-ile.net/carnet/blog1242.html)...), [Moolaadé](http://www.allocine.fr/film/fichefilm.html?cfilm=56868).  Le film a été récipiendaire du prix *Un certain regard* à Cannes 2004.  Il a été tourné en bambara (la langue du Mali), au Burkina Faso, et est sous-titré en français.
 
 ![Image]({{ site.url }}/images/18409587.jpg)
 <div class="photoattrib">Moolaadé</div>

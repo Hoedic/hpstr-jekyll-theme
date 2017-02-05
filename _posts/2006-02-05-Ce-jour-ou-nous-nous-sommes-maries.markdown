@@ -84,7 +84,7 @@ Les formalités passées, il était grand temps d'aller nourrir et abreuver tout
 
 
 
-L'estomac bien rempli, nous avons pu commencer à nous adonner à notre loooongue séance photo.  Cette journée de notre mariage s'est déroulée, à l'image de la vie, sous un ciel variable, vitesse grand V.  Il y eut des averses (plutôt des grains tropicaux tant ça passe vite), il y eut des éclaircies, il y eut un arc-en-ciel, il y eut un coucher de soleil magnifique sur la mer des Caraïbes, et il y eut même un  !  Et comme dit l'adage, "mariage pluvieux, mariage heureux" : nous avons eu tout ce qu'il faut, sans même nous faire tremper ;)
+L'estomac bien rempli, nous avons pu commencer à nous adonner à notre loooongue séance photo.  Cette journée de notre mariage s'est déroulée, à l'image de la vie, sous un ciel variable, vitesse grand V.  Il y eut des averses (plutôt des grains tropicaux tant ça passe vite), il y eut des éclaircies, il y eut un arc-en-ciel, il y eut un coucher de soleil magnifique sur la mer des Caraïbes, et il y eut même un [rayon vert](http://fr.wikipedia.org/wiki/Rayon_vert) !  Et comme dit l'adage, "mariage pluvieux, mariage heureux" : nous avons eu tout ce qu'il faut, sans même nous faire tremper ;)
 
 
 ![Image]({{ site.url }}/images/0504_120de86a25_z_d.jpg)

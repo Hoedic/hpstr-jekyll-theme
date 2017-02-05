@@ -14,7 +14,7 @@ Avant de commencer à lire ces documents, qui comme de nombreux autres resteront
 
 Il faut dire que ça fait bien 6 ans que je n'ai pas dessiné pour de vrai et depuis j'ai même abandonné l'écriture à la main au profit du clavier, ma main est donc un peu rouillée.
 
-À l'époque, le dessin me servait d'exutoire. Le dessin ci-dessous, un portrait de  (Milla Jovovich que j'avais bien aimé dans le , de Luc Besson et , de Bono et Wim Wenders... en revanche son site internet est particulièrement laid), qui passait régulièrement dans ma piaule de résidence étudiante ;) a été réalisé un samedi après-midi, alors que je revenais d'un examen de physique de Math Spé à la suite duquel je devais obtenir mon traditionnel 4,5/20.
+À l'époque, le dessin me servait d'exutoire. Le dessin ci-dessous, un portrait de [Milla Jovovich](http://www.millaj.com/) (Milla Jovovich que j'avais bien aimé dans le [Cinquième Élément](http://www.imdb.com/title/tt0119116/), de Luc Besson et [The Million Dollar Hotel](http://www.imdb.com/title/tt0120753/), de Bono et Wim Wenders... en revanche son site internet est particulièrement laid), qui passait régulièrement dans ma piaule de résidence étudiante ;) a été réalisé un samedi après-midi, alors que je revenais d'un examen de physique de Math Spé à la suite duquel je devais obtenir mon traditionnel 4,5/20.
 
 ![Image]({{ site.url }}/images/milla-jovovich-20-02-04.jpg)
 <div class="photoattrib">Portrait de Milla Jovovich quelque part en 1997</div>

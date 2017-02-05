@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ebb et moi avons eu le plaisir de déjeuner (ou diner, comme vous voulez) avec le  avant qu'il ne prenne l'avion pour retourner dans son lointain pays, en France, je crois... enfin dans ce coin là.
+Ebb et moi avons eu le plaisir de déjeuner (ou diner, comme vous voulez) avec le [Capitaine](http://embruns.net/) avant qu'il ne prenne l'avion pour retourner dans son lointain pays, en France, je crois... enfin dans ce coin là.
 
 Ce fut bien agréable bien qu'un peu court. Mais bon. À l'heure actuelle il doit être de retour à Paris faisant bientôt face aux joies du décalage horaire.
 

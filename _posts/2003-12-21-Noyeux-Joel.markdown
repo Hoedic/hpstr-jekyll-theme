@@ -8,7 +8,7 @@ categories:
 ---
 
 
-C'est vraiment l'extase, les vacances...  Qu'est-ce que c'est bon d'aller voir un relativement bon  à 22h le vendredi soir, de paresser au lit sans honte le samedi matin, d'aller voir  de la merveilleuse Évelyne de la Chenelière (petite pièce gentille, québécoise, vivante, admirablement bien jouée, amusante...) à Jean-Duceppe, puis d'aller souper dans un bon  rue Mont-Royal (mes premiers sushis à vie, c'est honteux).
+C'est vraiment l'extase, les vacances...  Qu'est-ce que c'est bon d'aller voir un relativement bon [film]({{ site.url }}/2003/12/21/Chronique-cine-Le-Dernier-Samourai) à 22h le vendredi soir, de paresser au lit sans honte le samedi matin, d'aller voir [Des fraises en janvier](http://www.duceppe.com/pieces/piece.asp?IDordre=3) de la merveilleuse Évelyne de la Chenelière (petite pièce gentille, québécoise, vivante, admirablement bien jouée, amusante...) à Jean-Duceppe, puis d'aller souper dans un bon [resto japonais](http://www.montrealplus.ca/portalf/profile.do?profileID=125751) rue Mont-Royal (mes premiers sushis à vie, c'est honteux).
 
 Et ce n'est pas fini, demain nous devrions voir Le Seigneur des Anneaux (en accompagnement de mon frangin, qui tenait à le voir une 3e fois ;), puis nous allons à un petit concert des Cowboys fringants à L'Assomption...  C'est vraiment la belle vie !
 

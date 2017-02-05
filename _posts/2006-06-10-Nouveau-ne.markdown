@@ -8,7 +8,7 @@ categories:
 ---
 
 
-J'ai envie de participer, très en retard, à la session 2.5 du Dyptique.  Celle où il faut illustrer .  Je ne suis pas sûre qu'Akynou accepte ça, mais j'ai quand même envie de le faire :)
+J'ai envie de participer, très en retard, à la session 2.5 du Dyptique.  Celle où il faut illustrer [la photo d'un bébé tout neuf](http://akiyo1fr.free.fr/racontars_jeux/index.php?2006/05/29/390-allez-on-jette-le-bebe-avec-l-eau-fin-de-la-session-5).  Je ne suis pas sûre qu'Akynou accepte ça, mais j'ai quand même envie de le faire :)
 
 Parce que ça fait quelques mois maintenant que je me tiens du côté des débuts de la vie, de ses petits miracles, de ses beautés et fragilités.  Dans le cadre des mes stages d'externat, en médecine.  Pédiatrie et maintenant gynéco-obstétrique.
 

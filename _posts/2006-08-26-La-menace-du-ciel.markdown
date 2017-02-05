@@ -34,7 +34,7 @@ Le point de départ de la randonnée est l'Anse-aux-Sauvages, aussi connu comme 
 <div class="photoattrib">Amérindiens = sauvages ?</div>
 
 
-Nous aurions pu espérer un trajet plat mais pour notre grand malheur, le chemin passe son temps à faire du monte-descend et nous avec. Malgré le ciel qui reste bouché comme les voix du Saint Esprit, le cadre est splendide. Nous longeons le Golfe de Gaspé, allant de criques en criques, l'eau est transparente (et surement très froide), parfois des falaises donnent d'impressionnantes vues en plongée. À l'occasion il est possible de voir des phoques jouer dans l'eau (ou chasser, on ne leur a pas demandé). La côte est là encore bordée de nombreuses fleurs sauvages parmi lesquelles les  qui seront définitivement les fleurs de notre voyage.
+Nous aurions pu espérer un trajet plat mais pour notre grand malheur, le chemin passe son temps à faire du monte-descend et nous avec. Malgré le ciel qui reste bouché comme les voix du Saint Esprit, le cadre est splendide. Nous longeons le Golfe de Gaspé, allant de criques en criques, l'eau est transparente (et surement très froide), parfois des falaises donnent d'impressionnantes vues en plongée. À l'occasion il est possible de voir des phoques jouer dans l'eau (ou chasser, on ne leur a pas demandé). La côte est là encore bordée de nombreuses fleurs sauvages parmi lesquelles les [polyglop](http://www.flickr.com/photos/hoedic/217261240/) qui seront définitivement les fleurs de notre voyage.
 
 
 ![Image]({{ site.url }}/images/3659_450cbcbb83_z_d.jpg)

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ah, cool,  vient d'annoncer sa retraite anticipée de la blogoboule. Ça va libérer une place dans mon agrégateur puis ça m'évitera de lire de nouveau les âneries débitées par un sale barman imbu de sa personne.
+Ah, cool, [Piette](http://piette.blogspot.com/2007/06/hell-of-ride.html) vient d'annoncer sa retraite anticipée de la blogoboule. Ça va libérer une place dans mon agrégateur puis ça m'évitera de lire de nouveau les âneries débitées par un sale barman imbu de sa personne.
 
 D'un aute coté, c'est dommage, j'aurais bien voulu rencontrer un jour ce prétentieux personnage, mais là du coup, c'est raté, je n'aurais jamais l'occasion de lui serrer la pince. C'est plate.
 
@@ -20,4 +20,4 @@ D'un aute coté, c'est dommage, j'aurais bien voulu rencontrer un jour ce préte
 
 ***
 
-En même temps que d'écrire ce petit billet stupide, j'écoutais le dernier épisode des . Franchement, comment peut-on trouver ça drôle. Déjà, comment peut-on écouter ça jusqu'au bout sans avoir à se forcer. Enfin bref...
+En même temps que d'écrire ce petit billet stupide, j'écoutais le dernier épisode des [têtes à claques](http://www.tetesaclaques.tv/video.php?vid=171). Franchement, comment peut-on trouver ça drôle. Déjà, comment peut-on écouter ça jusqu'au bout sans avoir à se forcer. Enfin bref...

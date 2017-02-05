@@ -42,7 +42,8 @@ Je me souviens, quand j'étais au Sénégal, et que les hommes me parlaient de l
 
 Je ne sais pas où est la vraie solution.  On ne peut pas changer la société, le mode de vie effrené, la solitude.  Mais quand on a une personne qui souffre à sa manière devant nous, on peut l'aider avec nos outils, certes imparfaits, mais qui sont bien mieux que rien du tout.
 
+[Attention fragiles !](http://www.ledevoir.com/2006/06/09/111182.html)
 
+[La terrible bête](http://pohenegamouk.free.fr/index.php?2006/06/06/35-la-terrible-bete)
 
-
-
+[L'identité suite](http://pohenegamouk.free.fr/index.php?2006/07/15/70-l-identite-suite)

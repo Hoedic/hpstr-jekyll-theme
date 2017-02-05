@@ -8,7 +8,7 @@ categories:
 ---
 
 
-C'était déjà il y a quelques jours, mais tant pis.  C'était pour dire que j'ai bien apprécié ma soirée à Yulblog, mercredi soir.  Effectivement, on n'y trouvait pas grand-monde, pas de , pas de , pas de , pas de , pas de , pas de , pas de...
+C'était déjà il y a quelques jours, mais tant pis.  C'était pour dire que j'ai bien apprécié ma soirée à Yulblog, mercredi soir.  Effectivement, on n'y trouvait pas grand-monde, pas de [Grande Rousse](http://www.francopee.com/carnet/), pas de [Karl](http://www.la-grange.net/), pas de [Steph](http://unadorned.org/dandruff/), pas de [Martine](http://www.martinepage.com/blog/index.html), pas de [Me](http://www.rundom.com/extravaganza/), pas de [Mathieu](http://mathieusylvain.net/), pas de...
 
 En novembre dernier, à force de vouloir connaître tout le monde, j'avais fini par avoir l'impression de ne parler avec personne.  Au moins, cette fois-ci, j'ai pu creuser davantage avec les présents, aux dépens des absents.  Et c'est mieux ainsi, après tout.  Je suis définitivement plus à l'aise en petit comité qu'en grand groupe.
 

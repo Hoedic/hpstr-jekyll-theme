@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Hier j'étais à un  sur l'analyse du cycle de vie où j'ai rencontré mon ancienne boss. Elle avait un billet pour la  d' et . Ça me faisait rater la réunion bi-mensuelle d', mais j'étais curieux d'y aller.
+Hier j'étais à un [congrès](http://www.forumciraig.congresbcu.com/index.html) sur l'analyse du cycle de vie où j'ai rencontré mon ancienne boss. Elle avait un billet pour la [conférence](http://www.cyberpresse.ca/technosciences/article/article_complet.php?path=/technosciences/article/26/1,5296,0,102005,1203067.php) d'[Hubert Reeves](http://www.hubertreeves.info/) et [David Suzuki](http://www.davidsuzuki.org/). Ça me faisait rater la réunion bi-mensuelle d'[Île Sans Fil](http://ilesansfil.org/), mais j'étais curieux d'y aller.
 
-Autant dire ce qui est, Hubert et David sont des stars : 3400 personnes présentes, la file d'attente allait d'un sens puis de l'autre sur toute la longueur du Palais de Congrès. Des personnes arpentaient les lieux à la recherche désespérée de billet à acheter. Bon coup de  qui avait dépêché quelques personnes sur place pour distribuer des cartes ; 3400 électeurs potentiels bien ciblés !
+Autant dire ce qui est, Hubert et David sont des stars : 3400 personnes présentes, la file d'attente allait d'un sens puis de l'autre sur toute la longueur du Palais de Congrès. Des personnes arpentaient les lieux à la recherche désespérée de billet à acheter. Bon coup de [Projet Montréal](http://www.projetmontreal.org/) qui avait dépêché quelques personnes sur place pour distribuer des cartes ; 3400 électeurs potentiels bien ciblés !
 
-Cette conférence, organisée par , rentre dans une grande campagne de sensibilisation accompagnant la  qui aura lieu le mois prochain ici-même, à Montréal. Et comme  précédemment, le Canada est un hôte bien négligeant en la matière.
+Cette conférence, organisée par [Équiterre](http://www.equiterre.qc.ca/), rentre dans une grande campagne de sensibilisation accompagnant la [conférence des Nations Unies sur les changements climatiques](http://www.montreal2005.gc.ca/) qui aura lieu le mois prochain ici-même, à Montréal. Et comme [signalé]({{ site.url }}/2005/10/20/Le-Canada-un-mauvais-eleve) précédemment, le Canada est un hôte bien négligeant en la matière.
 
 ![Image]({{ site.url }}/images/1271_536cfa2385_z_d.jpg)
 <div class="photoattrib">Conference on climate change</div>

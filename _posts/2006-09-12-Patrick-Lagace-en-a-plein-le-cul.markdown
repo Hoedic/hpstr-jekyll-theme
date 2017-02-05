@@ -10,7 +10,7 @@ categories:
 
 Dernièrement je me désintéresse un peu de l'actualité passionnante des blogues. Je remarque cependant dans mon agrégateur les cris aux abois de certains blogostars, notamment parmi les journalistes.
 
-Ne vous méprenez pas : je trouve formidable que certains journalistes s'ouvrent à ces outils.  est l'un de ceux qui a le mieux saisi la puissance du concept en l'utilisant en complément utile de sa pratique "classique".
+Ne vous méprenez pas : je trouve formidable que certains journalistes s'ouvrent à ces outils. [Patrick Lagacé](http://pat.blogue.canoe.com/pat/2006/09/12/flabbergaste) est l'un de ceux qui a le mieux saisi la puissance du concept en l'utilisant en complément utile de sa pratique "classique".
 
 Mais, à l'image de tous ceux bénéficiant d'une certaine renommée *hors blogosphère*, le blogue de Patrick est envahi par les trolls au point de le désespérer de plus en plus régulièrement, ainsi que bon nombre de ses lecteurs. En effet l'expérience "blogues" n'est pleinement vécue que par les commentaires(Vision un peu exagérée, bien des blogues sont passionnants malgré l'absence de commentaire, volontairement ou non. Mais Patrick Lagacé, par exemple, a pris le parti d'en faire un lieu de vocalise et la putréfaction des commentaires représente une amputation majeure du contenu) ; que ces derniers soient noyautés par les abrutis et l'intérêt diminue fortement.
 

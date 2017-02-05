@@ -18,4 +18,4 @@ Le pire reste encore Polytechnique : du fait de travaux, ils nous ont fait une j
 
 ***
 
-À noter que j'ai repris la piscine et l'. J'avais oublié que c'était aussi crevant le sport !
+À noter que j'ai repris la piscine et l'[aikido]({{ site.url }}/2004/03/06/Aikido). J'avais oublié que c'était aussi crevant le sport !

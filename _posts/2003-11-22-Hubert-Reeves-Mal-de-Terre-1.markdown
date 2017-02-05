@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Non, je ne compte pas citer le livre de même titre (je ne l'ai pas lu), mais la  donnée par Hubert Reeves fin octobre.  Je trouve que son message mérite largement d'être diffusé, même s'il est empli d'évidences.  Voici donc enfin ce qu'il nous a transmis ce soir-là.
+Non, je ne compte pas citer le livre de même titre (je ne l'ai pas lu), mais la [conférence](http://ebb.monblogue.com/2003/10/28) donnée par Hubert Reeves fin octobre.  Je trouve que son message mérite largement d'être diffusé, même s'il est empli d'évidences.  Voici donc enfin ce qu'il nous a transmis ce soir-là.
 
 La belle histoire, c'est celle de l'Univers en expansion, de la complexité croissante, des galaxies, des nébuleuses, des étoiles (ces réacteurs thermonucléaires) et du soleil.  La relativité générale, le refroidissement, le big bang, les particules élémentaires, les quatre forces qui régissent le monde (gravité, force électromagnétique, forces nucléaires forte et faible), le rayonnement cosmologique millimétrique homogène (si si)...  "Vous ne voyez que l'écume des vagues", a-t-il dit également, faisant référence à l'importante masse de matière invisible, qui échappe encore aux astrophysiciens.
 

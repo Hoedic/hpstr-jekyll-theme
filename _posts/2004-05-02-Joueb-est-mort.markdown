@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Surement que j'ai manqué un épisode, mais ça fait plusieurs jours que mon  échoue à pinguer le service de Joueb et là, ben j'ai essayé d'ouvrir leur site et ça ne marche pas...
+Surement que j'ai manqué un épisode, mais ça fait plusieurs jours que mon [script](../scripts/ping/) échoue à pinguer le service de Joueb et là, ben j'ai essayé d'ouvrir leur site et ça ne marche pas...
 
 ils sont morts ? Rachetés ? Petit-suicidés ?

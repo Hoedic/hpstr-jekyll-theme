@@ -10,15 +10,15 @@ categories:
 
 Toujours pas d'entente à l'horizon...
 
+[Québec saisit le Conseil des services essentiels](http://www.cyberpresse.ca/article/20061127/CPACTUALITES/611270826/5032/CPACTUALITES)
 
+[Québec revient à la charge](http://www.radio-canada.ca/nouvelles/Politique/2006/11/26/003-quebec-specialistes.shtml)
 
+[Médecins spécialistes: Couillard durcit le ton](http://www.ledevoir.com/2006/11/27/123684.html)
 
+Update : [Deux universités suspendent leurs stages de médecine](http://www.cyberpresse.ca/article/20061127/CPACTUALITES/61127044/5032/CPACTUALITES)
 
-
-
-Update : 
-
-
+[Le Conseil des services essentiels convoque la FMSQ et Québec](http://www.cyberpresse.ca/article/20061127/CPACTUALITES/61127044/1019/CPACTUALITES)
 
 Les deux parties sont connes. Le gouvernement qui refuse de commencer par retirer sa vilaine loi 37. Les spécialistes qui refusent ne serait-ce que de négocier et qui refusent toutes les offres, laissant monter l'enchère. Se sentant tout-puissants.
 
@@ -30,4 +30,4 @@ En plus, qui a envie de retourner en stage avec des médecins frustrés obligés
 
 Non, il faudrait vraiment que ça se règle autrement !
 
-Update : très beau texte d'opinion dans La Presse, auquel j'adhère à 100%.  À lire absolument !
+Update : très beau texte d'opinion dans La Presse, auquel j'adhère à 100%. [Des pubs honteuses](http://www.lenouvelliste.qc.ca/article/20061123/CPOPINIONS/611230961/5288/CPOPINIONS) À lire absolument !

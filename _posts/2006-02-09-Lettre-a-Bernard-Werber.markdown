@@ -24,7 +24,7 @@ Certes, depuis cette époque, nous ne fûmes pas de bon Werberiens. Nous ne t'av
 
 À la place, nous avons préféré nous aimer pendant 6 ans et décidé de célébrer ça par notre récent mariage.
 
-Les temps ont changé, presque 10 ans, d'ailleurs ton crâne désormais vierge de tout cheveu en atteste. À cette occasion, nous avons décidé, avec  de nos témoins, elle aussi une fourmi des premiers instants, d'organiser un *revival* #fourmis durant l'année 2006. Oh, rien n'est encore organisé, nous ne connaissons ni le lieu, ni la date, mais tu serais le bienvenu parmi nous.
+Les temps ont changé, presque 10 ans, d'ailleurs ton crâne désormais vierge de tout cheveu en atteste. À cette occasion, nous avons décidé, avec [une](http://leeloolene.free.fr/) de nos témoins, elle aussi une fourmi des premiers instants, d'organiser un *revival* #fourmis durant l'année 2006. Oh, rien n'est encore organisé, nous ne connaissons ni le lieu, ni la date, mais tu serais le bienvenu parmi nous.
 
 Mais même si tu ne peux pas venir, sache que nous te remercions pour ce que tu as fais pour nous... sans le savoir.
 
@@ -34,6 +34,6 @@ Bien à toi,
 
 Stéphane (aka Flying Sausage puis Hoedic) et Caroline (aka Ebb Tide)
 
-Nos adresses e-mails se trouvent ici : 
+Nos adresses e-mails se trouvent ici : [http://www.mon-ile.net/contact.html](http://www.mon-ile.net/contact.html)
 
 P.S : Désolé pour les remarques concernant ton statut capilaire, mais il faut bien dire que c'était un sujet récurrent dans nos discussions en ligne.

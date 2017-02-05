@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Serait-ce la fin de l'affaire Métrobus c/ Ouvaton ? Toujours est-il que Métrobus a été  par le TGI de Paris dans le cadre de sa deuxième plainte selon laquelle Ouvaton aurait essayé d'entraver la justice. Toutefois Ouvaton se doit, encore une fois, de payer ses avocats, la procédure de Métrobus n'ayant pas été considérée abusive.
+Serait-ce la fin de l'affaire Métrobus c/ Ouvaton ? Toujours est-il que Métrobus a été [débouté](http://ouvaton.coop/extranet.html?id=74) par le TGI de Paris dans le cadre de sa deuxième plainte selon laquelle Ouvaton aurait essayé d'entraver la justice. Toutefois Ouvaton se doit, encore une fois, de payer ses avocats, la procédure de Métrobus n'ayant pas été considérée abusive.
 
 ***
 
@@ -25,6 +25,6 @@ S'il y a contestation sur l'avis de cette instance, alors on peut aller en cour.
 Dernière information venant d'Ouvaton : au lieu d'un nombre habituel de 70 000 par jour, les serveurs de la coopératives ont traité quelques 450 000 courriels vendredi dernier ! MyDoom a vraiment pris des proportions gigantisques.
 
 Articles de presse sur le verdict (malheureusement, beaucoup d'approximations mais bon) :
--  
--   
--  
+-  [Libé](http://www.liberation.fr/page.php?Article=175807)
+-  [TF1](http://news.tf1.fr/news/multimedia/0,,1637493,00.html) 
+-  [NouvelObs](http://permanent.nouvelobs.com/multimedia/20040203.OBS3613.html)

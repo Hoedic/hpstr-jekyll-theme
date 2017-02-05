@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Comme tout adulte naturellement constitué soumis à d'intenses pressions professionnelles n'ayant de temps pour rien mais vraiment rien de rien, nous avons sombré en workoholiques primaires dans une frénésie consumériste n'ayant d'égal que l'inverse de l'intérêt qu'éveille en nous  et Loft Story réunis.
+Comme tout adulte naturellement constitué soumis à d'intenses pressions professionnelles n'ayant de temps pour rien mais vraiment rien de rien, nous avons sombré en workoholiques primaires dans une frénésie consumériste n'ayant d'égal que l'inverse de l'intérêt qu'éveille en nous [Occupation Double](http://occupationdouble.canoe.ca/) et Loft Story réunis.
 
-Bref, ne reculant devant rien, nous allâmes en Communauto dans un gigantesque  banlieusard et, Dieu merci, Ikea nous sauva en nous livrant de nouvelles méga-bibliothèques ainsi qu'un massif meuble tivi tout-beau qui est quand même mieux quand on ne monte pas ses horribles pieds en acier (ça c'est du ).
+Bref, ne reculant devant rien, nous allâmes en Communauto dans un gigantesque [Powa-Centa](http://en.wikipedia.org/wiki/Power_centre) banlieusard et, Dieu merci, Ikea nous sauva en nous livrant de nouvelles méga-bibliothèques ainsi qu'un massif meuble tivi tout-beau qui est quand même mieux quand on ne monte pas ses horribles pieds en acier (ça c'est du [IkeHack](http://martinepage.com/blog/2007/08/02/ikea-of-montreal/)).
 
 Nous achetâmes aussi des thermostats électroniques anti-froid-aux-pieds, un nouveau bureau pour Femme, des paires de chaussures en veux-tu en voilà, des vêtements de vélo et j'allai même vendredi dernier d'une véritable razzia chez Golf Town pour changer ma série complète de bâton, optant à l'occasion pour un de ces massifs décocheurs à décrocher la tête du premier passant passant derrière moi alors que je m'élance pour frapper à 300 yards.
 

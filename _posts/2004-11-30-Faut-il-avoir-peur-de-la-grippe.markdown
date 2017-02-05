@@ -8,7 +8,7 @@ categories:
 ---
 
 
-L' cette semaine que le virus de la grippe aviaire serait vraisemblablement sous peu la source de la prochaine grande pandémie de grippe.
+L'[OMS a annoncé](http://www.courrierinternational.com/article.asp?obj_id=33957&provenance=newsletter&bloc=03) cette semaine que le virus de la grippe aviaire serait vraisemblablement sous peu la source de la prochaine grande pandémie de grippe.
 
 Qu'est-ce que ça veut dire ?
 
@@ -26,7 +26,7 @@ Certaines années, on s'est trompé et le vaccin ne protège pas très bien cont
 
 Le problème, c'est que quelques fois par siècle, une nouvelle souche de la grippe, qui ne ressemble pas du tout à celles des années précédentes, émerge.  C'est une **cassure**.  Dans ce cas, absolument personne n'a la moindre immunisation naturelle contre ce virus, et il fait des ravages dans les populations de tous les pays.
 
-La dernière fois que c'est arrivé, ça a donné la  en 1918, qui a causé des millions de morts et qui a contaminé la majeure partie de la population mondiale.
+La dernière fois que c'est arrivé, ça a donné la [grippe espagnole](http://www.dinosoria.com/grippe_espagnole.htm) en 1918, qui a causé des millions de morts et qui a contaminé la majeure partie de la population mondiale.
 
 Nous sommes *temporellement* "dus" pour avoir une nouvelle pandémie de grippe dans le même genre.  Le virus de la grippe aviaire ne ressemble aucunement à celui de la grippe de ces 50 dernières années.  Alors il semble le candidat-virus idéal.
 

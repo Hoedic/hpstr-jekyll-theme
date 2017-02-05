@@ -8,7 +8,7 @@ categories:
 ---
 
 
-En tant que fils unique blasé de la vie, je n'ai pas forcément beaucoup à dire pour rencontrer les exigences du  et Blork... hormis, bien entendu, ma rencontre avec Ebb, mais ça c'est une autre histoire ! Puis de toutes manières, elle en  mieux que moi ;)
+En tant que fils unique blasé de la vie, je n'ai pas forcément beaucoup à dire pour rencontrer les exigences du [singe de Martine](http://www.martinepage.com/blog/2004_02_01_archive.html#107636297223139607) et Blork... hormis, bien entendu, ma rencontre avec Ebb, mais ça c'est une autre histoire ! Puis de toutes manières, elle en [parle]({{ site.url }}/2004/02/11/Mes-singeries-pour-fevrier) mieux que moi ;)
 
 Mais j'ai quand même un peu à dire, une fois notamment, un moment, qui s'enfonce petit à petit dans le flou de ma mémoire mais qui me marquera pour toujours : le passage du Détroit de Gibraltar.
 

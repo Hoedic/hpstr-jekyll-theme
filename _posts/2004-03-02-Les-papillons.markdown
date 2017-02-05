@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Dimanche dernier, nous avons profité d'un dîner chez des amis dans l'est de Montréal pour aller voir l'exposition  du Jardin Botanique de Montréal.
+Dimanche dernier, nous avons profité d'un dîner chez des amis dans l'est de Montréal pour aller voir l'exposition [Papillon en libertés](http://www2.ville.montreal.qc.ca/jardin/propos/papillon.htm) du Jardin Botanique de Montréal.
 
 Le Jardin Botanique, qui propose à l'année l'accès à des serres très jolies, en plus de 2 kilomètres carré de terrain l'été, organise chaque hiver, dans une des plus grandes serres, une expo sur les papillons.
 

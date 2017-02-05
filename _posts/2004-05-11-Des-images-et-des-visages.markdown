@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Dernière nouvelle : un  par les membres d'un groupuscule lié à Al-Qaeda soi-disant en reprisaille aux sévices contre les irakiens. C'est malheureux, c'est la loi du Talion qui est de retour.
+Dernière nouvelle : un [américain aurait été décapité](http://www.cyberpresse.ca/monde/article/1,151,1065,052004,676381.shtml) par les membres d'un groupuscule lié à Al-Qaeda soi-disant en reprisaille aux sévices contre les irakiens. C'est malheureux, c'est la loi du Talion qui est de retour.
 
 Je ne reviendrai pas sur le fond de tout ça, c'est assez horrible ; on l'entend et le voit suffisamment en une journée pour ne pas en rajouter. Et c'est de cette façon qu'on le voit qui me chagrine.
 

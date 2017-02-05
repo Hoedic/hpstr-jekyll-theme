@@ -10,9 +10,9 @@ categories:
 
 Quand j'y vais de mes prédictions futuristes de lunettes-écran à réalité augmentée, on me répond que je rêve, que ce serait plus facile de brancher un PC au cerveau ou je ne sais quoi d'autre.
 
-Alors, pour prouver que je suis pas totalement à coté de la plaque, voici 3 objets über-geek que je viens de trouver dans les **.
+Alors, pour prouver que je suis pas totalement à coté de la plaque, voici 3 objets über-geek que je viens de trouver dans les *[Wired Tools 2004](http://www.wired.com/wired/archive/12.12/tools.html)*.
 
--  Les  , des lunettes MP3, par Oakley :
+-  Les  [Thump](http://www.oakley.com/catalog/eyewear/thump/?cm_re=V45*FeaturedImage*ThumpTannerHall), des lunettes MP3, par Oakley :
 
 ![Image]({{ site.url }}/images/lunettes-mp3_04-12-2004.jpg)
 <div class="photoattrib">Les lunettes MP3</div>
@@ -21,7 +21,7 @@ Alors, pour prouver que je suis pas totalement à coté de la plaque, voici 3 ob
 
 Ok, c'est moche, c'est gros, mais c'est un début d'informatique intégrée aux lunettes. J'ai un peu des doutes sur le confort des écouteurs, mais bon...
 
--  Le , un mini-écran intégrable aux casques de moto :
+-  Le [MC1](http://www.sportvue.net/), un mini-écran intégrable aux casques de moto :
 
 ![Image]({{ site.url }}/images/casque-vision_04-12-2004.jpg)
 <div class="photoattrib">Le casque à image projetée</div>
@@ -30,7 +30,7 @@ Ok, c'est moche, c'est gros, mais c'est un début d'informatique intégrée aux 
 
 Comment avoir accès à sa vitesse ou au compte tour de sa moto sans perdre de vue la route ? Le MC1 affiche ces informations en transparence dans la partie supérieure du champ visuel avec une focale proche de l'infini... le tout basé sur une communication sans fil.
 
--  Les , des lunettes d'aide à la visée au golf
+-  Les [ProAim](http://www.proaim.com), des lunettes d'aide à la visée au golf
 
 ![Image]({{ site.url }}/images/lunettes-golf_04-12-2004.jpg)
 <div class="photoattrib">Les lunettes de golf à réalité augmentée</div>

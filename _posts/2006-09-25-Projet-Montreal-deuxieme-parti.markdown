@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ce Week-end avait lieu dans l'arrondissement de Rosemont des élections partielles mettant au prise , l'équipe Bourques (dont Bourques n'est plus mais c'est plus facile à replacer) et l'équipe Tremblay (maire actuel).
+Ce Week-end avait lieu dans l'arrondissement de Rosemont des élections partielles mettant au prise [Projet Montréal](http://projetmontreal.org/), l'équipe Bourques (dont Bourques n'est plus mais c'est plus facile à replacer) et l'équipe Tremblay (maire actuel).
 
 C'est "malheureusement" le candidat de l'équipe Tremblay qui a gagné, mais seulement 6 points devant Projet Montréal (38% contre 32%) et loin devant le troisième parti (23%).
 

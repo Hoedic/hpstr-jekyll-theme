@@ -12,6 +12,6 @@ categories:
 
 En parallèle direct avec cet heureux événement, mon portefeuille vient de s'alléger de 800 $ :)
 
-C'est rigolo d'avoir en main des outils aussi précis et spécifiques et de ne pas connaître leur maniement.  Heureusement qu' était là pour me montrer quoi faire avec un stétho : "ouvre la bouche et fait ahhhh...".
+C'est rigolo d'avoir en main des outils aussi précis et spécifiques et de ne pas connaître leur maniement.  Heureusement qu'[Hoëdic](http://hoedic.ouvaton.org/) était là pour me montrer quoi faire avec un stétho : "ouvre la bouche et fait ahhhh...".
 
 Avec mon premier sarrau acheté l'an dernier et mon numéro de matricule qui s'en vient, me voilà bien équipée !

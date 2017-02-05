@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Pour faire quelque chose d'extraordinaire. Car après 25 ans, on n'est plus précoce du tout et tout ce que l'on peut réaliser n'est que normalité. C'est  qui m'a fait remarquer ça, à l'occasion de son anniversaire récent à lui.
+Pour faire quelque chose d'extraordinaire. Car après 25 ans, on n'est plus précoce du tout et tout ce que l'on peut réaliser n'est que normalité. C'est [Philippe-A.](http://piette.blogspot.com/2006/12/une-anne-encore.html) qui m'a fait remarquer ça, à l'occasion de son anniversaire récent à lui.
 
 Mais bon, honnêtement, je n'en ai rien à faire des dates et des délais. Il risque assez peu de m'arriver quelque chose d'extraordinaire cette année, je ne participe même pas à la loterie ! Je n'essaie pas non plus d'écrire de livre, alors je ne risque pas d'en publier un ;)
 

@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Quelqu'un sait ce qui a pu arriver à la fameuse , qui était pourtant bien faite et très utile ?
+Quelqu'un sait ce qui a pu arriver à la fameuse [encyclopédie de Yahoo!](http://fr.encyclopedia.yahoo.com), qui était pourtant bien faite et très utile ?
 
 Des suggestions pour la remplacer par une autre bonne encyclopédie en ligne gratuite ?

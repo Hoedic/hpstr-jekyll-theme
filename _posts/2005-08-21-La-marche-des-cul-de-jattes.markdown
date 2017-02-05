@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Samedi nous sommes allé voir  qui, oui, est toujours à l'affiche ici et fait presque salle pleine en plus !
+Samedi nous sommes allé voir [La marche de l'empereur](http://www.imdb.com/title/tt0428803/) qui, oui, est toujours à l'affiche ici et fait presque salle pleine en plus !
 
-Beau film, belles prises de vue mais finalement rien d'extraordinaire ; du déjà vu dans Ushuaia qui avait également montré ce qui allait servir à faire  aussi.
+Beau film, belles prises de vue mais finalement rien d'extraordinaire ; du déjà vu dans Ushuaia qui avait également montré ce qui allait servir à faire [Le Peuple Migrateur](http://www.imdb.com/title/tt0301727/) aussi.
 
 Une connaissance m'a fait part de son étonnement sur la vision anthropomorphique du film (Leeloolène était-ce toi ?), critique avec laquelle je suis assez d'accord mais qui accroche visiblement le public. Que de "Ooh" et de "Aaaah" à la vue de ces manchots tantôt se reproduisant, tantôt se faisant manger par des phoques.
 
@@ -20,8 +20,8 @@ Ces volatiles ont quand même compris que l'oignon fait la force quand ils font 
 
 Inutile de chercher ce que donnerait un groupe conséquent d'humains dans cette situation.
 
-Je suis en train de lire   (Pour être juste, je lis la version française, , mais je n'apprécie guère le choix de traduction, de parler de raison ou de tort. Damasio avait, ce que je lui reproche, décidé de titre  et ça me semble évident qu'il ne voulait pas prendre de nouveau un parti ou un autre dans ce titre)du neurologue Antonio Damasio. Dans ce livre il remonte les mécanismes donnant lieu aux émotions puis aux sentiments chez les humains (et quelque part à l'état de conscience.) La notion d'évolution, de sélection par le besoin, y est évidente. De là on peut se demander de quels besoins sont sorties certaines pulsions typiquement humaines comme les pulsions destructrices. Comme je l'ai entendu de la bouche d'Axel Kahn, le propre de l'humain est d'être capable d'être inhumain.
+Je suis en train de lire [Looking for Spinoza](http://www.amazon.com/exec/obidos/tg/detail/-/B0001OOUD8/)  (Pour être juste, je lis la version française, [Spinoza avait raison](http://www.amazon.fr/exec/obidos/ASIN/2738112641/), mais je n'apprécie guère le choix de traduction, de parler de raison ou de tort. Damasio avait, ce que je lui reproche, décidé de titre [L'erreur de Descartes](http://www.amazon.fr/exec/obidos/ASIN/2738103030/) et ça me semble évident qu'il ne voulait pas prendre de nouveau un parti ou un autre dans ce titre)du neurologue Antonio Damasio. Dans ce livre il remonte les mécanismes donnant lieu aux émotions puis aux sentiments chez les humains (et quelque part à l'état de conscience.) La notion d'évolution, de sélection par le besoin, y est évidente. De là on peut se demander de quels besoins sont sorties certaines pulsions typiquement humaines comme les pulsions destructrices. Comme je l'ai entendu de la bouche d'Axel Kahn, le propre de l'humain est d'être capable d'être inhumain.
 
-Pourquoi   même pour se marrer ? Quel plaisir, au fond ? Et inutile d'énumérer nombre d'exemple de violence et de destructions gratuites qui ne peuvent qu'être le fruit d'humains.
+Pourquoi [jeter une dinde congelée sur une voiture](http://www.salebete.net/archives/000686.html)  même pour se marrer ? Quel plaisir, au fond ? Et inutile d'énumérer nombre d'exemple de violence et de destructions gratuites qui ne peuvent qu'être le fruit d'humains.
 
 D'ailleurs je me demande même pourquoi je me fatigue à gaspiller ma salive sur certains aspects de la bêtise humaine...

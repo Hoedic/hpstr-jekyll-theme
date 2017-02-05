@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Ils sont  à s'être extasiés, il y a un certain temps, sur ce  de Radio-Canada portant sur les banlieues.
+Ils sont [plusieurs](http://carnets.ixmedia.com/magellan/archives/004673.html#004673) à s'être extasiés, il y a un certain temps, sur ce [dossier](http://archives.radio-canada.ca/300c.asp?id=0-10-1202) de Radio-Canada portant sur les banlieues.
 
 Alors j'ai eu envie de vous parler de ma banlieue, Repentigny, où j'ai vécu la seconde partie de mon enfance ainsi que mon adolescence.  D'ailleurs, ma maman et mon frère y résident toujours.
 

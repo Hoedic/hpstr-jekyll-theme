@@ -12,7 +12,7 @@ Ce dernier week-end a été un peu moins amusant que les précédents.  Il faut 
 
 Malgré tout, j'ai su tirer profit de mes soirées et faire la grasse matinée le matin !
 
-Jeudi soir dernier était une chaude soirée au ciel clair.  J'en ai profité pour faire un tour au  pour voir jouer  dans le cadre du .
+Jeudi soir dernier était une chaude soirée au ciel clair.  J'en ai profité pour faire un tour au [Théâtre de Verdure](http://ville.montreal.qc.ca/portal/page?_pageid=98,1483552&_dad=portal&_schema=PORTAL) pour voir jouer [l'Ensemble Montréal Tango](http://www.emontrealtango.com/) dans le cadre du [festival international de tango de Montréal](http://www.festivaldetangodemontreal.qc.ca/).
 
 
 ![Image]({{ site.url }}/images/9576_04bbe0ab3e_z_d.jpg)
@@ -32,7 +32,7 @@ Il y avait un monde de fous au théâtre pour cette représentation.  Mais quell
 
 
 
-Vendredi soir, nous sommes allés étrenner le nouveau site du festival , à notre grand désarroi déménagé du Quartier Latin au .  Dommage.
+Vendredi soir, nous sommes allés étrenner le nouveau site du festival [Juste pour rire](http://www.hahaha.com/humour-2006.html), à notre grand désarroi déménagé du Quartier Latin au [Quartier des spectacles](http://www.quartierdesspectacles.com/fr/accueil/).  Dommage.
 
 
 ![Image]({{ site.url }}/images/5864_d45ea9ea80_z_d.jpg)
@@ -60,7 +60,7 @@ J'ai toujours aimé ce festival, non pas pour les spectacles en salle (je n'y su
 
 
 
-Samedi soir, après un bon petit repas à base de sushis au fameux Anita que nous a tant vanté , nous avons remis ça pour une balade au pied du pont Jacques-Cartier avant d'apercevoir les feux d'artifice...
+Samedi soir, après un bon petit repas à base de sushis au fameux Anita que nous a tant vanté [Olivier](http://www.olivierdemontreal.ca/blogue/), nous avons remis ça pour une balade au pied du pont Jacques-Cartier avant d'apercevoir les feux d'artifice...
 
 
 ![Image]({{ site.url }}/images/1865_88aa08aa49_z_d.jpg)
@@ -78,6 +78,6 @@ Samedi soir, après un bon petit repas à base de sushis au fameux Anita que nou
 
 Enfin, dimanche soir, pendant le dernier sprint de révisions, je suis retournée au Théâtre de Verdure pour le spectacle de danse de "20 000 lieues sur la mer",  intitulé Les Sortilèges, danses du monde.  Un peu d'évasion sur les thèmes maritime et des voyages.  Parfait pour la canicule ambiante !
 
-Voilà, mes examens maintenant terminés, je dois encore passer au travers de ma dernière semaine de stage en salle d'accouchement, de nuit.  Je découvre la vie underground des boulangers, des , des  et autres décalés de ce monde ;)
+Voilà, mes examens maintenant terminés, je dois encore passer au travers de ma dernière semaine de stage en salle d'accouchement, de nuit.  Je découvre la vie underground des boulangers, des [chauffeurs de taxis](http://taxidenuit.blogspot.com/), des [leeloolène](http://leeloolene.free.fr/) et autres décalés de ce monde ;)
 
 Ensuite, au sacrifice d'une partie de mes vacances, deux petites semaines dans le service de... génétique !

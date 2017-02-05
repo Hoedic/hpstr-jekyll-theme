@@ -23,4 +23,4 @@ Une partie plafond du Musée des civilisations du Canada<br/> à Ottawa (enfin �
 
 ***
 
-*Message à caractère informatif* : Yulblog  à compter de ce mercredi 3 mai, au Laïka, 4040 St-Laurent (coin Duluth), dans la "nouvelle" partie (celle à gauche quand on entre). C'est une bonne nouvelle qui sera prochainement suivie de l'interdiction de fumer dans les bars :D
+*Message à caractère informatif* : Yulblog [déménage](http://yulblog.org/archives/002748.html) à compter de ce mercredi 3 mai, au Laïka, 4040 St-Laurent (coin Duluth), dans la "nouvelle" partie (celle à gauche quand on entre). C'est une bonne nouvelle qui sera prochainement suivie de l'interdiction de fumer dans les bars :D

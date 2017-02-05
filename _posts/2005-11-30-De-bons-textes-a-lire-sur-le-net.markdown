@@ -8,7 +8,7 @@ categories:
 ---
 
 
- de la "tyrannie douce" des USA.  Très intéressant !
+[Olivier nous parle](http://www.carnetsdimages.org/index.php?p=7&pb=637&debut=0) de la "tyrannie douce" des USA.  Très intéressant !
 
 
 ![Image]({{ site.url }}/images/2420_2e09c275cd_z_d.jpg)
@@ -33,7 +33,7 @@ categories:
 
 
 
-Et Martineau (ou plutôt,  ;)) de la vitesse, du temps et de la patience.  Ça fait du bien de prendre le temps de les lire.
+Et Martineau (ou plutôt, [les gens qui ont réagi](http://www.voir.ca/martineau/) ;)) de la vitesse, du temps et de la patience.  Ça fait du bien de prendre le temps de les lire.
 
 
 ![Image]({{ site.url }}/images/1517_00720def95_z_d.jpg)

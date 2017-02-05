@@ -12,10 +12,10 @@ Je ne parlererai pas d'immigration.  Le Canada (et le Québec) aiment tellement 
 
 Non, là, je vais me contenter de relayer une gentille petite affaire, afin qu'elle circule et que tout le monde soit au courant.
 
-Ça se passe dans un contexte d'immigration, mais une histoire très similaire a eu lieu sur le site d'étudiants en médecine que je fréquente.  C'est l'histoire universelle d'une personne qui se permet de formuler une  fondée, argumentée et retenue, chez elle, dans sa cour, sur sa page personnelle, concernant un autre site web qu'elle ne considère pas très honnête, puisque pratiquant censure (d'accord, chacun fait ce qu'il veut sur son site) et concurrence déloyale.
+Ça se passe dans un contexte d'immigration, mais une histoire très similaire a eu lieu sur le site d'étudiants en médecine que je fréquente.  C'est l'histoire universelle d'une personne qui se permet de formuler une [critique](http://hoedic.ouvaton.org/IMG/texte-patriote.html) fondée, argumentée et retenue, chez elle, dans sa cour, sur sa page personnelle, concernant un autre site web qu'elle ne considère pas très honnête, puisque pratiquant censure (d'accord, chacun fait ce qu'il veut sur son site) et concurrence déloyale.
 
 Cette même personne voit son site au complet fermé *illico presto* par voie d'huissier interposé et demander la modique somme de 30 000 $ en guise de réparation.
 
- résume bien la situation .   évoque tour à tour la  partie de l'affaire, puis la , abasourdi.  Kicou en rajoute une couche .  Et stgermain de nous présenter son résumé caustique et humoristique .
+[Kicou](http://blog.kicou.com/) résume bien la situation [ici](http://blog.kicou.com/a284.html).  [Hoëdic](http://hoedic.ouvaton.org/) évoque tour à tour la [première](http://hoedic.ouvaton.org/blog114.html) partie de l'affaire, puis la [seconde](http://hoedic.ouvaton.org/blog119.html), abasourdi.  Kicou en rajoute une couche [là](http://hoedic.ouvaton.org/blog119.html).  Et stgermain de nous présenter son résumé caustique et humoristique [de ce côté](http://stgermain.textamerica.com/?r=162143).
 
 J'imagine que je m'expose à une pousuite de 30 000 $ avec ce billet...

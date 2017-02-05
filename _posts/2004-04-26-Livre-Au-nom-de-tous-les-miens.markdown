@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je viens de terminer ** un livre de Martin Gray qui m'a été offert lors de mon passage en France.
+Je viens de terminer *[Au nom de tous les miens](http://www.amazon.fr/exec/obidos/ASIN/2266122215/402-7439605-4153731)* un livre de Martin Gray qui m'a été offert lors de mon passage en France.
 
 Cette autobiographie, en plus d'être recommable à la lecture devrait figurer en bonne place dans la liste des incontournables à étudier en français au lycée... en plus ça nous changerait un peu des Zola et autres.
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La problématique soulevée par la  et d'une  m'a amené à faire quelques recherches sur internet et à tomber sur le fameux *blue ribbon*.
+La problématique soulevée par la [fermeture d'un site internet]({{ site.url }}/2003/11/08/Coup-de-gueule) et d'une [demande de 30.000$]({{ site.url }}/2003/11/10/Le-masque-tombe) m'a amené à faire quelques recherches sur internet et à tomber sur le fameux *blue ribbon*.
 
 ![Image]({{ site.url }}/images/blueribbon-banner.gif)
 <div class="photoattrib">Blue Ribbon Campaign</div>

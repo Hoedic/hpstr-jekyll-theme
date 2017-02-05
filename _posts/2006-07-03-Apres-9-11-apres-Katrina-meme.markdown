@@ -8,7 +8,7 @@ categories:
 ---
 
 
- est possiblement l'un des meilleurs sites/blogues traitant des questions environnementales. Leur logorhée rend le suivi difficile, mais certains articles peuvent difficilement être ignorés comme celui-ci : .
+[Worldchanging](http://www.worldchanging.com/) est possiblement l'un des meilleurs sites/blogues traitant des questions environnementales. Leur logorhée rend le suivi difficile, mais certains articles peuvent difficilement être ignorés comme celui-ci : [New Orleans, everything has changed](http://www.worldchanging.com/archives/004629.html).
 
 Il permet notamment de mettre en relation l'attaque du 11 Septembre et l'immense impact de l'ouragan Katrina. Ces deux événements furent parmi les plus meutriers (pour des crises ponctuelles) aux États-Unis durant l'ère contemporaine. Tous deux sont arrivés dans un contexte prévisible et dans les deux cas les instances en cause furent accusées d'avoir ignoré des signes avant-coureurs. Probablement pour les deux cas, ce sont des événements qui auront des répercutions à très long terme, il y aura eu un avant et un après 11 septembre, il y aura eu un avant et un après Katrina.
 

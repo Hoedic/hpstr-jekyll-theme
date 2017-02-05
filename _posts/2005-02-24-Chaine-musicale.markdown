@@ -8,7 +8,7 @@ categories:
 ---
 
 
- !
+[Etolane nous passe le flambeau](http://voldemots.blogspot.com/2005/02/musical-chain-incite-par-miss-candy-je.html) !
 
 Combien y a-t-il de fichiers de musique sur votre ordinateur ?  <br/>
 Au-delà de 2500.
@@ -28,4 +28,4 @@ Mc Solar, Solar pleure
 
 A qui allez-vous passer le relais (3 personnes) et pourquoi ?
 
-Je le passe à , à  et à  parce que j'ai envie de connaître leurs goûts musicaux ;)
+Je le passe à [Lithium](http://www.brindilles.net/lune/), à [Étoilefilante](http://angelic.canalblog.com/) et à [Eor Ar Bleizmor](http://eorarbleizmor.free.fr/) parce que j'ai envie de connaître leurs goûts musicaux ;)

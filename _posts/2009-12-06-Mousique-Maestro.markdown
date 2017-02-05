@@ -10,7 +10,7 @@ categories:
 
 Plutôt que de roupiller quelques heures pour aller travailler à 1h du matin, je vais remplir quelque peu ce blogue :)
 
-La Presse, qui vise souvent juste dans ses dossiers, aborda durant le week end un sujet léger mais pourtant important pour des parents: la mousique, et plus précisément la .
+La Presse, qui vise souvent juste dans ses dossiers, aborda durant le week end un sujet léger mais pourtant important pour des parents: la mousique, et plus précisément la [musique pour enfants](http://www.cyberpresse.ca/dossiers/musique-pour-enfants-fini-le-pablum-musical/).
 
 Sujet d'autant plus important pour nous que notre progéniture chérie se plait à se trémousser sur les musiques entrainantes et que depuis ses premiers mois, il nous semble plus évident que jamais que la musique adoucit les m&#339;urs.
 
@@ -19,7 +19,7 @@ Sujet d'autant plus important pour nous que notre progéniture chérie se plait 
 
 
 
-À l'instar de certains  cités dans ce dossier, je n'étais vraiment pas chaud à l'idée d'avoir de la musique pour enfant à tue-tête dans l'appartement. Heureusement femme prit les choses en main et nous trouva du Henri Dès, de la musique pour enfant certes, mais tout à faire écoutable et même agréable et nous reprenons avec plaisir les refrains en c&#339;ur.
+À l'instar de certains [intégristes chroniqueurs](http://www.cyberpresse.ca/opinions/chroniqueurs/marc-cassivi/200912/04/01-927972-chronique-dun-pere-indigne.php) cités dans ce dossier, je n'étais vraiment pas chaud à l'idée d'avoir de la musique pour enfant à tue-tête dans l'appartement. Heureusement femme prit les choses en main et nous trouva du Henri Dès, de la musique pour enfant certes, mais tout à faire écoutable et même agréable et nous reprenons avec plaisir les refrains en c&#339;ur.
 
 Par ailleurs, il nous semble désormais évident que Fils préfère la musique de son âge que du Linkin Park ou même du Zebda (pourtant ô combien entrainant).
 

@@ -12,7 +12,7 @@ Le baril de pétrole brut a explosé aujourd'hui son record de tous les temps à
 
 Ben moi, je trouve que c'est bien ! Bon, c'est certain qu'en tant que chomeur c'est pas mon intérêt la hausse du pétrole car ça met en péril la reprise en Amérique du Nord d'autant que la hausse ne semble pas prête de s'arrêter puisque certains analyse spéculent sur un baril à $50.
 
-Mais du point de vue environnemental, on peut toujours rêvé d'un éventuel effet bénéfique. Si on s'en tient à l'analyse proposé par , la plupart des pays de l'OPEP sont déjà proches de leurs capacités maximales d'extraction et d'autres pays comme le Venezuela et le Nigeria sont embourbés dans des cul-de-sac politiques pénalisant surement à long-terme leur capacité de production.
+Mais du point de vue environnemental, on peut toujours rêvé d'un éventuel effet bénéfique. Si on s'en tient à l'analyse proposé par [Le Monde](http://www.lemonde.fr/web/recherche_articleweb/1,13-0,36-364928,0.html), la plupart des pays de l'OPEP sont déjà proches de leurs capacités maximales d'extraction et d'autres pays comme le Venezuela et le Nigeria sont embourbés dans des cul-de-sac politiques pénalisant surement à long-terme leur capacité de production.
 
 Bref, même avec la meilleure volonté du monde des producteurs (ce qui reste à prouver), la production risque de demeurer faible, les réserves aussi, et le prix donc assez élevé. La conséquence si cette situation se pérénise durant plusieurs mois va être la recherche de moyens de baisser la consommation. Les entreprises fortement consommatrices de pétrole essaieront peut-être d'améliorer les process et les transports seront plus limités.
 

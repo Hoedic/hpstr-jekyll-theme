@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Christian Rioux, correspondant à Paris pour , signe un bel article sur la gratuité scolaire dans L'annuaire du Québec 2006, une publication de l'.
+Christian Rioux, correspondant à Paris pour [Le Devoir](http://www.ledevoir.com/), signe un bel article sur la gratuité scolaire dans L'annuaire du Québec 2006, une publication de l'[INM](http://www.inm.qc.ca/).
 
 L'auteur n'en revient de tous les savants calculs qui sont faits sur le sujet (compte pour les parents, remboursement de dettes à longue échéance...?).  Tout ça sans jamais s'interroger sur le *sens* de la gratuité.  Il s'agit pourtant d'un choix de société important, qui véhicule un message social.
 

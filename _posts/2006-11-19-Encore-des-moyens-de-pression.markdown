@@ -40,19 +40,20 @@ Quant aux étudiants, notre prochaine assemblée générale est prévue lundi so
 
 Je me permets aussi de craindre pour les futures relations entre étudiants et spécialistes. Personnellement, je me sens déjà pleine de rancune... Sur le plan humain, la situation est tout simplement intolérable. Tout ça pour se mettre plus d'argent dans les poches, quelle horreur quand même !
 
+[La relève prise entre deux feux](http://www.radio-canada.ca/nouvelles/societe/2006/11/03/003-FMRQ-specialistes.shtml)
 
+[Menace de grève chez les obstétriciens](http://www.cyberpresse.ca/article/20061114/CPACTUALITES/61114109/5663/CPACTUEL03)
 
+[Pressions accrues](http://www.radio-canada.ca/nouvelles/societe/2006/11/15/004-FMSQ-ligne-dure.shtml)
 
+[Nouvelle offre aux médecins spécialistes](http://www.cyberpresse.ca/article/20061116/CPACTUALITES/611161297/5025/CPDMINUTE)
 
+[Le bras de fer se poursuit](http://www.radio-canada.ca/nouvelles/Politique/2006/11/16/010-rejet-FMSQ-Couillard.shtml)
 
+[Les spécialistes rejettent l'offre du ministre](http://www.cyberpresse.ca/article/20061117/CPACTUALITES/611170765/1019/CPACTUALITES)
 
+[Couillard et les résidents invitent les spécialistes à négocier](http://www.cyberpresse.ca/article/20061117/CPACTUALITES/611171632/5025/CPDMINUTE)
 
+[Couillard prêt à négocier](http://www.cyberpresse.ca/article/20061118/CPACTUALITES/61118025/5032/CPACTUALITES)
 
-
-
-
-
-
-
-
-
+[Les spécialistes diagnostiquent une ouverture](http://www.ledevoir.com/2006/11/18/123120.html)

@@ -14,7 +14,7 @@ La plus grande prudence est de rigueur dans les mails que vous ouvrez. Les courr
 
 Les systèmes touchés sont tous les windows sans exception avec une prédominance pour ceux utilisant outlook express, le virus est véhiculé dans un fichier joint de 22,258 octets avec comme extention .pif, .scr, .exe, .cmd, .bat, ou .zip.
 
-Le virus crée un fichier Shimgapi.dll, c'est un moyen facile pour vous de vérifier si vous êtes infectés. Pour plus d'info : .
+Le virus crée un fichier Shimgapi.dll, c'est un moyen facile pour vous de vérifier si vous êtes infectés. Pour plus d'info : [Symantec](http://securityresponse.symantec.com/avcenter/venc/data/w32.novarg.a@mm.html).
 
 J'ai regardé vite fait ce que proposait Thunderbird en matière de filtre. S'il est assez intelligent pour le junk mail, je n'ai rien trouvé pour les virus. L'idéal serait surement une fonction permettant de tester les attachements selon des critères précis comme la taille du fichier (puisqu'on l'a très exactement là). Un filtre sur les extentions ne serait pas de trop non plus, franchement je ne reçois jamais d'image .pif et encore moins d'écran de veille (.scr), et je ne parle pas de fichiers de commande DOS (.cmd, .bat), quant aux executables (.exe), je les fous directement à la poubelle en général, j'ai pas confiance en ces choses là.
 

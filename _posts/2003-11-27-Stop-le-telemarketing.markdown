@@ -10,9 +10,9 @@ categories:
 
 Ça commence à bien faire de recevoir des coups de téléphone à 20h pour me proposer la toute dernière offre de Bell ou de Visa.
 
-Alors hier, avec surprise,  m'a parlé d'un site internet qui permet de se retirer des listes des télémarketeurs du Canada. J'y croyais pas, je pensais que c'était une bonne blague pour que certains puissent récupérer nos coordonnées (oui, parce que forcément, il faut rentrer toutes ses coordonnées pour se désinscrire).
+Alors hier, avec surprise, [Ebb](http://ebb.monblogue.com/main.php) m'a parlé d'un site internet qui permet de se retirer des listes des télémarketeurs du Canada. J'y croyais pas, je pensais que c'était une bonne blague pour que certains puissent récupérer nos coordonnées (oui, parce que forcément, il faut rentrer toutes ses coordonnées pour se désinscrire).
 
-Mais non, parce que c'est une amie en droit qui lui a donné ça, alors du coup, je le mets sur 'ternet, parce que je me dis que ça peut servir à d'autres personnes tannées comme moi : 
+Mais non, parce que c'est une amie en droit qui lui a donné ça, alors du coup, je le mets sur 'ternet, parce que je me dis que ça peut servir à d'autres personnes tannées comme moi : [http://www.the-cma.org/french/consumer/dnm_dnc.cfm](http://www.the-cma.org/french/consumer/dnm_dnc.cfm)
 
 Les gens qui font ça, c'est l'association canadienne de marketing, et 80% des cons qui nous emmerdent au téléphone au Canada qui font partie de cette association. Et les membres de cette association se doivent de respecter la liste des clients qui veulent pas être emmerdés. Le soucis c'est que j'ai pas trouvé la liste des membres.
 

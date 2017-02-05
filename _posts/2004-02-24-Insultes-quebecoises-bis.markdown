@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Après le  du gars qui insulte le service clientèle de Vidéotron, j'ai trouvé la transcription (puis un prof a peaufiné ce que j'avais trouvé ;). Donc si vous voulez prendre un cours d'expressions québécoises, sortez vos calepins !
+Après le [mp3]({{ site.url }}/2004/02/22/Insultes-quebecoises) du gars qui insulte le service clientèle de Vidéotron, j'ai trouvé la transcription (puis un prof a peaufiné ce que j'avais trouvé ;). Donc si vous voulez prendre un cours d'expressions québécoises, sortez vos calepins !
 
 <strike>Certains bouts manquent malgré tout :p</strike> C'est complet maintenant !
 

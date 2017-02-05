@@ -10,7 +10,7 @@ categories:
 
 Suite à mon stage de psychiatrie, je fais un genre de revue cinématographique des grands films traitant plus ou moins du sujet.
 
-- *À la folie... pas du tout*, film français, a été présenté au Ciné-Illusion de septembre par les résidents en psychiatrie. Une analyse a été faite sur le .  Je n'en dis pas plus.
+- *À la folie... pas du tout*, film français, a été présenté au Ciné-Illusion de septembre par les résidents en psychiatrie. Une analyse a été faite sur le [délire érotomaniaque](http://www.doctissimo.fr/html/sexualite/troubles/8589-erotomanie-amour-deraisonne.htm).  Je n'en dis pas plus.
 
 - *A Beautiful Mind* que nous avons loué dernièrement...
 
@@ -30,4 +30,4 @@ Quelques lectures récentes enfin :
 
 - *La cause des enfants*, de Françoise Dolto. Un livre offrant de multiples perspectives parfois surprenantes, souvent intéressantes, sur le développement de l'enfant. Je ne l'ai pas fini mais je compte enchaîner avec *La cause des adolescents*, ensuite.
 
-Nous avons aussi acheté le dernier magazine  qui traite... devinez de quoi ?  Eh oui ! de la Folie avec un grand "F". Thème bien traité (avec un graphisme très recherché) selon des points de vue variés, autant de l'intérieur que de l'extérieur, de près et de loin. Je découvre ce magazine par la même occasion.
+Nous avons aussi acheté le dernier magazine [*Urbania*](http://www.urbania.ca/) qui traite... devinez de quoi ?  Eh oui ! de la Folie avec un grand "F". Thème bien traité (avec un graphisme très recherché) selon des points de vue variés, autant de l'intérieur que de l'extérieur, de près et de loin. Je découvre ce magazine par la même occasion.

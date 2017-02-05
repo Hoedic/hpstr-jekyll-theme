@@ -8,16 +8,17 @@ categories:
 ---
 
 
-Après la signature du  en 1999, l'Union Européenne a récemment décidé d'accepter de nouveaux OGM à condition que ces derniers soient étiquetés clairement et traçables.
+Après la signature du [protocole de Carthagène](http://www.infogm.org/mot.php3?id_mot=122) en 1999, l'Union Européenne a récemment décidé d'accepter de nouveaux OGM à condition que ces derniers soient étiquetés clairement et traçables.
 
-Du moins, c'est ce qui devait se faire ! En effet, la Comission européenne annonce aujourd'hui qu'un  n'a pas réussit à obtenir une majorité pour ou contre la mise en marché du maïs .
+Du moins, c'est ce qui devait se faire ! En effet, la Comission européenne annonce aujourd'hui qu'un [comité d'expert](
+http://www.lemonde.fr/web/article/0,1-0@2-3214,36-345173,0.html) n'a pas réussit à obtenir une majorité pour ou contre la mise en marché du maïs [BT-11](http://strategis.ic.gc.ca/epic/internet/inbac-bec.nsf/vwGeneratedInterF/h_bk00272f.html).
 
 Et ce refus n'est pas uniquement idéologique ou mené par des intérêts protectionnistes. Cet organisme génétiquement modifié a fait l'objet de plusieurs études et s'est trouvé ne pas être conforme à certaines normes, non-conformité dont on évalue difficilement les conséquences, mais non-conforme tout de même. l'Afssa a également publié un rapport doutant de la qualité des tests qui ont été réalisé sur ce maïs dans le cadre d'une consommation humaine (maïs doux).
 
 ![Image]({{ site.url }}/images/ogm.jpg)
-De plus, le BT-11 a récemment battu le haut de l'affiche avec son homologue le Mon810 (Monsanto) pour avoir été retrouvé dans des cultures bios. Les agriculteurs en question n'ayant pas utilisé ces produits, il s'agit d'une .
+De plus, le BT-11 a récemment battu le haut de l'affiche avec son homologue le Mon810 (Monsanto) pour avoir été retrouvé dans des cultures bios. Les agriculteurs en question n'ayant pas utilisé ces produits, il s'agit d'une [contamination](http://www.ledevoir.com/2003/09/03/35267.html).
 
-Alors, dangereux ou pas ? La controverse continue à faire rage et sûrement jamais au grand jamais nous n'obtiendrons de réponse à l'unisson. Mais, à mon goût, la question va bien au-delà. Le fait est que la population, en grande partie, ne veut pas des OGM pour l'heure. Dans le cadre de la campagne *""*, le gouvernement anglais a lancé un grand sondage sur l'opinion des sujets de la Reine sur les OGM. Tony Blair, favorable à la reprise du développement des OGM au Royaume-Uni n'a pu caché l'ampleur de la déroute : 86 % des britanniques n'aiment pas l'idée de manger des OGM et 91 % estiment qu'ils ont des effets néfastes pour l'environnement !
+Alors, dangereux ou pas ? La controverse continue à faire rage et sûrement jamais au grand jamais nous n'obtiendrons de réponse à l'unisson. Mais, à mon goût, la question va bien au-delà. Le fait est que la population, en grande partie, ne veut pas des OGM pour l'heure. Dans le cadre de la campagne *"[GM Nation ?](http://www.gmpublicdebate.org/)"*, le gouvernement anglais a lancé un grand sondage sur l'opinion des sujets de la Reine sur les OGM. Tony Blair, favorable à la reprise du développement des OGM au Royaume-Uni n'a pu caché l'ampleur de la déroute : 86 % des britanniques n'aiment pas l'idée de manger des OGM et 91 % estiment qu'ils ont des effets néfastes pour l'environnement !
 
 Bien entendu, ce ne sont pas des résultats scientifiques, mais il serait bon, parfois, de respecter les choix de la population. Et la population dit clairement qu'elle ne veut pas d'OGM ce qui implique, au minimum, un étiquetage très strict. Au minimum car dans le cadre de contaminations évidentes et incontrôlables, la seule solution semble l'arrêt de cette culture !
 

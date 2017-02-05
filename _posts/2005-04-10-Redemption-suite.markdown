@@ -22,7 +22,7 @@ La nature renait de ses cendres, transperçant les cadavres de l'automne passé 
 
 
 
-Nombre d'entre nous souhaiterions ainsi transcender notre peau usée par la vie pour devenir quelqu'un d'autre. L'année dernière, à la même période, sur le point de partir en France pour deux semaines, j'écrivais un article intitulé **. Le déclic me sortant de ma morosité d'alors n'est pas arrivé en France, mais la joie de revoir Maman. Toutefois une sorte de déclic a eu lieu, ensuite, et ma situation à changée du tout au tout depuis.
+Nombre d'entre nous souhaiterions ainsi transcender notre peau usée par la vie pour devenir quelqu'un d'autre. L'année dernière, à la même période, sur le point de partir en France pour deux semaines, j'écrivais un article intitulé *[Redemption]({{ site.url }}/2004/04/08/Redemption)*. Le déclic me sortant de ma morosité d'alors n'est pas arrivé en France, mais la joie de revoir Maman. Toutefois une sorte de déclic a eu lieu, ensuite, et ma situation à changée du tout au tout depuis.
 
 ![Image]({{ site.url }}/images/printemps-bourgeon_2005-04-09.jpg)
 <div class="photoattrib">Les arbres pour bientôt</div>

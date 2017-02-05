@@ -11,11 +11,11 @@ categories:
 Bien que nous marchâmes pendant une bonne heure, nous n'avons pas trouvé Kyoto... trop loin parait-il. Pourtant c'était bien la marche vers Kyoto, non ?
 
 <blockquote class="citation">
-&#8220;On dit que la religion du XXIe siècle, c&#8217;est l&#8217;environnement, dit Daniel Breton, de la Coalition Vert-Kyoto. Autrefois, les gens allaient à la messe et, une fois rendus à la maison, baisaient, sacraient et buvaient. J&#8217;ai l&#8217;impression qu&#8217;on fait la même chose avec l&#8217;environnement.&#8221; La Presse, 22 avril 2007, via 
+&#8220;On dit que la religion du XXIe siècle, c&#8217;est l&#8217;environnement, dit Daniel Breton, de la Coalition Vert-Kyoto. Autrefois, les gens allaient à la messe et, une fois rendus à la maison, baisaient, sacraient et buvaient. J&#8217;ai l&#8217;impression qu&#8217;on fait la même chose avec l&#8217;environnement.&#8221; La Presse, 22 avril 2007, via [Marie-Josée](http://www.chroniquesdupatio.ca/2007/04/22/le-jour-de-la-terre/)
 </blockquote>
 
 <blockquote class="citation">
-«Cet après-midi, des milliers de gens participeront à des marches en faveur de la journée de la terre. Ils le font tous par principe, mais une fois à la maison, baiseront-ils en sacrant?», </blockquote>
+«Cet après-midi, des milliers de gens participeront à des marches en faveur de la journée de la terre. Ils le font tous par principe, mais une fois à la maison, baiseront-ils en sacrant?», [Marie-Josée](http://www.chroniquesdupatio.ca/2007/04/22/le-jour-de-la-terre/)</blockquote>
 
 Le greenwashing montre combien l'environnement a la cote ; il suffit de regarder la télévision 5 minutes pour voir s'en convaincre. Chaque entreprise nous montre dans les publicités combien ils sont beaux, ils sont bons et combien on est vert en achetant leurs produits.
 
@@ -26,9 +26,9 @@ Une difficulté pour les changements climatiques, ce sont tous les discours mult
 
 
 
-Marie-Josée dans son  soulève un point intéressant : la population ne fait rien par hasard. C'est une évidence en fait. J'aime bien dire que j'utilise mon vélo pour ne pas polluer, mais c'est simplement que je préfère ça. Nous n'avons pas de voiture parce que c'est un paquet de trouble et un peu parce que ça pollue. C'est pour cela que des actions politiques sont nécessaires, autant à l'attention des individus que des entreprises car espérer des changements massifs sans pression tient du rêve éveillé.
+Marie-Josée dans son [billet](http://www.chroniquesdupatio.ca/2007/04/22/le-jour-de-la-terre) soulève un point intéressant : la population ne fait rien par hasard. C'est une évidence en fait. J'aime bien dire que j'utilise mon vélo pour ne pas polluer, mais c'est simplement que je préfère ça. Nous n'avons pas de voiture parce que c'est un paquet de trouble et un peu parce que ça pollue. C'est pour cela que des actions politiques sont nécessaires, autant à l'attention des individus que des entreprises car espérer des changements massifs sans pression tient du rêve éveillé.
 
-Et c'est ce qu'est Kyoto ! Une pression économique intelligente pour obliger les entreprises à modifier leurs méthodes. Comme le dit Marissa Mayer, V-P chez Google, la . Dans les faits, les entreprises (et mêmes les individus) ne devraient pas voir négativement les contraintes, notamment environnementales. D'autant que les mécanismes de Kyoto se présentent plus sous la forme d'investissements et non de couts bruts (comme une taxe). D'ailleurs le mécanisme de bourse pour les émissions a déjà montré sa force... aux États-Unis (pour les sulfures atmosphériques responsables des pluies acides). Et Kyoto offre des mécanismes supplémentaires comme d'aller chercher des crédits hors pays, notamment dans les pays en voie de développement non signataires, un moyen de les inclure.
+Et c'est ce qu'est Kyoto ! Une pression économique intelligente pour obliger les entreprises à modifier leurs méthodes. Comme le dit Marissa Mayer, V-P chez Google, la [créativité aime les contraintes](http://www.michelleblanc.com/2007/04/13/comment-favoriser-innovation/). Dans les faits, les entreprises (et mêmes les individus) ne devraient pas voir négativement les contraintes, notamment environnementales. D'autant que les mécanismes de Kyoto se présentent plus sous la forme d'investissements et non de couts bruts (comme une taxe). D'ailleurs le mécanisme de bourse pour les émissions a déjà montré sa force... aux États-Unis (pour les sulfures atmosphériques responsables des pluies acides). Et Kyoto offre des mécanismes supplémentaires comme d'aller chercher des crédits hors pays, notamment dans les pays en voie de développement non signataires, un moyen de les inclure.
 
 C'est pour cela que les entreprises réalistes demandent ces contraintes. Pourquoi ? Parce que les dirigeants savent que ces contraintes sont inévitables, un jour ou un autre. Alors tant qu'à faire, autant que ça vienne vite pour avoir le temps de se retourner, autant que ce soit clair au plus vite pour anticiper, prendre en compte les contraintes et agir plus vite que les entreprises des autres pays (pour ce dernier point, c'est en partie trop tard).
 

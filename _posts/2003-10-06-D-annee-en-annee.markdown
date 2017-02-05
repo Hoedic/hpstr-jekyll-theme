@@ -35,4 +35,4 @@ Mais hier, nous sommes revenus sur nos pas, alors qu'en cette fin octobre 1999, 
 
 J'avais finalement retrouvé le chemin de la Cote-Sainte-Catherine pour un adieu, un de plus, il y en eu cinq cette année-là.
 
-C'est tellement étrange de repenser à la vision que j'avais de ce quartier qui est désormais mon chez moi ! Ce n'est pas sans me faire penser au film  : on voit, on regarde autour de soit, mais on ne comprend pas. Maintenant je comprends un peu mieux.
+C'est tellement étrange de repenser à la vision que j'avais de ce quartier qui est désormais mon chez moi ! Ce n'est pas sans me faire penser au film [Lost in Translation](http://hoedic.ouvaton.org/blog59.html) : on voit, on regarde autour de soit, mais on ne comprend pas. Maintenant je comprends un peu mieux.

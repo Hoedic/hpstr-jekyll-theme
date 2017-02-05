@@ -12,13 +12,13 @@ categories:
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/BRI-A3vakVg"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/BRI-A3vakVg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
 
- ce que je pourrai dire prochainement quand on me demandera ma nationalité.
+[Voici](http://www.youtube.com/watch?v=BRI-A3vakVg) ce que je pourrai dire prochainement quand on me demandera ma nationalité.
 
 Pourquoi prochainement ? Parce qu'après avoir passé avec succès l'examen de citoyenneté, je n'ai pas eu droit à la cérémonie. À la place je serai convoqué dans quelques semaines. Fait chier quoi.
 
 Enfin bref, c'est une étape tout de même et je pourrai très surement voter aux prochaines élections, provinciale et fédérale et j'aurai peut-être un passeport canadien la prochaine fois que je sortirai du territoire.
 
-Et oui, l'examen est vraiment très très facile. Une lecture du document "" et il est facile de répondre correctement à 12 questions sur 20.
+Et oui, l'examen est vraiment très très facile. Une lecture du document "[Regard sur le Canada](http://www.cic.gc.ca/francais/pdf/pub/regard.pdf)" et il est facile de répondre correctement à 12 questions sur 20.
 
 ***
 

@@ -17,4 +17,4 @@ Résultat, depuis plusieurs jours 0 visites envoyées par Google au lieu des 30/
 
 
 
-Encore heureux, que ce problème de référencement ne m'est pas arrivé sur mon , l'une des deux principales sources de revenus pour le  :p
+Encore heureux, que ce problème de référencement ne m'est pas arrivé sur mon [site sur le Canada](../canada/), l'une des deux principales sources de revenus pour le [projet de Ebb]({{ site.url }}/2004/09/27/Financez-Ebb) :p

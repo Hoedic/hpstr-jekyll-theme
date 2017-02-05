@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Eh oui, vous assistez bien à l'apparition d'un système  sur notre blog !  Non non, nos articles ne deviennent pas payants, rassurez-vous.
+Eh oui, vous assistez bien à l'apparition d'un système [PayPal](http://www.paypal.com/) sur notre blog !  Non non, nos articles ne deviennent pas payants, rassurez-vous.
 
 <table align="center"><tr><td>
 <html><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -23,13 +23,13 @@ C'est simplement que, d'abord, nous voulions découvrir davantage ce système ri
 
 Ensuite (et surtout), plusieurs d'entre vous savez que je pars en Afrique l'été prochain...  (Vous me voyez venir !)
 
-Le projet est maintenant définitif.  Je vais me joindre à  et aller au Sénégal m'impliquer bénévolement dans des petits postes de santé de la grande périphérie de Dakar, pendant 6-8 semaines.  Voici   d'autres étudiants du domaine de la santé, si vous voulez vous convaincre un peu de l'utilité réelle de la chose.
+Le projet est maintenant définitif.  Je vais me joindre à [Mer et Monde](http://www.monde.ca/) et aller au Sénégal m'impliquer bénévolement dans des petits postes de santé de la grande périphérie de Dakar, pendant 6-8 semaines.  Voici [quelques](http://www.monde.ca/Temoignage/Majorie%20Lauzon.htm) [témoignages](http://www.monde.ca/Temoignage/Deux%20continents%20un%20projet%20RAPPORT%20FINAL.htm) d'autres étudiants du domaine de la santé, si vous voulez vous convaincre un peu de l'utilité réelle de la chose.
 
 Le Sénégal est un pays d'Afrique de près de 10 millions d'habitants, à majorité musulmane (95%), où les femmes ont chacune en moyenne 5 enfants ; l'espérance de vie y est de 55 ans ; la mortalité infantile, de 135 pour 1000 ; le taux d'alphabétisation des adultes, de 37 % ; et la densité médicale y est d'un médecin pour 8000 habitants en dehors de Dakar.  On y trouve encore beaucoup de praticiens traditionnels et de marabouts qui sont d'ailleurs consultés de prime abord.  Le wolof y est parlé par 80 % de la population et le français, langue officielle, par 33 %.  L'économie du pays est surtout rurale, basée sur la culture d'arachides, de mil, de sorgho et de riz.  L'électricité n'est pas présente dans de nombreux villages.  Enfin, le pays se classe 154e sur 173 selon le dernier indicateur de développement humain du PNUD.
 
 Les maladies les plus fréquemment rencontrées au Sénégal sont le paludisme (malaria), l'anémie et autres carences nutritionnelles (vitamine A, iode...), les problèmes parasitaires intestinaux (helminthiases surtout), les diarrhées, les infections urinaires et les maladies respiratoires.  La polio, la tuberculose, la fièvre jaune, la fièvre typhoïde, le choléra et la lèpre y sévissent également.  La prévalence du sida y est de 1,43 % de la population, ce qui représente un véritable succès.  Il y a encore beaucoup de malnutrition infantile, une fois l'allaitement maternel terminé.  Les conditions d'hygiène ne sont pas toujours bonnes, et il y a un manque flagrant de personnel, de matériel et de structures médicales.  Il y a aussi un grand manque de formation et de connaissances médicales de la part des soignants autres que médecins ou sages-femmes.  Le personnel de la santé est par ailleurs surchargé de démarches administratives et souvent démotivé par l'ampleur de la tâche.  La population est loin d'avoir toujours accès aux médicaments même de base (antipaludiques, antibiotiques, acétaminophène ou paracétamol...), pour différentes raisons : ruptures de stock, prix trop élevé...
 
-À part ça, Mer et Monde est une ONG sérieuse qui compte parmi ses partenaires des gens comme l', le , le  et l'.  Mer et Monde n'a pas de projet en tant que tel en Afrique ; ils fonctionnent plutôt par des partenariats locaux.
+À part ça, Mer et Monde est une ONG sérieuse qui compte parmi ses partenaires des gens comme l'[ACDI](http://www.acdi-cida.gc.ca/index.htm), le [Ministère des Relations internationales du Québec](http://www.mri.gouv.qc.ca/), le [Ministère des Affaires étrangères du Canada](http://www.fac-aec.gc.ca/menu-fr.asp) et l'[Association québécoise des organismes de coopération internationale](http://www.aqoci.qc.ca/).  Mer et Monde n'a pas de projet en tant que tel en Afrique ; ils fonctionnent plutôt par des partenariats locaux.
 
 Je suis très contente d'avoir pris la décision de partir avec cet organisme.  Je bénéficierai d'une formation très complète (bien que fatigante : 75 heures) avant le départ, d'une structure relativement sécurisante sur place et d'un hébergement en famille d'accueil, chez l'habitant, ce qui est sûrement encore la meilleure façon de s'intégrer à la communauté locale et de comprendre la culture ambiante.  Je vais sûrement découvrir beaucoup de choses, sur moi et sur les autres.  Je serai sûrement choquée par la confrontation culturelle parfois, mais au fond ça ne manquera pas d'être enrichissant de s'ouvrir ainsi au monde.
 
@@ -41,7 +41,7 @@ Concrètement, je vais pouvoir faire des choses assez variées.  Hygiène, prév
 
 Je compte amener tout mon attirail médical : stétho, sphygmo, marteau, oto-ophtalmoscope, histoire de pouvoir examiner.  On m'a aussi conseillé d'apporter des gants, des compresses stériles, du désinfectant, dont on manque chroniquement là-bas.  J'aurai dans mes bagages une valise de médicaments, principalement des antibiotiques.
 
-J'ai également commencé à consulter des ressources en santé publique, en santé internationale et en médecine tropicale.  J'ai entre autres déniché ce superbe bouquin, très complet, pour m'auto-former un peu : .
+J'ai également commencé à consulter des ressources en santé publique, en santé internationale et en médecine tropicale.  J'ai entre autres déniché ce superbe bouquin, très complet, pour m'auto-former un peu : [Médecine tropicale](http://www.amazon.fr/exec/obidos/ASIN/2257143949/qid=1095219464/ref=sr_8_xs_ap_i1_xgl/402-3336482-5779328).
 
 Sans compter que j'ai des vaccins à me faire faire, des achats à effectuer (billet d'avion, filet moustiquaire, répulsif à moustiques, filtre à eau...), des frais à assumer (formation préparatoire, hébergement et alimentation sur place, visa, prophylaxie anti-malaria...).  
 
@@ -51,14 +51,14 @@ Cette campagne de financement est garantie 100% vraie et sincère.  Beaucoup de 
 
 Voilà, je m'essaye quoi !  Et si un blog pouvait servir à ça aussi, après tout ?
 
-P.S.  Pour ceux qui n'aiment pas PayPal, qui n'ont pas de compte ou pas confiance, ou qui veulent me prêter ou me donner directement du matériel, il reste la bonne vieille poste-escargot !  N'hésitez pas à  pour me demander mon adresse...
+P.S.  Pour ceux qui n'aiment pas PayPal, qui n'ont pas de compte ou pas confiance, ou qui veulent me prêter ou me donner directement du matériel, il reste la bonne vieille poste-escargot !  N'hésitez pas à [m'écrire](http://mon-ile.net/contact.html) pour me demander mon adresse...
 
 ***
 
 Petit historique du projet sur ce blog :
 
-- 
-- 
-- 
-- 
-- 
+- [VIH et sida](http://mon-ile.net/carnet/blog152.html)
+- [Projet : Afrique](http://mon-ile.net/carnet/blog637.html)
+- [Étonnement](http://mon-ile.net/carnet/blog802.html)
+- [Afrique : évolution](http://mon-ile.net/carnet/blog822.html)
+- [Afrique : avancement](http://mon-ile.net/carnet/blog946.html)

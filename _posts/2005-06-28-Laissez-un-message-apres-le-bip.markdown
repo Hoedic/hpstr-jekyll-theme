@@ -30,7 +30,7 @@ Tout simplement parce que les canadiens sont à la médiocrité ce que les tête
 
 On sent d'emblée que l'homme [canadien] est veule, mou, lâche, stupide et mesquin, voire socialiste.
 
-, Pierre Desproges, Les étrangers sont nuls, Charlie-Hebdo (1981) via </blockquote>
+[Source](http://www.ibpc.fr/~dror/depdror.html), Pierre Desproges, Les étrangers sont nuls, Charlie-Hebdo (1981) via [iC](http://www.immigrer-contact.com/)</blockquote>
 
 ![Image]({{ site.url }}/images/blogue-en-conge_25-06-2005.jpg)
 

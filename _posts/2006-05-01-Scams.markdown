@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Incroyable : depuis que nous avons ouvert notre  de , il se passe rarement une journée sans que je reçoive une notice de MailMan pour un .
+Incroyable : depuis que nous avons ouvert notre [liste de diffusion](http://civicaccess.ca/mailman/listinfo/civicaccess-discuss_civicaccess.ca/) de [CivicAccess](http://civicaccess.ca/), il se passe rarement une journée sans que je reçoive une notice de MailMan pour un [scam](http://fr.wikipedia.org/wiki/Scam).
 
 C'est quasiment à chaque fois un courriel se voulant d'une institution financière canadienne (Desjardins, RBC, etc.) demandant de mettre à jour certaines infos ou de réactiver un compte. Quelques équivalents pour eBay et Paypal aussi. Je comprends maintenant que tant de personnes se fassent arnaquer quand je vois la quantité de messages générés.
 

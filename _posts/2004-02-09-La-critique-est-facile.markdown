@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Voici ce que j'ai reçu durant le week-end, venant du formulaire pour poser des questions concernant mon site sur l' :
+Voici ce que j'ai reçu durant le week-end, venant du formulaire pour poser des questions concernant mon site sur l'[immigration au canada](../canada/) :
 
 
 <html><blockquote class="citation">Bravo pour les nombreuses fautes d' orthographe dans votre page web ! Quelle honte de publier cela.<br /><br />
@@ -31,4 +31,4 @@ Parce que faut pas pousser mémé dans les orties !
 
 ***
 
-Vous avez remarqué que les initiales de  c'est JFK (Toutefois je n'arrive pas à trouver quel est son middle name exact)?
+Vous avez remarqué que les initiales de [John Kerry](http://kerry.senate.gov/) c'est JFK (Toutefois je n'arrive pas à trouver quel est son middle name exact)?

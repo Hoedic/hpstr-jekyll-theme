@@ -8,11 +8,11 @@ categories:
 ---
 
 
-Journée de dimanche fort calme. J'ai juste eu la chance de me faire interviewer par une charmante personne. En effet, en tant que star de la blogosphère, moi aussi je me fais  !
+Journée de dimanche fort calme. J'ai juste eu la chance de me faire interviewer par une charmante personne. En effet, en tant que star de la blogosphère, moi aussi je me fais [interviewer](http://www.padawan.info/fr/weblogue/je_blogue_donc_je_suis.html) !
 
 Bon, non en fait c'est pas ça. C'était dans le cadre d'un projet de maîtrise traitant de l'immigration au Québec notamment en tant qu'ingénieur. C'est bien car le fait de discuter sur le sujet pendant presque 2 heures, ça m'a donné l'occasion de faire un peu le bilan de ce que je pense moi-même sur ce sujet.
 
-Et, grande surprise, une fois retourné à la maison un délicieux  concernant l'immigration sur .
+Et, grande surprise, une fois retourné à la maison un délicieux [article](http://www.cyberpresse.ca/actualites/article/1,63,0,072004,743653.shtml) concernant l'immigration sur [cyberpresse.ca](http://www.cyberpresse.ca/).
 
 Le sujet central : les gouvernements, provinciaux et fédéral, ne font pas ce qu'il faut pour profiter des nombreux immigrants qualifiés qui foulent le sol canadien.
 

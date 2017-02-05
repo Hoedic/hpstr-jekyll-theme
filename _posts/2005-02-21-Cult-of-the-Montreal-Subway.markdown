@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Depuis que je tombé sur le groupe ** de , je prends beaucoup de plaisir à prendre des photos dans le métro. Les couleurs variées mais surtout le mouvement des rames bleues dans cet environnement, le tout avec des temps de pauses supérieurs  à la seconde donnent des compositions que j'apprécie.
+Depuis que je tombé sur le groupe *[Métro de Montréal](http://www.flickr.com/groups/24675567@N00/pool/)* de [Flickr](http://www.flickr.com/), je prends beaucoup de plaisir à prendre des photos dans le métro. Les couleurs variées mais surtout le mouvement des rames bleues dans cet environnement, le tout avec des temps de pauses supérieurs  à la seconde donnent des compositions que j'apprécie.
 
-J'aurais presque envie de proposer à la  de faire à chaque station une exposition des photos prises par les usagers, notamment ceux de ce groupe Flickr. C'est pour moi une sorte de preuve d'appropriation par les utilisateurs, vision selon laquelle les êtres ne font pas que traverser des espaces vides de sens mais qu'ils y laisse leur personne, leurs sensations. Bref, aussi désagréable puisse-t-il paraître à certains (c'est vrai qu'à l'heure de pointe, c'est pas la joie), c'est un lieu de vie.
+J'aurais presque envie de proposer à la [STM](http://www.stm.info) de faire à chaque station une exposition des photos prises par les usagers, notamment ceux de ce groupe Flickr. C'est pour moi une sorte de preuve d'appropriation par les utilisateurs, vision selon laquelle les êtres ne font pas que traverser des espaces vides de sens mais qu'ils y laisse leur personne, leurs sensations. Bref, aussi désagréable puisse-t-il paraître à certains (c'est vrai qu'à l'heure de pointe, c'est pas la joie), c'est un lieu de vie.
 
 ![Image]({{ site.url }}/images/metro-depart_20-02-2005.jpg)
 <div class="photoattrib">Une rame de métro sur le départ</div>

@@ -28,7 +28,7 @@ Commentaire inutile : Guy A Lepage n'habite pas sur De Bullion, c'est ben trop c
 
 ***
 
-Petit clin d'oeil au blogue . Pour les non-Québécois, le Plateau-Mont-Royal est un quartier de Montréal où la concentration de vedettes et membres de médias dépasse assez largement la moyenne. Certains esprits doués d'un haut degré de paranoïa semblent penser que tout ce que disent les médias dans tout le Québec est dirigé de ce quartier.
+Petit clin d'oeil au blogue [La Clique du Plateau](http://lacliqueduplateau.wordpress.com/). Pour les non-Québécois, le Plateau-Mont-Royal est un quartier de Montréal où la concentration de vedettes et membres de médias dépasse assez largement la moyenne. Certains esprits doués d'un haut degré de paranoïa semblent penser que tout ce que disent les médias dans tout le Québec est dirigé de ce quartier.
 
 Bien entendu, comme Femme et moi habitons dans ce quartier, nous participons à fomenter ce complot mondial visant à berner la population québécoise pour devenir les maîtres du monde.
 

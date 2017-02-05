@@ -24,6 +24,6 @@ categories:
 
 7. Sharpen the Saw - Principles of Balanced Self-Renewal
 
-Quel  ;)  Ces 7 principes m'ont toujours fait marrer, ne serait-ce que par leur tendance à sonner un peu... "pipot".
+Quel [magnifique ouvrage best-seller](http://www.amazon.com/exec/obidos/ASIN/0671708635/103-3910464-5667869) ;)  Ces 7 principes m'ont toujours fait marrer, ne serait-ce que par leur tendance à sonner un peu... "pipot".
 
 C'est la grosse boîte de consulting où a déjà bossé Hoedic qui lui avait filé cette Bible du savoir-vivre en entreprise.  Je suis contente de l'avoir retrouvée, c'est drôle.  Mais je vais quand même pas le lire.

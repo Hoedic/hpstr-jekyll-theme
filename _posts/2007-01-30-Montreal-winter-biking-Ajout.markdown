@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Quelques idées supplémentaires me sont venues à l'esprit concernant le , alors que j'étais sur mon vélo justement.
+Quelques idées supplémentaires me sont venues à l'esprit concernant le [billet précédent]({{ site.url }}/2007/01/30/Montreal-winter-biking), alors que j'étais sur mon vélo justement.
 
 -  Mon plus gros problème concernant le vélo d'hiver, c'est le rangement dudit vélo. Par chance, j'ai accès à un rangement intérieur au boulot, au même titre que les voitures (genre de chose qui devrait être généralisée...) Le problème est plus à la maison alors que j'arrive avec un vélo parfois complètement recouvert de sloche marronâtre qui va s'empresser de dégouter sur le sol dès que la température va dépasser le point de congélation. Pour l'heure je rentre mon fidèle compagnon de route à l'intérieur... et je salope une partie de l'appartement. Le laisser dehors, ce que font de nombreuses personnes, raccourcirait sa vie, ce que j'évite. Par ailleurs il est de notoriété publique que les déblayeuses mécaniques bousillent tous les vélos qui trainent, trop peu pour moi. L'idéal serait un garage ou un rangement extérieur protégé, mais ce n'est pas pour demain.
 

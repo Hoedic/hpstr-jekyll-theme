@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Le Père Noël utilise désormais Fedex. À l'occasion Dernière il a livré 3 bons livres (,  de , et  de  -après avoir lu récemment ) ainsi (et surtout) qu'un MacBook for sympathique :)
+Le Père Noël utilise désormais Fedex. À l'occasion Dernière il a livré 3 bons livres ([Worldchanging, a user's guide for the 21st century](http://www.worldchanging.com/book/), [The fortune at the bottom of the pyramid, Eradicating poverty through profits](http://www.amazon.com/Fortune-Bottom-Pyramid-Eradicating-Poverty/dp/0131467506) de [Prahalad](http://en.wikipedia.org/wiki/C.K._Prahalad), et [Making globalisation work](http://www.amazon.com/Making-Globalization-Work-Joseph-Stiglitz/dp/0393061221) de [Stiglitz](http://www2.gsb.columbia.edu/faculty/jstiglitz) -après avoir lu récemment [Globalization and its discontents](http://www.amazon.com/Globalization-Its-Discontents-Joseph-Stiglitz/dp/0393051242)) ainsi (et surtout) qu'un MacBook for sympathique :)
 
 ![Image]({{ site.url }}/images/P1060662-2.jpg)
 

@@ -22,7 +22,7 @@ Bien que la situation s'aggrave actuellement en Irak, il n'en reste pas moins qu
 
 Toujours au sujet du duel Bush/Kerry, le journal scientifique *Nature* a interrogé les deux présidentiables sur la politique qu'ils comptent mettrent en oeuvre en matière de science. Bien entendu les positions sont différentes, voire opposées. Ainsi Bush parle d'augmenter le potentiel nucléaire des USA qui s'est atrophié après la fin de la guerre froide alors que Kerry propose de réduire les dépenses nucléaires et de simplement maintenant la capacité actuelle.
 
-Nature  sur son site web les réponses des deux candidats à la série de 15 questions et propose des analyses assez intéressantes.
+Nature [propose](http://www.nature.com/news/specials/uselection/index.html) sur son site web les réponses des deux candidats à la série de 15 questions et propose des analyses assez intéressantes.
 
 En matière d'environnement, Bush est évidemment toujours aussi peu convainquant.
 

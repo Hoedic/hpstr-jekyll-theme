@@ -10,7 +10,7 @@ categories:
 
 Soyons légers aujourd'hui et permettez-moi d'assumer mon coté scato trop souvent refoulé, parlons pets !
 
-Comme l'a fait  (* <strike>Malheurement, je n'arrive pas à remettre la main sur l'article d'Olivier, photos à l'appui</strike> finalement je l'ai retrouvé, le  en question était plus récent que je ne pensais), les chiottes nord-américains ne sont pas vraiment marqués par le puritanisme étatsunien puisque les cloisons sont systématiquement passantes, permettant ainsi à chacun d'entendre tous les borborygmes sur le départ des autres chieurs siégeant sur les trônes d'à coté.
+Comme l'a fait [remarquer Olivier](http://www.olivierdemontreal.ca/blogue/?2006/06/14) (* <strike>Malheurement, je n'arrive pas à remettre la main sur l'article d'Olivier, photos à l'appui</strike> finalement je l'ai retrouvé, le [billet](http://www.olivierdemontreal.ca/blogue/?2006/06/14) en question était plus récent que je ne pensais), les chiottes nord-américains ne sont pas vraiment marqués par le puritanisme étatsunien puisque les cloisons sont systématiquement passantes, permettant ainsi à chacun d'entendre tous les borborygmes sur le départ des autres chieurs siégeant sur les trônes d'à coté.
 
 ![Image]({{ site.url }}/images/1251_64b36f38fc_z_d.jpg)
 <div class="photoattrib">Truck</div>

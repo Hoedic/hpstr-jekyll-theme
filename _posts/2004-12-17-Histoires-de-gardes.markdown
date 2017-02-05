@@ -24,7 +24,7 @@ Au retour de leur cinéma, donc, le père m'avoue, un peu penaud...  qu'il est s
 
 ~~
 
-Vous ne trouvez pas que tout le monde est enceinte ?  En plus des mamans des deux petits dont je viens de parler, il y a mon amie Mireille dans la classe, et aussi .  Tout le monde, quoi ;)
+Vous ne trouvez pas que tout le monde est enceinte ?  En plus des mamans des deux petits dont je viens de parler, il y a mon amie Mireille dans la classe, et aussi [Martine des banlieusardises](http://www.banlieusardises.com/maternite/).  Tout le monde, quoi ;)
 
 ~~
 

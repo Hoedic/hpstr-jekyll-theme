@@ -14,8 +14,9 @@ De plus cette augmentation des coûts pourrait se faire parallèlement à une ba
 
 Le tout face à un gouvernement qui ne semble pas avoir pour priorité les transports en commun (ce qui est dommage car si ma mémoire est bonne, un article faisait récemment le rapprochement entre la qualité des transports en commun et la santé économique d'une ville...)
 
-C'est pour cela que j'ai signé le mois dernier la pétition d' et que je viens de faire une lettre à destination du Maire de Montréal et du Premier sinistre. Cet envoi de lettre se fait également dans le cadre d'une action equiterre.
+C'est pour cela que j'ai signé le mois dernier la pétition d'[equiterre](http://www.equiterre.qc.ca/) et que je viens de faire une lettre à destination du Maire de Montréal et du Premier sinistre. Cet envoi de lettre se fait également dans le cadre d'une action equiterre.
 
+[![Image]({{ site.url }}/images/equiterre.gif)
+](http://www.equiterre.qc.ca/petitions/)
 
-
-Si vous habitez la région métropolitaine de Montréal ou l'une des huit autres villes de plus de 100.000 habitants au Québec, que vous utilisiez ou non les transports en commun (une hausse du coût des transports en commun se répercutera en partie par une hausse du trafic automobile), je vous recommande vivement de signer cette .
+Si vous habitez la région métropolitaine de Montréal ou l'une des huit autres villes de plus de 100.000 habitants au Québec, que vous utilisiez ou non les transports en commun (une hausse du coût des transports en commun se répercutera en partie par une hausse du trafic automobile), je vous recommande vivement de signer cette [pétition en ligne](http://www.equiterre.qc.ca/petitions/).

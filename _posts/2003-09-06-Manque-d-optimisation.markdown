@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Les  présentent un inconvénient que j'ai le bonheur de découvrir ce week-end, alors que je suis en train de bosser sur mon tout premier cours "enseigné" de cette manière.
+Les [APP](http://ebb.monblogue.com/2003/9/2/) présentent un inconvénient que j'ai le bonheur de découvrir ce week-end, alors que je suis en train de bosser sur mon tout premier cours "enseigné" de cette manière.
 
 Ce n'est pas tout à fait optimal.
 

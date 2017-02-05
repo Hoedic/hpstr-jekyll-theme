@@ -8,21 +8,21 @@ categories:
 ---
 
 
-Après plusieurs mois d'attente et surtout d'hésitations, je me suis fait greffer une troisième hémishpère cérébrale cette semaine. Elle répond au doux nom de . Autant dire que sans une prime de fin d'année, de préférence en nature, je n'aurais jamais fait une telle folie.
+Après plusieurs mois d'attente et surtout d'hésitations, je me suis fait greffer une troisième hémishpère cérébrale cette semaine. Elle répond au doux nom de [HP-Compaq TC4200](http://h18000.www1.hp.com/products/tabletpc/tc4200/). Autant dire que sans une prime de fin d'année, de préférence en nature, je n'aurais jamais fait une telle folie.
 
 ![Image]({{ site.url }}/images/tablet-PC2_05-08-2005.jpg)
 <div class="photoattrib">De face</div>
 
 
 
-Les puristes vont s'insurger que c'est PC, comme ça m'est arrivé à  l'autre soir. Et oui, c'est un PC, parce que je voulais un tablet et que malgré des , Apple n'en fait pas encore. Je ne suis pas un fan de Microsoft mais pour le coup, le monde des PC offrait une plus value que je jugeais non négligeable.
+Les puristes vont s'insurger que c'est PC, comme ça m'est arrivé à [Yulblog](http://www.yulblog.org/) l'autre soir. Et oui, c'est un PC, parce que je voulais un tablet et que malgré des [rumeurs persistantes](http://www.macobserver.com/article/2005/05/10.18.shtml), Apple n'en fait pas encore. Je ne suis pas un fan de Microsoft mais pour le coup, le monde des PC offrait une plus value que je jugeais non négligeable.
 
 ![Image]({{ site.url }}/images/tablet-PC_05-08-2005.jpg)
 <div class="photoattrib">De profil</div>
 
 
 
-Pourquoi un tablet PC et aussi qu'est-ce qu'un  ? Vite fait, il existe deux types de tablet : les slates, juste l'écran tactile, pas de clavier et les convertibles, comme j'ai pris, avec un clavier qui vient se ranger sous l'écran grace à un système de pivot.
+Pourquoi un tablet PC et aussi qu'est-ce qu'un [tablet PC](http://en.wikipedia.org/wiki/Tablet_PC) ? Vite fait, il existe deux types de tablet : les slates, juste l'écran tactile, pas de clavier et les convertibles, comme j'ai pris, avec un clavier qui vient se ranger sous l'écran grace à un système de pivot.
 
 La raison principal de mon choix réside de l'usage intensif que je fais en terme de lecture et mon choix de pouvoir manipuler l'engin plus facilement qu'un laptop classique. De ce point de vue, je suis très satisfait. Par ailleurs, avec ses 2kg et ses presque 5 heures d'autonomie quand on éteint le wifi, c'est un bon performer dans l'absolu.
 

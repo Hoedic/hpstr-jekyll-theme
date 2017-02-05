@@ -8,7 +8,7 @@ categories:
 ---
 
 
-La troisième tentative fut la bonne, nous avons pu finalement entrer dans le .
+La troisième tentative fut la bonne, nous avons pu finalement entrer dans le [Biodôme](http://www2.ville.montreal.qc.ca/biodome/bdm2.htm).
 
 Dans d'efforts pour ça, c'est tout de même un peu décevant, je pense préférer le jardin botanique. Comme tout petit enfant qui se respecte, j'adorais les zoos et c'était un bonheur de m'y rendre. Le changement s'est effectué beaucoup plus tard quand, travaillant à Milwaukee, j'ai accompagné la famille qui m'hébergeait au zoo de la ville. Toutes ces pauvres bêtes enfermées me faisait vraiment pitié et mon calvaire augmentait au gré de nos balades pour finir par les fauves et éléphants entassés dans des espaces infiment trop restreints pour eux.
 

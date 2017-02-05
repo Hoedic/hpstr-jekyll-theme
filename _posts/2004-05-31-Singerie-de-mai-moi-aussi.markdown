@@ -20,4 +20,4 @@ L'année suivante, j'ai fait bien pire encore, contre toute attente de ma mère 
 
 Finalement, les voyages font peut-être plutôt partie de moi qu'autre chose, comme une seconde nature.  Même si ça fait drôle à dire, de la part d'une personne par ailleurs si peu sorteuse et aux tendances "ours" bien enracinées.  Reflet d'une grande instabilité ou d'une personnalité encore immature ?  Ou d'une simple dualité interne ?  Je ne sais pas...
 
-Voilà, c'était ma petite contribution à la .
+Voilà, c'était ma petite contribution à la [singerie de mai](http://www.martinepage.com/blog/2004/05/quand-ntiez-vous-pas-vous.html).

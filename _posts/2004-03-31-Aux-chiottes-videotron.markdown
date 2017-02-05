@@ -10,7 +10,7 @@ categories:
 
 Franchement là ça tourne au ridicule !
 
-Je suis toujours , à un rythme moins élevé que la semaine dernière, mais toujours suffisamment pour m'en inquiéter et ne pas aimer ça.
+Je suis toujours [victime d'attaques DOS]({{ site.url }}/2004/03/23/On-m-en-veut), à un rythme moins élevé que la semaine dernière, mais toujours suffisamment pour m'en inquiéter et ne pas aimer ça.
 
 La semaine dernière j'avais appelé le service technique de VidéoCon qui m'avait dit d'envoyer un courriel avec copie de ma log de routeur à *abuse@videotron.ca*. N'ayant pas de réponse, j'avais rappelé et on m'avait assuré qu'il n'y avait rien d'autre à faire, j'avais alors renvoyé un autre e-mail avec accusé de réception "high priority".
 

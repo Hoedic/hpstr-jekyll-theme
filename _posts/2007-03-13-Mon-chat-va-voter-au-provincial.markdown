@@ -20,4 +20,4 @@ En réalité, les deux préposés étaient ben trop occupés à régarder TQS su
 
 Bref, là où je me suis inscrit, n'importe quel résident permanent (au moins) aurait pu s'incrire comme votant !
 
-Ceci me fait également penser à certains candidats à l'élection aux  comme Super Cauchon ou Starbuck Leroidurock. Ne serait-il pas nécessaire de faire une vérification d'identité et de se contenter des l'identité officielle ?
+Ceci me fait également penser à certains candidats à l'élection aux [noms bien étonnants](http://www.quebecpolitique.com/blog/?p=477) comme Super Cauchon ou Starbuck Leroidurock. Ne serait-il pas nécessaire de faire une vérification d'identité et de se contenter des l'identité officielle ?

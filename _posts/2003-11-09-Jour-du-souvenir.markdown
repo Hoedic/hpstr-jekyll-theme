@@ -63,6 +63,6 @@ Quelques années plus tard, une Américaine, Moina Michael, qui travaillait dans
 
 Grâce aux millions de Canadiens qui chaque année, en novembre, portent la petite fleur rouge, le coquelicot a survécu comme symbole et les Canadiens continuent de se souvenir de leurs 114 000 morts."*
 
-Source : 
+Source : [Radio-Canada](http://radio-canada.ca/par4/_Calendrier/novembre_souvenir.html)
 
 Malheureusement, je n'ai jamais vu grand monde porté des coquelicots en France. D'ailleurs, le 11 novembre n'est rien d'autre qu'un férié dont la signification est aussi galvaudée que le 14 juillet.

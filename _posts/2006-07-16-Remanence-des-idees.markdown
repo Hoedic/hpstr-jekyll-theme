@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Depuis l'avènement du web 2.0 (bon, ok, avant aussi, mais c'est surtout devenu très mainstream avec ce concept) on peut régulièrement lire des articles très recherchés sur l'intelligence collective. Parfois, aussi, des voix discordantes.  en fait partie et il m'a envoyé un  assez long dans la même lignée (et qui me fait un peu mieux comprendre un  qu'il avait laissé récemment).
+Depuis l'avènement du web 2.0 (bon, ok, avant aussi, mais c'est surtout devenu très mainstream avec ce concept) on peut régulièrement lire des articles très recherchés sur l'intelligence collective. Parfois, aussi, des voix discordantes. [Karl](http://www.la-grange.net/) en fait partie et il m'a envoyé un [texte](http://www.edge.org/3rd_culture/lanier06/lanier06_index.html) assez long dans la même lignée (et qui me fait un peu mieux comprendre un [commentaire](http://www.mon-ile.net/carnet/blog1544.html#forum3662) qu'il avait laissé récemment).
 
 Au moment de la lecture de l'article, il me semblait avoir des choses intelligentes à dire, mais depuis, tout a disparu.
 

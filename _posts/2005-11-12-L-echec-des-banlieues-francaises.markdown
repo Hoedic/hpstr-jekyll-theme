@@ -26,4 +26,4 @@ Toutes ces explications ne servent évidemment pas à justifier les actes qui on
 
 Car le libre-arbitre demeure, même dans les situations difficiles et la contrariété.  Il n'y a pas d'excuse.
 
-Pour finir, un , sur place, dans La Presse d'aujourd'hui.  C'est rare qu'on l'ai sur Internet, profitez-en !
+Pour finir, un [petit texte de Foglia](http://www.cyberpresse.ca/article/20051112/CPMONDE/511120429/1014/CPMONDE), sur place, dans La Presse d'aujourd'hui.  C'est rare qu'on l'ai sur Internet, profitez-en !

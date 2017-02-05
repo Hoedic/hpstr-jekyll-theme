@@ -8,13 +8,13 @@ categories:
 ---
 
 
-J'ai déjà eu l'occasion de m'exprimer sur l'. Via monsieur , j'ai eu l'occasion de tomber sur le blogue . Comme le dit son titre : l'actualité autrement. C'est un site intéressant car il aime bien prendre des énormités et des mythes et il essaie de les déconstruire.
+J'ai déjà eu l'occasion de m'exprimer sur l'[utilisation abusive des chiffres]({{ site.url }}/2004/02/25/Difficile-evolution). Via monsieur [Snyder](http://emm-ess.blogspot.com/), j'ai eu l'occasion de tomber sur le blogue [antagoniste.net](http://www.antagoniste.net/). Comme le dit son titre : l'actualité autrement. C'est un site intéressant car il aime bien prendre des énormités et des mythes et il essaie de les déconstruire.
 
 Cependant il aime bien utiliser des données brutes, sans aucune interprétation. Je veux bien mais c'est un peu juste. Du moins ça peut cacher une réalité différente.
 
 Deux exemples (je ne dis pas que mon interprétation est la bonne, je présente juste des éléments qui peuvent modifier l'interprétation)
 
--  , où l'auteur du blogue montre une courbe sur le décrochage des élèves à l'école sans explication. On y voit clairement que ce taux a augmenté sous les péquiste et baissé rapidement en 2004 sous Charest. Mettons. Premièrement, quand on regarde le graphique à la source, on se rend compte que les variations ne sont pas aussi importantes mais plutôt une stagnation depuis le milieu des années 1990.
+-  [Le taux de décrochage des élèves](http://www.antagoniste.net/?p=418), où l'auteur du blogue montre une courbe sur le décrochage des élèves à l'école sans explication. On y voit clairement que ce taux a augmenté sous les péquiste et baissé rapidement en 2004 sous Charest. Mettons. Premièrement, quand on regarde le graphique à la source, on se rend compte que les variations ne sont pas aussi importantes mais plutôt une stagnation depuis le milieu des années 1990.
 
 Surtout quand on regarde comment sont obtenus ces chiffres la vision change. Le taux de décrochage est obtenu en combinant le nombre d'élèves avec le nombre de diplômes secondaires délivrés. En d'autres termes, le fait de rendre le diplôme plus difficile d'obtention fait automatiquement augmenter ce taux de décochage, même si la non-obtention du diplôme n'est pas ce qu'on appelle communément du décrochage.
 
@@ -22,12 +22,12 @@ Par ailleurs ce genre de chiffre facile détourne facilement l'attention du suje
 
 La raison pour laquelle le PQ (que je ne supporte pas du tout) parle de reconstruire un Québec plus instruit tient aussi au niveau de l'éducation publique. La qualité de l'enseignement public est-elle en baisse ? Je ne sais pas mais je ne pense pas que les taux de décrochage soit un indice suffisant, c'est un élément parmi d'autres. Un indice utile sauf si cette baisse du décrochage est en fait le résultat d'une plus grand tolérance dans l'obtention du diplôme (ce qui est souvent déploré).
 
--   : Où l'auteur du blogue démontre que le Québec a plus de médecin que le reste du Canada sous-entendant qu'on n'en a pas besoin de plus. Bref, ceux qui ne trouvent pas de médecin doivent être comme l'auteur qui en fait n'en veut pas. Ou alors ils cherchent surement très mal...
+-  [Le nombre de médecins](http://www.antagoniste.net/?p=437) : Où l'auteur du blogue démontre que le Québec a plus de médecin que le reste du Canada sous-entendant qu'on n'en a pas besoin de plus. Bref, ceux qui ne trouvent pas de médecin doivent être comme l'auteur qui en fait n'en veut pas. Ou alors ils cherchent surement très mal...
 
 ![Image]({{ site.url }}/images/fleurs-neige.jpg)
 
 
-Pourtant la  montre une réalité qui fait réfléchir : les banlieues sont désertées par les médecins, à cause des quotas à la con, ce qui contraint les patients à aller à Montréal ou à rester dans médecin.
+Pourtant la [répartition géographique](http://www.passeportsante.net/fr/Actualites/Statistiques/Fiche.aspx?doc=medecins_par_mille_hab_qc_st) montre une réalité qui fait réfléchir : les banlieues sont désertées par les médecins, à cause des quotas à la con, ce qui contraint les patients à aller à Montréal ou à rester dans médecin.
 
 Ensuite au lieu de regarder les chiffres au Canada, on peut regarder ailleurs. Pour un taux de 2,05 médecins pour milles habitants au Québec, on en trouve 2,56 aux USA et 3,37 en France.
 

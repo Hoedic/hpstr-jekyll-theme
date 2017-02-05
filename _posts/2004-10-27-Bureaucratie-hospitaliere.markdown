@@ -31,4 +31,4 @@ C'est super, d'être médecin.  On prend le patient déjà tout "administré" pa
 
 ***
 
-En tout cas, ces  de souche virulente et résistante de *Clostridium difficile*, ça donne de moins en moins envie de se faire opérer ou hospitaliser...  (Pff, dans l'article, on dirait que Radio-Canada s'attribue la découverte du phénomène alors qu'on en parle depuis l'été !)
+En tout cas, ces [histoires](http://www.radio-canada.ca/url.asp?/nouvelles/Index/nouvelles/200410/21/013-cdifficile-ottawa.shtml) de souche virulente et résistante de *Clostridium difficile*, ça donne de moins en moins envie de se faire opérer ou hospitaliser...  (Pff, dans l'article, on dirait que Radio-Canada s'attribue la découverte du phénomène alors qu'on en parle depuis l'été !)

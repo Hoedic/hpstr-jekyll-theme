@@ -30,7 +30,7 @@ Un bateau, la mer.  Je tangue, j'ai le mal de terre en descendant, c'est drôle.
 
 
 
-Notre itinéraire a été chargé mais nous en avons tellement profité à fond.  Un arrêt à Sainte-Anne : je surprends ma maman et mon frère sur la plage du Club Med.  Un mouillage à Saint-François, après un vrai mal de mer.  Mon premier émerveillement sous-marin.  Des centaines de poissons multicolores.  Des coraux à la fois attirants et inquiétants, avec leur cliquetis bien vivant.  Merci , pour ce qui fut pour moi une grande découverte.  L'eau, dans laquelle je me sens si bien, recèle tant de choses inconnues de moi et si belles.
+Notre itinéraire a été chargé mais nous en avons tellement profité à fond.  Un arrêt à Sainte-Anne : je surprends ma maman et mon frère sur la plage du Club Med.  Un mouillage à Saint-François, après un vrai mal de mer.  Mon premier émerveillement sous-marin.  Des centaines de poissons multicolores.  Des coraux à la fois attirants et inquiétants, avec leur cliquetis bien vivant.  Merci [Leeloolène](http://leeloolene.free.fr/), pour ce qui fut pour moi une grande découverte.  L'eau, dans laquelle je me sens si bien, recèle tant de choses inconnues de moi et si belles.
 
 
 ![Image]({{ site.url }}/images/0263_d903498d79_z_d.jpg)

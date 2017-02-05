@@ -8,7 +8,7 @@ categories:
 ---
 
 
-À plusieurs reprises par le passé, je me suis demandé s'il serait possible d'utiliser les ondes cérébrales comme un contrôleur de jeu. Plusieurs  expérimentations existaient déjà, mais il existe maintenant un vrai utilisation tournée vers le jeu et qui fait même l'objet de mini-tournoi (sous forme de démo) : Le .
+À plusieurs reprises par le passé, je me suis demandé s'il serait possible d'utiliser les ondes cérébrales comme un contrôleur de jeu. Plusieurs  expérimentations existaient déjà, mais il existe maintenant un vrai utilisation tournée vers le jeu et qui fait même l'objet de mini-tournoi (sous forme de démo) : Le [Mindball](http://www.i-p.se/index.aspx?page=mindball&mId=1).
 
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/UNQiJi65cpo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/UNQiJi65cpo" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 
@@ -18,6 +18,6 @@ J'aurais tendance à dire que le monde des consoles de jeu va vers une évolutio
 
 Bon, ok, pour le moment ce gadget vaudrait 19.000$, mais c'est un début !
 
-Trouvé chez .
+Trouvé chez [Internet Actu](http://www.internetactu.net/).
 
-**Update** : Plusieurs  sur Flickr également. Visiblement, plusieurs de ces gadgets sont disponibles à travers le monde, notamment un à Nashville.
+**Update** : Plusieurs [photos](http://www.flickr.com/search/?q=mindball&w=all) sur Flickr également. Visiblement, plusieurs de ces gadgets sont disponibles à travers le monde, notamment un à Nashville.

@@ -18,7 +18,7 @@ La première série sont des cadeaux que nous nous sommes fait nous-mêmes, à s
 
 
 
-Cliquez sur la photo pour voir les notes et  pour voir la photo en pleine définition.
+Cliquez sur la photo pour voir les notes et [ici](http://static.flickr.com/42/94702123_b58d3a3aa3_o.jpg) pour voir la photo en pleine définition.
 
 L'autre série de cadeaux : une partie de notre liste de mariés. Partie seulement parce que malheureusement tout n'était pas en stock. Ce que nous avons pour le moment : la vaisselle pour 8 (grandes et petites assiettes, bols et tasses), des grands verres (8 encore), une cloche à fromage, une planche à découper, poivrière et salière (de marque Pigeot, s'il vous plait), 4 sets de serviettes, deux taies d'oreiller et une housse de couette. Il en reste encore pas mal à arriver, notamment les couverts.
 
@@ -26,4 +26,4 @@ L'autre série de cadeaux : une partie de notre liste de mariés. Partie seuleme
 <div class="photoattrib">Liste des mariés (1ère partie) / Bride list (1st part)</div>
 
 
-Cliquez sur la photo pour voir les notes et  pour voir la photo en définition pleine.
+Cliquez sur la photo pour voir les notes et [ici](http://static.flickr.com/27/94701993_838f256c80_o.jpg) pour voir la photo en définition pleine.

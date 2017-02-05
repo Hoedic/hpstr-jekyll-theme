@@ -10,7 +10,7 @@ categories:
 
 Lors des dernières élections municipales au Québec (6 novembre 2005), de nombreuses irrégularités ont été mises en avant concernant le matériel de vote électronique et le traitement des données. Le processus fut chaotique, avec du retard et laissant plus de place que nécessaire pour une remise en cause de la crédibilité du processus.
 
-Aujourd'hui le  a publié un rapport à mon goût incendiaire sur le sujet. Au niveau des phases préliminaires il remarque notamment :
+Aujourd'hui le [Directeur Général des Élections du Québec](http://www.electionsquebec.qc.ca/) a publié un rapport à mon goût incendiaire sur le sujet. Au niveau des phases préliminaires il remarque notamment :
 
 <blockquote class="citation"> 
 -  un encadrement législatif et administratif qui manquait de précision, notamment en ce qui a trait aux rôles et aux responsabilités de chacun et aux risques inhérents au vote électronique;
@@ -24,5 +24,6 @@ Franchement, pour travailler dans ce qui est en large partie un fournisseur de s
 
 Des élections générales sont à venir aux niveaux fédéral et provincial pour l'année prochaine, attendons de voir les répercution de ce rapport.
 
+[Le communiqué de presse](http://www.electionsquebec.qc.ca/fr/nouvelleDetail.asp?id=2150&typeN=2)
 
-
+[Le rapport et ses annexes](http://www.electionsquebec.qc.ca/fr/nouvelleDetail.asp?id=92&typeN=1)

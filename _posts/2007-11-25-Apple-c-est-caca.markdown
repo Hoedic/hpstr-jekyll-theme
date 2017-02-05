@@ -20,6 +20,6 @@ Las, la situation du disque dur (même une fois vidé au trois quarts) était ir
 
 Bref, j'ai donc réinstallé Mac OS après moins d'un an d'utilisation... un peu comme je le faisais avec Windows quoi. Et du coup j'ai perdu tous les mots de passes que Firefox avait mémorisé tout se temps.
 
-Pour ceux que ça intéresserait, j'utilise . Il faut aussi prendre CDMaker pour faire un CD bootable de l'utilitaire pour faire un vrai defrag du disque.
+Pour ceux que ça intéresserait, j'utilise [iDefrag](http://www.coriolis-systems.com/iDefrag.php). Il faut aussi prendre CDMaker pour faire un CD bootable de l'utilitaire pour faire un vrai defrag du disque.
 
 Mais je l'ai quand même dans le cul celle-là !

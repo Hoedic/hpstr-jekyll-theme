@@ -18,4 +18,4 @@ Alors... on regardait des annonces de voitures usagées et de maisons à vendre,
 
 Peut-on descendre plus bas que ça ?
 
-J'ai plutôt , d'ailleurs je vais me cacher sous la table ;)
+J'ai plutôt [honte](http://taian-akita.org/2005/03/24/84-miniature-inavouable-la-mienne), d'ailleurs je vais me cacher sous la table ;)

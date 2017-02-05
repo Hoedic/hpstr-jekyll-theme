@@ -8,6 +8,6 @@ categories:
 ---
 
 
-Mes  d'il y a quelques mois auront été à 20.000 lieues de se produire. Bayrou semble 10 points derrière le couple Sarko/Ségo au premier tour et le CH n'a même atteint les séries. M'enfin, je ne suis pas un très bon pronostiqueur.
+Mes [deux prédictions]({{ site.url }}/2007/02/16/Prediction-presidentielle-Bayrou) d'il y a quelques mois auront été à 20.000 lieues de se produire. Bayrou semble 10 points derrière le couple Sarko/Ségo au premier tour et le CH n'a même atteint les séries. M'enfin, je ne suis pas un très bon pronostiqueur.
 
 En attendant, je vais aller marcher vers Kyoto... ça m'a toujours plu le Japon !

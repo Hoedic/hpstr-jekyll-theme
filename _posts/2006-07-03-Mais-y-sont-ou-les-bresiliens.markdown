@@ -10,11 +10,11 @@ categories:
 
 La couverture du Muuundial à Montréal continue !
 
-La ville est vraiment pleine de vie et c'est la fête du drapeau. Pas seulement d'un  ou d', mais aussi les drapeaux de toutes les communautés d'immigrants... qui suivent le foot :) Quoiqu'il en soit, c'est pas dans l'importe quelle ville que vous pourrez assister à 3 défilés de victoire alors que seuls deux matches se sont joués !
+La ville est vraiment pleine de vie et c'est la fête du drapeau. Pas seulement d'un [vulgaire bout de tissu rouge](http://fr.wikipedia.org/wiki/Unifoli%C3%A9) ou d'[un papier-Q, forcément bleu, à fleur de lys](http://fr.wikipedia.org/wiki/Drapeau_du_Qu%C3%A9bec), mais aussi les drapeaux de toutes les communautés d'immigrants... qui suivent le foot :) Quoiqu'il en soit, c'est pas dans l'importe quelle ville que vous pourrez assister à 3 défilés de victoire alors que seuls deux matches se sont joués !
 
-Samedi, femme et moi, à l'invitation d'amis de mon travail, avons pris la direction du bar  (Leur  ne marchent pas... les restaurants et bars ont vraiment un problème avec Internet...), un bar dédié au dieu pastaga et qui par ailleurs retransmettait le match Brésil - France, une affiche choc.
+Samedi, femme et moi, à l'invitation d'amis de mon travail, avons pris la direction du bar [Les Minots](http://www.restomontreal.ca/restaurants/index.php?section=viewresto&resto_id=1376) (Leur [site à eux](http://lesminots.ca/) ne marchent pas... les restaurants et bars ont vraiment un problème avec Internet...), un bar dédié au dieu pastaga et qui par ailleurs retransmettait le match Brésil - France, une affiche choc.
 
-Sur le chemin aller, nous avons profité de la joie des portugais dont l'équipe venait de  l'équipe de la Terre des Angles (Question : pourquoi l'Angleterre a-t-elle quasiment toujours sa propre équipe alors qu'au niveau politique c'est toujours le Royaume-Uni qui s'exprime ?), par la peu des dents d'ailleurs.
+Sur le chemin aller, nous avons profité de la joie des portugais dont l'équipe venait de [vaincre](http://fifaworldcup.yahoo.com/06/fr/w/match/template.html?id=59&day=01&month=07&year=2006) l'équipe de la Terre des Angles (Question : pourquoi l'Angleterre a-t-elle quasiment toujours sa propre équipe alors qu'au niveau politique c'est toujours le Royaume-Uni qui s'exprime ?), par la peu des dents d'ailleurs.
 
 
 ![Image]({{ site.url }}/images/1240_e6f702ec65_z_d.jpg)
@@ -52,7 +52,7 @@ Inutile de dire que la foule massée s'est levée comme un seul homme au moment 
 <br/>Saint-Denis, coin Rachel, en regardant vers le Nord puis vers le Sud
 
 
-Après un début ressemblant au , la foule enfla rapidement, obligeant la police à fermer à la circulation une portion croissante de la rue. Voyant un attroupement plus au nord, ainsi que des drapeaux brésiliens, nous avons décidé d'aller voir d'un peu plus près. Une  brésilienne se préparait à arpenter Saint-Denis à la rencontre du principal attroupement Français. Nous avons donc décidé de suivre la machine à musique aux couleurs jaunes et vertes qui à chacun de ses arrêts attirait de plus en plus de monde.
+Après un début ressemblant au [dernier match](http://www.mon-ile.net/carnet/blog1748.html), la foule enfla rapidement, obligeant la police à fermer à la circulation une portion croissante de la rue. Voyant un attroupement plus au nord, ainsi que des drapeaux brésiliens, nous avons décidé d'aller voir d'un peu plus près. Une [bateria](http://lebloco.com/) brésilienne se préparait à arpenter Saint-Denis à la rencontre du principal attroupement Français. Nous avons donc décidé de suivre la machine à musique aux couleurs jaunes et vertes qui à chacun de ses arrêts attirait de plus en plus de monde.
 
 
 ![Image]({{ site.url }}/images/1634_4083bf5421_z_d.jpg)
@@ -68,7 +68,7 @@ Arrivés près de Rachel la densité a atteint son sommet dans une orgie de drap
 
 ***
 
-J'entends d'ici certains  dire que c'est un jeu de beaufs en bedaine et que ces célébrations sont bien ridicules. Personnellement, si c'est pour fêter et prendre du plaisir dans une bonne ambiance, je ne dis jamais non ! Les supporters brésiliens ont bien montré le chemin en prenant le parti de la musique et de la fête malgré l'élimination, ils furent bon perdant.
+J'entends d'ici certains [rabats-joies](http://embruns.net/) dire que c'est un jeu de beaufs en bedaine et que ces célébrations sont bien ridicules. Personnellement, si c'est pour fêter et prendre du plaisir dans une bonne ambiance, je ne dis jamais non ! Les supporters brésiliens ont bien montré le chemin en prenant le parti de la musique et de la fête malgré l'élimination, ils furent bon perdant.
 
 
 ![Image]({{ site.url }}/images/1398_33d2128f53_z_d.jpg)

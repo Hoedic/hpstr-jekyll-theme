@@ -8,9 +8,9 @@ categories:
 ---
 
 
-Ouais, allez, un petit comparatif France - Québec. Sur quel sujet ? Un  visant à regarder l'opinion qu'ont des Etats-Unis les citoyens d'une dizaine de pays différents(Canada, France, G.-B., Espagne, Russie, Japon, Australie, Mexique, Israël, Corée du Sud).
+Ouais, allez, un petit comparatif France - Québec. Sur quel sujet ? Un [sondage "mondial"](http://www.cyberpresse.ca/sondage_mondial_usa/resultats.php) visant à regarder l'opinion qu'ont des Etats-Unis les citoyens d'une dizaine de pays différents(Canada, France, G.-B., Espagne, Russie, Japon, Australie, Mexique, Israël, Corée du Sud).
 
-La Presse, qui s'occupait de regarder les Canadiens a eu la bonne idée de mettre en aparté les réponses des  par rapport au <acronym title="Rest Of Canada">ROC</acronym>... ce qui par extention permet de comparer la France et le Québec. Et le résultat est pour le moins surprenant. Par exemple, les Québécois sont plus anti-américains, au sens global du terme (pas seulement anti-Bush), que les Français. Ainsi, à la question *«Dans l'ensemble, quelle opinion avez-vous des Américains ?»* les Maudits Français ont une opinion favorable à 72% alors que les mangeurs de poutine atteignent un difficile 53% (et c'est 79% pour le reste du Canada). C'est qu'on n'aime pas beaucoup ses voisins ici !
+La Presse, qui s'occupait de regarder les Canadiens a eu la bonne idée de mettre en aparté les réponses des [Québécois](http://www.cyberpresse.ca/sondage_mondial_usa/tableaucanada.php) par rapport au <acronym title="Rest Of Canada">ROC</acronym>... ce qui par extention permet de comparer la France et le Québec. Et le résultat est pour le moins surprenant. Par exemple, les Québécois sont plus anti-américains, au sens global du terme (pas seulement anti-Bush), que les Français. Ainsi, à la question *«Dans l'ensemble, quelle opinion avez-vous des Américains ?»* les Maudits Français ont une opinion favorable à 72% alors que les mangeurs de poutine atteignent un difficile 53% (et c'est 79% pour le reste du Canada). C'est qu'on n'aime pas beaucoup ses voisins ici !
 
 À la question *«Est-ce important ou non que les États-Unis jouent un rôle de leader dans le monde ?»*, les Français répondent que c'est important à 49%, un des résultats les plus faibles des 10 pays interrogés, les Québécois répondant également 49%.
 
@@ -21,7 +21,7 @@ Sauf que les Français représente (encore) une puissance économique et politiq
 
 
 
-Pour la première fois depuis longtemps, j'en ai pris pour mon grade en tant que Français. Faut dire que je l'ai cherché puisque j'ai complètement oublié un rendez-vous ! Ce n'était pas si méchant comme remarques, c'était juste les classiques clichés, principalement sur la langue française de France (manque de bol pour mon interlocuteur, je commence aussi à connaître certaines règles de l' mais j'évite de trop donner la réplique parce que sinon ça fait Français qui fait tout, c'est pas mieux). Je ne dirais jamais assez combien je suis fatigué des clichés.
+Pour la première fois depuis longtemps, j'en ai pris pour mon grade en tant que Français. Faut dire que je l'ai cherché puisque j'ai complètement oublié un rendez-vous ! Ce n'était pas si méchant comme remarques, c'était juste les classiques clichés, principalement sur la langue française de France (manque de bol pour mon interlocuteur, je commence aussi à connaître certaines règles de l'[OQLF](http://www.olf.gouv.qc.ca/) mais j'évite de trop donner la réplique parce que sinon ça fait Français qui fait tout, c'est pas mieux). Je ne dirais jamais assez combien je suis fatigué des clichés.
 
 Dans les deux sens d'ailleurs.
 

@@ -17,4 +17,4 @@ categories:
 
 -  Comme vous l'aurez remarqué, je me fais assez discret ces temps-ci. Le monstre du travail a repris le dessus sur moi et ce n'est pas près de s'arrêter. Ça fait de nouveau surgir mes questionnements professionnels : est-ce cela que je veux ? Est-ce utile de risquer, par exemple, des migraines pour ça ? Comment les hauts gestionnaires des entreprises font pour avoir aussi peu de considération pour leur personnel... ah ben oui, je suis con, ils ferment les yeux !
 
--  Le 26 mars, pour l'érection provinciale il va y avoir 2 blog-in. Personnellement je vais surement me rendre à celui de  puisqu'elle m'y a sympathiquement convié... du moins si j'arrive à me libérer (cf paragraphe précédent.) Ça se passera donc aux 100 génies à partir de 19h !
+-  Le 26 mars, pour l'érection provinciale il va y avoir 2 blog-in. Personnellement je vais surement me rendre à celui de [Julie](http://www.juliebelanger.com/2007/03/invitation-officielle-aux-blogueurs.html) puisqu'elle m'y a sympathiquement convié... du moins si j'arrive à me libérer (cf paragraphe précédent.) Ça se passera donc aux 100 génies à partir de 19h !

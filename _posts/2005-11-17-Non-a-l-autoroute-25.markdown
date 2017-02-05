@@ -8,9 +8,9 @@ categories:
 ---
 
 
-L'administration Tremblay, fraichement réélue à la tête de la Ville de Montréal vient de faire un gros coup en annonçant  de l'île de Montréal vers Laval, ville la banlieue nord.
+L'administration Tremblay, fraichement réélue à la tête de la Ville de Montréal vient de faire un gros coup en annonçant [refuser le prolongement de l'autoroute 25](http://www.ledevoir.com/2005/11/17/95355.html) de l'île de Montréal vers Laval, ville la banlieue nord.
 
-Quelles raisons pour ce refus ? Les représentants de l'équipe Tremblay parlent du besoin de développer les transports en commun d'abord. Et quand on voit la nouvelle suivante sur le site du Devoir, on comprend pourquoi : **.
+Quelles raisons pour ce refus ? Les représentants de l'équipe Tremblay parlent du besoin de développer les transports en commun d'abord. Et quand on voit la nouvelle suivante sur le site du Devoir, on comprend pourquoi : *[La STM a besoin de 30 millions pour boucler son budget](http://www.ledevoir.com/2005/11/17/95361.html)*.
 
 Sachant que le budget du prolongement de l'autoroute 25 peut théoriquement permettre la construction de deux trains de banlieue vers les banlieues nord-est on se dit qu'effectivement, il y a mieux à faire de ces centaines de millions.
 
@@ -22,14 +22,14 @@ Ensuite il y a un risque de voir des entreprises fuire les terrains coûteux de 
 
 Enfin, tandis que le gouvernement québécois est en train de redéfinir les finances attribuées aux municipalités, la ville de Montréal signifie clairement qu'elle peut faire chier si on ne lui donne pas satisfaction.
 
-Bref, Tremblay a saisi la balle du  mettant en cause la pertinence du projet pour se défendre face aux banlieues. Si les raisons sont possiblement économiques et stratégiques, les environnementalistes y trouvent également leur compte.
+Bref, Tremblay a saisi la balle du [BAPE](http://www.bape.gouv.qc.ca/sections/mandats/autoroute25/index.htm) mettant en cause la pertinence du projet pour se défendre face aux banlieues. Si les raisons sont possiblement économiques et stratégiques, les environnementalistes y trouvent également leur compte.
 
 Reste à savoir si la mairie de Montréal peut tenir tête au gouvernement (car c'est lui l'instigateur du projet) et si les budgets prévus pour se projet pourront en partie être redirigés vers les transports en commun !
 
 Sources :
 
--  
+-  [La STM a besoin de 30 millions pour boucler son budget](http://www.ledevoir.com/2005/11/17/95361.html)
 -  [Projet de prolongement de l'autoroute 25 :
 On nage en pleine contradiction !->http://www.cremtl.qc.ca/fichiers-cre/files/pdf351.pdf], 10 raisons pour être contre le prolongement de l'autoroute 25
--  , plaidoyer des maires de la couronne Nord-Est
--   du Bureau d'audiences publiques en environnement (BAPE) remettant en cause la pertinence du projet (mais sans s'y opposer clairement)
+-  [Le parachèvement de l'autoroute 25 - Un projet vital pour la région métropolitaine](http://www.ledevoir.com/2002/08/31/8272.html), plaidoyer des maires de la couronne Nord-Est
+-  [Dossier](http://www.bape.gouv.qc.ca/sections/mandats/autoroute25/index.htm) du Bureau d'audiences publiques en environnement (BAPE) remettant en cause la pertinence du projet (mais sans s'y opposer clairement)

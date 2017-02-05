@@ -19,7 +19,7 @@ Ceux souhaitant son "rebranchement" parlent beaucoup du respect de la vie. Pourt
 Le pire demeure les menaces de mort proférées à l'encontre du mari de Terri Schiavo et du juge ayant refusé de l'alimenter de nouveau :
 
 <blockquote class="citation">[The] judge, has been under the protection of two U.S. marshals at all times in recent weeks due to increased threats against his life by those unhappy with his handling of the Schiavo case.<br/>
-</blockquote>
+[Source](http://edition.cnn.com/2005/US/03/25/arrest.schiavo/)</blockquote>
 
 Ces menaces, que je ne peux m'empêcher de lier à des "pro-vie", vont totalement à l'inverse de la logique chrétienne.
 

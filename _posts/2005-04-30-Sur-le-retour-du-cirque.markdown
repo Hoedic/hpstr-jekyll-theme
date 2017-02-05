@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Je vous présente mon tout nouveau  (Compte pro gratuit sur l'aimable invitation d'Hoedic), avec les photos d'hier soir (et déjà plein d'autres !) :)
+Je vous présente mon tout nouveau [compte Flickr](http://www.flickr.com/photos/ebbtide) (Compte pro gratuit sur l'aimable invitation d'Hoedic), avec les photos d'hier soir (et déjà plein d'autres !) :)
 
 
 ![Image]({{ site.url }}/images/2718_9f97a7a816_z_d.jpg)

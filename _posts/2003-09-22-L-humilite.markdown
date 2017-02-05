@@ -12,4 +12,4 @@ categories:
 
 André Comte-Sponville (*Petit traité des grandes vertus*)
 
-J'ai découvert Comte-Sponville le jour du * en 2001*.  Depuis, j'ai un peu lu ce jeune philosophe très accessible et je m'en trouve ravie.
+J'ai découvert Comte-Sponville le jour du *[Concours général](http://ebb.monblogue.com/2003/8/25/) en 2001*.  Depuis, j'ai un peu lu ce jeune philosophe très accessible et je m'en trouve ravie.

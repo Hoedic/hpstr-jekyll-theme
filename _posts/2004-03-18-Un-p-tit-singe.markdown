@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Juste un petit singe pour , du type "j'ai pas le temps, c'est mon examen final de neuro demain et en plus je suis encore malade"...
+Juste un petit singe pour [Martine](http://www.martinepage.com/blog/index.html), du type "j'ai pas le temps, c'est mon examen final de neuro demain et en plus je suis encore malade"...
 
 C'est un simple souvenir qui s'envole vers le taxi qui m'a menée jusqu'à la maison d'Hoedic, le jour de mon atterrissage à Nantes, au début du mois de septembre de l'an 2000.  Mon visa pour mineur scolarisé avait préalablement été scruté avec suspicion par un employé, c'était ma rentrée en 1ère S le lendemain ou le surlendemain.  Il faisait beau, et je me demandais bien ce qui m'attendait (même si je venais de passer l'été en France et que je commençais à connaître Nantes).  J'étais très impressionnée, effrayée, même, par la concrétisation de tout ce que j'avais organisé et prévu ; j'étais aussi (accessoirement) excessivement chargée.
 

@@ -47,9 +47,9 @@ Construire c'est beau, c'est gratifiant, ça marque son temps et ce n'est pas fo
 
 ***
 
--   (rien de bien exceptionnel car nous avions rarement l'occasion d'aller où nous voulions pour les photos, mais ça donne une idée)
+-  [Nos photos de Dubaï](http://flickr.com/photos/ebbtide/sets/72157600333691888/) (rien de bien exceptionnel car nous avions rarement l'occasion d'aller où nous voulions pour les photos, mais ça donne une idée)
 
--  Bien entendu, un  est dédié à Dubai.
+-  Bien entendu, un [groupe Flickr](http://flickr.com/groups/dubai/) est dédié à Dubai.
 
--   (version Abobe conseillée, c'est gros)
+-  [Le plan futur de Dubaï](http://www.dubaitourism.ae/Map/fr_default.asp) (version Abobe conseillée, c'est gros)
 

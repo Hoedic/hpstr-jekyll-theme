@@ -10,7 +10,7 @@ categories:
 
 Voilà c'est réparé !
 
- SPIP 1.9.1 revoyait systématiquement une page "302 found" lorsqu'un commentaire était posté (en fait, ça le faisait à de nombreux endroits, notamment pour accéder à la zone de rédaction).
+[Pour mémoire]({{ site.url }}/2006/10/30/Un-302-found-vous-regarde) SPIP 1.9.1 revoyait systématiquement une page "302 found" lorsqu'un commentaire était posté (en fait, ça le faisait à de nombreux endroits, notamment pour accéder à la zone de rédaction).
 
 Si ça devait arriver à quelqu'un, voici l'explication : le problème peut se produire lors de l'ajout d'un fichier mes_options.php. Ce fichier est inclu avant que Spip n'envoie les headers. Si ce fichier est mal formatté ou s'il contient une ligne ou un espace avant la déclaration d'ouverture PHP, ça fait planter le header.
 

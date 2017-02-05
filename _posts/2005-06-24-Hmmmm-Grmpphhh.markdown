@@ -10,4 +10,4 @@ categories:
 
 Grmmpphhfff hummm nnnphhr hummmmm !
 
-( tiède et yahourt nature)
+([Far breton maison]({{ site.url }}/2004/10/20/Le-far-breton) tiède et yahourt nature)

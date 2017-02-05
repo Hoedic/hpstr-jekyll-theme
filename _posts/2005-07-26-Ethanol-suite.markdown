@@ -27,10 +27,10 @@ Ceci dit, une chose qu'on ne peut pas enlever à l'éthanol, c'est qu'il est pro
 Je demeure convaincu que la voie de l'éthanol demeure intéressante pour le futur comme une solution d'approvisionnement. Cependant, l'image que veulent en donner certain est fausse pour le moment : ça ne représente qu'un apport négligeable (malgré les chiffres faramineux en jeu) et surtout ça coute énormément. D'ailleurs, dans les présents calculs, le coût environnemental de la culture intensive du maïs n'est pas pris en compte...
 
 Sources :
--  Chicago Board of Trade, 
+-  Chicago Board of Trade, [Corn Crush Reference Guide](http://www.cbot.com/cbot/pub/cont_detail/0,3206,1213+28195,00.html)
 -  Organic Consumers Association,   	
- 
--  Iowa Corn, 
--  Senator McCain press release center, 
--  Kansas ethanol, 
--  U.S department of Energy, 
+[US Corn Subsidies Are Devastating Mexican Farmers](http://www.organicconsumers.org/corp/corn_subsidies.cfm) 
+-  Iowa Corn, [Corn Use](http://www.iowacorn.org/cornuse/cornuse_3.html)
+-  Senator McCain press release center, [McCain offers amendment to eliminate ethanol tax subsidy extension](http://mccain.senate.gov/index.cfm?fuseaction=Newscenter.ViewPressRelease&Content_id=481)
+-  Kansas ethanol, [U.S ethanol facts](http://www.ksgrains.com/ethanol/useth.html)
+-  U.S department of Energy, [Short-Term Energy Outlook&#65533; July 2005](http://www.eia.doe.gov/emeu/steo/pub/steo.html)
